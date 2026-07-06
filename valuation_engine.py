@@ -1,6 +1,9 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
+from openai import OpenAI
 import pandas as pd
+import streamlit as st
+import json
 import re
 
 def scrape_live_market_data(make, model, year):
@@ -11,9 +14,9 @@ def scrape_live_market_data(make, model, year):
     with sync_playwright() as p:
         try:
             browser = p.chromium.launch(headless=True)
-            context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+            context = p.browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
             page = context.new_page()
-            page.goto(target_url, timeout=30000)
+            page.goto(target_url, timeout=25000)
             page.wait_for_load_state("networkidle")
             
             soup = BeautifulSoup(page.content(), 'html.parser')
@@ -34,54 +37,88 @@ def scrape_live_market_data(make, model, year):
         except Exception:
             pass
             
-    # Fallback math logic optimized for the Canadian (CAD) market
+    # Structured fallback records if the scraper gets blocked by firewalls
     if not listings:
-        # Elevate base starting retail values for 2026 models
-        base_anchor = {
-            "Honda": 28500,   
-            "Toyota": 29500,  
-            "Ford": 24000,
-            "BMW": 38000
-        }.get(make, 22000)
-        
-        # High-residual brands like Honda/Toyota drop much slower (4.5% vs 7.5% per year)
-        depreciation_rate = 0.045 if make in ["Honda", "Toyota"] else 0.075
-        simulated_retail = base_anchor * max(1 - ((2026 - year) * depreciation_rate), 0.35)
-        
+        base_anchor = {"Honda": 28500, "Toyota": 29500, "Ford": 24000, "BMW": 38000}.get(make, 22000)
+        simulated_retail = base_anchor * max(1 - ((2026 - year) * 0.05), 0.30)
         for i in range(4):
             listings.append({
                 "Source": "Market Valuation Cache", 
                 "Title": f"{year} {make} {model}", 
-                "KM": 60000 + (i * 3000), 
-                "Price": int(simulated_retail + (i * 150))
+                "KM": 62000 + (i * 4000), 
+                "Price": int(simulated_retail + (i * 250))
             })
             
     return pd.DataFrame(listings)
 
 def generate_valuation(year, make, model, kilometers, condition, accidents):
+    """
+    Leverages OpenAI GPT-4o-mini to execute an intelligent, context-aware 
+    automotive appraisal based on live localized classified market data pools.
+    """
+    # 1. Fetch live market listings data framework
     df_market = scrape_live_market_data(make, model, year)
-    retail_average = int(df_market["Price"].mean())
-    adjusted_value = retail_average
+    listings_json = df_market.to_json(orient="records")
     
-    # Mileage depreciation metrics
-    age = max(2026 - year, 1)
-    expected_km = age * 20000
-    if kilometers > expected_km:
-        adjusted_value -= ((kilometers - expected_km) * 0.12)
+    # 2. Instantiate the secure OpenAI API Connection Client
+    ai_client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+    
+    # 3. Engineer a structural appraisal prompt
+    appraisal_prompt = f"""
+    You are an expert vehicle appraiser for the Canadian automotive market (pricing in CAD).
+    Analyze the target vehicle specifications against the provided live local classified market listings to compute an accurate valuation.
+
+    TARGET VEHICLE SPECIFICATIONS:
+    - Year: {year}
+    - Make: {make}
+    - Model: {model}
+    - Odometer: {kilometers:,} km
+    - Physical Condition: {condition}
+    - Accident History: {accidents}
+
+    LIVE LOCAL CLASSIFIED MARKET LISTINGS (RAW DATA):
+    {listings_json}
+
+    VALUATION RULES:
+    1. Establish the baseline 'Average Retail Market Value' by looking at the live listings.
+    2. Adjust the value based on mileage (standard baseline usage is 20,000 km per year).
+    3. Apply severe adjustments for poor vehicle condition or reported accidents.
+    4. Calculate the 'Direct Instant Cash Offer'. This represents a wholesale dealership trade-in acquisition price, which must sit between 12% to 15% lower than the retail market value to account for dealer reconditioning costs, risk, and structural resale profit.
+
+    Your response must be returned strictly in a clean, minified JSON format with no markdown wrappers or text formatting blocks. 
+    Use exactly these three keys:
+    {{
+        "retail_average": <Integer representing average retail market price>,
+        "cash_offer": <Integer representing our dynamic dealer trade-in buyout quote>,
+        "ai_rationale": "<A short, professional sentence explaining the deduction context for the user>"
+    }}
+    """
+    
+    try:
+        # 4. Request a structured JSON completion payload from OpenAI
+        response = ai_client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": appraisal_prompt}],
+            temperature=0.1,  # Low temperature guarantees consistent, objective calculations
+            response_format={"type": "json_object"}
+        )
         
-    # Condition multipliers
-    modifiers = {
-        "Excellent (No visible wear)": 1.0, 
-        "Good (Minor scratches)": 0.95,     # Increased to preserve value
-        "Fair (Needs body work)": 0.80, 
-        "Poor (Damaged)": 0.60
-    }
-    adjusted_value *= modifiers.get(condition, 0.95)
-    
-    # Accident deductions
-    if accidents == "Yes (1 Minor)": adjusted_value -= 1500
-    elif accidents == "Yes (Severe / Multiple)": adjusted_value -= 4500
-    
-    # Cash offer factor (wholesale margin for dealer operations)
-    cash_offer = int(adjusted_value * 0.86) 
-    return max(cash_offer, 500), retail_average, df_market
+        # 5. Parse the resulting artificial intelligence decision tree
+        evaluation_results = json.loads(response.choices[0].message.content)
+        
+        retail_average = int(evaluation_results.get("retail_average", df_market["Price"].mean()))
+        cash_offer = int(evaluation_results.get("cash_offer", retail_average * 0.85))
+        ai_rationale = str(evaluation_results.get("ai_rationale", "Valuation generated successfully via regional metric profiles."))
+        
+        # Temporarily store the rationale text inside session state so app.py can print it
+        st.session_state.ai_rationale = ai_rationale
+        
+        return cash_offer, retail_average, df_market
+        
+    except Exception as e:
+        # Graceful backup logic if the AI service encounters network connectivity/token limitations
+        st.warning(f"AI Valuation engine offline ({e}). Reverting to default algorithmic matrices.")
+        retail_average = int(df_market["Price"].mean())
+        cash_offer = int(retail_average * 0.85)
+        st.session_state.ai_rationale = "Algorithmic default baseline estimation applied."
+        return cash_offer, retail_average, df_market
