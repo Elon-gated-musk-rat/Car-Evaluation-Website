@@ -58,14 +58,12 @@ if st.button("Generate Master Collector Appraisal"):
             
             st.info(st.session_state.get("ai_rationale", "Asset verification complete."))
             
-            # Save the raw unmutated data frame to session state for real-time sidebar interaction
             st.session_state.raw_scraped_data = df_market
 
-# --- DYNAMIC SPECIFICATION COMPILATION PAGE ---
+# --- DYNAMIC SPECIFICATION COMPILATION PAGE WITH HYPERLINKS ---
 if "raw_scraped_data" in st.session_state:
     df_filtered = st.session_state.raw_scraped_data.copy()
     
-    # Apply dynamic Color and Equipment Filters seamlessly on the fly
     if target_color != "All Colors":
         df_filtered = df_filtered[df_filtered["Color"] == target_color]
         
@@ -79,7 +77,21 @@ if "raw_scraped_data" in st.session_state:
     
     with tab1:
         if not df_filtered.empty:
-            st.dataframe(df_filtered, use_container_width=True)
+            # Render dataframe with active links utilizing st.column_config
+            st.data_editor(
+                df_filtered,
+                column_config={
+                    "Listing Link": st.column_config.LinkColumn(
+                        "Listing Link",
+                        help="Click to open the historical auction directly on the platform",
+                        validate=r"^https://.*",
+                        display_text="View Listing 🔗"
+                    )
+                },
+                disabled=True,
+                use_container_width=True,
+                hide_index=True
+            )
         else:
             st.warning("No live records match this hyper-specific Color or Equipment combo. Broaden your sidebar parameters.")
             

@@ -21,8 +21,8 @@ def get_catalog_makes():
 
 def scrape_live_market_data(make, model, year):
     """
-    Queries specialty auction rooms via Apify to scrape listings and 
-    extracts contextual details like color, options, and packages.
+    Queries specialty auction rooms via Apify to scrape listings,
+    extracts contextual details, and retains the direct source URLs.
     """
     listings = []
     apify_token = st.secrets.get("APIFY_TOKEN")
@@ -42,7 +42,6 @@ def scrape_live_market_data(make, model, year):
 
     # Common collector color mapping strings
     colors_pattern = r'(black|white|silver|grey|gray|red|blue|green|yellow|orange|brown|gold|beige)'
-    # Common high-value optional packages
     options_keywords = ["chrono", "ceramic", "carbon", "amg", "m sport", "sunroof", "leather", "manual", "targa"]
 
     # --- ROOM 1: BRING A TRAILER ---
@@ -54,8 +53,9 @@ def scrape_live_market_data(make, model, year):
             title = item.get("title", "")
             raw_price = item.get("price", 0)
             mileage = item.get("mileage") or item.get("odometer", 0)
+            # Fetch listing URL safely from the object schema
+            source_url = item.get("url") or item.get("link") or "https://bringatrailer.com"
             
-            # Context Parsing Engine
             combined_text = (title + " " + str(item.get("description", ""))).lower()
             color_match = re.search(colors_pattern, combined_text)
             detected_color = color_match.group(0).capitalize() if color_match else "Unspecified"
@@ -70,7 +70,8 @@ def scrape_live_market_data(make, model, year):
                 "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
                 "Color": detected_color,
                 "Detected Options": detected_options,
-                "Status": str(item.get("status", "Closed")).capitalize()
+                "Status": str(item.get("status", "Closed")).capitalize(),
+                "Listing Link": source_url
             })
     except Exception:
         pass 
@@ -85,6 +86,7 @@ def scrape_live_market_data(make, model, year):
             raw_price = item.get("price") or item.get("currentBid") or 0
             clean_price = re.sub(r'[^\d.]', '', str(raw_price)) if raw_price else "0"
             mileage = item.get("mileage") or item.get("odometer", 0)
+            source_url = item.get("url") or item.get("link") or "https://carsandbids.com"
             
             combined_text = (title + " " + str(item.get("equipment", ""))).lower()
             color_match = re.search(colors_pattern, combined_text)
@@ -100,13 +102,14 @@ def scrape_live_market_data(make, model, year):
                 "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
                 "Color": detected_color,
                 "Detected Options": detected_options,
-                "Status": "Closed"
+                "Status": "Closed",
+                "Listing Link": source_url
             })
     except Exception:
         pass
 
     if not listings:
-        return pd.DataFrame(columns=["Source", "Title", "Price (USD)", "Odometer", "Color", "Detected Options", "Status"])
+        return pd.DataFrame(columns=["Source", "Title", "Price (USD)", "Odometer", "Color", "Detected Options", "Status", "Listing Link"])
         
     return pd.DataFrame(listings)
 
@@ -148,5 +151,5 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
 
     retail_average = bat_average_price if bat_average_price > 0 else 45000
     cash_offer = int(retail_average * 0.85)
-    st.session_state.ai_rationale = "System default pricing maps generated. (Contextual Color/Option Matrix compiled)."
+    st.session_state.ai_rationale = "System default pricing maps generated. (Contextual Hyperlinked Pools built)."
     return cash_offer, retail_average, df_market
