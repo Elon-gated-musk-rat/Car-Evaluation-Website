@@ -61,15 +61,16 @@ if st.button("Generate Master Collector Appraisal"):
             st.session_state.raw_scraped_data = df_market
 
 # --- DYNAMIC SPECIFICATION COMPILATION PAGE WITH HYPERLINKS ---
-if "raw_scraped_data" in st.session_state:
+if "raw_scraped_data" in st.session_state and st.session_state.raw_scraped_data is not None:
     df_filtered = st.session_state.raw_scraped_data.copy()
     
-    # Run column checks to ensure filtering logic doesn't crash on empty lookups
-    if "Color" in df_filtered.columns and target_color != "All Colors":
-        df_filtered = df_filtered[df_filtered["Color"] == target_color]
-        
-    if "Detected Options" in df_filtered.columns and require_premium_packages:
-        df_filtered = df_filtered[df_filtered["Detected Options"] != "Standard Specification"]
+    # Safe validation execution maps
+    if not df_filtered.empty:
+        if "Color" in df_filtered.columns and target_color != "All Colors":
+            df_filtered = df_filtered[df_filtered["Color"] == target_color]
+            
+        if "Detected Options" in df_filtered.columns and require_premium_packages:
+            df_filtered = df_filtered[df_filtered["Detected Options"] != "Standard Specification"]
 
     st.markdown("---")
     st.subheader("📋 Settled Sales History & Build Details")
@@ -93,11 +94,14 @@ if "raw_scraped_data" in st.session_state:
                 hide_index=True
             )
         else:
-            st.warning("No closed historical records match this specific vehicle criteria layout currently.")
+            st.warning("No closed historical records match your specific vehicle filter criteria currently.")
             
     with tab2:
         if not st.session_state.raw_scraped_data.empty and "Color" in st.session_state.raw_scraped_data.columns:
             color_counts = st.session_state.raw_scraped_data["Color"].value_counts()
-            st.bar_chart(color_counts)
+            if not color_counts.empty:
+                st.bar_chart(color_counts)
+            else:
+                st.info("No color data metrics available to plot.")
         else:
             st.info("Insufficient variance rows to chart.")
