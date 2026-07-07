@@ -64,10 +64,11 @@ if st.button("Generate Master Collector Appraisal"):
 if "raw_scraped_data" in st.session_state:
     df_filtered = st.session_state.raw_scraped_data.copy()
     
-    if target_color != "All Colors":
+    # Run column checks to ensure filtering logic doesn't crash on empty lookups
+    if "Color" in df_filtered.columns and target_color != "All Colors":
         df_filtered = df_filtered[df_filtered["Color"] == target_color]
         
-    if require_premium_packages:
+    if "Detected Options" in df_filtered.columns and require_premium_packages:
         df_filtered = df_filtered[df_filtered["Detected Options"] != "Standard Specification"]
 
     st.markdown("---")
@@ -76,7 +77,7 @@ if "raw_scraped_data" in st.session_state:
     tab1, tab2 = st.tabs(["🎯 Historical Sales Records Match", "📊 Color Distribution Matrix"])
     
     with tab1:
-        if not df_filtered.empty:
+        if not df_filtered.empty and "Listing Link" in df_filtered.columns:
             st.data_editor(
                 df_filtered,
                 column_config={
@@ -92,10 +93,10 @@ if "raw_scraped_data" in st.session_state:
                 hide_index=True
             )
         else:
-            st.warning("No closed historical records match this color/option matrix combo.")
+            st.warning("No closed historical records match this specific vehicle criteria layout currently.")
             
     with tab2:
-        if not st.session_state.raw_scraped_data.empty:
+        if not st.session_state.raw_scraped_data.empty and "Color" in st.session_state.raw_scraped_data.columns:
             color_counts = st.session_state.raw_scraped_data["Color"].value_counts()
             st.bar_chart(color_counts)
         else:

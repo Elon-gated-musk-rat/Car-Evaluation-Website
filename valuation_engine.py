@@ -21,13 +21,17 @@ def get_catalog_makes():
 
 def scrape_live_market_data(make, model, year):
     """
-    Queries specialty auction rooms via Apify to scrape strictly SOLD and CLOSED 
-    historical results. Active listings/live bids are completely blocked.
+    Queries specialty auction rooms via Apify to scrape completed and active 
+    listings. Explicitly guarantees structural column normalization.
     """
     listings = []
+    
+    # Standard required template framework
+    required_columns = ["Source", "Title", "Price (USD)", "Odometer", "Color", "Detected Options", "Status", "Listing Link"]
+    
     apify_token = st.secrets.get("APIFY_TOKEN")
     if not apify_token:
-        return pd.DataFrame(listings)
+        return pd.DataFrame(columns=required_columns)
         
     apify_client = ApifyClient(apify_token)
     
@@ -43,7 +47,7 @@ def scrape_live_market_data(make, model, year):
     colors_pattern = r'(black|white|silver|grey|gray|red|blue|green|yellow|orange|brown|gold|beige)'
     options_keywords = ["chrono", "ceramic", "carbon", "amg", "m sport", "sunroof", "leather", "manual", "targa"]
 
-    # --- ROOM 1: BRING A TRAILER (STRICTLY HISTORICAL) ---
+    # --- ROOM 1: BRING A TRAILER ---
     try:
         bat_run = apify_client.actor("silentflow/bringatrailer-scraper").call(
             run_input={"searches": [search_string], "maxItems": 20}
@@ -51,7 +55,6 @@ def scrape_live_market_data(make, model, year):
         for item in apify_client.dataset(bat_run["defaultDatasetId"]).iterate_items():
             status = str(item.get("status", "")).lower()
             
-            # CRITICAL FILTER: Guardrail to ensure we ONLY collect genuine completed transactions
             if "sold" in status or item.get("closed", False) == True:
                 title = item.get("title", "")
                 raw_price = item.get("price", 0)
@@ -78,14 +81,10 @@ def scrape_live_market_data(make, model, year):
     except Exception:
         pass 
 
-    # --- ROOM 2: CARS & BIDS (STRICTLY CLOSED) ---
+    # --- ROOM 2: CARS & BIDS ---
     try:
         cb_run = apify_client.actor("lulzasaur/carsandbids-scraper").call(
-            run_input={
-                "searchQueries": [search_string],
-                "status": "closed",  # Forces the scraper API to filter out active bids
-                "maxResults": 15
-            }
+            run_input={"searchQueries": [search_string], "status": "closed", "maxResults": 15}
         )
         for item in apify_client.dataset(cb_run["defaultDatasetId"]).iterate_items():
             title = item.get("title", "")
@@ -94,7 +93,6 @@ def scrape_live_market_data(make, model, year):
             mileage = item.get("mileage") or item.get("odometer", 0)
             source_url = item.get("url") or item.get("link") or "https://carsandbids.com"
             
-            # Ensure it didn't fail reserve (optional, but keeps data pure to actual sold results)
             status_text = str(item.get("status", "Closed")).strip()
             
             combined_text = (title + " " + str(item.get("equipment", ""))).lower()
@@ -117,10 +115,18 @@ def scrape_live_market_data(make, model, year):
     except Exception:
         pass
 
+    # Build the DataFrame safely
     if not listings:
-        return pd.DataFrame(columns=["Source", "Title", "Price (USD)", "Odometer", "Color", "Detected Options", "Status", "Listing Link"])
+        return pd.DataFrame(columns=required_columns)
         
-    return pd.DataFrame(listings)
+    df = pd.DataFrame(listings)
+    
+    # CRITICAL INJECTION GUARD: Force missing columns to exist with default fields
+    for col in required_columns:
+        if col not in df.columns:
+            df[col] = "Unspecified" if col != "Price (USD)" else 0
+            
+    return df[required_columns]
 
 def generate_valuation(year, make, model, kilometers, condition, provenance):
     """Calculates appraisal matrices filtering exclusively by settled history pools."""
@@ -150,8 +156,8 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
 
     df_market = scrape_live_market_data(search_make, search_model, year)
     
-    # Filter our calculations to ONLY read finalized transactions
-    df_sold_only = df_market[df_market["Status"].str.lower() == "sold"] if not df_market.empty else pd.DataFrame()
+    # Safely filter for sold results knowing the column is guaranteed to exist
+    df_sold_only = df_market[df_market["Status"].astype(str).str.lower() == "sold"] if not df_market.empty else pd.DataFrame()
     has_live_data = not df_sold_only.empty and len(df_sold_only[df_sold_only["Price (USD)"] > 0]) >= 1
     
     if has_live_data:
@@ -159,7 +165,6 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
         average_usd = valid_prices.mean()
         bat_average_price = int(average_usd * 1.36) 
     else:
-        # Fallback if no explicit completed rows exist
         if not df_market.empty and len(df_market[df_market["Price (USD)"] > 0]) >= 1:
             valid_prices = df_market[df_market["Price (USD)"] > 0]["Price (USD)"]
             bat_average_price = int(valid_prices.mean() * 1.36)
