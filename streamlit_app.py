@@ -1,97 +1,78 @@
 import streamlit as st
+import valuation_engine as ve
 
-from database_worker import upload_lead
-from valuation_engine import generate_valuation, get_catalog_makes
+st.set_page_config(page_title="Collector Car Appraisal Engine", layout="wide")
 
-st.set_page_config(page_title="Instant Vehicle Valuation", page_icon="🚗", layout="centered")
+st.title("Collector & Classic Car Evaluation Engine")
+st.subheader("Powered by Live Auction Sold History Matrix")
 
-if "step" not in st.session_state:
-    st.session_state.step = 1
+# --- SIDEBAR: GUIDANCE SYSTEM ---
+with st.sidebar:
+    st.header("Search Best Practices")
+    st.markdown("""
+    To get the most accurate matches from premium databases when AI tokens are offline, type commercial model names:
+    
+    * **Mercedes-Benz:** Type direct badges (e.g., *G500*, *G55*, *E55 AMG*)
+    * **Porsche:** Use target tags (e.g., *911 Turbo*, *997 Carrera*)
+    * **BMW:** Use direct labels (e.g., *M3*, *M5*)
+    """)
 
-# --- STEP 1: VEHICLE CRITERIA CAPTURE ---
-if st.session_state.step == 1:
-    st.title("🚗 Get an Instant Offer for Your Car")
-    st.write("Complete the details below to evaluate your car based on live market listings.")
+# --- DATA INPUT PIPELINE ---
+col1, col2, col3 = st.columns(3)
 
-    brand_options = get_catalog_makes()
+with col1:
+    brand_options = ve.get_catalog_makes()
+    selected_make = st.selectbox(
+        "Vehicle Make", 
+        options=brand_options, 
+        index=brand_options.index("Mercedes-Benz") if "Mercedes-Benz" in brand_options else 0
+    )
 
-    col1, col2 = st.columns(2)
-    with col1:
-        year = st.selectbox("Year", list(range(2026, 1899, -1)))
-        make = st.selectbox(
-            "Make",
-            options=brand_options,
-            index=brand_options.index("Honda") if "Honda" in brand_options else 0,
-        )
-    with col2:
-        model = st.text_input("Model (e.g. Civic, Corolla, G500)", value="Civic").strip()
-        kilometers = st.number_input("Current Odometer Reading (km)", min_value=0, max_value=1_000_000, value=65000)
+with col2:
+    selected_model = st.text_input(
+        "Vehicle Model / Chassis Code", 
+        placeholder="e.g., G500, M3, 911 Turbo"
+    ).strip()
 
+with col3:
+    selected_year = st.number_input("Model Year", min_value=1900, max_value=2026, value=2002)
+
+# --- USER CONDITION DEFINITIONS ---
+col4, col5 = st.columns(2)
+with col4:
     condition = st.selectbox(
-        "Vehicle Condition Profile",
-        ["Excellent (No visible wear)", "Good (Minor scratches)", "Fair (Needs body work)", "Poor (Damaged)"],
+        "Condition Scale", 
+        ["Concours (Condition 1)", "Excellent (Condition 2)", "Good (Condition 3)", "Fair (Condition 4)"]
     )
-    accidents = st.radio(
-        "Has this car encountered any reported history or accidents?",
-        ["No", "Yes (1 Minor)", "Yes (Severe / Multiple)"],
+with col5:
+    provenance = st.selectbox(
+        "Provenance / Documentation",
+        ["All Original Numbers-Matching", "Period-Correct Restored", "Older Restoration", "Modified / Resto-mod", "Prior Accident History"]
     )
 
-    if st.button("Calculate Current Valuation ➡️", use_container_width=True):
-        if not model:
-            st.error("Please enter a vehicle model.")
-        else:
-            with st.spinner("Analyzing active market listings..."):
-                offer, retail, df_comps = generate_valuation(year, make, model, kilometers, condition, accidents)
-                st.session_state.results = {"offer": offer, "retail": retail, "df": df_comps}
-                st.session_state.car_specs = {
-                    "year": year, "make": make, "model": model,
-                    "kilometers": kilometers, "condition": condition, "accidents": accidents,
-                }
-                st.session_state.step = 2
-                st.rerun()
+kilometers = st.number_input("Odometer Reading (KM)", min_value=0, value=50000)
 
-# --- STEP 2: METRIC COMPARISON & REGISTER INTEREST ---
-elif st.session_state.step == 2:
-    res = st.session_state.results
-    specs = st.session_state.car_specs
-
-    st.title("📊 Your Market Evaluation")
-
-    c1, c2 = st.columns(2)
-    c1.metric("Direct Instant Cash Offer", f"${res['offer']:,} CAD", help="Guaranteed buyout offer from our platform.")
-    c2.metric("Average Estimated Retail Value", f"${res['retail']:,} CAD", help="Average pricing found on active/closed comparable listings.")
-
-    st.info(st.session_state.get("ai_rationale", "Appraisal completed."))
-
-    with st.expander("🔎 View Comparable Market Listings"):
-        if not res["df"].empty:
-            st.dataframe(res["df"], use_container_width=True, hide_index=True)
-        else:
-            st.write("No comparable listings were found for this search. Try a simpler model name (e.g. 'G500' instead of 'W463 G500').")
-
-    st.markdown("---")
-    st.subheader("Lock in this price & book a driveway vehicle handover")
-
-    with st.form("contact_form"):
-        name = st.text_input("Your Full Name")
-        email = st.text_input("Email Address")
-        phone = st.text_input("Mobile Phone")
-
-        if st.form_submit_button("Confirm & Save Valuation Lead", use_container_width=True):
-            contact = {"name": name, "email": email, "phone": phone}
-            if upload_lead(specs, contact, res["offer"]):
-                st.session_state.step = 3
-                st.rerun()
-
-    if st.button("⬅️ Run Another Valuation"):
-        st.session_state.step = 1
-        st.rerun()
-
-# --- STEP 3: PIPELINE COMPLETION SUCCESS ---
-elif st.session_state.step == 3:
-    st.balloons()
-    st.success("🎉 Your valuation request has been submitted!")
-    st.write("An inspector will verify these details and reach out to arrange your payout.")
-    if st.button("Run Another Valuation"):
-        st.session_state.step = 1
-        st.rerun()
+if st.button("Generate Master Collector Appraisal"):
+    if not selected_model:
+        st.error("Please provide a vehicle Model label.")
+    else:
+        with st.spinner(f"Scraping active and completed transaction maps for {selected_year} {selected_make} {selected_model}..."):
+            cash_offer, retail_avg, df_market = ve.generate_valuation(
+                selected_year, selected_make, selected_model, kilometers, condition, provenance
+            )
+            
+            st.success("Appraisal Complete!")
+            
+            m1, m2 = st.columns(2)
+            with m1:
+                st.metric("Fair Collector Retail Value (CAD)", f"${retail_avg:,}")
+            with m2:
+                st.metric("Dynamic Dealer Buyout Offer (CAD)", f"${cash_offer:,}")
+                
+            st.info(st.session_state.get("ai_rationale", "Appraisal framework completed."))
+            
+            st.subheader("Live Market Aggregation Pool")
+            if not df_market.empty and len(df_market[df_market["Price (USD)"] > 0]) > 0:
+                st.dataframe(df_market, use_container_width=True)
+            else:
+                st.info("No live explicit pricing rows matched this search criteria string. Try typing simpler badges like 'G500' or 'M3'.")
