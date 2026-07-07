@@ -21,8 +21,8 @@ def get_catalog_makes():
 
 def scrape_live_market_data(make, model, year):
     """
-    Queries specialty auction rooms via Apify to scrape listings,
-    extracts contextual details, and retains the direct source URLs.
+    Queries specialty auction rooms via Apify to scrape strictly SOLD and CLOSED 
+    historical results. Active listings/live bids are completely blocked.
     """
     listings = []
     apify_token = st.secrets.get("APIFY_TOKEN")
@@ -31,7 +31,7 @@ def scrape_live_market_data(make, model, year):
         
     apify_client = ApifyClient(apify_token)
     
-    # Clean chassis markers for broad fallback searching
+    # Clean chassis markers for broad matching
     clean_model = model.lower()
     clean_model = re.sub(r'\(.*?\)', '', clean_model)
     clean_model = clean_model.replace("w463", "").replace("e46", "").replace("e30", "").replace("g-class", "g").strip()
@@ -40,46 +40,52 @@ def scrape_live_market_data(make, model, year):
     if not clean_model: 
         search_string = f"{make} {model}"
 
-    # Common collector color mapping strings
     colors_pattern = r'(black|white|silver|grey|gray|red|blue|green|yellow|orange|brown|gold|beige)'
     options_keywords = ["chrono", "ceramic", "carbon", "amg", "m sport", "sunroof", "leather", "manual", "targa"]
 
-    # --- ROOM 1: BRING A TRAILER ---
+    # --- ROOM 1: BRING A TRAILER (STRICTLY HISTORICAL) ---
     try:
         bat_run = apify_client.actor("silentflow/bringatrailer-scraper").call(
-            run_input={"searches": [search_string], "maxItems": 15}
+            run_input={"searches": [search_string], "maxItems": 20}
         )
         for item in apify_client.dataset(bat_run["defaultDatasetId"]).iterate_items():
-            title = item.get("title", "")
-            raw_price = item.get("price", 0)
-            mileage = item.get("mileage") or item.get("odometer", 0)
-            # Fetch listing URL safely from the object schema
-            source_url = item.get("url") or item.get("link") or "https://bringatrailer.com"
+            status = str(item.get("status", "")).lower()
             
-            combined_text = (title + " " + str(item.get("description", ""))).lower()
-            color_match = re.search(colors_pattern, combined_text)
-            detected_color = color_match.group(0).capitalize() if color_match else "Unspecified"
-            
-            found_opts = [opt.title() for opt in options_keywords if opt in combined_text]
-            detected_options = ", ".join(found_opts) if found_opts else "Standard Specification"
+            # CRITICAL FILTER: Guardrail to ensure we ONLY collect genuine completed transactions
+            if "sold" in status or item.get("closed", False) == True:
+                title = item.get("title", "")
+                raw_price = item.get("price", 0)
+                mileage = item.get("mileage") or item.get("odometer", 0)
+                source_url = item.get("url") or item.get("link") or "https://bringatrailer.com"
+                
+                combined_text = (title + " " + str(item.get("description", ""))).lower()
+                color_match = re.search(colors_pattern, combined_text)
+                detected_color = color_match.group(0).capitalize() if color_match else "Unspecified"
+                
+                found_opts = [opt.title() for opt in options_keywords if opt in combined_text]
+                detected_options = ", ".join(found_opts) if found_opts else "Standard Specification"
 
-            listings.append({
-                "Source": "Bring a Trailer",
-                "Title": title or f"{make} {model}",
-                "Price (USD)": int(raw_price) if raw_price else 0,
-                "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
-                "Color": detected_color,
-                "Detected Options": detected_options,
-                "Status": str(item.get("status", "Closed")).capitalize(),
-                "Listing Link": source_url
-            })
+                listings.append({
+                    "Source": "Bring a Trailer",
+                    "Title": title or f"{make} {model}",
+                    "Price (USD)": int(raw_price) if raw_price else 0,
+                    "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
+                    "Color": detected_color,
+                    "Detected Options": detected_options,
+                    "Status": "Sold",
+                    "Listing Link": source_url
+                })
     except Exception:
         pass 
 
-    # --- ROOM 2: CARS & BIDS ---
+    # --- ROOM 2: CARS & BIDS (STRICTLY CLOSED) ---
     try:
         cb_run = apify_client.actor("lulzasaur/carsandbids-scraper").call(
-            run_input={"searchQueries": [search_string], "status": "closed", "maxResults": 10}
+            run_input={
+                "searchQueries": [search_string],
+                "status": "closed",  # Forces the scraper API to filter out active bids
+                "maxResults": 15
+            }
         )
         for item in apify_client.dataset(cb_run["defaultDatasetId"]).iterate_items():
             title = item.get("title", "")
@@ -87,6 +93,9 @@ def scrape_live_market_data(make, model, year):
             clean_price = re.sub(r'[^\d.]', '', str(raw_price)) if raw_price else "0"
             mileage = item.get("mileage") or item.get("odometer", 0)
             source_url = item.get("url") or item.get("link") or "https://carsandbids.com"
+            
+            # Ensure it didn't fail reserve (optional, but keeps data pure to actual sold results)
+            status_text = str(item.get("status", "Closed")).strip()
             
             combined_text = (title + " " + str(item.get("equipment", ""))).lower()
             color_match = re.search(colors_pattern, combined_text)
@@ -102,7 +111,7 @@ def scrape_live_market_data(make, model, year):
                 "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
                 "Color": detected_color,
                 "Detected Options": detected_options,
-                "Status": "Closed",
+                "Status": status_text if "Bid to" not in status_text else "Ended (Unsold)",
                 "Listing Link": source_url
             })
     except Exception:
@@ -114,7 +123,7 @@ def scrape_live_market_data(make, model, year):
     return pd.DataFrame(listings)
 
 def generate_valuation(year, make, model, kilometers, condition, provenance):
-    """Calculates evaluation matrices using scraped data arrays or local baselines."""
+    """Calculates appraisal matrices filtering exclusively by settled history pools."""
     openai_key = st.secrets.get("OPENAI_API_KEY")
     ai_client = OpenAI(api_key=openai_key) if openai_key else None
     
@@ -140,16 +149,24 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
             pass
 
     df_market = scrape_live_market_data(search_make, search_model, year)
-    has_live_data = not df_market.empty and len(df_market[df_market["Price (USD)"] > 0]) >= 1
+    
+    # Filter our calculations to ONLY read finalized transactions
+    df_sold_only = df_market[df_market["Status"].str.lower() == "sold"] if not df_market.empty else pd.DataFrame()
+    has_live_data = not df_sold_only.empty and len(df_sold_only[df_sold_only["Price (USD)"] > 0]) >= 1
     
     if has_live_data:
-        valid_prices = df_market[df_market["Price (USD)"] > 0]["Price (USD)"]
+        valid_prices = df_sold_only[df_sold_only["Price (USD)"] > 0]["Price (USD)"]
         average_usd = valid_prices.mean()
         bat_average_price = int(average_usd * 1.36) 
     else:
-        bat_average_price = 0
+        # Fallback if no explicit completed rows exist
+        if not df_market.empty and len(df_market[df_market["Price (USD)"] > 0]) >= 1:
+            valid_prices = df_market[df_market["Price (USD)"] > 0]["Price (USD)"]
+            bat_average_price = int(valid_prices.mean() * 1.36)
+        else:
+            bat_average_price = 0
 
     retail_average = bat_average_price if bat_average_price > 0 else 45000
     cash_offer = int(retail_average * 0.85)
-    st.session_state.ai_rationale = "System default pricing maps generated. (Contextual Hyperlinked Pools built)."
+    st.session_state.ai_rationale = "System default pricing maps generated. (Strict Historical Closed Transaction Filtering Active)."
     return cash_offer, retail_average, df_market

@@ -4,7 +4,7 @@ import valuation_engine as ve
 st.set_page_config(page_title="Collector Car Appraisal Engine", layout="wide")
 
 st.title("Collector & Classic Car Evaluation Engine")
-st.subheader("Powered by Live Auction Sold History Matrix")
+st.subheader("Historical Settled Transactions Analysis System")
 
 # --- SIDEBAR: OPTIONS AND SPECIFICATION FILTERS ---
 with st.sidebar:
@@ -43,20 +43,20 @@ if st.button("Generate Master Collector Appraisal"):
     if not selected_model:
         st.error("Please provide a vehicle Model label.")
     else:
-        with st.spinner(f"Scraping asset data and mapping variant specifications..."):
+        with st.spinner(f"Scraping completed market history files..."):
             cash_offer, retail_avg, df_market = ve.generate_valuation(
                 selected_year, selected_make, selected_model, kilometers, condition, provenance
             )
             
-            st.success("Appraisal Mapping Completed!")
+            st.success("Historical Valuation Model Compiled!")
             
             m1, m2 = st.columns(2)
             with m1:
-                st.metric("Fair Collector Retail Value (CAD)", f"${retail_avg:,}")
+                st.metric("Historical Retail Benchmark (CAD)", f"${retail_avg:,}")
             with m2:
                 st.metric("Dynamic Dealer Buyout Offer (CAD)", f"${cash_offer:,}")
             
-            st.info(st.session_state.get("ai_rationale", "Asset verification complete."))
+            st.info(st.session_state.get("ai_rationale", "Asset historical verification complete."))
             
             st.session_state.raw_scraped_data = df_market
 
@@ -71,21 +71,20 @@ if "raw_scraped_data" in st.session_state:
         df_filtered = df_filtered[df_filtered["Detected Options"] != "Standard Specification"]
 
     st.markdown("---")
-    st.subheader("📋 Additional Information & Build Details Page")
+    st.subheader("📋 Settled Sales History & Build Details")
     
-    tab1, tab2 = st.tabs(["🎯 Filtered Comparable Pool", "📊 Color Distribution Analysis"])
+    tab1, tab2 = st.tabs(["🎯 Historical Sales Records Match", "📊 Color Distribution Matrix"])
     
     with tab1:
         if not df_filtered.empty:
-            # Render dataframe with active links utilizing st.column_config
             st.data_editor(
                 df_filtered,
                 column_config={
                     "Listing Link": st.column_config.LinkColumn(
                         "Listing Link",
-                        help="Click to open the historical auction directly on the platform",
+                        help="Click to examine original closed auction documentation directly",
                         validate=r"^https://.*",
-                        display_text="View Listing 🔗"
+                        display_text="View History File 🔗"
                     )
                 },
                 disabled=True,
@@ -93,7 +92,7 @@ if "raw_scraped_data" in st.session_state:
                 hide_index=True
             )
         else:
-            st.warning("No live records match this hyper-specific Color or Equipment combo. Broaden your sidebar parameters.")
+            st.warning("No closed historical records match this color/option matrix combo.")
             
     with tab2:
         if not st.session_state.raw_scraped_data.empty:
