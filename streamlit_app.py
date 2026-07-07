@@ -12,18 +12,15 @@ with st.sidebar:
     st.markdown("""
     To get the most accurate matches from premium enthusiast databases, combine our verified brand names with classic chassis labels:
     
-    * **Mercedes-Benz:** Type your generation or sub-model (e.g., *G500 W463*, *G55 AMG*, *E55*)
-    * **Porsche:** Use generation codes for precision (e.g., *997 Turbo*, *993 Carrera*, *964*)
-    * **BMW:** Use structural chassis designations (e.g., *E30 M3*, *E46 M3*, *E39 M5*)
-    * **American Muscle:** Keep it simple with classic nameplates (e.g., *Corvette C2*, *Mustang Fastback*)
+    * **Mercedes-Benz:** Type your generation or sub-model (e.g., *G500 W463*, *E55*)
+    * **Porsche:** Use generation codes for precision (e.g., *997 Turbo*, *993*)
+    * **BMW:** Use structural chassis designations (e.g., *E30 M3*, *E46*)
     """)
 
 # --- DATA INPUT PIPELINE ---
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    # Dynamically loads the massive alphabetized brand array from catalog.json
-    # Streamlit natively allows users to either click-and-scroll OR type to instantly filter keys
     brand_options = ve.get_catalog_makes()
     selected_make = st.selectbox(
         "Vehicle Make", 
@@ -33,7 +30,6 @@ with col1:
     )
 
 with col2:
-    # Left unconstrained so enthusiasts can type highly specific sub-models or custom modifications
     selected_model = st.text_input(
         "Vehicle Model / Chassis Code", 
         placeholder="e.g., G500 W463, M3 E46, 911 Turbo"
@@ -75,7 +71,10 @@ if st.button("Generate Master Collector Appraisal"):
             with m2:
                 st.metric("Dynamic Dealer Buyout Offer (CAD)", f"${cash_offer:,}")
                 
-            st.info(st.session_state.ai_rationale)
+            st.info(st.session_state.get("ai_rationale", "Appraisal framework completed."))
             
             st.subheader("Live Market Aggregation Pool")
-            st.dataframe(df_market)
+            if not df_market.empty:
+                st.dataframe(df_market, use_container_width=True)
+            else:
+                st.info("No explicit pricing rows matched this exact query matrix. Try refining the search model input string.")
