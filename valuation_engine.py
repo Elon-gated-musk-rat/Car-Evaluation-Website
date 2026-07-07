@@ -22,7 +22,7 @@ def get_catalog_makes():
 def scrape_live_market_data(make, model, year):
     """
     Queries specialty auction rooms via Apify to scrape completed and active 
-    asset listings matching precise parameters to build the aggregation pool.
+    listings. Includes fallback string optimization for broad matching.
     """
     listings = []
     apify_token = st.secrets.get("APIFY_TOKEN")
@@ -30,27 +30,35 @@ def scrape_live_market_data(make, model, year):
         return pd.DataFrame(listings)
         
     apify_client = ApifyClient(apify_token)
-    search_string = f"{make} {model}"
     
+    # --- BROAD STRING REFACTORING ---
+    # If AI is offline, strip common chassis markers to prevent search dead-ends
+    clean_model = model.lower()
+    clean_model = re.sub(r'\(.*?\)', '', clean_model) # Remove bracket items
+    clean_model = clean_model.replace("w463", "").replace("e46", "").replace("e30", "").replace("g-class", "g").strip()
+    
+    # Construct a cleaner, broader query string for the underlying APIs
+    search_string = f"{make} {clean_model}".strip()
+    if not clean_model: 
+        search_string = f"{make} {model}" # Fallback if empty
+
     # --- ROOM 1: BRING A TRAILER ---
     try:
         bat_run = apify_client.actor("silentflow/bringatrailer-scraper").call(
-            run_input={"searches": [search_string], "maxItems": 10}
+            run_input={"searches": [search_string], "maxItems": 15}
         )
         for item in apify_client.dataset(bat_run["defaultDatasetId"]).iterate_items():
             title = item.get("title", "")
-            # Verify the listing matches our model or target year to maintain accuracy
-            if str(year) in title or str(item.get("year", "")) == str(year) or not title:
-                raw_price = item.get("price", 0)
-                mileage = item.get("mileage") or item.get("odometer", 0)
-                
-                listings.append({
-                    "Source": "Bring a Trailer",
-                    "Title": item.get("title") or f"{year} {make} {model}",
-                    "Price (USD)": int(raw_price) if raw_price else 0,
-                    "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
-                    "Status": str(item.get("status", "Closed")).capitalize()
-                })
+            raw_price = item.get("price", 0)
+            mileage = item.get("mileage") or item.get("odometer", 0)
+            
+            listings.append({
+                "Source": "Bring a Trailer",
+                "Title": title or f"{make} {model}",
+                "Price (USD)": int(raw_price) if raw_price else 0,
+                "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
+                "Status": str(item.get("status", "Closed")).capitalize()
+            })
     except Exception:
         pass 
 
@@ -58,9 +66,9 @@ def scrape_live_market_data(make, model, year):
     try:
         cb_run = apify_client.actor("lulzasaur/carsandbids-scraper").call(
             run_input={
-                "searchQueries": [f"{year} {search_string}"],
+                "searchQueries": [search_string],
                 "status": "closed",
-                "maxResults": 5
+                "maxResults": 10
             }
         )
         for item in apify_client.dataset(cb_run["defaultDatasetId"]).iterate_items():
@@ -70,7 +78,7 @@ def scrape_live_market_data(make, model, year):
             
             listings.append({
                 "Source": "Cars & Bids",
-                "Title": item.get("title") or f"{year} {make} {model}",
+                "Title": item.get("title") or f"{make} {model}",
                 "Price (USD)": int(float(clean_price)) if clean_price else 0,
                 "Odometer": f"{int(mileage):,} mi" if mileage else "N/A",
                 "Status": "Closed"
@@ -78,32 +86,24 @@ def scrape_live_market_data(make, model, year):
     except Exception:
         pass
 
-    # Clean up empty data frames if all rooms failed
     if not listings:
         return pd.DataFrame(columns=["Source", "Title", "Price (USD)", "Odometer", "Status"])
         
     return pd.DataFrame(listings)
 
 def generate_valuation(year, make, model, kilometers, condition, provenance):
-    """
-    Leverages an upfront OpenAI model string cleaner to map structural 
-    chassis designations before firing scrapers and calculating averages.
-    """
+    """Calculates evaluation matrices using scraped data arrays or local baselines."""
     openai_key = st.secrets.get("OPENAI_API_KEY")
     ai_client = OpenAI(api_key=openai_key) if openai_key else None
     
     search_make = make
     search_model = model
 
-    # --- AI QUERY OPTIMIZER BLOCK ---
     if ai_client:
         clean_prompt = f"""
         You are an automotive data parser. Take the following vehicle make and model input and normalize it into a clean, searchable keyword string for a collector car auction house like Bring a Trailer. 
-        If the input includes an internal factory chassis code (like 'W463 G-Class', 'E30', or '997'), expand or clean it to include the actual searchable market name (e.g., 'G500', 'M3', or '911').
-        
         INPUT MAKE: {make}
         INPUT MODEL: {model}
-        
         Return ONLY a minified JSON object with no markdown wrappers using exactly these two keys:
         {{"search_make": "Cleaned Make", "search_model": "Cleaned Model"}}
         """
@@ -120,18 +120,13 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
         except Exception:
             pass
 
-    # Execute scraping loops using the filtered targets
     df_market = scrape_live_market_data(search_make, search_model, year)
-    
-    # Check valid values inside the matrix
     has_live_data = not df_market.empty and len(df_market[df_market["Price (USD)"] > 0]) >= 1
     
-    # Mathematical conversion and baseline calculations
     if has_live_data:
         valid_prices = df_market[df_market["Price (USD)"] > 0]["Price (USD)"]
         average_usd = valid_prices.mean()
-        # FX conversion factor (USD to CAD)
-        bat_average_price = int(average_usd * 1.36)
+        bat_average_price = int(average_usd * 1.36) # USD to CAD
         data_anchor_payload = f"Live Market Aggregate Base: ${bat_average_price:,} CAD based on {len(valid_prices)} matches."
     else:
         bat_average_price = 0
@@ -139,36 +134,13 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
 
     listings_json = df_market.to_json(orient="records") if has_live_data else "[]"
     
-    # --- APPRAISAL BRAIN LOGIC ---
     if ai_client:
         appraisal_prompt = f"""
         You are a professional classic and collector vehicle appraiser specializing in the Canadian market (pricing in CAD).
-        Evaluate the target vehicle specs against live listing records and collector market indices.
-
-        TARGET VEHICLE SPECIFICATIONS:
-        - Year: {year}
-        - Make: {make}
-        - Model: {model}
-        - Odometer: {kilometers:,} km
-        - Condition Grading: {condition}
-        - Provenance / Restoration History: {provenance}
-
-        DATA ANALYSIS CONTEXT:
-        - {data_anchor_payload}
-        - Full Scraped Live Listing Pool JSON: {listings_json}
-
-        CLASSIC APPRAISAL CRITERIA:
-        1. VALUATION HOOK: If data pool is empty, use your built-in collector knowledge base to estimate a baseline valuation for a standard Condition 3 example of a {year} {make} {model} in CAD.
-        2. CONDITION ADJUSTMENT: Scale values based on condition tier.
-        3. LIQUIDATION MARGIN: Set 'cash_offer' to be 15% lower than 'retail_average'.
-
-        Output format must be strictly a clean, minified JSON object with no markdown block identifiers.
-        Use exactly these keys:
-        {{
-            "retail_average": <Integer representing calculated fair collector retail price in CAD>,
-            "cash_offer": <Integer representing our dynamic dealer investment buyout quote in CAD>,
-            "ai_rationale": "<A short appraisal sentence outlining how the market baseline was parsed>"
-        }}
+        Evaluate this specs: {year} {make} {model}, {kilometers:,} km, Condition: {condition}, Provenance: {provenance}.
+        Context Payload: {data_anchor_payload}
+        JSON Listing Data: {listings_json}
+        Return JSON object only using keys: "retail_average", "cash_offer", "ai_rationale"
         """
         try:
             response = ai_client.chat.completions.create(
@@ -181,14 +153,11 @@ def generate_valuation(year, make, model, kilometers, condition, provenance):
             
             retail_average = int(results.get("retail_average", bat_average_price if bat_average_price > 0 else 45000))
             cash_offer = int(results.get("cash_offer", retail_average * 0.85))
-            ai_rationale = str(results.get("ai_rationale", "Appraisal successfully compiled."))
-            
-            st.session_state.ai_rationale = ai_rationale
+            st.session_state.ai_rationale = str(results.get("ai_rationale", "Appraisal successfully compiled."))
             return cash_offer, retail_average, df_market
         except Exception:
             pass
 
-    # Fallback default runner logic if OpenAI quota is empty/blocked
     retail_average = bat_average_price if bat_average_price > 0 else 45000
     cash_offer = int(retail_average * 0.85)
     st.session_state.ai_rationale = "System default pricing maps generated. (Live Scraped Pool Active)."
