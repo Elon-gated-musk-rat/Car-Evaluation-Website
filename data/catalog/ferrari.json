@@ -1,8 +1,8 @@
 {
   "Ferrari 12Cilindri": {
     "bat_slug": "ferrari/12cilindri",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 12Cilindri",
     "keywords": [
       "ferrari 12cilindri",
@@ -11,8 +11,8 @@
   },
   "Ferrari 212": {
     "bat_slug": "ferrari/212",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 212",
     "keywords": [
       "ferrari 212",
@@ -21,8 +21,8 @@
   },
   "Ferrari 250 GT": {
     "bat_slug": "ferrari/250-gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 250 GT",
     "keywords": [
       "ferrari 250 gt",
@@ -31,8 +31,8 @@
   },
   "Ferrari 288 GTO": {
     "bat_slug": "ferrari/288-gto",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 288 GTO",
     "keywords": [
       "ferrari 288 gto",
@@ -41,8 +41,8 @@
   },
   "Ferrari 296 GTB/GTS": {
     "bat_slug": "ferrari/296-gtb-gts",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 296 GTB/GTS",
     "keywords": [
       "ferrari 296 gtb/gts",
@@ -51,8 +51,8 @@
   },
   "Ferrari 308 GT4": {
     "bat_slug": "ferrari/308-gt4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 308 GT4",
     "keywords": [
       "ferrari 308 gt4",
@@ -61,8 +61,8 @@
   },
   "Ferrari 308 GTB/GTS": {
     "bat_slug": "ferrari/308",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 308 GTB/GTS",
     "keywords": [
       "ferrari 308 gtb/gts",
@@ -71,8 +71,8 @@
   },
   "Ferrari 328": {
     "bat_slug": "ferrari/328",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 328",
     "keywords": [
       "ferrari 328",
@@ -81,8 +81,8 @@
   },
   "Ferrari 330 GT 2+2": {
     "bat_slug": "ferrari/330-gt-2-2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 330 GT 2+2",
     "keywords": [
       "ferrari 330 gt 2+2",
@@ -91,8 +91,8 @@
   },
   "Ferrari 330 GTC": {
     "bat_slug": "ferrari/330-gtc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 330 GTC",
     "keywords": [
       "ferrari 330 gtc",
@@ -101,8 +101,8 @@
   },
   "Ferrari 348": {
     "bat_slug": "ferrari/348",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 348",
     "keywords": [
       "ferrari 348",
@@ -111,8 +111,8 @@
   },
   "Ferrari 360": {
     "bat_slug": "ferrari/360",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 360",
     "keywords": [
       "ferrari 360",
@@ -121,8 +121,8 @@
   },
   "Ferrari 365 GT 2+2": {
     "bat_slug": "ferrari/365-gt-22",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 365 GT 2+2",
     "keywords": [
       "ferrari 365 gt 2+2",
@@ -131,8 +131,8 @@
   },
   "Ferrari 365 GT4 2+2/400/400i/412": {
     "bat_slug": "ferrari/365gt4-400-400i-412",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 365 GT4 2+2/400/400i/412",
     "keywords": [
       "ferrari 365 gt4 2+2/400/400i/412",
@@ -141,8 +141,8 @@
   },
   "Ferrari 365 GTC": {
     "bat_slug": "ferrari/365-gtc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 365 GTC",
     "keywords": [
       "ferrari 365 gtc",
@@ -151,8 +151,8 @@
   },
   "Ferrari 365 GTC/4": {
     "bat_slug": "ferrari/365-gtc4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 365 GTC/4",
     "keywords": [
       "ferrari 365 gtc/4",
@@ -161,8 +161,8 @@
   },
   "Ferrari 456": {
     "bat_slug": "ferrari/456",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 456",
     "keywords": [
       "ferrari 456",
@@ -171,8 +171,8 @@
   },
   "Ferrari 458": {
     "bat_slug": "ferrari/458",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 458",
     "keywords": [
       "ferrari 458",
@@ -181,8 +181,8 @@
   },
   "Ferrari 488": {
     "bat_slug": "ferrari/488",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 488",
     "keywords": [
       "ferrari 488",
@@ -191,8 +191,8 @@
   },
   "Ferrari 550 Maranello": {
     "bat_slug": "ferrari/550-maranello",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 550 Maranello",
     "keywords": [
       "ferrari 550 maranello",
@@ -201,8 +201,8 @@
   },
   "Ferrari 575M": {
     "bat_slug": "ferrari/575m",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 575M",
     "keywords": [
       "ferrari 575m",
@@ -211,8 +211,8 @@
   },
   "Ferrari 599 GTB, GTO, & SA Aperta": {
     "bat_slug": "ferrari/599-gtb-gto",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 599 GTB, GTO, & SA Aperta",
     "keywords": [
       "ferrari 599 gtb, gto, & sa aperta",
@@ -221,8 +221,8 @@
   },
   "Ferrari 612 Scaglietti": {
     "bat_slug": "ferrari/612-scaglietti",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 612 Scaglietti",
     "keywords": [
       "ferrari 612 scaglietti",
@@ -231,8 +231,8 @@
   },
   "Ferrari 812": {
     "bat_slug": "ferrari/812-superfast",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari 812",
     "keywords": [
       "ferrari 812",
@@ -241,8 +241,8 @@
   },
   "Ferrari Berlinetta Boxer": {
     "bat_slug": "ferrari/berlinetta-boxer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Berlinetta Boxer",
     "keywords": [
       "ferrari berlinetta boxer",
@@ -251,8 +251,8 @@
   },
   "Ferrari California": {
     "bat_slug": "ferrari/california",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari California",
     "keywords": [
       "ferrari california",
@@ -261,8 +261,8 @@
   },
   "Ferrari Daytona": {
     "bat_slug": "ferrari/daytona",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Daytona",
     "keywords": [
       "ferrari daytona",
@@ -271,8 +271,8 @@
   },
   "Ferrari Dino": {
     "bat_slug": "ferrari/dino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Dino",
     "keywords": [
       "ferrari dino",
@@ -281,8 +281,8 @@
   },
   "Ferrari F12berlinetta": {
     "bat_slug": "ferrari/f12-berlinetta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F12berlinetta",
     "keywords": [
       "ferrari f12berlinetta",
@@ -291,8 +291,8 @@
   },
   "Ferrari F355": {
     "bat_slug": "ferrari/f355",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F355",
     "keywords": [
       "ferrari f355",
@@ -301,8 +301,8 @@
   },
   "Ferrari F40": {
     "bat_slug": "ferrari/f40",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F40",
     "keywords": [
       "ferrari f40",
@@ -311,8 +311,8 @@
   },
   "Ferrari F430": {
     "bat_slug": "ferrari/f430",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F430",
     "keywords": [
       "ferrari f430",
@@ -321,8 +321,8 @@
   },
   "Ferrari F50": {
     "bat_slug": "ferrari/f50",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F50",
     "keywords": [
       "ferrari f50",
@@ -331,8 +331,8 @@
   },
   "Ferrari F8": {
     "bat_slug": "ferrari/f8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari F8",
     "keywords": [
       "ferrari f8",
@@ -341,8 +341,8 @@
   },
   "Ferrari FF": {
     "bat_slug": "ferrari/ff",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari FF",
     "keywords": [
       "ferrari ff",
@@ -351,8 +351,8 @@
   },
   "Ferrari GTC4Lusso": {
     "bat_slug": "ferrari/gtc4lusso",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari GTC4Lusso",
     "keywords": [
       "ferrari gtc4lusso",
@@ -361,8 +361,8 @@
   },
   "Ferrari LaFerrari": {
     "bat_slug": "ferrari/laferrari",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari LaFerrari",
     "keywords": [
       "ferrari laferrari",
@@ -371,8 +371,8 @@
   },
   "Ferrari Mondial": {
     "bat_slug": "ferrari/mondial",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Mondial",
     "keywords": [
       "ferrari mondial",
@@ -381,8 +381,8 @@
   },
   "Ferrari Portofino": {
     "bat_slug": "ferrari/portofino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Portofino",
     "keywords": [
       "ferrari portofino",
@@ -391,8 +391,8 @@
   },
   "Ferrari Purosangue": {
     "bat_slug": "ferrari/purosangue",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Purosangue",
     "keywords": [
       "ferrari purosangue",
@@ -401,8 +401,8 @@
   },
   "Ferrari Roma": {
     "bat_slug": "ferrari/roma",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Roma",
     "keywords": [
       "ferrari roma",
@@ -411,8 +411,8 @@
   },
   "Ferrari SF90": {
     "bat_slug": "ferrari/sf90",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari SF90",
     "keywords": [
       "ferrari sf90",
@@ -421,8 +421,8 @@
   },
   "Ferrari Testarossa": {
     "bat_slug": "ferrari/testarossa",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ferrari Testarossa",
     "keywords": [
       "ferrari testarossa",

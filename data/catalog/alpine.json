@@ -1,8 +1,8 @@
 {
   "Alpine A110": {
     "bat_slug": "alpine/a110",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Alpine A110",
     "keywords": [
       "a110",

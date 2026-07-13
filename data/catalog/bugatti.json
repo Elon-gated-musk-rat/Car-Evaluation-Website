@@ -1,8 +1,8 @@
 {
   "Bugatti Chiron": {
     "bat_slug": "bugatti/chiron",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bugatti Chiron",
     "keywords": [
       "bugatti chiron",
@@ -11,8 +11,8 @@
   },
   "Bugatti Replica": {
     "bat_slug": "bugatti/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bugatti Replica",
     "keywords": [
       "bugatti replica",
@@ -21,8 +21,8 @@
   },
   "Bugatti Veyron": {
     "bat_slug": "bugatti/veyron",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bugatti Veyron",
     "keywords": [
       "bugatti veyron",

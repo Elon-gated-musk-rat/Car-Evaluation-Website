@@ -1,8 +1,8 @@
 {
   "Allard J2 & J2X": {
     "bat_slug": "allard/j2-j2x",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Allard J2 & J2X",
     "keywords": [
       "allard j2 & j2x",
@@ -12,8 +12,8 @@
   },
   "Allard K1, K2, & K3": {
     "bat_slug": "allard/k1-k2-k3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Allard K1, K2, & K3",
     "keywords": [
       "allard k1-k2-k3",
@@ -23,8 +23,8 @@
   },
   "Allard Replica": {
     "bat_slug": "allard/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Allard Replica",
     "keywords": [
       "replica",

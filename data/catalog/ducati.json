@@ -1,8 +1,8 @@
 {
   "Ducati 1098": {
     "bat_slug": "ducati/1098",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 1098",
     "keywords": [
       "ducati 1098",
@@ -11,8 +11,8 @@
   },
   "Ducati 1198": {
     "bat_slug": "ducati/1198",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 1198",
     "keywords": [
       "ducati 1198",
@@ -21,8 +21,8 @@
   },
   "Ducati 450": {
     "bat_slug": "ducati/450",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 450",
     "keywords": [
       "ducati 450",
@@ -31,8 +31,8 @@
   },
   "Ducati 748": {
     "bat_slug": "ducati/748",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 748",
     "keywords": [
       "ducati 748",
@@ -41,8 +41,8 @@
   },
   "Ducati 749": {
     "bat_slug": "ducati/749",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 749",
     "keywords": [
       "ducati 749",
@@ -61,8 +61,8 @@
   },
   "Ducati 750 F1": {
     "bat_slug": "ducati/750-f1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 750 F1",
     "keywords": [
       "ducati 750 f1",
@@ -71,8 +71,8 @@
   },
   "Ducati 750 Sport": {
     "bat_slug": "ducati/750-sport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 750 Sport",
     "keywords": [
       "ducati 750 sport",
@@ -91,8 +91,8 @@
   },
   "Ducati 750GT": {
     "bat_slug": "ducati/750gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 750GT",
     "keywords": [
       "ducati 750gt",
@@ -101,8 +101,8 @@
   },
   "Ducati 848": {
     "bat_slug": "ducati/848",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 848",
     "keywords": [
       "ducati 848",
@@ -111,8 +111,8 @@
   },
   "Ducati 851": {
     "bat_slug": "ducati/851",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 851",
     "keywords": [
       "ducati 851",
@@ -121,8 +121,8 @@
   },
   "Ducati 916": {
     "bat_slug": "ducati/916",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 916",
     "keywords": [
       "ducati 916",
@@ -131,8 +131,8 @@
   },
   "Ducati 996": {
     "bat_slug": "ducati/996",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 996",
     "keywords": [
       "ducati 996",
@@ -141,8 +141,8 @@
   },
   "Ducati 998": {
     "bat_slug": "ducati/998",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 998",
     "keywords": [
       "ducati 998",
@@ -151,8 +151,8 @@
   },
   "Ducati 999": {
     "bat_slug": "ducati/999",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati 999",
     "keywords": [
       "ducati 999",
@@ -161,8 +161,8 @@
   },
   "Ducati Darmah": {
     "bat_slug": "ducati/darmah",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Darmah",
     "keywords": [
       "ducati darmah",
@@ -171,8 +171,8 @@
   },
   "Ducati Desmosedici": {
     "bat_slug": "ducati/desmosedici",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Desmosedici",
     "keywords": [
       "ducati desmosedici",
@@ -181,8 +181,8 @@
   },
   "Ducati Diavel": {
     "bat_slug": "ducati/diavel",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Diavel",
     "keywords": [
       "ducati diavel",
@@ -191,8 +191,8 @@
   },
   "Ducati Hypermotard": {
     "bat_slug": "ducati/hypermotard",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Hypermotard",
     "keywords": [
       "ducati hypermotard",
@@ -201,8 +201,8 @@
   },
   "Ducati MH900e": {
     "bat_slug": "ducati/mh900e",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati MH900e",
     "keywords": [
       "ducati mh900e",
@@ -211,8 +211,8 @@
   },
   "Ducati Monster": {
     "bat_slug": "ducati/monster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Monster",
     "keywords": [
       "ducati monster",
@@ -221,8 +221,8 @@
   },
   "Ducati Multistrada": {
     "bat_slug": "ducati/multistrada",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Multistrada",
     "keywords": [
       "ducati multistrada",
@@ -231,8 +231,8 @@
   },
   "Ducati Panigale": {
     "bat_slug": "ducati/panigale",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Panigale",
     "keywords": [
       "ducati panigale",
@@ -241,8 +241,8 @@
   },
   "Ducati Paul Smart": {
     "bat_slug": "ducati/paul-smart",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Paul Smart",
     "keywords": [
       "ducati paul smart",
@@ -251,8 +251,8 @@
   },
   "Ducati Scrambler": {
     "bat_slug": "ducati/scrambler",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Scrambler",
     "keywords": [
       "ducati scrambler",
@@ -261,8 +261,8 @@
   },
   "Ducati SportClassic": {
     "bat_slug": "ducati/sportclassic",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati SportClassic",
     "keywords": [
       "ducati sportclassic",
@@ -271,8 +271,8 @@
   },
   "Ducati ST": {
     "bat_slug": "ducati/st",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati ST",
     "keywords": [
       "ducati st",
@@ -281,8 +281,8 @@
   },
   "Ducati Streetfighter": {
     "bat_slug": "ducati/streetfighter",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Streetfighter",
     "keywords": [
       "ducati streetfighter",
@@ -291,8 +291,8 @@
   },
   "Ducati Superleggera": {
     "bat_slug": "ducati/superleggera",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ducati Superleggera",
     "keywords": [
       "ducati superleggera",

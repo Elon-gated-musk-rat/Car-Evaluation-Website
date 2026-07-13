@@ -1,8 +1,8 @@
 {
   "Mercedes-Benz 190E 2.3-16 & 2.5-16": {
     "bat_slug": "mercedes-benz/190e-23-16",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 190E 2.3-16 & 2.5-16",
     "keywords": [
       "mercedes-benz 190e 2.3-16 & 2.5-16",
@@ -11,8 +11,8 @@
   },
   "Mercedes-Benz 190SL": {
     "bat_slug": "mercedes-benz/190sl",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 190SL",
     "keywords": [
       "mercedes-benz 190sl",
@@ -21,8 +21,8 @@
   },
   "Mercedes-Benz 300SL Gullwing & Roadster": {
     "bat_slug": "mercedes-benz/300sl",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 300SL Gullwing & Roadster",
     "keywords": [
       "mercedes-benz 300sl gullwing & roadster",
@@ -31,8 +31,8 @@
   },
   "Mercedes-Benz 450SEL 6.9": {
     "bat_slug": "mercedes-benz/450sel-69",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 450SEL 6.9",
     "keywords": [
       "mercedes-benz 450sel 6.9",
@@ -41,8 +41,8 @@
   },
   "Mercedes-Benz 500E & E500": {
     "bat_slug": "mercedes-benz/500e-e500",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 500E & E500",
     "keywords": [
       "mercedes-benz 500e & e500",
@@ -51,8 +51,8 @@
   },
   "Mercedes-Benz 500K, 540K, & 770K": {
     "bat_slug": "mercedes-benz/500k-540k-770k",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 500K, 540K, & 770K",
     "keywords": [
       "mercedes-benz 500k, 540k, & 770k",
@@ -61,8 +61,8 @@
   },
   "Mercedes-Benz 600": {
     "bat_slug": "mercedes-benz/600",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz 600",
     "keywords": [
       "mercedes-benz 600",
@@ -71,8 +71,8 @@
   },
   "Mercedes-Benz A-Class": {
     "bat_slug": "mercedes-benz/a-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz A-Class",
     "keywords": [
       "mercedes-benz a-class",
@@ -81,8 +81,8 @@
   },
   "Mercedes-Benz AMG": {
     "bat_slug": "mercedes-benz/amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz AMG",
     "keywords": [
       "mercedes-benz amg",
@@ -91,8 +91,8 @@
   },
   "Mercedes-Benz AMG GT": {
     "bat_slug": "mercedes-benz/amg-gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz AMG GT",
     "keywords": [
       "mercedes-benz amg gt",
@@ -101,8 +101,8 @@
   },
   "Mercedes-Benz Brabus": {
     "bat_slug": "mercedes-benz/brabus",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz Brabus",
     "keywords": [
       "mercedes-benz brabus",
@@ -111,8 +111,8 @@
   },
   "Mercedes-Benz C107 SLC": {
     "bat_slug": "mercedes-benz/c107-slc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C107 SLC",
     "keywords": [
       "mercedes-benz c107 slc",
@@ -121,8 +121,8 @@
   },
   "Mercedes-Benz C126": {
     "bat_slug": "mercedes-benz/c126",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C126",
     "keywords": [
       "mercedes-benz c126",
@@ -131,8 +131,8 @@
   },
   "Mercedes-Benz C140": {
     "bat_slug": "mercedes-benz/c140",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C140",
     "keywords": [
       "mercedes-benz c140",
@@ -141,8 +141,8 @@
   },
   "Mercedes-Benz C207 E-Class Coupe/Cabriolet": {
     "bat_slug": "mercedes-benz/c207-e-class-coupe-cabriolet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C207 E-Class Coupe/Cabriolet",
     "keywords": [
       "mercedes-benz c207 e-class coupe/cabriolet",
@@ -151,8 +151,8 @@
   },
   "Mercedes-Benz C208/A208 CLK-Class (Non-AMG)": {
     "bat_slug": "mercedes-benz/c208-a208-clk-class-non-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C208/A208 CLK-Class (Non-AMG)",
     "keywords": [
       "mercedes-benz c208/a208 clk-class (non-amg)",
@@ -161,8 +161,8 @@
   },
   "Mercedes-Benz C208/A208 CLK55 AMG": {
     "bat_slug": "mercedes-benz/c208-a208-clk55-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C208/A208 CLK55 AMG",
     "keywords": [
       "mercedes-benz c208/a208 clk55 amg",
@@ -171,8 +171,8 @@
   },
   "Mercedes-Benz C209 CLK63 AMG Black Series": {
     "bat_slug": "mercedes-benz/clk63-amg-black-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C209 CLK63 AMG Black Series",
     "keywords": [
       "mercedes-benz c209 clk63 amg black series",
@@ -181,8 +181,8 @@
   },
   "Mercedes-Benz C209/A209 CLK DTM AMG": {
     "bat_slug": "mercedes-benz/c209-a209-clk-dtm-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C209/A209 CLK DTM AMG",
     "keywords": [
       "mercedes-benz c209/a209 clk dtm amg",
@@ -191,8 +191,8 @@
   },
   "Mercedes-Benz C209/A209 CLK-Class (Non-AMG)": {
     "bat_slug": "mercedes-benz/c209-a209-clk-class-non-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C209/A209 CLK-Class (Non-AMG)",
     "keywords": [
       "mercedes-benz c209/a209 clk-class (non-amg)",
@@ -201,8 +201,8 @@
   },
   "Mercedes-Benz C209/A209 CLK55 & CLK63 AMG": {
     "bat_slug": "mercedes-benz/c209-a209-clk55-clk63-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C209/A209 CLK55 & CLK63 AMG",
     "keywords": [
       "mercedes-benz c209/a209 clk55 & clk63 amg",
@@ -211,8 +211,8 @@
   },
   "Mercedes-Benz C217 S-Class Coupe & A217 S-Class Cabriolet": {
     "bat_slug": "mercedes-benz/c217-s-class-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz C217 S-Class Coupe & A217 S-Class Cabriolet",
     "keywords": [
       "mercedes-benz c217 s-class coupe & a217 s-class cabriolet",
@@ -221,8 +221,8 @@
   },
   "Mercedes-Benz CL-Class": {
     "bat_slug": "mercedes-benz/cl-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz CL-Class",
     "keywords": [
       "mercedes-benz cl-class",
@@ -231,8 +231,8 @@
   },
   "Mercedes-Benz CLS-Class": {
     "bat_slug": "mercedes-benz/cls-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz CLS-Class",
     "keywords": [
       "mercedes-benz cls-class",
@@ -241,8 +241,8 @@
   },
   "Mercedes-Benz GL & GLS-Class": {
     "bat_slug": "mercedes-benz/gl-gls-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz GL & GLS-Class",
     "keywords": [
       "mercedes-benz gl & gls-class",
@@ -251,8 +251,8 @@
   },
   "Mercedes-Benz GLA-Class": {
     "bat_slug": "mercedes-benz/gla-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz GLA-Class",
     "keywords": [
       "mercedes-benz gla-class",
@@ -261,8 +261,8 @@
   },
   "Mercedes-Benz L319 & O319": {
     "bat_slug": "mercedes-benz/l319-o319",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz L319 & O319",
     "keywords": [
       "mercedes-benz l319 & o319",
@@ -271,8 +271,8 @@
   },
   "Mercedes-Benz M-Class & GLE-Class": {
     "bat_slug": "mercedes-benz/m-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz M-Class & GLE-Class",
     "keywords": [
       "mercedes-benz m-class & gle-class",
@@ -281,8 +281,8 @@
   },
   "Mercedes-Benz Metris": {
     "bat_slug": "mercedes-benz/metris",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz Metris",
     "keywords": [
       "mercedes-benz metris",
@@ -291,8 +291,8 @@
   },
   "Mercedes-Benz Ponton": {
     "bat_slug": "mercedes-benz/ponton",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz Ponton",
     "keywords": [
       "mercedes-benz ponton",
@@ -301,8 +301,8 @@
   },
   "Mercedes-Benz R107 SL": {
     "bat_slug": "mercedes-benz/r107",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R107 SL",
     "keywords": [
       "mercedes-benz r107 sl",
@@ -311,8 +311,8 @@
   },
   "Mercedes-Benz R129 SL": {
     "bat_slug": "mercedes-benz/r129",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R129 SL",
     "keywords": [
       "mercedes-benz r129 sl",
@@ -321,8 +321,8 @@
   },
   "Mercedes-Benz R230 SL": {
     "bat_slug": "mercedes-benz/r230-sl",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R230 SL",
     "keywords": [
       "mercedes-benz r230 sl",
@@ -331,8 +331,8 @@
   },
   "Mercedes-Benz R231 SL": {
     "bat_slug": "mercedes-benz/mercedes-benz-r231-sl",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R231 SL",
     "keywords": [
       "mercedes-benz r231 sl",
@@ -341,8 +341,8 @@
   },
   "Mercedes-Benz R232 SL": {
     "bat_slug": "mercedes-benz/r232-sl",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R232 SL",
     "keywords": [
       "mercedes-benz r232 sl",
@@ -351,8 +351,8 @@
   },
   "Mercedes-Benz R63 AMG": {
     "bat_slug": "mercedes-benz/r63-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz R63 AMG",
     "keywords": [
       "mercedes-benz r63 amg",
@@ -361,8 +361,8 @@
   },
   "Mercedes-Benz SLK & SLC-Class": {
     "bat_slug": "mercedes-benz/slk",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz SLK & SLC-Class",
     "keywords": [
       "mercedes-benz slk & slc-class",
@@ -371,8 +371,8 @@
   },
   "Mercedes-Benz SLR McLaren": {
     "bat_slug": "mercedes-benz/slr-mclaren",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz SLR McLaren",
     "keywords": [
       "mercedes-benz slr mclaren",
@@ -381,8 +381,8 @@
   },
   "Mercedes-Benz SLS AMG": {
     "bat_slug": "mercedes-benz/sls-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz SLS AMG",
     "keywords": [
       "mercedes-benz sls amg",
@@ -391,8 +391,8 @@
   },
   "Mercedes-Benz Sprinter": {
     "bat_slug": "mercedes-benz/sprinter",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz Sprinter",
     "keywords": [
       "mercedes-benz sprinter",
@@ -401,8 +401,8 @@
   },
   "Mercedes-Benz Unimog": {
     "bat_slug": "mercedes-benz/unimog",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz Unimog",
     "keywords": [
       "mercedes-benz unimog",
@@ -411,8 +411,8 @@
   },
   "Mercedes-Benz W108 & W109": {
     "bat_slug": "mercedes-benz/w108-w109",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W108 & W109",
     "keywords": [
       "mercedes-benz w108 & w109",
@@ -421,8 +421,8 @@
   },
   "Mercedes-Benz W110": {
     "bat_slug": "mercedes-benz/w110",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W110",
     "keywords": [
       "mercedes-benz w110",
@@ -431,8 +431,8 @@
   },
   "Mercedes-Benz W111 Coupe & Cabriolet": {
     "bat_slug": "mercedes-benz/w111-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W111 Coupe & Cabriolet",
     "keywords": [
       "mercedes-benz w111 coupe & cabriolet",
@@ -441,8 +441,8 @@
   },
   "Mercedes-Benz W111 Sedan": {
     "bat_slug": "mercedes-benz/w111-sedan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W111 Sedan",
     "keywords": [
       "mercedes-benz w111 sedan",
@@ -451,8 +451,8 @@
   },
   "Mercedes-Benz W112": {
     "bat_slug": "mercedes-benz/w112",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W112",
     "keywords": [
       "mercedes-benz w112",
@@ -461,8 +461,8 @@
   },
   "Mercedes-Benz W113 SL": {
     "bat_slug": "mercedes-benz/w113",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W113 SL",
     "keywords": [
       "mercedes-benz w113 sl",
@@ -471,8 +471,8 @@
   },
   "Mercedes-Benz W114 & W115": {
     "bat_slug": "mercedes-benz/w114-w115",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W114 & W115",
     "keywords": [
       "mercedes-benz w114 & w115",
@@ -481,8 +481,8 @@
   },
   "Mercedes-Benz W116 S-Class": {
     "bat_slug": "mercedes-benz/w116-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W116 S-Class",
     "keywords": [
       "mercedes-benz w116 s-class",
@@ -491,8 +491,8 @@
   },
   "Mercedes-Benz W123": {
     "bat_slug": "mercedes-benz/w123",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W123",
     "keywords": [
       "mercedes-benz w123",
@@ -501,8 +501,8 @@
   },
   "Mercedes-Benz W124 E-Class": {
     "bat_slug": "mercedes-benz/w124",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W124 E-Class",
     "keywords": [
       "mercedes-benz w124 e-class",
@@ -511,8 +511,8 @@
   },
   "Mercedes-Benz W126 S-Class": {
     "bat_slug": "mercedes-benz/w126",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W126 S-Class",
     "keywords": [
       "mercedes-benz w126 s-class",
@@ -521,8 +521,8 @@
   },
   "Mercedes-Benz W140 S-Class": {
     "bat_slug": "mercedes-benz/w140-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W140 S-Class",
     "keywords": [
       "mercedes-benz w140 s-class",
@@ -531,8 +531,8 @@
   },
   "Mercedes-Benz W186, W188, & W189 Adenauer": {
     "bat_slug": "mercedes-benz/w186-300",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W186, W188, & W189 Adenauer",
     "keywords": [
       "mercedes-benz w186, w188, & w189 adenauer",
@@ -541,8 +541,8 @@
   },
   "Mercedes-Benz W187 220": {
     "bat_slug": "mercedes-benz/w187-220",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W187 220",
     "keywords": [
       "mercedes-benz w187 220",
@@ -551,8 +551,8 @@
   },
   "Mercedes-Benz W191 & W136": {
     "bat_slug": "mercedes-benz/w191-w136",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W191 & W136",
     "keywords": [
       "mercedes-benz w191 & w136",
@@ -561,8 +561,8 @@
   },
   "Mercedes-Benz W201 190": {
     "bat_slug": "mercedes-benz/190e-w201",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W201 190",
     "keywords": [
       "mercedes-benz w201 190",
@@ -571,8 +571,8 @@
   },
   "Mercedes-Benz W202 C-Class": {
     "bat_slug": "mercedes-benz/w202-c-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W202 C-Class",
     "keywords": [
       "mercedes-benz w202 c-class",
@@ -581,8 +581,8 @@
   },
   "Mercedes-Benz W202 C36 & C43 AMG": {
     "bat_slug": "mercedes-benz/w202-c36-c43-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W202 C36 & C43 AMG",
     "keywords": [
       "mercedes-benz w202 c36 & c43 amg",
@@ -591,8 +591,8 @@
   },
   "Mercedes-Benz W203 C-Class": {
     "bat_slug": "mercedes-benz/w203-c-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W203 C-Class",
     "keywords": [
       "mercedes-benz w203 c-class",
@@ -601,8 +601,8 @@
   },
   "Mercedes-Benz W203 C55 & C32 AMG": {
     "bat_slug": "mercedes-benz/w203-c55-c32-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W203 C55 & C32 AMG",
     "keywords": [
       "mercedes-benz w203 c55 & c32 amg",
@@ -611,8 +611,8 @@
   },
   "Mercedes-Benz W204 C-Class": {
     "bat_slug": "mercedes-benz/w204-c-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W204 C-Class",
     "keywords": [
       "mercedes-benz w204 c-class",
@@ -621,8 +621,8 @@
   },
   "Mercedes-Benz W204 C63 AMG": {
     "bat_slug": "mercedes-benz/w204-c63-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W204 C63 AMG",
     "keywords": [
       "mercedes-benz w204 c63 amg",
@@ -631,8 +631,8 @@
   },
   "Mercedes-Benz W205 C-Class": {
     "bat_slug": "mercedes-benz/w205-c-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W205 C-Class",
     "keywords": [
       "mercedes-benz w205 c-class",
@@ -641,8 +641,8 @@
   },
   "Mercedes-Benz W205 C43 & C63 AMG": {
     "bat_slug": "mercedes-benz/w205-c43-c63-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W205 C43 & C63 AMG",
     "keywords": [
       "mercedes-benz w205 c43 & c63 amg",
@@ -651,8 +651,8 @@
   },
   "Mercedes-Benz W210 E-Class": {
     "bat_slug": "mercedes-benz/w210-e-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W210 E-Class",
     "keywords": [
       "mercedes-benz w210 e-class",
@@ -661,8 +661,8 @@
   },
   "Mercedes-Benz W210 E-Class AMG": {
     "bat_slug": "mercedes-benz/w210-e-class-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W210 E-Class AMG",
     "keywords": [
       "mercedes-benz w210 e-class amg",
@@ -671,8 +671,8 @@
   },
   "Mercedes-Benz W211 E-Class": {
     "bat_slug": "mercedes-benz/w211-e-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W211 E-Class",
     "keywords": [
       "mercedes-benz w211 e-class",
@@ -681,8 +681,8 @@
   },
   "Mercedes-Benz W211 E-Class AMG": {
     "bat_slug": "mercedes-benz/w211-e-class-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W211 E-Class AMG",
     "keywords": [
       "mercedes-benz w211 e-class amg",
@@ -691,8 +691,8 @@
   },
   "Mercedes-Benz W212 E-Class": {
     "bat_slug": "mercedes-benz/w212-e-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W212 E-Class",
     "keywords": [
       "mercedes-benz w212 e-class",
@@ -701,8 +701,8 @@
   },
   "Mercedes-Benz W212 E-Class AMG": {
     "bat_slug": "mercedes-benz/w212-e-class-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W212 E-Class AMG",
     "keywords": [
       "mercedes-benz w212 e-class amg",
@@ -711,8 +711,8 @@
   },
   "Mercedes-Benz W213 E-Class": {
     "bat_slug": "mercedes-benz/w213-e-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W213 E-Class",
     "keywords": [
       "mercedes-benz w213 e-class",
@@ -721,8 +721,8 @@
   },
   "Mercedes-Benz W213 E-Class AMG": {
     "bat_slug": "mercedes-benz/w213-e-class-amg",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W213 E-Class AMG",
     "keywords": [
       "mercedes-benz w213 e-class amg",
@@ -731,8 +731,8 @@
   },
   "Mercedes-Benz W214 E-Class": {
     "bat_slug": "mercedes-benz/w214-e-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W214 E-Class",
     "keywords": [
       "mercedes-benz w214 e-class",
@@ -741,8 +741,8 @@
   },
   "Mercedes-Benz W220 S-Class": {
     "bat_slug": "mercedes-benz/w220-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W220 S-Class",
     "keywords": [
       "mercedes-benz w220 s-class",
@@ -751,8 +751,8 @@
   },
   "Mercedes-Benz W221 S-Class": {
     "bat_slug": "mercedes-benz/w221-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W221 S-Class",
     "keywords": [
       "mercedes-benz w221 s-class",
@@ -761,8 +761,8 @@
   },
   "Mercedes-Benz W222 S-Class": {
     "bat_slug": "mercedes-benz/w222-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W222 S-Class",
     "keywords": [
       "mercedes-benz w222 s-class",
@@ -771,8 +771,8 @@
   },
   "Mercedes-Benz W223 S-Class": {
     "bat_slug": "mercedes-benz/w223-s-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W223 S-Class",
     "keywords": [
       "mercedes-benz w223 s-class",
@@ -781,8 +781,8 @@
   },
   "Mercedes-Benz W251 R-Class": {
     "bat_slug": "mercedes-benz/w251-r-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W251 R-Class",
     "keywords": [
       "mercedes-benz w251 r-class",
@@ -791,8 +791,8 @@
   },
   "Mercedes-Benz W460 Gel\u00e4ndewagen": {
     "bat_slug": "mercedes-benz/w460-gelandewagen",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W460 Gel\u00e4ndewagen",
     "keywords": [
       "mercedes-benz w460 gel\u00e4ndewagen",
@@ -801,8 +801,8 @@
   },
   "Mercedes-Benz W461 G-Class": {
     "bat_slug": "mercedes-benz/w461-g-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz W461 G-Class",
     "keywords": [
       "mercedes-benz w461 g-class",
@@ -851,8 +851,8 @@
   },
   "Mercedes-Benz X204 GLK-Class": {
     "bat_slug": "mercedes-benz/x204-glk-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz X204 GLK-Class",
     "keywords": [
       "mercedes-benz x204 glk-class",
@@ -861,8 +861,8 @@
   },
   "Mercedes-Benz X253 & C253 GLC-Class": {
     "bat_slug": "mercedes-benz/x253-c253-glc-class",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz X253 & C253 GLC-Class",
     "keywords": [
       "mercedes-benz x253 & c253 glc-class",
@@ -871,8 +871,8 @@
   },
   "Mercedes-Benz X290 AMG GT Four-Door": {
     "bat_slug": "mercedes-benz/x290-amg-gt-four-door",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercedes-Benz X290 AMG GT Four-Door",
     "keywords": [
       "mercedes-benz x290 amg gt four-door",

@@ -1,8 +1,8 @@
 {
   "Subaru 360": {
     "bat_slug": "subaru/360",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru 360",
     "keywords": [
       "subaru 360",
@@ -11,8 +11,8 @@
   },
   "Subaru Baja": {
     "bat_slug": "subaru/baja",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Baja",
     "keywords": [
       "subaru baja",
@@ -21,8 +21,8 @@
   },
   "Subaru BRAT": {
     "bat_slug": "subaru/brat",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru BRAT",
     "keywords": [
       "subaru brat",
@@ -31,8 +31,8 @@
   },
   "Subaru BRZ": {
     "bat_slug": "subaru/brz",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru BRZ",
     "keywords": [
       "subaru brz",
@@ -41,8 +41,8 @@
   },
   "Subaru DL, GL, & GLF": {
     "bat_slug": "subaru/gl-glf",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru DL, GL, & GLF",
     "keywords": [
       "subaru dl, gl, & glf",
@@ -51,8 +51,8 @@
   },
   "Subaru Forester": {
     "bat_slug": "subaru/forester",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Forester",
     "keywords": [
       "subaru forester",
@@ -61,8 +61,8 @@
   },
   "Subaru Impreza": {
     "bat_slug": "subaru/impreza",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Impreza",
     "keywords": [
       "subaru impreza",
@@ -71,8 +71,8 @@
   },
   "Subaru Impreza 2.5RS": {
     "bat_slug": "subaru/impreza-25rs",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Impreza 2.5RS",
     "keywords": [
       "subaru impreza 2.5rs",
@@ -81,8 +81,8 @@
   },
   "Subaru Impreza WRX": {
     "bat_slug": "subaru/impreza-wrx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Impreza WRX",
     "keywords": [
       "subaru impreza wrx",
@@ -91,8 +91,8 @@
   },
   "Subaru Legacy": {
     "bat_slug": "subaru/legacy",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Legacy",
     "keywords": [
       "subaru legacy",
@@ -101,8 +101,8 @@
   },
   "Subaru Outback": {
     "bat_slug": "subaru/outback",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Outback",
     "keywords": [
       "subaru outback",
@@ -111,8 +111,8 @@
   },
   "Subaru Sambar": {
     "bat_slug": "subaru/sambar",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Sambar",
     "keywords": [
       "subaru sambar",
@@ -121,8 +121,8 @@
   },
   "Subaru Sumo": {
     "bat_slug": "subaru/sumo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru Sumo",
     "keywords": [
       "subaru sumo",
@@ -131,8 +131,8 @@
   },
   "Subaru SVX": {
     "bat_slug": "subaru/svx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru SVX",
     "keywords": [
       "subaru svx",
@@ -141,8 +141,8 @@
   },
   "Subaru WRX STi": {
     "bat_slug": "subaru/wrx-sti",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Subaru WRX STi",
     "keywords": [
       "subaru wrx sti",

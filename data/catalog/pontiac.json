@@ -1,8 +1,8 @@
 {
   "Pontiac Bonneville": {
     "bat_slug": "pontiac/bonneville",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Bonneville",
     "keywords": [
       "pontiac bonneville",
@@ -11,8 +11,8 @@
   },
   "Pontiac Catalina": {
     "bat_slug": "pontiac/catalina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Catalina",
     "keywords": [
       "pontiac catalina",
@@ -21,8 +21,8 @@
   },
   "Pontiac Chieftain": {
     "bat_slug": "pontiac/chieftain",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Chieftain",
     "keywords": [
       "pontiac chieftain",
@@ -31,8 +31,8 @@
   },
   "Pontiac Deluxe": {
     "bat_slug": "pontiac/deluxe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Deluxe",
     "keywords": [
       "pontiac deluxe",
@@ -41,8 +41,8 @@
   },
   "Pontiac Fiero": {
     "bat_slug": "pontiac/fiero",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Fiero",
     "keywords": [
       "pontiac fiero",
@@ -91,8 +91,8 @@
   },
   "Pontiac G8": {
     "bat_slug": "pontiac/g8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac G8",
     "keywords": [
       "pontiac g8",
@@ -101,8 +101,8 @@
   },
   "Pontiac Grand Am": {
     "bat_slug": "pontiac/grand-am",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Grand Am",
     "keywords": [
       "pontiac grand am",
@@ -111,8 +111,8 @@
   },
   "Pontiac Grand Prix": {
     "bat_slug": "pontiac/grand-prix",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Grand Prix",
     "keywords": [
       "pontiac grand prix",
@@ -121,8 +121,8 @@
   },
   "Pontiac Grand Ville": {
     "bat_slug": "pontiac/grand-ville",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Grand Ville",
     "keywords": [
       "pontiac grand ville",
@@ -171,8 +171,8 @@
   },
   "Pontiac Parisienne": {
     "bat_slug": "pontiac/parisienne",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Parisienne",
     "keywords": [
       "pontiac parisienne",
@@ -181,8 +181,8 @@
   },
   "Pontiac Safari": {
     "bat_slug": "pontiac/safari",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Safari",
     "keywords": [
       "pontiac safari",
@@ -191,8 +191,8 @@
   },
   "Pontiac Solstice": {
     "bat_slug": "pontiac/solstice-saturn-sky",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Solstice",
     "keywords": [
       "pontiac solstice",
@@ -201,8 +201,8 @@
   },
   "Pontiac Star Chief": {
     "bat_slug": "pontiac/star-chief",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Star Chief",
     "keywords": [
       "pontiac star chief",
@@ -211,8 +211,8 @@
   },
   "Pontiac Tempest / LeMans": {
     "bat_slug": "pontiac/le-mans",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Pontiac Tempest / LeMans",
     "keywords": [
       "pontiac tempest / lemans",

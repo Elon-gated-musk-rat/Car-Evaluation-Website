@@ -1,8 +1,8 @@
 {
   "Lamborghini 350 GT & 400 GT": {
     "bat_slug": "lamborghini/350-gt-400-gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini 350 GT & 400 GT",
     "keywords": [
       "lamborghini 350 gt & 400 gt",
@@ -11,8 +11,8 @@
   },
   "Lamborghini Aventador": {
     "bat_slug": "lamborghini/aventador",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Aventador",
     "keywords": [
       "lamborghini aventador",
@@ -21,8 +21,8 @@
   },
   "Lamborghini Countach": {
     "bat_slug": "lamborghini/countach",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Countach",
     "keywords": [
       "lamborghini countach",
@@ -31,8 +31,8 @@
   },
   "Lamborghini Diablo": {
     "bat_slug": "lamborghini/diablo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Diablo",
     "keywords": [
       "lamborghini diablo",
@@ -41,8 +41,8 @@
   },
   "Lamborghini Espada": {
     "bat_slug": "lamborghini/espada",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Espada",
     "keywords": [
       "lamborghini espada",
@@ -51,8 +51,8 @@
   },
   "Lamborghini Gallardo": {
     "bat_slug": "lamborghini/gallardo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Gallardo",
     "keywords": [
       "lamborghini gallardo",
@@ -61,8 +61,8 @@
   },
   "Lamborghini Hurac\u00e1n": {
     "bat_slug": "lamborghini/huaracan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Hurac\u00e1n",
     "keywords": [
       "lamborghini hurac\u00e1n",
@@ -71,8 +71,8 @@
   },
   "Lamborghini Islero": {
     "bat_slug": "lamborghini/islero",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Islero",
     "keywords": [
       "lamborghini islero",
@@ -81,8 +81,8 @@
   },
   "Lamborghini Jalpa": {
     "bat_slug": "lamborghini/jalpa",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Jalpa",
     "keywords": [
       "lamborghini jalpa",
@@ -91,8 +91,8 @@
   },
   "Lamborghini Jarama": {
     "bat_slug": "lamborghini/jarama",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Jarama",
     "keywords": [
       "lamborghini jarama",
@@ -101,8 +101,8 @@
   },
   "Lamborghini LM002": {
     "bat_slug": "lamborghini/lm002",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini LM002",
     "keywords": [
       "lamborghini lm002",
@@ -111,8 +111,8 @@
   },
   "Lamborghini Miura": {
     "bat_slug": "lamborghini/miura",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Miura",
     "keywords": [
       "lamborghini miura",
@@ -121,8 +121,8 @@
   },
   "Lamborghini Murci\u00e9lago": {
     "bat_slug": "lamborghini/murcielago",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Murci\u00e9lago",
     "keywords": [
       "lamborghini murci\u00e9lago",
@@ -131,8 +131,8 @@
   },
   "Lamborghini Revuelto": {
     "bat_slug": "lamborghini/revuelto",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Revuelto",
     "keywords": [
       "lamborghini revuelto",
@@ -141,8 +141,8 @@
   },
   "Lamborghini Tractor": {
     "bat_slug": "lamborghini/tractor",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Tractor",
     "keywords": [
       "lamborghini tractor",
@@ -151,8 +151,8 @@
   },
   "Lamborghini Urraco": {
     "bat_slug": "lamborghini/urraco",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Urraco",
     "keywords": [
       "lamborghini urraco",
@@ -161,8 +161,8 @@
   },
   "Lamborghini Urus": {
     "bat_slug": "lamborghini/urus",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lamborghini Urus",
     "keywords": [
       "lamborghini urus",

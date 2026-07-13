@@ -1,8 +1,8 @@
 {
   "Vincent Black Shadow": {
     "bat_slug": "vincent/black-shadow",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Vincent Black Shadow",
     "keywords": [
       "vincent black shadow",
@@ -11,8 +11,8 @@
   },
   "Vincent Comet": {
     "bat_slug": "vincent/comet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Vincent Comet",
     "keywords": [
       "vincent comet",
@@ -21,8 +21,8 @@
   },
   "Vincent Rapide": {
     "bat_slug": "vincent/rapide",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Vincent Rapide",
     "keywords": [
       "vincent rapide",

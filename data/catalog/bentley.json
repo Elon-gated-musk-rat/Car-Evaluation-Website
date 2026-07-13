@@ -1,8 +1,8 @@
 {
   "Bentley 3.5 Litre & 4 1/4 Litre": {
     "bat_slug": "bentley/35-litre-4-14-liter",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley 3.5 Litre & 4 1/4 Litre",
     "keywords": [
       "bentley 3.5 litre & 4 1/4 litre",
@@ -11,8 +11,8 @@
   },
   "Bentley Arnage": {
     "bat_slug": "bentley/arnage",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley Arnage",
     "keywords": [
       "bentley arnage",
@@ -21,8 +21,8 @@
   },
   "Bentley Azure": {
     "bat_slug": "bentley/azure",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley Azure",
     "keywords": [
       "bentley azure",
@@ -31,8 +31,8 @@
   },
   "Bentley Bentayga": {
     "bat_slug": "bentley/bentayga",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley Bentayga",
     "keywords": [
       "bentley bentayga",
@@ -61,8 +61,8 @@
   },
   "Bentley Continental Flying Spur": {
     "bat_slug": "bentley/continental-flying-spur",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley Continental Flying Spur",
     "keywords": [
       "bentley continental flying spur",
@@ -141,8 +141,8 @@
   },
   "Bentley Mark VI": {
     "bat_slug": "bentley/mark-vi",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley Mark VI",
     "keywords": [
       "bentley mark vi",
@@ -161,8 +161,8 @@
   },
   "Bentley R-Type": {
     "bat_slug": "bentley/r-type",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley R-Type",
     "keywords": [
       "bentley r-type",
@@ -171,8 +171,8 @@
   },
   "Bentley S-Type": {
     "bat_slug": "bentley/continental-s1-s2-s3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley S-Type",
     "keywords": [
       "bentley s-type",
@@ -181,8 +181,8 @@
   },
   "Bentley SZ Coupe": {
     "bat_slug": "bentley/sz-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley SZ Coupe",
     "keywords": [
       "bentley sz coupe",
@@ -191,8 +191,8 @@
   },
   "Bentley SZ Saloon": {
     "bat_slug": "bentley/sz-saloon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley SZ Saloon",
     "keywords": [
       "bentley sz saloon",
@@ -201,8 +201,8 @@
   },
   "Bentley T-Series": {
     "bat_slug": "bentley/t-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bentley T-Series",
     "keywords": [
       "bentley t-series",

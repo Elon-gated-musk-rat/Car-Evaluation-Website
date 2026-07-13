@@ -1,8 +1,8 @@
 {
   "Mazda 3 & Mazdaspeed3": {
     "bat_slug": "mazda/3-mazdaspeed3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda 3 & Mazdaspeed3",
     "keywords": [
       "mazda 3 & mazdaspeed3",
@@ -11,8 +11,8 @@
   },
   "Mazda 6 & Mazdaspeed6": {
     "bat_slug": "mazda/6-mazdaspeed6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda 6 & Mazdaspeed6",
     "keywords": [
       "mazda 6 & mazdaspeed6",
@@ -21,8 +21,8 @@
   },
   "Mazda 929": {
     "bat_slug": "mazda/929",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda 929",
     "keywords": [
       "mazda 929",
@@ -31,8 +31,8 @@
   },
   "Mazda Bongo": {
     "bat_slug": "mazda/bongo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda Bongo",
     "keywords": [
       "mazda bongo",
@@ -41,8 +41,8 @@
   },
   "Mazda Cosmo": {
     "bat_slug": "mazda/cosmo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda Cosmo",
     "keywords": [
       "mazda cosmo",
@@ -51,8 +51,8 @@
   },
   "Mazda Formula Mazda": {
     "bat_slug": "mazda/formula-mazda",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda Formula Mazda",
     "keywords": [
       "mazda formula mazda",
@@ -61,8 +61,8 @@
   },
   "Mazda NA MX-5 Miata": {
     "bat_slug": "mazda/na-mx-5-miata",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda NA MX-5 Miata",
     "keywords": [
       "mazda na mx-5 miata",
@@ -71,8 +71,8 @@
   },
   "Mazda NB MX-5 Miata": {
     "bat_slug": "mazda/nb-mx-5-miata",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda NB MX-5 Miata",
     "keywords": [
       "mazda nb mx-5 miata",
@@ -81,8 +81,8 @@
   },
   "Mazda NC MX-5 Miata": {
     "bat_slug": "mazda/nc-mx-5-miata",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda NC MX-5 Miata",
     "keywords": [
       "mazda nc mx-5 miata",
@@ -91,8 +91,8 @@
   },
   "Mazda ND MX-5 Miata": {
     "bat_slug": "mazda/nd-mx-5-miata",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda ND MX-5 Miata",
     "keywords": [
       "mazda nd mx-5 miata",
@@ -101,8 +101,8 @@
   },
   "Mazda Pickup": {
     "bat_slug": "mazda/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda Pickup",
     "keywords": [
       "mazda pickup",
@@ -111,8 +111,8 @@
   },
   "Mazda RX-7 FB": {
     "bat_slug": "mazda/rx-7-fb",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda RX-7 FB",
     "keywords": [
       "mazda rx-7 fb",
@@ -121,8 +121,8 @@
   },
   "Mazda RX-7 FC": {
     "bat_slug": "mazda/rx-7-fc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda RX-7 FC",
     "keywords": [
       "mazda rx-7 fc",
@@ -131,8 +131,8 @@
   },
   "Mazda RX-7 FD": {
     "bat_slug": "mazda/rx-7-fd",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda RX-7 FD",
     "keywords": [
       "mazda rx-7 fd",
@@ -141,8 +141,8 @@
   },
   "Mazda RX-8": {
     "bat_slug": "mazda/rx-8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mazda RX-8",
     "keywords": [
       "mazda rx-8",

@@ -1,8 +1,8 @@
 {
   "Rossion Q1": {
     "bat_slug": "rossion/q1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Rossion Q1",
     "keywords": [
       "rossion q1",

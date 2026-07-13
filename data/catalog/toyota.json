@@ -1,8 +1,8 @@
 {
   "Toyota 2000GT": {
     "bat_slug": "toyota/2000gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 2000GT",
     "keywords": [
       "toyota 2000gt",
@@ -11,8 +11,8 @@
   },
   "Toyota 4Runner (N120)": {
     "bat_slug": "toyota/4runner-n120",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 4Runner (N120)",
     "keywords": [
       "toyota 4runner (n120)",
@@ -21,8 +21,8 @@
   },
   "Toyota 4Runner (N180)": {
     "bat_slug": "toyota/4runner-n180",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 4Runner (N180)",
     "keywords": [
       "toyota 4runner (n180)",
@@ -31,8 +31,8 @@
   },
   "Toyota 4Runner (N210)": {
     "bat_slug": "toyota/4runner-n210",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 4Runner (N210)",
     "keywords": [
       "toyota 4runner (n210)",
@@ -41,8 +41,8 @@
   },
   "Toyota 4Runner (N280)": {
     "bat_slug": "toyota/4runner-n280",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 4Runner (N280)",
     "keywords": [
       "toyota 4runner (n280)",
@@ -51,8 +51,8 @@
   },
   "Toyota 4Runner (N60)": {
     "bat_slug": "toyota/4runner-n60",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota 4Runner (N60)",
     "keywords": [
       "toyota 4runner (n60)",
@@ -61,8 +61,8 @@
   },
   "Toyota AE86": {
     "bat_slug": "toyota/ae86",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota AE86",
     "keywords": [
       "toyota ae86",
@@ -71,8 +71,8 @@
   },
   "Toyota Aristo": {
     "bat_slug": "toyota/aristo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Aristo",
     "keywords": [
       "toyota aristo",
@@ -81,8 +81,8 @@
   },
   "Toyota Avalon": {
     "bat_slug": "toyota/avalon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Avalon",
     "keywords": [
       "toyota avalon",
@@ -91,8 +91,8 @@
   },
   "Toyota AW11 MR2": {
     "bat_slug": "toyota/aw11-mr2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota AW11 MR2",
     "keywords": [
       "toyota aw11 mr2",
@@ -101,8 +101,8 @@
   },
   "Toyota Camry": {
     "bat_slug": "toyota/camry",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Camry",
     "keywords": [
       "toyota camry",
@@ -111,8 +111,8 @@
   },
   "Toyota Camry Solara": {
     "bat_slug": "toyota/camry-solara",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Camry Solara",
     "keywords": [
       "toyota camry solara",
@@ -121,8 +121,8 @@
   },
   "Toyota Celica": {
     "bat_slug": "toyota/celica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Celica",
     "keywords": [
       "toyota celica",
@@ -151,8 +151,8 @@
   },
   "Toyota Celsior": {
     "bat_slug": "toyota/celsior",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Celsior",
     "keywords": [
       "toyota celsior",
@@ -161,8 +161,8 @@
   },
   "Toyota Century": {
     "bat_slug": "toyota/century",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Century",
     "keywords": [
       "toyota century",
@@ -171,8 +171,8 @@
   },
   "Toyota Corolla": {
     "bat_slug": "toyota/corolla",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Corolla",
     "keywords": [
       "toyota corolla",
@@ -181,8 +181,8 @@
   },
   "Toyota Corona": {
     "bat_slug": "toyota/corona",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Corona",
     "keywords": [
       "toyota corona",
@@ -191,8 +191,8 @@
   },
   "Toyota Cressida & Mark II": {
     "bat_slug": "toyota/cressida-mark-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Cressida & Mark II",
     "keywords": [
       "toyota cressida & mark ii",
@@ -201,8 +201,8 @@
   },
   "Toyota Crown": {
     "bat_slug": "toyota/crown",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Crown",
     "keywords": [
       "toyota crown",
@@ -211,8 +211,8 @@
   },
   "Toyota Dyna": {
     "bat_slug": "toyota/dyna",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Dyna",
     "keywords": [
       "toyota dyna",
@@ -221,8 +221,8 @@
   },
   "Toyota FJ Cruiser": {
     "bat_slug": "toyota/fj-cruiser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota FJ Cruiser",
     "keywords": [
       "toyota fj cruiser",
@@ -231,8 +231,8 @@
   },
   "Toyota GR86": {
     "bat_slug": "toyota/gr86",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota GR86",
     "keywords": [
       "toyota gr86",
@@ -241,8 +241,8 @@
   },
   "Toyota HiAce": {
     "bat_slug": "toyota/hiace",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota HiAce",
     "keywords": [
       "toyota hiace",
@@ -281,8 +281,8 @@
   },
   "Toyota Land Cruiser 100-Series": {
     "bat_slug": "toyota/land-cruiser-100-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser 100-Series",
     "keywords": [
       "toyota land cruiser 100-series",
@@ -291,8 +291,8 @@
   },
   "Toyota Land Cruiser 200-Series": {
     "bat_slug": "toyota/200-series-land-cruiser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser 200-Series",
     "keywords": [
       "toyota land cruiser 200-series",
@@ -301,8 +301,8 @@
   },
   "Toyota Land Cruiser 60-Series": {
     "bat_slug": "toyota/land-cruiser-fj60-fj62",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser 60-Series",
     "keywords": [
       "toyota land cruiser 60-series",
@@ -311,8 +311,8 @@
   },
   "Toyota Land Cruiser 70-Series": {
     "bat_slug": "toyota/land-cruiser-70-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser 70-Series",
     "keywords": [
       "toyota land cruiser 70-series",
@@ -321,8 +321,8 @@
   },
   "Toyota Land Cruiser 80-Series": {
     "bat_slug": "toyota/land-cruiser-fj80-fzj80",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser 80-Series",
     "keywords": [
       "toyota land cruiser 80-series",
@@ -331,8 +331,8 @@
   },
   "Toyota Land Cruiser FJ25": {
     "bat_slug": "toyota/land-cruiser-fj25",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser FJ25",
     "keywords": [
       "toyota land cruiser fj25",
@@ -341,8 +341,8 @@
   },
   "Toyota Land Cruiser FJ40": {
     "bat_slug": "toyota/fj40",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser FJ40",
     "keywords": [
       "toyota land cruiser fj40",
@@ -351,8 +351,8 @@
   },
   "Toyota Land Cruiser FJ43": {
     "bat_slug": "toyota/land-cruiser-fj43",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser FJ43",
     "keywords": [
       "toyota land cruiser fj43",
@@ -361,8 +361,8 @@
   },
   "Toyota Land Cruiser FJ45": {
     "bat_slug": "toyota/land-cruiser-fj45",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser FJ45",
     "keywords": [
       "toyota land cruiser fj45",
@@ -371,8 +371,8 @@
   },
   "Toyota Land Cruiser FJ55": {
     "bat_slug": "toyota/land-cruiser-fj55",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser FJ55",
     "keywords": [
       "toyota land cruiser fj55",
@@ -381,8 +381,8 @@
   },
   "Toyota Land Cruiser J250": {
     "bat_slug": "toyota/land-cruiser-j250",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser J250",
     "keywords": [
       "toyota land cruiser j250",
@@ -391,8 +391,8 @@
   },
   "Toyota Land Cruiser Prado 70-Series": {
     "bat_slug": "toyota/land-cruiser-prado-70-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser Prado 70-Series",
     "keywords": [
       "toyota land cruiser prado 70-series",
@@ -401,8 +401,8 @@
   },
   "Toyota Land Cruiser Prado 90-Series": {
     "bat_slug": "toyota/land-cruiser-prado-90-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Land Cruiser Prado 90-Series",
     "keywords": [
       "toyota land cruiser prado 90-series",
@@ -411,8 +411,8 @@
   },
   "Toyota LiteAce & TownAce": {
     "bat_slug": "toyota/liteace-townace",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota LiteAce & TownAce",
     "keywords": [
       "toyota liteace & townace",
@@ -421,8 +421,8 @@
   },
   "Toyota Mega Cruiser": {
     "bat_slug": "toyota/mega-cruiser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Mega Cruiser",
     "keywords": [
       "toyota mega cruiser",
@@ -461,8 +461,8 @@
   },
   "Toyota Previa & Estima": {
     "bat_slug": "toyota/previa-estima",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Previa & Estima",
     "keywords": [
       "toyota previa & estima",
@@ -471,8 +471,8 @@
   },
   "Toyota RAV4": {
     "bat_slug": "toyota/rav4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota RAV4",
     "keywords": [
       "toyota rav4",
@@ -481,8 +481,8 @@
   },
   "Toyota RV": {
     "bat_slug": "toyota/rv",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota RV",
     "keywords": [
       "toyota rv",
@@ -491,8 +491,8 @@
   },
   "Toyota Sequoia": {
     "bat_slug": "toyota/sequoia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Sequoia",
     "keywords": [
       "toyota sequoia",
@@ -501,8 +501,8 @@
   },
   "Toyota Sera": {
     "bat_slug": "toyota/sera",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Sera",
     "keywords": [
       "toyota sera",
@@ -511,8 +511,8 @@
   },
   "Toyota Sienna": {
     "bat_slug": "toyota/sienna",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Sienna",
     "keywords": [
       "toyota sienna",
@@ -521,8 +521,8 @@
   },
   "Toyota Soarer": {
     "bat_slug": "toyota/soarer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Soarer",
     "keywords": [
       "toyota soarer",
@@ -531,8 +531,8 @@
   },
   "Toyota Starlet": {
     "bat_slug": "toyota/starlet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Starlet",
     "keywords": [
       "toyota starlet",
@@ -541,8 +541,8 @@
   },
   "Toyota Stout": {
     "bat_slug": "toyota/stout",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Stout",
     "keywords": [
       "toyota stout",
@@ -581,8 +581,8 @@
   },
   "Toyota SW20 MR2": {
     "bat_slug": "toyota/sw20-mr2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota SW20 MR2",
     "keywords": [
       "toyota sw20 mr2",
@@ -591,8 +591,8 @@
   },
   "Toyota T100": {
     "bat_slug": "toyota/t100",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota T100",
     "keywords": [
       "toyota t100",
@@ -641,8 +641,8 @@
   },
   "Toyota Tercel": {
     "bat_slug": "toyota/tercel",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Tercel",
     "keywords": [
       "toyota tercel",
@@ -651,8 +651,8 @@
   },
   "Toyota ToyoAce": {
     "bat_slug": "toyota/toyoace",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota ToyoAce",
     "keywords": [
       "toyota toyoace",
@@ -661,8 +661,8 @@
   },
   "Toyota Trekker": {
     "bat_slug": "toyota/trekker",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota Trekker",
     "keywords": [
       "toyota trekker",
@@ -701,8 +701,8 @@
   },
   "Toyota W30 MR2": {
     "bat_slug": "toyota/w30-mr2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Toyota W30 MR2",
     "keywords": [
       "toyota w30 mr2",

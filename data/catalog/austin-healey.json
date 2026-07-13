@@ -1,8 +1,8 @@
 {
   "Austin-Healey 100": {
     "bat_slug": "austin-healey/100",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": 1953,
+    "end_year": 1956,
     "generation": "Austin-Healey 100",
     "keywords": [
       "100",
@@ -11,8 +11,8 @@
   },
   "Austin-Healey 100-6": {
     "bat_slug": "austin-healey/100-6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": 1956,
+    "end_year": 1959,
     "generation": "Austin-Healey 100-6",
     "keywords": [
       "100 6",
@@ -21,8 +21,8 @@
   },
   "Austin-Healey 3000": {
     "bat_slug": "austin-healey/3000",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": 1959,
+    "end_year": 1967,
     "generation": "Austin-Healey 3000",
     "keywords": [
       "austin-healey 3000",
@@ -31,8 +31,8 @@
   },
   "Austin-Healey Bugeye Sprite": {
     "bat_slug": "austin-healey/bugeye-sprite",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Austin-Healey Bugeye Sprite",
     "keywords": [
       "austin-healey bugeye sprite",
@@ -42,8 +42,8 @@
   },
   "Austin-Healey Replica": {
     "bat_slug": "austin-healey/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Austin-Healey Replica",
     "keywords": [
       "replica",
@@ -52,8 +52,8 @@
   },
   "Austin-Healey Sprite Mk II, III, & IV": {
     "bat_slug": "austin-healey/sprite-mk-ii-iii-iv",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": 1961,
+    "end_year": 1971,
     "generation": "Austin-Healey Sprite Mk II, III, & IV",
     "keywords": [
       "austin-healey sprite-mk-ii-iii-iv",

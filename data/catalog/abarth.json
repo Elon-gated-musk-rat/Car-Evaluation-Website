@@ -1,8 +1,8 @@
 {
   "Abarth 750 & 850": {
     "bat_slug": "abarth/750-850",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Abarth 750 & 850",
     "keywords": [
       "abarth 750 & 850",

@@ -11,8 +11,8 @@
   },
   "Chevrolet 454 SS": {
     "bat_slug": "chevrolet/454-ss",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet 454 SS",
     "keywords": [
       "chevrolet 454 ss",
@@ -41,8 +41,8 @@
   },
   "Chevrolet Astro": {
     "bat_slug": "chevrolet/astro",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Astro",
     "keywords": [
       "chevrolet astro",
@@ -51,8 +51,8 @@
   },
   "Chevrolet Avalanche": {
     "bat_slug": "chevrolet/avalanche",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Avalanche",
     "keywords": [
       "chevrolet avalanche",
@@ -61,8 +61,8 @@
   },
   "Chevrolet Bel Air": {
     "bat_slug": "chevrolet/bel-air",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Bel Air",
     "keywords": [
       "chevrolet bel air",
@@ -71,8 +71,8 @@
   },
   "Chevrolet Beretta": {
     "bat_slug": "chevrolet/beretta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Beretta",
     "keywords": [
       "chevrolet beretta",
@@ -81,8 +81,8 @@
   },
   "Chevrolet Biscayne": {
     "bat_slug": "chevrolet/biscayne",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Biscayne",
     "keywords": [
       "chevrolet biscayne",
@@ -111,8 +111,8 @@
   },
   "Chevrolet Blazer GMT415": {
     "bat_slug": "chevrolet/blazer-gmt415",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Blazer GMT415",
     "keywords": [
       "chevrolet blazer gmt415",
@@ -221,8 +221,8 @@
   },
   "Chevrolet Caprice": {
     "bat_slug": "chevrolet/caprice",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Caprice",
     "keywords": [
       "chevrolet caprice",
@@ -251,8 +251,8 @@
   },
   "Chevrolet Cavalier": {
     "bat_slug": "chevrolet/cavalier",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Cavalier",
     "keywords": [
       "chevrolet cavalier",
@@ -261,8 +261,8 @@
   },
   "Chevrolet Chevelle": {
     "bat_slug": "chevrolet/chevelle",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Chevelle",
     "keywords": [
       "chevrolet chevelle",
@@ -271,8 +271,8 @@
   },
   "Chevrolet Colorado": {
     "bat_slug": "chevrolet/colorado",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Colorado",
     "keywords": [
       "chevrolet colorado",
@@ -301,8 +301,8 @@
   },
   "Chevrolet Corvair Greenbrier and Corvan": {
     "bat_slug": "chevrolet/corvair-greenbrier-and-corvan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvair Greenbrier and Corvan",
     "keywords": [
       "chevrolet corvair greenbrier and corvan",
@@ -311,8 +311,8 @@
   },
   "Chevrolet Corvair Rampside and Loadside Pickup": {
     "bat_slug": "chevrolet/corvair-rampside-and-loadside-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvair Rampside and Loadside Pickup",
     "keywords": [
       "chevrolet corvair rampside and loadside pickup",
@@ -371,8 +371,8 @@
   },
   "Chevrolet Corvette C1 Fuelie": {
     "bat_slug": "chevrolet/corvette-c1-fuelie",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C1 Fuelie",
     "keywords": [
       "chevrolet corvette c1 fuelie",
@@ -381,8 +381,8 @@
   },
   "Chevrolet Corvette C1 Parts & Automobilia": {
     "bat_slug": "chevrolet/corvette-c1-parts-automobilia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C1 Parts & Automobilia",
     "keywords": [
       "chevrolet corvette c1 parts & automobilia",
@@ -391,8 +391,8 @@
   },
   "Chevrolet Corvette C1 Race Car": {
     "bat_slug": "chevrolet/corvette-c1-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C1 Race Car",
     "keywords": [
       "chevrolet corvette c1 race car",
@@ -401,8 +401,8 @@
   },
   "Chevrolet Corvette C1 Resto-Mod": {
     "bat_slug": "chevrolet/corvette-c1-resto-mod",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C1 Resto-Mod",
     "keywords": [
       "chevrolet corvette c1 resto-mod",
@@ -461,8 +461,8 @@
   },
   "Chevrolet Corvette C2 Parts & Automobilia": {
     "bat_slug": "chevrolet/corvette-c2-parts-automobilia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C2 Parts & Automobilia",
     "keywords": [
       "chevrolet corvette c2 parts & automobilia",
@@ -471,8 +471,8 @@
   },
   "Chevrolet Corvette C2 Race Car": {
     "bat_slug": "chevrolet/corvette-c2-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C2 Race Car",
     "keywords": [
       "chevrolet corvette c2 race car",
@@ -481,8 +481,8 @@
   },
   "Chevrolet Corvette C3 Collector Edition": {
     "bat_slug": "chevrolet/c3-corvette-collector-edition",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 Collector Edition",
     "keywords": [
       "chevrolet corvette c3 collector edition",
@@ -491,8 +491,8 @@
   },
   "Chevrolet Corvette C3 Convertible": {
     "bat_slug": "chevrolet/c3-corvette-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 Convertible",
     "keywords": [
       "chevrolet corvette c3 convertible",
@@ -521,8 +521,8 @@
   },
   "Chevrolet Corvette C3 L88": {
     "bat_slug": "chevrolet/c3-corvette-l88",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 L88",
     "keywords": [
       "chevrolet corvette c3 l88",
@@ -531,8 +531,8 @@
   },
   "Chevrolet Corvette C3 LT-1": {
     "bat_slug": "chevrolet/c3-corvette-lt-1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 LT-1",
     "keywords": [
       "chevrolet corvette c3 lt-1",
@@ -541,8 +541,8 @@
   },
   "Chevrolet Corvette C3 Pace Car": {
     "bat_slug": "chevrolet/c3-corvette-pace-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 Pace Car",
     "keywords": [
       "chevrolet corvette c3 pace car",
@@ -551,8 +551,8 @@
   },
   "Chevrolet Corvette C3 Race Car": {
     "bat_slug": "chevrolet/c3-corvette-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 Race Car",
     "keywords": [
       "chevrolet corvette c3 race car",
@@ -561,8 +561,8 @@
   },
   "Chevrolet Corvette C3 ZR1 & ZR2": {
     "bat_slug": "chevrolet/c3-corvette-zr1-zr2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C3 ZR1 & ZR2",
     "keywords": [
       "chevrolet corvette c3 zr1 & zr2",
@@ -571,8 +571,8 @@
   },
   "Chevrolet Corvette C4 Callaway": {
     "bat_slug": "chevrolet/corvette-c4-callaway",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C4 Callaway",
     "keywords": [
       "chevrolet corvette c4 callaway",
@@ -581,8 +581,8 @@
   },
   "Chevrolet Corvette C4 Collector Edition": {
     "bat_slug": "chevrolet/corvette-c4-collector-edition",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C4 Collector Edition",
     "keywords": [
       "chevrolet corvette c4 collector edition",
@@ -631,8 +631,8 @@
   },
   "Chevrolet Corvette C4 Grand Sport": {
     "bat_slug": "chevrolet/corvette-c4-grand-sport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C4 Grand Sport",
     "keywords": [
       "chevrolet corvette c4 grand sport",
@@ -641,8 +641,8 @@
   },
   "Chevrolet Corvette C4 Race Car": {
     "bat_slug": "chevrolet/corvette-c4-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C4 Race Car",
     "keywords": [
       "chevrolet corvette c4 race car",
@@ -651,8 +651,8 @@
   },
   "Chevrolet Corvette C4 ZR-1": {
     "bat_slug": "chevrolet/corvette-c4-zr-1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C4 ZR-1",
     "keywords": [
       "chevrolet corvette c4 zr-1",
@@ -661,8 +661,8 @@
   },
   "Chevrolet Corvette C5 50th Anniversary": {
     "bat_slug": "chevrolet/corvette-c5-50th-anniversary",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 50th Anniversary",
     "keywords": [
       "chevrolet corvette c5 50th anniversary",
@@ -671,8 +671,8 @@
   },
   "Chevrolet Corvette C5 Backdate": {
     "bat_slug": "chevrolet/corvette-c5-backdate",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Backdate",
     "keywords": [
       "chevrolet corvette c5 backdate",
@@ -681,8 +681,8 @@
   },
   "Chevrolet Corvette C5 Callaway": {
     "bat_slug": "chevrolet/corvette-c5-callaway",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Callaway",
     "keywords": [
       "chevrolet corvette c5 callaway",
@@ -691,8 +691,8 @@
   },
   "Chevrolet Corvette C5 Commemorative Edition": {
     "bat_slug": "chevrolet/corvette-c5-commemorative-edition",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Commemorative Edition",
     "keywords": [
       "chevrolet corvette c5 commemorative edition",
@@ -701,8 +701,8 @@
   },
   "Chevrolet Corvette C5 Convertible": {
     "bat_slug": "chevrolet/corvette-c5-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Convertible",
     "keywords": [
       "chevrolet corvette c5 convertible",
@@ -711,8 +711,8 @@
   },
   "Chevrolet Corvette C5 Coupe": {
     "bat_slug": "chevrolet/corvette-c5-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Coupe",
     "keywords": [
       "chevrolet corvette c5 coupe",
@@ -721,8 +721,8 @@
   },
   "Chevrolet Corvette C5 FRC": {
     "bat_slug": "chevrolet/corvette-c5-frc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 FRC",
     "keywords": [
       "chevrolet corvette c5 frc",
@@ -731,8 +731,8 @@
   },
   "Chevrolet Corvette C5 Pace Car": {
     "bat_slug": "chevrolet/corvette-c5-pace-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Pace Car",
     "keywords": [
       "chevrolet corvette c5 pace car",
@@ -741,8 +741,8 @@
   },
   "Chevrolet Corvette C5 Race Car": {
     "bat_slug": "chevrolet/corvette-c5-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Race Car",
     "keywords": [
       "chevrolet corvette c5 race car",
@@ -751,8 +751,8 @@
   },
   "Chevrolet Corvette C5 Z06": {
     "bat_slug": "chevrolet/corvette-c5-z06",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C5 Z06",
     "keywords": [
       "chevrolet corvette c5 z06",
@@ -761,8 +761,8 @@
   },
   "Chevrolet Corvette C6 427 Convertible": {
     "bat_slug": "chevrolet/corvette-c6-427-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 427 Convertible",
     "keywords": [
       "chevrolet corvette c6 427 convertible",
@@ -771,8 +771,8 @@
   },
   "Chevrolet Corvette C6 Callaway": {
     "bat_slug": "chevrolet/corvette-c6-callaway",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Callaway",
     "keywords": [
       "chevrolet corvette c6 callaway",
@@ -781,8 +781,8 @@
   },
   "Chevrolet Corvette C6 Convertible": {
     "bat_slug": "chevrolet/corvette-c6-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Convertible",
     "keywords": [
       "chevrolet corvette c6 convertible",
@@ -791,8 +791,8 @@
   },
   "Chevrolet Corvette C6 Coupe": {
     "bat_slug": "chevrolet/corvette-c6-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Coupe",
     "keywords": [
       "chevrolet corvette c6 coupe",
@@ -801,8 +801,8 @@
   },
   "Chevrolet Corvette C6 Grand Sport": {
     "bat_slug": "chevrolet/corvette-c6-grand-sport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Grand Sport",
     "keywords": [
       "chevrolet corvette c6 grand sport",
@@ -811,8 +811,8 @@
   },
   "Chevrolet Corvette C6 Pace Car": {
     "bat_slug": "chevrolet/corvette-c6-pace-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Pace Car",
     "keywords": [
       "chevrolet corvette c6 pace car",
@@ -821,8 +821,8 @@
   },
   "Chevrolet Corvette C6 Race Car": {
     "bat_slug": "chevrolet/corvette-c6-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Race Car",
     "keywords": [
       "chevrolet corvette c6 race car",
@@ -831,8 +831,8 @@
   },
   "Chevrolet Corvette C6 Z06": {
     "bat_slug": "chevrolet/corvette-c6-z06",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 Z06",
     "keywords": [
       "chevrolet corvette c6 z06",
@@ -841,8 +841,8 @@
   },
   "Chevrolet Corvette C6 ZR1": {
     "bat_slug": "chevrolet/corvette-c6-zr1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C6 ZR1",
     "keywords": [
       "chevrolet corvette c6 zr1",
@@ -851,8 +851,8 @@
   },
   "Chevrolet Corvette C7 Callaway": {
     "bat_slug": "chevrolet/corvette-c7-callaway",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Callaway",
     "keywords": [
       "chevrolet corvette c7 callaway",
@@ -861,8 +861,8 @@
   },
   "Chevrolet Corvette C7 Grand Sport": {
     "bat_slug": "chevrolet/corvette-c7-grand-sport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Grand Sport",
     "keywords": [
       "chevrolet corvette c7 grand sport",
@@ -871,8 +871,8 @@
   },
   "Chevrolet Corvette C7 Race Car": {
     "bat_slug": "chevrolet/corvette-c7-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Race Car",
     "keywords": [
       "chevrolet corvette c7 race car",
@@ -881,8 +881,8 @@
   },
   "Chevrolet Corvette C7 Stingray Convertible": {
     "bat_slug": "chevrolet/corvette-c7-stingray-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Stingray Convertible",
     "keywords": [
       "chevrolet corvette c7 stingray convertible",
@@ -891,8 +891,8 @@
   },
   "Chevrolet Corvette C7 Stingray Coupe": {
     "bat_slug": "chevrolet/corvette-c7-stingray-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Stingray Coupe",
     "keywords": [
       "chevrolet corvette c7 stingray coupe",
@@ -901,8 +901,8 @@
   },
   "Chevrolet Corvette C7 Stingray Z51": {
     "bat_slug": "chevrolet/corvette-c7-stingray-z51",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Stingray Z51",
     "keywords": [
       "chevrolet corvette c7 stingray z51",
@@ -911,8 +911,8 @@
   },
   "Chevrolet Corvette C7 Z06": {
     "bat_slug": "chevrolet/corvette-c7-z06",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 Z06",
     "keywords": [
       "chevrolet corvette c7 z06",
@@ -921,8 +921,8 @@
   },
   "Chevrolet Corvette C7 ZR1": {
     "bat_slug": "chevrolet/corvette-c7-zr1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C7 ZR1",
     "keywords": [
       "chevrolet corvette c7 zr1",
@@ -931,8 +931,8 @@
   },
   "Chevrolet Corvette C8 E-Ray": {
     "bat_slug": "chevrolet/corvette-c8-e-ray",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 E-Ray",
     "keywords": [
       "chevrolet corvette c8 e-ray",
@@ -941,8 +941,8 @@
   },
   "Chevrolet Corvette C8 Stingray Convertible": {
     "bat_slug": "chevrolet/corvette-c8-stingray-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 Stingray Convertible",
     "keywords": [
       "chevrolet corvette c8 stingray convertible",
@@ -951,8 +951,8 @@
   },
   "Chevrolet Corvette C8 Stingray Coupe": {
     "bat_slug": "chevrolet/corvette-c8-stingray-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 Stingray Coupe",
     "keywords": [
       "chevrolet corvette c8 stingray coupe",
@@ -961,8 +961,8 @@
   },
   "Chevrolet Corvette C8 Z06": {
     "bat_slug": "chevrolet/corvette-c8-z06",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 Z06",
     "keywords": [
       "chevrolet corvette c8 z06",
@@ -971,8 +971,8 @@
   },
   "Chevrolet Corvette C8 ZR1": {
     "bat_slug": "chevrolet/corvette-c8-zr1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 ZR1",
     "keywords": [
       "chevrolet corvette c8 zr1",
@@ -981,8 +981,8 @@
   },
   "Chevrolet Corvette C8 ZR1X": {
     "bat_slug": "chevrolet/corvette-c8-zr1x",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Corvette C8 ZR1X",
     "keywords": [
       "chevrolet corvette c8 zr1x",
@@ -991,8 +991,8 @@
   },
   "Chevrolet Delray": {
     "bat_slug": "chevrolet/delray",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Delray",
     "keywords": [
       "chevrolet delray",
@@ -1001,8 +1001,8 @@
   },
   "Chevrolet El Camino": {
     "bat_slug": "chevrolet/el-camino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet El Camino",
     "keywords": [
       "chevrolet el camino",
@@ -1011,8 +1011,8 @@
   },
   "Chevrolet Express": {
     "bat_slug": "chevrolet/express",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Express",
     "keywords": [
       "chevrolet express",
@@ -1021,8 +1021,8 @@
   },
   "Chevrolet G-Series Van": {
     "bat_slug": "chevrolet/g-series-van",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet G-Series Van",
     "keywords": [
       "chevrolet g-series van",
@@ -1031,8 +1031,8 @@
   },
   "Chevrolet HHR": {
     "bat_slug": "chevrolet/hhr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet HHR",
     "keywords": [
       "chevrolet hhr",
@@ -1111,8 +1111,8 @@
   },
   "Chevrolet Impala Race Car": {
     "bat_slug": "chevrolet/impala-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Impala Race Car",
     "keywords": [
       "chevrolet impala race car",
@@ -1131,8 +1131,8 @@
   },
   "Chevrolet Independence & Confederate": {
     "bat_slug": "chevrolet/independence-confederate",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Independence & Confederate",
     "keywords": [
       "chevrolet independence & confederate",
@@ -1161,8 +1161,8 @@
   },
   "Chevrolet Kodiak": {
     "bat_slug": "chevrolet/kodiak",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Kodiak",
     "keywords": [
       "chevrolet kodiak",
@@ -1171,8 +1171,8 @@
   },
   "Chevrolet Lumina": {
     "bat_slug": "chevrolet/lumina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Lumina",
     "keywords": [
       "chevrolet lumina",
@@ -1181,8 +1181,8 @@
   },
   "Chevrolet LUV": {
     "bat_slug": "chevrolet/luv",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet LUV",
     "keywords": [
       "chevrolet luv",
@@ -1191,8 +1191,8 @@
   },
   "Chevrolet Monte Carlo": {
     "bat_slug": "chevrolet/monte-carlo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Monte Carlo",
     "keywords": [
       "chevrolet monte carlo",
@@ -1201,8 +1201,8 @@
   },
   "Chevrolet National, International, & Universal": {
     "bat_slug": "chevrolet/national-international-universal",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet National, International, & Universal",
     "keywords": [
       "chevrolet national, international, & universal",
@@ -1211,8 +1211,8 @@
   },
   "Chevrolet Nomad": {
     "bat_slug": "chevrolet/nomad",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Nomad",
     "keywords": [
       "chevrolet nomad",
@@ -1221,8 +1221,8 @@
   },
   "Chevrolet Nova": {
     "bat_slug": "chevrolet/nova",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Nova",
     "keywords": [
       "chevrolet nova",
@@ -1351,8 +1351,8 @@
   },
   "Chevrolet SS Sedan": {
     "bat_slug": "chevrolet/ss",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet SS Sedan",
     "keywords": [
       "chevrolet ss sedan",
@@ -1361,8 +1361,8 @@
   },
   "Chevrolet SSR": {
     "bat_slug": "chevrolet/ssr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet SSR",
     "keywords": [
       "chevrolet ssr",
@@ -1481,8 +1481,8 @@
   },
   "Chevrolet Superior & Capitol": {
     "bat_slug": "chevrolet/superior-capitol",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Superior & Capitol",
     "keywords": [
       "chevrolet superior & capitol",
@@ -1491,8 +1491,8 @@
   },
   "Chevrolet Tahoe GMT400": {
     "bat_slug": "chevrolet/tahoe-gmt400",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Tahoe GMT400",
     "keywords": [
       "chevrolet tahoe gmt400",
@@ -1501,8 +1501,8 @@
   },
   "Chevrolet Tahoe GMT800": {
     "bat_slug": "chevrolet/tahoe-gmt800",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Tahoe GMT800",
     "keywords": [
       "chevrolet tahoe gmt800",
@@ -1511,8 +1511,8 @@
   },
   "Chevrolet Tahoe GMT900": {
     "bat_slug": "chevrolet/tahoe-gmt900",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Tahoe GMT900",
     "keywords": [
       "chevrolet tahoe gmt900",
@@ -1551,8 +1551,8 @@
   },
   "Chevrolet Townsman": {
     "bat_slug": "chevrolet/townsman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Townsman",
     "keywords": [
       "chevrolet townsman",
@@ -1561,8 +1561,8 @@
   },
   "Chevrolet Trailblazer": {
     "bat_slug": "chevrolet/trailblazer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Trailblazer",
     "keywords": [
       "chevrolet trailblazer",
@@ -1571,8 +1571,8 @@
   },
   "Chevrolet Tri-5": {
     "bat_slug": "chevrolet/tri-5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Tri-5",
     "keywords": [
       "chevrolet tri-5",
@@ -1581,8 +1581,8 @@
   },
   "Chevrolet Vega": {
     "bat_slug": "chevrolet/vega",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chevrolet Vega",
     "keywords": [
       "chevrolet vega",

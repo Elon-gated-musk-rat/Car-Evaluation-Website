@@ -1,8 +1,8 @@
 {
   "Plymouth Barracuda": {
     "bat_slug": "plymouth/barracuda",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Barracuda",
     "keywords": [
       "plymouth barracuda",
@@ -11,8 +11,8 @@
   },
   "Plymouth Belvedere": {
     "bat_slug": "plymouth/belvedere",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Belvedere",
     "keywords": [
       "plymouth belvedere",
@@ -21,8 +21,8 @@
   },
   "Plymouth Deluxe/Special Deluxe": {
     "bat_slug": "plymouth/deluxe-special-deluxe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Deluxe/Special Deluxe",
     "keywords": [
       "plymouth deluxe/special deluxe",
@@ -31,8 +31,8 @@
   },
   "Plymouth Duster": {
     "bat_slug": "plymouth/duster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Duster",
     "keywords": [
       "plymouth duster",
@@ -41,8 +41,8 @@
   },
   "Plymouth Fury": {
     "bat_slug": "plymouth/fury",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Fury",
     "keywords": [
       "plymouth fury",
@@ -51,8 +51,8 @@
   },
   "Plymouth GTX": {
     "bat_slug": "plymouth/gtx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth GTX",
     "keywords": [
       "plymouth gtx",
@@ -61,8 +61,8 @@
   },
   "Plymouth Pickup": {
     "bat_slug": "plymouth/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Pickup",
     "keywords": [
       "plymouth pickup",
@@ -71,8 +71,8 @@
   },
   "Plymouth Prowler": {
     "bat_slug": "plymouth/prowler",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Prowler",
     "keywords": [
       "plymouth prowler",
@@ -81,8 +81,8 @@
   },
   "Plymouth Road Runner": {
     "bat_slug": "plymouth/road-runner",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Road Runner",
     "keywords": [
       "plymouth road runner",
@@ -91,8 +91,8 @@
   },
   "Plymouth Satellite": {
     "bat_slug": "plymouth/satellite",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Satellite",
     "keywords": [
       "plymouth satellite",
@@ -101,8 +101,8 @@
   },
   "Plymouth Suburban": {
     "bat_slug": "plymouth/suburban",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Suburban",
     "keywords": [
       "plymouth suburban",
@@ -111,8 +111,8 @@
   },
   "Plymouth Superbird & Dodge Charger Daytona": {
     "bat_slug": "plymouth/superbird-dodge-charger-daytona",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Superbird & Dodge Charger Daytona",
     "keywords": [
       "plymouth superbird & dodge charger daytona",
@@ -121,8 +121,8 @@
   },
   "Plymouth Valiant": {
     "bat_slug": "plymouth/valiant",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Valiant",
     "keywords": [
       "plymouth valiant",
@@ -131,8 +131,8 @@
   },
   "Plymouth Volare": {
     "bat_slug": "plymouth/volare",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Volare",
     "keywords": [
       "plymouth volare",
@@ -141,8 +141,8 @@
   },
   "Plymouth Voyager & Grand Voyager": {
     "bat_slug": "plymouth/voyager-grand-voyager",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Plymouth Voyager & Grand Voyager",
     "keywords": [
       "plymouth voyager & grand voyager",

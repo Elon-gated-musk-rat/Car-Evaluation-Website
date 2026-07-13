@@ -1,8 +1,8 @@
 {
   "KTM Duke & Super Duke": {
     "bat_slug": "ktm/duke-super-duke",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "KTM Duke & Super Duke",
     "keywords": [
       "ktm duke & super duke",

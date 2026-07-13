@@ -1,8 +1,8 @@
 {
   "Nissan 240SX": {
     "bat_slug": "nissan/240sx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan 240SX",
     "keywords": [
       "nissan 240sx",
@@ -11,8 +11,8 @@
   },
   "Nissan 350Z": {
     "bat_slug": "nissan/350z",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan 350Z",
     "keywords": [
       "nissan 350z",
@@ -21,8 +21,8 @@
   },
   "Nissan 370Z": {
     "bat_slug": "nissan/370z",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan 370Z",
     "keywords": [
       "nissan 370z",
@@ -31,8 +31,8 @@
   },
   "Nissan Altima": {
     "bat_slug": "nissan/altima",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Altima",
     "keywords": [
       "nissan altima",
@@ -41,8 +41,8 @@
   },
   "Nissan C10 Skyline": {
     "bat_slug": "nissan/skyline-c10",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan C10 Skyline",
     "keywords": [
       "nissan c10 skyline",
@@ -51,8 +51,8 @@
   },
   "Nissan C110 Skyline": {
     "bat_slug": "nissan/c110-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan C110 Skyline",
     "keywords": [
       "nissan c110 skyline",
@@ -61,8 +61,8 @@
   },
   "Nissan C210 Skyline": {
     "bat_slug": "nissan/c210-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan C210 Skyline",
     "keywords": [
       "nissan c210 skyline",
@@ -71,8 +71,8 @@
   },
   "Nissan Figaro": {
     "bat_slug": "nissan/figaro",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Figaro",
     "keywords": [
       "nissan figaro",
@@ -81,8 +81,8 @@
   },
   "Nissan GT-R R35": {
     "bat_slug": "nissan/gtr-r35",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan GT-R R35",
     "keywords": [
       "nissan gt-r r35",
@@ -91,8 +91,8 @@
   },
   "Nissan Maxima": {
     "bat_slug": "nissan/maxima",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Maxima",
     "keywords": [
       "nissan maxima",
@@ -101,8 +101,8 @@
   },
   "Nissan Pao": {
     "bat_slug": "nissan/pao",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Pao",
     "keywords": [
       "nissan pao",
@@ -111,8 +111,8 @@
   },
   "Nissan Pathfinder": {
     "bat_slug": "nissan/pathfinder",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Pathfinder",
     "keywords": [
       "nissan pathfinder",
@@ -121,8 +121,8 @@
   },
   "Nissan Patrol": {
     "bat_slug": "nissan/patrol",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Patrol",
     "keywords": [
       "nissan patrol",
@@ -131,8 +131,8 @@
   },
   "Nissan Pickup": {
     "bat_slug": "nissan/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Pickup",
     "keywords": [
       "nissan pickup",
@@ -141,8 +141,8 @@
   },
   "Nissan President": {
     "bat_slug": "nissan/president",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan President",
     "keywords": [
       "nissan president",
@@ -151,8 +151,8 @@
   },
   "Nissan R30 Skyline": {
     "bat_slug": "nissan/r30-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan R30 Skyline",
     "keywords": [
       "nissan r30 skyline",
@@ -161,8 +161,8 @@
   },
   "Nissan R31 Skyline": {
     "bat_slug": "nissan/r31-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan R31 Skyline",
     "keywords": [
       "nissan r31 skyline",
@@ -171,8 +171,8 @@
   },
   "Nissan R32 Skyline": {
     "bat_slug": "nissan/r32-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan R32 Skyline",
     "keywords": [
       "nissan r32 skyline",
@@ -181,8 +181,8 @@
   },
   "Nissan R33 Skyline": {
     "bat_slug": "nissan/r33-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan R33 Skyline",
     "keywords": [
       "nissan r33 skyline",
@@ -191,8 +191,8 @@
   },
   "Nissan R34 Skyline": {
     "bat_slug": "nissan/r34-skyline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan R34 Skyline",
     "keywords": [
       "nissan r34 skyline",
@@ -201,8 +201,8 @@
   },
   "Nissan RZ34 Z": {
     "bat_slug": "nissan/rz34-z",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan RZ34 Z",
     "keywords": [
       "nissan rz34 z",
@@ -211,8 +211,8 @@
   },
   "Nissan Sentra SE-R": {
     "bat_slug": "nissan/sentra-se-r",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Sentra SE-R",
     "keywords": [
       "nissan sentra se-r",
@@ -221,8 +221,8 @@
   },
   "Nissan Silvia": {
     "bat_slug": "nissan/silvia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Silvia",
     "keywords": [
       "nissan silvia",
@@ -231,8 +231,8 @@
   },
   "Nissan Skyline (S50-Series)": {
     "bat_slug": "nissan/skyline-s50-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Skyline (S50-Series)",
     "keywords": [
       "nissan skyline (s50-series)",
@@ -241,8 +241,8 @@
   },
   "Nissan Stagea": {
     "bat_slug": "nissan/stagea",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Stagea",
     "keywords": [
       "nissan stagea",
@@ -251,8 +251,8 @@
   },
   "Nissan Xterra": {
     "bat_slug": "nissan/xterra",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Xterra",
     "keywords": [
       "nissan xterra",
@@ -261,8 +261,8 @@
   },
   "Nissan Z31 300ZX": {
     "bat_slug": "nissan/z31-300zx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Z31 300ZX",
     "keywords": [
       "nissan z31 300zx",
@@ -271,8 +271,8 @@
   },
   "Nissan Z32 300ZX": {
     "bat_slug": "nissan/z32-300zx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nissan Z32 300ZX",
     "keywords": [
       "nissan z32 300zx",

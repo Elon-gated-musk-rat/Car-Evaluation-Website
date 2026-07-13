@@ -1,8 +1,8 @@
 {
   "Lancia Appia": {
     "bat_slug": "lancia/appia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Appia",
     "keywords": [
       "lancia appia",
@@ -11,8 +11,8 @@
   },
   "Lancia Aurelia": {
     "bat_slug": "lancia/aurelia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Aurelia",
     "keywords": [
       "lancia aurelia",
@@ -21,8 +21,8 @@
   },
   "Lancia Beta": {
     "bat_slug": "lancia/beta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Beta",
     "keywords": [
       "lancia beta",
@@ -31,8 +31,8 @@
   },
   "Lancia Delta": {
     "bat_slug": "lancia/delta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Delta",
     "keywords": [
       "lancia delta",
@@ -41,8 +41,8 @@
   },
   "Lancia Flaminia": {
     "bat_slug": "lancia/flaminia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Flaminia",
     "keywords": [
       "lancia flaminia",
@@ -51,8 +51,8 @@
   },
   "Lancia Flavia": {
     "bat_slug": "lancia/flavia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Flavia",
     "keywords": [
       "lancia flavia",
@@ -61,8 +61,8 @@
   },
   "Lancia Fulvia": {
     "bat_slug": "lancia/fulvia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Fulvia",
     "keywords": [
       "lancia fulvia",
@@ -71,8 +71,8 @@
   },
   "Lancia Scorpion / Montecarlo": {
     "bat_slug": "lancia/scorpion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Scorpion / Montecarlo",
     "keywords": [
       "lancia scorpion / montecarlo",
@@ -81,8 +81,8 @@
   },
   "Lancia Stratos": {
     "bat_slug": "lancia/stratos",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lancia Stratos",
     "keywords": [
       "lancia stratos",

@@ -1,8 +1,8 @@
 {
   "Airstream Conversion": {
     "bat_slug": "airstream/conversion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Airstream Conversion",
     "keywords": [
       "airstream conversion",
@@ -11,8 +11,8 @@
   },
   "Airstream Motorhome": {
     "bat_slug": "airstream/motorhome",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Airstream Motorhome",
     "keywords": [
       "motorhome",
@@ -21,8 +21,8 @@
   },
   "Airstream Trailer": {
     "bat_slug": "airstream/trailer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Airstream Trailer",
     "keywords": [
       "trailer",

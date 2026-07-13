@@ -1,8 +1,8 @@
 {
   "Dallara EXP": {
     "bat_slug": "dallara/exp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dallara EXP",
     "keywords": [
       "dallara exp",

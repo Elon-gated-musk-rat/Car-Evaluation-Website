@@ -1,8 +1,8 @@
 {
   "Panoz Esperante": {
     "bat_slug": "panoz/esperante",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Panoz Esperante",
     "keywords": [
       "panoz esperante",
@@ -11,8 +11,8 @@
   },
   "Panoz Roadster": {
     "bat_slug": "panoz/roadster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Panoz Roadster",
     "keywords": [
       "panoz roadster",

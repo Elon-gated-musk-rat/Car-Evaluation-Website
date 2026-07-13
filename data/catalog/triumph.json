@@ -11,8 +11,8 @@
   },
   "Triumph 3TA": {
     "bat_slug": "triumph/3ta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph 3TA",
     "keywords": [
       "triumph 3ta",
@@ -21,8 +21,8 @@
   },
   "Triumph 5T & 5TA Speed Twin": {
     "bat_slug": "triumph/5ta-speed-twin",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph 5T & 5TA Speed Twin",
     "keywords": [
       "triumph 5t & 5ta speed twin",
@@ -31,8 +31,8 @@
   },
   "Triumph Bonneville T120": {
     "bat_slug": "triumph/bonneville-t120",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Bonneville T120",
     "keywords": [
       "triumph bonneville t120",
@@ -41,8 +41,8 @@
   },
   "Triumph Bonneville T140": {
     "bat_slug": "triumph/bonneville-t140",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Bonneville T140",
     "keywords": [
       "triumph bonneville t140",
@@ -71,8 +71,8 @@
   },
   "Triumph GT6": {
     "bat_slug": "triumph/gt6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph GT6",
     "keywords": [
       "triumph gt6",
@@ -81,8 +81,8 @@
   },
   "Triumph Herald": {
     "bat_slug": "triumph/herald",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Herald",
     "keywords": [
       "triumph herald",
@@ -91,8 +91,8 @@
   },
   "Triumph Military Motorcycle": {
     "bat_slug": "triumph/military-motorcycle",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Military Motorcycle",
     "keywords": [
       "triumph military motorcycle",
@@ -111,8 +111,8 @@
   },
   "Triumph Prewar Motorcycle": {
     "bat_slug": "triumph/prewar-motorcycle",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Prewar Motorcycle",
     "keywords": [
       "triumph prewar motorcycle",
@@ -121,8 +121,8 @@
   },
   "Triumph Race Bikes": {
     "bat_slug": "triumph/race-bikes",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Race Bikes",
     "keywords": [
       "triumph race bikes",
@@ -131,8 +131,8 @@
   },
   "Triumph Rocket 3": {
     "bat_slug": "triumph/rocket-3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Rocket 3",
     "keywords": [
       "triumph rocket 3",
@@ -141,8 +141,8 @@
   },
   "Triumph Scrambler": {
     "bat_slug": "triumph/scrambler",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Scrambler",
     "keywords": [
       "triumph scrambler",
@@ -151,8 +151,8 @@
   },
   "Triumph Speed Triple": {
     "bat_slug": "triumph/speed-triple",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Speed Triple",
     "keywords": [
       "triumph speed triple",
@@ -161,8 +161,8 @@
   },
   "Triumph Speed Twin 900 & 1200": {
     "bat_slug": "triumph/speed-twin-1200",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Speed Twin 900 & 1200",
     "keywords": [
       "triumph speed twin 900 & 1200",
@@ -171,8 +171,8 @@
   },
   "Triumph Spitfire": {
     "bat_slug": "triumph/spitfire",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Spitfire",
     "keywords": [
       "triumph spitfire",
@@ -181,8 +181,8 @@
   },
   "Triumph Sprint": {
     "bat_slug": "triumph/sprint",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Sprint",
     "keywords": [
       "triumph sprint",
@@ -191,8 +191,8 @@
   },
   "Triumph Stag": {
     "bat_slug": "triumph/stag",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Stag",
     "keywords": [
       "triumph stag",
@@ -201,8 +201,8 @@
   },
   "Triumph Thruxton": {
     "bat_slug": "triumph/thruxton",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Thruxton",
     "keywords": [
       "triumph thruxton",
@@ -221,8 +221,8 @@
   },
   "Triumph Thunderbird 900": {
     "bat_slug": "triumph/thunderbird-900",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Thunderbird 900",
     "keywords": [
       "triumph thunderbird 900",
@@ -241,8 +241,8 @@
   },
   "Triumph Tiger (1990s+)": {
     "bat_slug": "triumph/tiger-1990s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Tiger (1990s+)",
     "keywords": [
       "triumph tiger (1990s+)",
@@ -251,8 +251,8 @@
   },
   "Triumph Tiger Cub and Terrier": {
     "bat_slug": "triumph/tiger-cub-and-terrier",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Tiger Cub and Terrier",
     "keywords": [
       "triumph tiger cub and terrier",
@@ -261,8 +261,8 @@
   },
   "Triumph TR2": {
     "bat_slug": "triumph/tr2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph TR2",
     "keywords": [
       "triumph tr2",
@@ -271,8 +271,8 @@
   },
   "Triumph TR3": {
     "bat_slug": "triumph/tr3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph TR3",
     "keywords": [
       "triumph tr3",
@@ -281,8 +281,8 @@
   },
   "Triumph TR4": {
     "bat_slug": "triumph/tr4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph TR4",
     "keywords": [
       "triumph tr4",
@@ -291,8 +291,8 @@
   },
   "Triumph TR5 & TR250": {
     "bat_slug": "triumph/tr250",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph TR5 & TR250",
     "keywords": [
       "triumph tr5 & tr250",
@@ -301,8 +301,8 @@
   },
   "Triumph TR6": {
     "bat_slug": "triumph/tr6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph TR6",
     "keywords": [
       "triumph tr6",
@@ -311,8 +311,8 @@
   },
   "Triumph Trail Blazer": {
     "bat_slug": "triumph/trail-blazer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Trail Blazer",
     "keywords": [
       "triumph trail blazer",
@@ -321,8 +321,8 @@
   },
   "Triumph Trident": {
     "bat_slug": "triumph/trident",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Trident",
     "keywords": [
       "triumph trident",
@@ -331,8 +331,8 @@
   },
   "Triumph Trophy": {
     "bat_slug": "triumph/trophy",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Trophy",
     "keywords": [
       "triumph trophy",
@@ -341,8 +341,8 @@
   },
   "Triumph Wedge": {
     "bat_slug": "triumph/wedge",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph Wedge",
     "keywords": [
       "triumph wedge",
@@ -351,8 +351,8 @@
   },
   "Triumph X-75 Hurricane": {
     "bat_slug": "triumph/x-75-hurricane",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Triumph X-75 Hurricane",
     "keywords": [
       "triumph x-75 hurricane",

@@ -1,8 +1,8 @@
 {
   "AM General Jeep": {
     "bat_slug": "am-general/jeep",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "AM General Jeep",
     "keywords": [
       "am general jeep",
@@ -11,8 +11,8 @@
   },
   "AM General Truck": {
     "bat_slug": "am-general/truck",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "AM General Truck",
     "keywords": [
       "truck",

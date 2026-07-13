@@ -1,8 +1,8 @@
 {
   "Factory Five 33 Hot Rod": {
     "bat_slug": "factory-five/33-hot-rod",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Factory Five 33 Hot Rod",
     "keywords": [
       "factory five 33 hot rod",
@@ -11,8 +11,8 @@
   },
   "Factory Five 818": {
     "bat_slug": "factory-five/818",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Factory Five 818",
     "keywords": [
       "factory five 818",
@@ -21,8 +21,8 @@
   },
   "Factory Five GTM": {
     "bat_slug": "factory-five/gtm",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Factory Five GTM",
     "keywords": [
       "factory five gtm",

@@ -1,8 +1,8 @@
 {
   "Mini F54 Clubman": {
     "bat_slug": "mini/f54-clubman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini F54 Clubman",
     "keywords": [
       "mini f54 clubman",
@@ -11,8 +11,8 @@
   },
   "Mini F55 & F56 Cooper, Cooper S, & John Cooper Works": {
     "bat_slug": "mini/f55-f56-cooper-cooper-s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini F55 & F56 Cooper, Cooper S, & John Cooper Works",
     "keywords": [
       "mini f55 & f56 cooper, cooper s, & john cooper works",
@@ -21,8 +21,8 @@
   },
   "Mini F56 JCW GP": {
     "bat_slug": "mini/f56-jcw-gp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini F56 JCW GP",
     "keywords": [
       "mini f56 jcw gp",
@@ -31,8 +31,8 @@
   },
   "Mini F57 Convertible": {
     "bat_slug": "mini/f57-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini F57 Convertible",
     "keywords": [
       "mini f57 convertible",
@@ -41,8 +41,8 @@
   },
   "Mini F60 Countryman": {
     "bat_slug": "mini/f60-countryman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini F60 Countryman",
     "keywords": [
       "mini f60 countryman",
@@ -51,8 +51,8 @@
   },
   "Mini Mk I & Mk II": {
     "bat_slug": "mini/mk-i-mk-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Mk I & Mk II",
     "keywords": [
       "mini mk i & mk ii",
@@ -61,8 +61,8 @@
   },
   "Mini Mk I-III Cooper": {
     "bat_slug": "mini/mk-i-iii-cooper",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Mk I-III Cooper",
     "keywords": [
       "mini mk i-iii cooper",
@@ -71,8 +71,8 @@
   },
   "Mini Mk III-Mk V": {
     "bat_slug": "mini/mk-iii-mk-v",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Mk III-Mk V",
     "keywords": [
       "mini mk iii-mk v",
@@ -81,8 +81,8 @@
   },
   "Mini Mk VI & Mk VII": {
     "bat_slug": "mini/mk-vi-mk-vii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Mk VI & Mk VII",
     "keywords": [
       "mini mk vi & mk vii",
@@ -91,8 +91,8 @@
   },
   "Mini Moke Classic": {
     "bat_slug": "mini/moke-classic",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Moke Classic",
     "keywords": [
       "mini moke classic",
@@ -101,8 +101,8 @@
   },
   "Mini Moke Electric": {
     "bat_slug": "mini/moke-electric",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini Moke Electric",
     "keywords": [
       "mini moke electric",
@@ -111,8 +111,8 @@
   },
   "Mini R50 Cooper": {
     "bat_slug": "mini/r50-cooper",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R50 Cooper",
     "keywords": [
       "mini r50 cooper",
@@ -121,8 +121,8 @@
   },
   "Mini R52 Cooper Convertible": {
     "bat_slug": "mini/r52-cooper-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R52 Cooper Convertible",
     "keywords": [
       "mini r52 cooper convertible",
@@ -131,8 +131,8 @@
   },
   "Mini R53 Cooper S": {
     "bat_slug": "mini/r53-cooper-s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R53 Cooper S",
     "keywords": [
       "mini r53 cooper s",
@@ -141,8 +141,8 @@
   },
   "Mini R53 JCW GP": {
     "bat_slug": "mini/r53-jcw-gp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R53 JCW GP",
     "keywords": [
       "mini r53 jcw gp",
@@ -151,8 +151,8 @@
   },
   "Mini R53 John Cooper Works": {
     "bat_slug": "mini/r53-john-cooper-works",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R53 John Cooper Works",
     "keywords": [
       "mini r53 john cooper works",
@@ -161,8 +161,8 @@
   },
   "Mini R55 Clubman": {
     "bat_slug": "mini/r55-clubman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R55 Clubman",
     "keywords": [
       "mini r55 clubman",
@@ -171,8 +171,8 @@
   },
   "Mini R56 Cooper, Cooper S, and John Cooper Works": {
     "bat_slug": "mini/r56-cooper-cooper-s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R56 Cooper, Cooper S, and John Cooper Works",
     "keywords": [
       "mini r56 cooper, cooper s, and john cooper works",
@@ -181,8 +181,8 @@
   },
   "Mini R56 JCW GP": {
     "bat_slug": "mini/r56-jcw-gp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R56 JCW GP",
     "keywords": [
       "mini r56 jcw gp",
@@ -191,8 +191,8 @@
   },
   "Mini R57 Convertible": {
     "bat_slug": "mini/r57-convertible",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R57 Convertible",
     "keywords": [
       "mini r57 convertible",
@@ -201,8 +201,8 @@
   },
   "Mini R58 & R59 Coupe & Roadster": {
     "bat_slug": "mini/r58-r59-coupe-and-roadster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R58 & R59 Coupe & Roadster",
     "keywords": [
       "mini r58 & r59 coupe & roadster",
@@ -211,8 +211,8 @@
   },
   "Mini R60 Countryman": {
     "bat_slug": "mini/r60-countryman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R60 Countryman",
     "keywords": [
       "mini r60 countryman",
@@ -221,8 +221,8 @@
   },
   "Mini R61 Paceman": {
     "bat_slug": "mini/r61-paceman",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mini R61 Paceman",
     "keywords": [
       "mini r61 paceman",

@@ -1,8 +1,8 @@
 {
   "Excalibur Phaeton": {
     "bat_slug": "excalibur/phaeton",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Excalibur Phaeton",
     "keywords": [
       "excalibur phaeton",

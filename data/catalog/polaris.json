@@ -1,8 +1,8 @@
 {
   "Polaris RZR": {
     "bat_slug": "polaris/rzr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Polaris RZR",
     "keywords": [
       "polaris rzr",

@@ -1,8 +1,8 @@
 {
   "Fiat 1100": {
     "bat_slug": "fiat/1100",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 1100",
     "keywords": [
       "fiat 1100",
@@ -11,8 +11,8 @@
   },
   "Fiat 124 Sedan": {
     "bat_slug": "fiat/124-sedan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 124 Sedan",
     "keywords": [
       "fiat 124 sedan",
@@ -41,8 +41,8 @@
   },
   "Fiat 124 Sport Coupe": {
     "bat_slug": "fiat/124-sport-coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 124 Sport Coupe",
     "keywords": [
       "fiat 124 sport coupe",
@@ -51,8 +51,8 @@
   },
   "Fiat 126": {
     "bat_slug": "fiat/126",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 126",
     "keywords": [
       "fiat 126",
@@ -61,8 +61,8 @@
   },
   "Fiat 128": {
     "bat_slug": "fiat/128",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 128",
     "keywords": [
       "fiat 128",
@@ -71,8 +71,8 @@
   },
   "Fiat 130": {
     "bat_slug": "fiat/130",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 130",
     "keywords": [
       "fiat 130",
@@ -81,8 +81,8 @@
   },
   "Fiat 2300": {
     "bat_slug": "fiat/2300",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 2300",
     "keywords": [
       "fiat 2300",
@@ -101,8 +101,8 @@
   },
   "Fiat 500 Jolly": {
     "bat_slug": "fiat/500-jolly",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 500 Jolly",
     "keywords": [
       "fiat 500 jolly",
@@ -111,8 +111,8 @@
   },
   "Fiat 500 Topolino": {
     "bat_slug": "fiat/500-topolino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 500 Topolino",
     "keywords": [
       "fiat 500 topolino",
@@ -121,8 +121,8 @@
   },
   "Fiat 600 Jolly": {
     "bat_slug": "fiat/600-jolly",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 600 Jolly",
     "keywords": [
       "fiat 600 jolly",
@@ -131,8 +131,8 @@
   },
   "Fiat 600 Multipla": {
     "bat_slug": "fiat/multipla",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 600 Multipla",
     "keywords": [
       "fiat 600 multipla",
@@ -141,8 +141,8 @@
   },
   "Fiat 600 Sedan": {
     "bat_slug": "fiat/600-sedan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 600 Sedan",
     "keywords": [
       "fiat 600 sedan",
@@ -151,8 +151,8 @@
   },
   "Fiat 850": {
     "bat_slug": "fiat/850",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat 850",
     "keywords": [
       "fiat 850",
@@ -161,8 +161,8 @@
   },
   "Fiat Campagnola": {
     "bat_slug": "fiat/campagnola",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat Campagnola",
     "keywords": [
       "fiat campagnola",
@@ -171,8 +171,8 @@
   },
   "Fiat Dino": {
     "bat_slug": "fiat/dino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat Dino",
     "keywords": [
       "fiat dino",
@@ -191,8 +191,8 @@
   },
   "Fiat Panda": {
     "bat_slug": "fiat/panda",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat Panda",
     "keywords": [
       "fiat panda",
@@ -201,8 +201,8 @@
   },
   "Fiat Pininfarina Coupe and Cabriolet": {
     "bat_slug": "fiat/pininfarina-coupe-and-cabriolet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat Pininfarina Coupe and Cabriolet",
     "keywords": [
       "fiat pininfarina coupe and cabriolet",
@@ -211,8 +211,8 @@
   },
   "Fiat X1/9": {
     "bat_slug": "fiat/x19",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Fiat X1/9",
     "keywords": [
       "fiat x1/9",

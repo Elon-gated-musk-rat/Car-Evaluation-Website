@@ -1,8 +1,8 @@
 {
   "Sunbeam Alpine": {
     "bat_slug": "sunbeam/alpine",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Sunbeam Alpine",
     "keywords": [
       "sunbeam alpine",
@@ -11,8 +11,8 @@
   },
   "Sunbeam Tiger": {
     "bat_slug": "sunbeam/tiger",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Sunbeam Tiger",
     "keywords": [
       "sunbeam tiger",

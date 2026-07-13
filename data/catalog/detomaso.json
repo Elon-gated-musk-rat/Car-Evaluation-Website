@@ -1,8 +1,8 @@
 {
   "DeTomaso Guara": {
     "bat_slug": "detomaso/guara",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "DeTomaso Guara",
     "keywords": [
       "detomaso guara",
@@ -11,8 +11,8 @@
   },
   "DeTomaso Mangusta": {
     "bat_slug": "detomaso/mangusta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "DeTomaso Mangusta",
     "keywords": [
       "detomaso mangusta",
@@ -21,8 +21,8 @@
   },
   "DeTomaso Pantera": {
     "bat_slug": "detomaso/pantera",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "DeTomaso Pantera",
     "keywords": [
       "detomaso pantera",
@@ -31,8 +31,8 @@
   },
   "DeTomaso Vallelunga": {
     "bat_slug": "detomaso/vallelunga",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "DeTomaso Vallelunga",
     "keywords": [
       "detomaso vallelunga",

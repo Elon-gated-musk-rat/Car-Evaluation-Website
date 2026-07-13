@@ -1,8 +1,8 @@
 {
   "Intermeccanica Italia": {
     "bat_slug": "intermeccanica/italia",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Intermeccanica Italia",
     "keywords": [
       "intermeccanica italia",

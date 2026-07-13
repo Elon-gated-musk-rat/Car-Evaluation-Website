@@ -1,8 +1,8 @@
 {
   "Maybach 57": {
     "bat_slug": "maybach/57",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Maybach 57",
     "keywords": [
       "maybach 57",
@@ -11,8 +11,8 @@
   },
   "Maybach 62": {
     "bat_slug": "maybach/62",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Maybach 62",
     "keywords": [
       "maybach 62",

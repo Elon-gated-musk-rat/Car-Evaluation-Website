@@ -1,8 +1,8 @@
 {
   "Iso Grifo": {
     "bat_slug": "iso/grifo",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Iso Grifo",
     "keywords": [
       "iso grifo",
@@ -11,8 +11,8 @@
   },
   "Iso Rivolta IR 300 & IR 340": {
     "bat_slug": "iso/rivolta-ir-300-ir-340",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Iso Rivolta IR 300 & IR 340",
     "keywords": [
       "iso rivolta ir 300 & ir 340",

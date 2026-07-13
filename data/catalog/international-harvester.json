@@ -1,8 +1,8 @@
 {
   "International Harvester Loadstar": {
     "bat_slug": "international-harvester/loadstar",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Loadstar",
     "keywords": [
       "international harvester loadstar",
@@ -11,8 +11,8 @@
   },
   "International Harvester Pickup": {
     "bat_slug": "international-harvester/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Pickup",
     "keywords": [
       "international harvester pickup",
@@ -21,8 +21,8 @@
   },
   "International Harvester Scout 80": {
     "bat_slug": "international-harvester/scout-80",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout 80",
     "keywords": [
       "international harvester scout 80",
@@ -31,8 +31,8 @@
   },
   "International Harvester Scout 800": {
     "bat_slug": "international-harvester/scout-800",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout 800",
     "keywords": [
       "international harvester scout 800",
@@ -41,8 +41,8 @@
   },
   "International Harvester Scout 800A": {
     "bat_slug": "international-harvester/scout-800a",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout 800A",
     "keywords": [
       "international harvester scout 800a",
@@ -51,8 +51,8 @@
   },
   "International Harvester Scout 800B": {
     "bat_slug": "international-harvester/scout-800b",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout 800B",
     "keywords": [
       "international harvester scout 800b",
@@ -61,8 +61,8 @@
   },
   "International Harvester Scout II": {
     "bat_slug": "international-harvester/scout-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout II",
     "keywords": [
       "international harvester scout ii",
@@ -71,8 +71,8 @@
   },
   "International Harvester Scout II SSII": {
     "bat_slug": "international-harvester/scout-ii-ssii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout II SSII",
     "keywords": [
       "international harvester scout ii ssii",
@@ -81,8 +81,8 @@
   },
   "International Harvester Scout II Terra": {
     "bat_slug": "international-harvester/scout-ii-terra",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout II Terra",
     "keywords": [
       "international harvester scout ii terra",
@@ -91,8 +91,8 @@
   },
   "International Harvester Scout II Traveler": {
     "bat_slug": "international-harvester/scout-ii-traveler",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Scout II Traveler",
     "keywords": [
       "international harvester scout ii traveler",
@@ -101,8 +101,8 @@
   },
   "International Harvester Travelall": {
     "bat_slug": "international-harvester/travelall",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester Travelall",
     "keywords": [
       "international harvester travelall",
@@ -111,8 +111,8 @@
   },
   "International Harvester XT": {
     "bat_slug": "international-harvester/xt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "International Harvester XT",
     "keywords": [
       "international harvester xt",

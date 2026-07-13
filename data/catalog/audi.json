@@ -1,8 +1,8 @@
 {
   "Audi A3": {
     "bat_slug": "audi/a3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi A3",
     "keywords": [
       "audi a3",
@@ -11,8 +11,8 @@
   },
   "Audi A5": {
     "bat_slug": "audi/a5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi A5",
     "keywords": [
       "audi a5",
@@ -21,8 +21,8 @@
   },
   "Audi A7": {
     "bat_slug": "audi/a7",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi A7",
     "keywords": [
       "audi a7",
@@ -31,8 +31,8 @@
   },
   "Audi A8": {
     "bat_slug": "audi/a8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi A8",
     "keywords": [
       "audi a8",
@@ -41,8 +41,8 @@
   },
   "Audi B1 Fox & 80": {
     "bat_slug": "audi/b1-fox-80",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B1 Fox & 80",
     "keywords": [
       "b1 fox 80",
@@ -52,8 +52,8 @@
   },
   "Audi B2 80, 90, & 4000": {
     "bat_slug": "audi/b2-80-90-4000",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B2 80, 90, & 4000",
     "keywords": [
       "audi b2 80, 90, & 4000",
@@ -63,8 +63,8 @@
   },
   "Audi B3 80 & 90": {
     "bat_slug": "audi/b3-80-90",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B3 80 & 90",
     "keywords": [
       "audi b3 80 & 90",
@@ -74,8 +74,8 @@
   },
   "Audi B4 80 & 90": {
     "bat_slug": "audi/b4-80-90",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B4 80 & 90",
     "keywords": [
       "audi b4 80 & 90",
@@ -85,8 +85,8 @@
   },
   "Audi B4 Cabriolet": {
     "bat_slug": "audi/b4-cabriolet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B4 Cabriolet",
     "keywords": [
       "b4 cabriolet",
@@ -96,8 +96,8 @@
   },
   "Audi B5 A4": {
     "bat_slug": "audi/b5-a4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B5 A4",
     "keywords": [
       "audi b5-a4",
@@ -107,8 +107,8 @@
   },
   "Audi B5 RS4": {
     "bat_slug": "audi/b5-rs4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B5 RS4",
     "keywords": [
       "b5 rs4",
@@ -118,8 +118,8 @@
   },
   "Audi B5 S4": {
     "bat_slug": "audi/b5-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B5 S4",
     "keywords": [
       "b5 s4",
@@ -129,8 +129,8 @@
   },
   "Audi B6 A4": {
     "bat_slug": "audi/b6-a4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B6 A4",
     "keywords": [
       "b6 a4",
@@ -140,8 +140,8 @@
   },
   "Audi B6 S4": {
     "bat_slug": "audi/b6-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B6 S4",
     "keywords": [
       "audi b6-s4",
@@ -151,8 +151,8 @@
   },
   "Audi B7 A4": {
     "bat_slug": "audi/b7-a4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B7 A4",
     "keywords": [
       "b7 a4",
@@ -162,8 +162,8 @@
   },
   "Audi B7 RS4": {
     "bat_slug": "audi/b7-rs4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B7 RS4",
     "keywords": [
       "b7 rs4",
@@ -173,8 +173,8 @@
   },
   "Audi B7 S4": {
     "bat_slug": "audi/b7-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B7 S4",
     "keywords": [
       "b7 s4",
@@ -184,8 +184,8 @@
   },
   "Audi B8 A4": {
     "bat_slug": "audi/b8-a4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B8 A4",
     "keywords": [
       "b8 a4",
@@ -195,8 +195,8 @@
   },
   "Audi B8 Allroad": {
     "bat_slug": "audi/b8-allroad",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B8 Allroad",
     "keywords": [
       "audi b8-allroad",
@@ -206,8 +206,8 @@
   },
   "Audi B8 S4": {
     "bat_slug": "audi/b8-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B8 S4",
     "keywords": [
       "audi b8 s4",
@@ -217,8 +217,8 @@
   },
   "Audi B9 A4": {
     "bat_slug": "audi/b9-a4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B9 A4",
     "keywords": [
       "b9 a4",
@@ -228,8 +228,8 @@
   },
   "Audi B9 A4 Allroad": {
     "bat_slug": "audi/b9-a4-allroad",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B9 A4 Allroad",
     "keywords": [
       "b9 a4 allroad",
@@ -239,8 +239,8 @@
   },
   "Audi B9 S4": {
     "bat_slug": "audi/b9-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi B9 S4",
     "keywords": [
       "audi b9 s4",
@@ -250,8 +250,8 @@
   },
   "Audi C1 100": {
     "bat_slug": "audi/c1-100",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C1 100",
     "keywords": [
       "audi c1-100",
@@ -261,8 +261,8 @@
   },
   "Audi C2 100, 200, & 5000": {
     "bat_slug": "audi/c2-100-200-5000",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C2 100, 200, & 5000",
     "keywords": [
       "audi c2 100, 200, & 5000",
@@ -272,8 +272,8 @@
   },
   "Audi C3 100, 200, & 5000": {
     "bat_slug": "audi/c3-100-200-5000",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C3 100, 200, & 5000",
     "keywords": [
       "audi c3 100, 200, & 5000",
@@ -283,8 +283,8 @@
   },
   "Audi C4 A6": {
     "bat_slug": "audi/c4-a6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C4 A6",
     "keywords": [
       "c4 a6",
@@ -294,8 +294,8 @@
   },
   "Audi C4 S4": {
     "bat_slug": "audi/c4-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C4 S4",
     "keywords": [
       "audi c4-s4",
@@ -305,8 +305,8 @@
   },
   "Audi C4 S6": {
     "bat_slug": "audi/c4-s6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C4 S6",
     "keywords": [
       "audi c4 s6",
@@ -316,8 +316,8 @@
   },
   "Audi C5 A6": {
     "bat_slug": "audi/c5-a6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C5 A6",
     "keywords": [
       "audi c5-a6",
@@ -327,8 +327,8 @@
   },
   "Audi C5 Allroad": {
     "bat_slug": "audi/c5-allroad",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C5 Allroad",
     "keywords": [
       "audi c5 allroad",
@@ -338,8 +338,8 @@
   },
   "Audi C5 RS6": {
     "bat_slug": "audi/c5-rs6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C5 RS6",
     "keywords": [
       "c5 rs6",
@@ -349,8 +349,8 @@
   },
   "Audi C5 S6": {
     "bat_slug": "audi/c5-s6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C5 S6",
     "keywords": [
       "c5 s6",
@@ -360,8 +360,8 @@
   },
   "Audi C6 A6": {
     "bat_slug": "audi/c6-a6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C6 A6",
     "keywords": [
       "audi c6 a6",
@@ -371,8 +371,8 @@
   },
   "Audi C6 RS6": {
     "bat_slug": "audi/c6-rs6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C6 RS6",
     "keywords": [
       "audi c6-rs6",
@@ -382,8 +382,8 @@
   },
   "Audi C6 S6": {
     "bat_slug": "audi/c6-s6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C6 S6",
     "keywords": [
       "audi c6 s6",
@@ -393,8 +393,8 @@
   },
   "Audi C7 A6": {
     "bat_slug": "audi/c7-a6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C7 A6",
     "keywords": [
       "audi c7 a6",
@@ -404,8 +404,8 @@
   },
   "Audi C7 S6": {
     "bat_slug": "audi/c7-s6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C7 S6",
     "keywords": [
       "audi c7 s6",
@@ -415,8 +415,8 @@
   },
   "Audi C8 A6": {
     "bat_slug": "audi/c8-a6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C8 A6",
     "keywords": [
       "audi c8-a6",
@@ -426,8 +426,8 @@
   },
   "Audi C8 RS6": {
     "bat_slug": "audi/c8-rs6",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi C8 RS6",
     "keywords": [
       "audi c8 rs6",
@@ -437,8 +437,8 @@
   },
   "Audi Coupe": {
     "bat_slug": "audi/coupe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi Coupe",
     "keywords": [
       "audi coupe",
@@ -447,8 +447,8 @@
   },
   "Audi e-tron": {
     "bat_slug": "audi/e-tron",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi e-tron",
     "keywords": [
       "audi e-tron",
@@ -457,8 +457,8 @@
   },
   "Audi Q5": {
     "bat_slug": "audi/q5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi Q5",
     "keywords": [
       "q5",
@@ -467,8 +467,8 @@
   },
   "Audi Q7": {
     "bat_slug": "audi/q7",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi Q7",
     "keywords": [
       "q7",
@@ -477,8 +477,8 @@
   },
   "Audi R8 (Type 4S)": {
     "bat_slug": "audi/r8-type-4s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi R8 (Type 4S)",
     "keywords": [
       "audi r8-type-4s",
@@ -488,8 +488,8 @@
   },
   "Audi R8 Race Car": {
     "bat_slug": "audi/r8-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi R8 Race Car",
     "keywords": [
       "audi r8-race-car",
@@ -499,8 +499,8 @@
   },
   "Audi R8 V10 (Type 42)": {
     "bat_slug": "audi/r8-v10-type-42",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi R8 V10 (Type 42)",
     "keywords": [
       "audi r8 v10 (type 42)",
@@ -510,8 +510,8 @@
   },
   "Audi R8 V8 (Type 42)": {
     "bat_slug": "audi/r8-v8-type-42",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi R8 V8 (Type 42)",
     "keywords": [
       "audi r8-v8-type-42",
@@ -521,8 +521,8 @@
   },
   "Audi RS2": {
     "bat_slug": "audi/rs2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi RS2",
     "keywords": [
       "audi rs2",
@@ -531,8 +531,8 @@
   },
   "Audi RS3": {
     "bat_slug": "audi/rs3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi RS3",
     "keywords": [
       "rs3",
@@ -541,8 +541,8 @@
   },
   "Audi RS5": {
     "bat_slug": "audi/rs5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi RS5",
     "keywords": [
       "rs5",
@@ -551,8 +551,8 @@
   },
   "Audi RS7": {
     "bat_slug": "audi/rs7",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi RS7",
     "keywords": [
       "rs7",
@@ -561,8 +561,8 @@
   },
   "Audi S2": {
     "bat_slug": "audi/s2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi S2",
     "keywords": [
       "s2",
@@ -571,8 +571,8 @@
   },
   "Audi S5": {
     "bat_slug": "audi/s5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi S5",
     "keywords": [
       "audi s5",
@@ -581,8 +581,8 @@
   },
   "Audi S7": {
     "bat_slug": "audi/s7",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi S7",
     "keywords": [
       "s7",
@@ -591,8 +591,8 @@
   },
   "Audi S8": {
     "bat_slug": "audi/s8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi S8",
     "keywords": [
       "audi s8",
@@ -601,8 +601,8 @@
   },
   "Audi TT": {
     "bat_slug": "audi/tt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi TT",
     "keywords": [
       "audi tt",
@@ -611,8 +611,8 @@
   },
   "Audi Ur-Quattro": {
     "bat_slug": "audi/ur-quattro",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Audi Ur-Quattro",
     "keywords": [
       "ur quattro",

@@ -1,8 +1,8 @@
 {
   "Studebaker Avanti": {
     "bat_slug": "studebaker/avanti",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Avanti",
     "keywords": [
       "studebaker avanti",
@@ -11,8 +11,8 @@
   },
   "Studebaker Champion": {
     "bat_slug": "studebaker/champion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Champion",
     "keywords": [
       "studebaker champion",
@@ -21,8 +21,8 @@
   },
   "Studebaker Commander": {
     "bat_slug": "studebaker/commander",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Commander",
     "keywords": [
       "studebaker commander",
@@ -31,8 +31,8 @@
   },
   "Studebaker Hawk": {
     "bat_slug": "studebaker/hawk",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Hawk",
     "keywords": [
       "studebaker hawk",
@@ -41,8 +41,8 @@
   },
   "Studebaker Lark": {
     "bat_slug": "studebaker/lark",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Lark",
     "keywords": [
       "studebaker lark",
@@ -51,8 +51,8 @@
   },
   "Studebaker Pickup": {
     "bat_slug": "studebaker/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker Pickup",
     "keywords": [
       "studebaker pickup",
@@ -61,8 +61,8 @@
   },
   "Studebaker President": {
     "bat_slug": "studebaker/president",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Studebaker President",
     "keywords": [
       "studebaker president",

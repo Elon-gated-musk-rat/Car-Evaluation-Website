@@ -1,8 +1,8 @@
 {
   "Willys CJ-2A": {
     "bat_slug": "willys/cj-2a",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys CJ-2A",
     "keywords": [
       "willys cj-2a",
@@ -11,8 +11,8 @@
   },
   "Willys CJ-3A": {
     "bat_slug": "willys/cj-3a",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys CJ-3A",
     "keywords": [
       "willys cj-3a",
@@ -21,8 +21,8 @@
   },
   "Willys CJ-3B": {
     "bat_slug": "willys/cj-3b",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys CJ-3B",
     "keywords": [
       "willys cj-3b",
@@ -41,8 +41,8 @@
   },
   "Willys Jeep Wagon": {
     "bat_slug": "willys/jeep-wagon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys Jeep Wagon",
     "keywords": [
       "willys jeep wagon",
@@ -51,8 +51,8 @@
   },
   "Willys Jeepster": {
     "bat_slug": "willys/jeepster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys Jeepster",
     "keywords": [
       "willys jeepster",
@@ -61,8 +61,8 @@
   },
   "Willys M38": {
     "bat_slug": "willys/m38",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys M38",
     "keywords": [
       "willys m38",
@@ -71,8 +71,8 @@
   },
   "Willys MB": {
     "bat_slug": "willys/mb",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys MB",
     "keywords": [
       "willys mb",
@@ -81,8 +81,8 @@
   },
   "Willys Pickup": {
     "bat_slug": "willys/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Willys Pickup",
     "keywords": [
       "willys pickup",

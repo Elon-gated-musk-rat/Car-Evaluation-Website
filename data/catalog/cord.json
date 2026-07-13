@@ -1,8 +1,8 @@
 {
   "Cord 810/812": {
     "bat_slug": "cord/810-812",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Cord 810/812",
     "keywords": [
       "cord 810/812",
@@ -11,8 +11,8 @@
   },
   "Cord L-29": {
     "bat_slug": "cord/l-29",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Cord L-29",
     "keywords": [
       "cord l-29",
@@ -21,8 +21,8 @@
   },
   "Cord Replica": {
     "bat_slug": "cord/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Cord Replica",
     "keywords": [
       "cord replica",

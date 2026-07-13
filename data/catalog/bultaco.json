@@ -1,8 +1,8 @@
 {
   "Bultaco Alpina": {
     "bat_slug": "bultaco/alpina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bultaco Alpina",
     "keywords": [
       "bultaco alpina",
@@ -11,8 +11,8 @@
   },
   "Bultaco Pursang": {
     "bat_slug": "bultaco/pursang",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bultaco Pursang",
     "keywords": [
       "bultaco pursang",
@@ -21,8 +21,8 @@
   },
   "Bultaco Sherpa": {
     "bat_slug": "bultaco/sherpa",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Bultaco Sherpa",
     "keywords": [
       "bultaco sherpa",

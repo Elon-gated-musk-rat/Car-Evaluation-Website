@@ -1,8 +1,8 @@
 {
   "Peugeot 205": {
     "bat_slug": "peugeot/205",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Peugeot 205",
     "keywords": [
       "peugeot 205",
@@ -11,8 +11,8 @@
   },
   "Peugeot 404": {
     "bat_slug": "peugeot/404",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Peugeot 404",
     "keywords": [
       "peugeot 404",
@@ -21,8 +21,8 @@
   },
   "Peugeot 504": {
     "bat_slug": "peugeot/504",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Peugeot 504",
     "keywords": [
       "peugeot 504",

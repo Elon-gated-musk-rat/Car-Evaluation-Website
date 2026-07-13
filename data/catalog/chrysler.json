@@ -1,8 +1,8 @@
 {
   "Chrysler & DeSoto Airflow": {
     "bat_slug": "chrysler/desoto-airflow",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler & DeSoto Airflow",
     "keywords": [
       "chrysler & desoto airflow",
@@ -21,8 +21,8 @@
   },
   "Chrysler 300 Letter Series": {
     "bat_slug": "chrysler/letter-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler 300 Letter Series",
     "keywords": [
       "chrysler 300 letter series",
@@ -41,8 +41,8 @@
   },
   "Chrysler Conquest & Mitsubishi Starion": {
     "bat_slug": "chrysler/conquest-mitsubishi-starion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Conquest & Mitsubishi Starion",
     "keywords": [
       "chrysler conquest & mitsubishi starion",
@@ -51,8 +51,8 @@
   },
   "Chrysler Cordoba": {
     "bat_slug": "chrysler/cordoba",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Cordoba",
     "keywords": [
       "chrysler cordoba",
@@ -61,8 +61,8 @@
   },
   "Chrysler Crossfire": {
     "bat_slug": "chrysler/crossfire",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Crossfire",
     "keywords": [
       "chrysler crossfire",
@@ -71,8 +71,8 @@
   },
   "Chrysler Fifth Avenue": {
     "bat_slug": "chrysler/fifth-avenue",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Fifth Avenue",
     "keywords": [
       "chrysler fifth avenue",
@@ -81,8 +81,8 @@
   },
   "Chrysler Imperial": {
     "bat_slug": "chrysler/imperial",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Imperial",
     "keywords": [
       "chrysler imperial",
@@ -91,8 +91,8 @@
   },
   "Chrysler K-Car": {
     "bat_slug": "chrysler/k-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler K-Car",
     "keywords": [
       "chrysler k-car",
@@ -101,8 +101,8 @@
   },
   "Chrysler LeBaron": {
     "bat_slug": "chrysler/lebaron",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler LeBaron",
     "keywords": [
       "chrysler lebaron",
@@ -111,8 +111,8 @@
   },
   "Chrysler New Yorker": {
     "bat_slug": "chrysler/new-yorker",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler New Yorker",
     "keywords": [
       "chrysler new yorker",
@@ -121,8 +121,8 @@
   },
   "Chrysler Newport": {
     "bat_slug": "chrysler/newport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Newport",
     "keywords": [
       "chrysler newport",
@@ -131,8 +131,8 @@
   },
   "Chrysler Pacifica Minivan": {
     "bat_slug": "chrysler/pacifica-minivan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Pacifica Minivan",
     "keywords": [
       "chrysler pacifica minivan",
@@ -141,8 +141,8 @@
   },
   "Chrysler PT Cruiser": {
     "bat_slug": "chrysler/pt-cruiser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler PT Cruiser",
     "keywords": [
       "chrysler pt cruiser",
@@ -151,8 +151,8 @@
   },
   "Chrysler Royal": {
     "bat_slug": "chrysler/royal",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Royal",
     "keywords": [
       "chrysler royal",
@@ -161,8 +161,8 @@
   },
   "Chrysler Sebring": {
     "bat_slug": "chrysler/sebring",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Sebring",
     "keywords": [
       "chrysler sebring",
@@ -171,8 +171,8 @@
   },
   "Chrysler Sno-Runner": {
     "bat_slug": "chrysler/sno-runner",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Sno-Runner",
     "keywords": [
       "chrysler sno-runner",
@@ -181,8 +181,8 @@
   },
   "Chrysler TC by Maserati": {
     "bat_slug": "chrysler/tc-by-maserati",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler TC by Maserati",
     "keywords": [
       "chrysler tc by maserati",
@@ -191,8 +191,8 @@
   },
   "Chrysler Town & Country": {
     "bat_slug": "chrysler/town-country",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Town & Country",
     "keywords": [
       "chrysler town & country",
@@ -201,8 +201,8 @@
   },
   "Chrysler Town & Country Minivan": {
     "bat_slug": "chrysler/town-country-minivan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Town & Country Minivan",
     "keywords": [
       "chrysler town & country minivan",
@@ -221,8 +221,8 @@
   },
   "Chrysler Windsor": {
     "bat_slug": "chrysler/windsor",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Chrysler Windsor",
     "keywords": [
       "chrysler windsor",

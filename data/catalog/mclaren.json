@@ -1,8 +1,8 @@
 {
   "McLaren 650S": {
     "bat_slug": "mclaren/650s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren 650S",
     "keywords": [
       "mclaren 650s",
@@ -11,8 +11,8 @@
   },
   "McLaren 675LT": {
     "bat_slug": "mclaren/675lt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren 675LT",
     "keywords": [
       "mclaren 675lt",
@@ -21,8 +21,8 @@
   },
   "McLaren 720S": {
     "bat_slug": "mclaren/720s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren 720S",
     "keywords": [
       "mclaren 720s",
@@ -31,8 +31,8 @@
   },
   "McLaren 750S": {
     "bat_slug": "mclaren/750s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren 750S",
     "keywords": [
       "mclaren 750s",
@@ -41,8 +41,8 @@
   },
   "McLaren 765LT": {
     "bat_slug": "mclaren/765lt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren 765LT",
     "keywords": [
       "mclaren 765lt",
@@ -51,8 +51,8 @@
   },
   "McLaren Artura": {
     "bat_slug": "mclaren/artura",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Artura",
     "keywords": [
       "mclaren artura",
@@ -61,8 +61,8 @@
   },
   "McLaren Elva": {
     "bat_slug": "mclaren/elva",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Elva",
     "keywords": [
       "mclaren elva",
@@ -71,8 +71,8 @@
   },
   "McLaren GT": {
     "bat_slug": "mclaren/gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren GT",
     "keywords": [
       "mclaren gt",
@@ -81,8 +81,8 @@
   },
   "McLaren MP4-12C": {
     "bat_slug": "mclaren/mp4-12c",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren MP4-12C",
     "keywords": [
       "mclaren mp4-12c",
@@ -91,8 +91,8 @@
   },
   "McLaren P1": {
     "bat_slug": "mclaren/p1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren P1",
     "keywords": [
       "mclaren p1",
@@ -101,8 +101,8 @@
   },
   "McLaren Racing": {
     "bat_slug": "mclaren/race-cars",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Racing",
     "keywords": [
       "mclaren racing",
@@ -111,8 +111,8 @@
   },
   "McLaren Senna": {
     "bat_slug": "mclaren/senna",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Senna",
     "keywords": [
       "mclaren senna",
@@ -121,8 +121,8 @@
   },
   "McLaren Speedtail": {
     "bat_slug": "mclaren/speedtail",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Speedtail",
     "keywords": [
       "mclaren speedtail",
@@ -131,8 +131,8 @@
   },
   "McLaren Sports Series": {
     "bat_slug": "mclaren/sports-series",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "McLaren Sports Series",
     "keywords": [
       "mclaren sports series",

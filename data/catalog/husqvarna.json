@@ -1,8 +1,8 @@
 {
   "Husqvarna CR": {
     "bat_slug": "husqvarna/cr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Husqvarna CR",
     "keywords": [
       "husqvarna cr",
@@ -11,8 +11,8 @@
   },
   "Husqvarna WR": {
     "bat_slug": "husqvarna/wr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Husqvarna WR",
     "keywords": [
       "husqvarna wr",

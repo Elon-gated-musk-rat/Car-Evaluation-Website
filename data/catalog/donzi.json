@@ -1,8 +1,8 @@
 {
   "Donzi Classic": {
     "bat_slug": "donzi/classic",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Donzi Classic",
     "keywords": [
       "donzi classic",

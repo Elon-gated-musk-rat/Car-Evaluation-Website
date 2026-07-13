@@ -1,8 +1,8 @@
 {
   "Autobianchi A112": {
     "bat_slug": "autobianchi/a112",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Autobianchi A112",
     "keywords": [
       "a112",
@@ -11,8 +11,8 @@
   },
   "Autobianchi Bianchina": {
     "bat_slug": "autobianchi/bianchina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Autobianchi Bianchina",
     "keywords": [
       "bianchina",

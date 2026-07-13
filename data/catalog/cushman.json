@@ -1,8 +1,8 @@
 {
   "Cushman Eagle": {
     "bat_slug": "cushman/eagle",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Cushman Eagle",
     "keywords": [
       "cushman eagle",
@@ -11,8 +11,8 @@
   },
   "Cushman Truckster": {
     "bat_slug": "cushman/truckster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Cushman Truckster",
     "keywords": [
       "cushman truckster",

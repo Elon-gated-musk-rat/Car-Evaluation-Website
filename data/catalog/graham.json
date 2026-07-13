@@ -1,8 +1,8 @@
 {
   "Graham Hollywood": {
     "bat_slug": "graham/hollywood",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Graham Hollywood",
     "keywords": [
       "graham hollywood",
@@ -11,8 +11,8 @@
   },
   "Graham Sharknose": {
     "bat_slug": "graham/sharknose",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Graham Sharknose",
     "keywords": [
       "graham sharknose",

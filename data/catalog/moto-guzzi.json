@@ -1,8 +1,8 @@
 {
   "Moto Guzzi 1000 S/SP": {
     "bat_slug": "moto-guzzi/1000-s-sp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi 1000 S/SP",
     "keywords": [
       "moto guzzi 1000 s/sp",
@@ -11,8 +11,8 @@
   },
   "Moto Guzzi 850 T, T3, & T5": {
     "bat_slug": "moto-guzzi/850-t-t3-t5",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi 850 T, T3, & T5",
     "keywords": [
       "moto guzzi 850 t, t3, & t5",
@@ -21,8 +21,8 @@
   },
   "Moto Guzzi Ambassador": {
     "bat_slug": "moto-guzzi/ambassador",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi Ambassador",
     "keywords": [
       "moto guzzi ambassador",
@@ -31,8 +31,8 @@
   },
   "Moto Guzzi California": {
     "bat_slug": "moto-guzzi/california",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi California",
     "keywords": [
       "moto guzzi california",
@@ -41,8 +41,8 @@
   },
   "Moto Guzzi Eldorado": {
     "bat_slug": "moto-guzzi/eldorado",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi Eldorado",
     "keywords": [
       "moto guzzi eldorado",
@@ -51,8 +51,8 @@
   },
   "Moto Guzzi Falcone": {
     "bat_slug": "moto-guzzi/falcone",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi Falcone",
     "keywords": [
       "moto guzzi falcone",
@@ -61,8 +61,8 @@
   },
   "Moto Guzzi Le Mans": {
     "bat_slug": "moto-guzzi/le-mans",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Moto Guzzi Le Mans",
     "keywords": [
       "moto guzzi le mans",

@@ -1,8 +1,8 @@
 {
   "Lincoln Blackwood & Mark LT": {
     "bat_slug": "lincoln/blackwood-mark-lt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Blackwood & Mark LT",
     "keywords": [
       "lincoln blackwood & mark lt",
@@ -11,8 +11,8 @@
   },
   "Lincoln Capri": {
     "bat_slug": "lincoln/capri",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Capri",
     "keywords": [
       "lincoln capri",
@@ -101,8 +101,8 @@
   },
   "Lincoln Continental Mark II": {
     "bat_slug": "lincoln/continental-mark-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Continental Mark II",
     "keywords": [
       "lincoln continental mark ii",
@@ -151,8 +151,8 @@
   },
   "Lincoln Continental Mark VII & Mark VII": {
     "bat_slug": "lincoln/mark-vii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Continental Mark VII & Mark VII",
     "keywords": [
       "lincoln continental mark vii & mark vii",
@@ -161,8 +161,8 @@
   },
   "Lincoln Cosmopolitan": {
     "bat_slug": "lincoln/cosmopolitan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Cosmopolitan",
     "keywords": [
       "lincoln cosmopolitan",
@@ -171,8 +171,8 @@
   },
   "Lincoln Mark VIII": {
     "bat_slug": "lincoln/mark-viii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Mark VIII",
     "keywords": [
       "lincoln mark viii",
@@ -181,8 +181,8 @@
   },
   "Lincoln Model K, KA, & KB": {
     "bat_slug": "lincoln/model-k-ka-kb",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Model K, KA, & KB",
     "keywords": [
       "lincoln model k, ka, & kb",
@@ -191,8 +191,8 @@
   },
   "Lincoln Model L": {
     "bat_slug": "lincoln/model-l",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Model L",
     "keywords": [
       "lincoln model l",
@@ -201,8 +201,8 @@
   },
   "Lincoln Navigator": {
     "bat_slug": "lincoln/navigator",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Navigator",
     "keywords": [
       "lincoln navigator",
@@ -211,8 +211,8 @@
   },
   "Lincoln Premiere": {
     "bat_slug": "lincoln/premiere",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Premiere",
     "keywords": [
       "lincoln premiere",
@@ -221,8 +221,8 @@
   },
   "Lincoln Town Car": {
     "bat_slug": "lincoln/town-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Town Car",
     "keywords": [
       "lincoln town car",
@@ -231,8 +231,8 @@
   },
   "Lincoln Zephyr": {
     "bat_slug": "lincoln/zephyr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lincoln Zephyr",
     "keywords": [
       "lincoln zephyr",

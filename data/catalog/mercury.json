@@ -1,8 +1,8 @@
 {
   "Mercury Capri": {
     "bat_slug": "mercury/capri",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Capri",
     "keywords": [
       "mercury capri",
@@ -11,8 +11,8 @@
   },
   "Mercury Colony Park": {
     "bat_slug": "mercury/colony-park",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Colony Park",
     "keywords": [
       "mercury colony park",
@@ -21,8 +21,8 @@
   },
   "Mercury Comet": {
     "bat_slug": "mercury/comet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Comet",
     "keywords": [
       "mercury comet",
@@ -31,8 +31,8 @@
   },
   "Mercury Cougar": {
     "bat_slug": "mercury/cougar",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Cougar",
     "keywords": [
       "mercury cougar",
@@ -41,8 +41,8 @@
   },
   "Mercury Cyclone": {
     "bat_slug": "mercury/cyclone",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Cyclone",
     "keywords": [
       "mercury cyclone",
@@ -51,8 +51,8 @@
   },
   "Mercury Eight": {
     "bat_slug": "mercury/eight",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Eight",
     "keywords": [
       "mercury eight",
@@ -61,8 +61,8 @@
   },
   "Mercury Marauder": {
     "bat_slug": "mercury/marauder",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Marauder",
     "keywords": [
       "mercury marauder",
@@ -71,8 +71,8 @@
   },
   "Mercury Marquis & Grand Marquis": {
     "bat_slug": "mercury/marquis-grand-marquis",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Marquis & Grand Marquis",
     "keywords": [
       "mercury marquis & grand marquis",
@@ -81,8 +81,8 @@
   },
   "Mercury Montclair": {
     "bat_slug": "mercury/montclair",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Montclair",
     "keywords": [
       "mercury montclair",
@@ -91,8 +91,8 @@
   },
   "Mercury Montego": {
     "bat_slug": "mercury/montego",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Montego",
     "keywords": [
       "mercury montego",
@@ -101,8 +101,8 @@
   },
   "Mercury Monterey": {
     "bat_slug": "mercury/monterey",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Monterey",
     "keywords": [
       "mercury monterey",
@@ -111,8 +111,8 @@
   },
   "Mercury Park Lane": {
     "bat_slug": "mercury/park-lane",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Park Lane",
     "keywords": [
       "mercury park lane",
@@ -121,8 +121,8 @@
   },
   "Mercury Pickup": {
     "bat_slug": "mercury/pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Pickup",
     "keywords": [
       "mercury pickup",
@@ -131,8 +131,8 @@
   },
   "Mercury Turnpike Cruiser": {
     "bat_slug": "mercury/turnpike-cruiser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Mercury Turnpike Cruiser",
     "keywords": [
       "mercury turnpike cruiser",

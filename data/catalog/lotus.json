@@ -1,8 +1,8 @@
 {
   "Lotus 2-Eleven & 3-Eleven": {
     "bat_slug": "lotus/2-eleven-3-eleven",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus 2-Eleven & 3-Eleven",
     "keywords": [
       "lotus 2-eleven & 3-eleven",
@@ -11,8 +11,8 @@
   },
   "Lotus 23 & 23B": {
     "bat_slug": "lotus/23-23b",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus 23 & 23B",
     "keywords": [
       "lotus 23 & 23b",
@@ -21,8 +21,8 @@
   },
   "Lotus Cortina": {
     "bat_slug": "lotus/cortina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Cortina",
     "keywords": [
       "lotus cortina",
@@ -31,8 +31,8 @@
   },
   "Lotus Eclat": {
     "bat_slug": "lotus/eclat",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Eclat",
     "keywords": [
       "lotus eclat",
@@ -51,8 +51,8 @@
   },
   "Lotus Elan M100": {
     "bat_slug": "lotus/elan-m100",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Elan M100",
     "keywords": [
       "lotus elan m100",
@@ -61,8 +61,8 @@
   },
   "Lotus Elise": {
     "bat_slug": "lotus/elise",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Elise",
     "keywords": [
       "lotus elise",
@@ -71,8 +71,8 @@
   },
   "Lotus Elite": {
     "bat_slug": "lotus/elite",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Elite",
     "keywords": [
       "lotus elite",
@@ -81,8 +81,8 @@
   },
   "Lotus Emira": {
     "bat_slug": "lotus/emira",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Emira",
     "keywords": [
       "lotus emira",
@@ -91,8 +91,8 @@
   },
   "Lotus Esprit S1": {
     "bat_slug": "lotus/esprit-s1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit S1",
     "keywords": [
       "lotus esprit s1",
@@ -101,8 +101,8 @@
   },
   "Lotus Esprit S2": {
     "bat_slug": "lotus/esprit-s2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit S2",
     "keywords": [
       "lotus esprit s2",
@@ -111,8 +111,8 @@
   },
   "Lotus Esprit S3": {
     "bat_slug": "lotus/esprit-s3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit S3",
     "keywords": [
       "lotus esprit s3",
@@ -121,8 +121,8 @@
   },
   "Lotus Esprit S4": {
     "bat_slug": "lotus/esprit-s4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit S4",
     "keywords": [
       "lotus esprit s4",
@@ -131,8 +131,8 @@
   },
   "Lotus Esprit V8": {
     "bat_slug": "lotus/esprit-v8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit V8",
     "keywords": [
       "lotus esprit v8",
@@ -141,8 +141,8 @@
   },
   "Lotus Esprit X180": {
     "bat_slug": "lotus/esprit-x180",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Esprit X180",
     "keywords": [
       "lotus esprit x180",
@@ -151,8 +151,8 @@
   },
   "Lotus Europa": {
     "bat_slug": "lotus/europa",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Europa",
     "keywords": [
       "lotus europa",
@@ -161,8 +161,8 @@
   },
   "Lotus Evora": {
     "bat_slug": "lotus/evora",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Evora",
     "keywords": [
       "lotus evora",
@@ -171,8 +171,8 @@
   },
   "Lotus Exige": {
     "bat_slug": "lotus/exige",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Exige",
     "keywords": [
       "lotus exige",
@@ -181,8 +181,8 @@
   },
   "Lotus Open-Wheel": {
     "bat_slug": "lotus/open-wheel",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Open-Wheel",
     "keywords": [
       "lotus open-wheel",
@@ -191,8 +191,8 @@
   },
   "Lotus Other Seven Replicas": {
     "bat_slug": "lotus/other-seven-replicas",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Other Seven Replicas",
     "keywords": [
       "lotus other seven replicas",
@@ -201,8 +201,8 @@
   },
   "Lotus Seven & Super Seven": {
     "bat_slug": "lotus/seven-super-seven",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lotus Seven & Super Seven",
     "keywords": [
       "lotus seven & super seven",

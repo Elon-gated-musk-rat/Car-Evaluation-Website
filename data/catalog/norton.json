@@ -1,8 +1,8 @@
 {
   "Norton Atlas": {
     "bat_slug": "norton/atlas",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Norton Atlas",
     "keywords": [
       "norton atlas",
@@ -11,8 +11,8 @@
   },
   "Norton Commando": {
     "bat_slug": "norton/commando",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Norton Commando",
     "keywords": [
       "norton commando",
@@ -21,8 +21,8 @@
   },
   "Norton Dominator": {
     "bat_slug": "norton/dominator",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Norton Dominator",
     "keywords": [
       "norton dominator",
@@ -31,8 +31,8 @@
   },
   "Norton Manx": {
     "bat_slug": "norton/manx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Norton Manx",
     "keywords": [
       "norton manx",

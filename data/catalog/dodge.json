@@ -1,8 +1,8 @@
 {
   "Dodge & Plymouth Colt": {
     "bat_slug": "dodge/colt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge & Plymouth Colt",
     "keywords": [
       "dodge & plymouth colt",
@@ -11,8 +11,8 @@
   },
   "Dodge & Plymouth Neon": {
     "bat_slug": "dodge/dodge-plymouth-neon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge & Plymouth Neon",
     "keywords": [
       "dodge & plymouth neon",
@@ -21,8 +21,8 @@
   },
   "Dodge 330, 440, & 880": {
     "bat_slug": "dodge/330-440-880",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge 330, 440, & 880",
     "keywords": [
       "dodge 330, 440, & 880",
@@ -31,8 +31,8 @@
   },
   "Dodge A100 & A108": {
     "bat_slug": "dodge/a100-a108",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge A100 & A108",
     "keywords": [
       "dodge a100 & a108",
@@ -41,8 +41,8 @@
   },
   "Dodge A100 Pickup": {
     "bat_slug": "dodge/a100-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge A100 Pickup",
     "keywords": [
       "dodge a100 pickup",
@@ -71,8 +71,8 @@
   },
   "Dodge Caravan & Grand Caravan": {
     "bat_slug": "dodge/caravan-grand-caravan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Caravan & Grand Caravan",
     "keywords": [
       "dodge caravan & grand caravan",
@@ -111,8 +111,8 @@
   },
   "Dodge Challenger SRT Demon & Super Stock": {
     "bat_slug": "dodge/challenger-srt-demon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Challenger SRT Demon & Super Stock",
     "keywords": [
       "dodge challenger srt demon & super stock",
@@ -121,8 +121,8 @@
   },
   "Dodge Challenger SRT Hellcat": {
     "bat_slug": "dodge/challenger-srt-hellcat",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Challenger SRT Hellcat",
     "keywords": [
       "dodge challenger srt hellcat",
@@ -131,8 +131,8 @@
   },
   "Dodge Challenger SRT8 & 392": {
     "bat_slug": "dodge/challenger-srt8-392",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Challenger SRT8 & 392",
     "keywords": [
       "dodge challenger srt8 & 392",
@@ -141,8 +141,8 @@
   },
   "Dodge Charger": {
     "bat_slug": "dodge/charger",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Charger",
     "keywords": [
       "dodge charger",
@@ -151,8 +151,8 @@
   },
   "Dodge Coronet": {
     "bat_slug": "dodge/coronet",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Coronet",
     "keywords": [
       "dodge coronet",
@@ -161,8 +161,8 @@
   },
   "Dodge D-50 & Ram 50": {
     "bat_slug": "dodge/d-50-ram-50",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge D-50 & Ram 50",
     "keywords": [
       "dodge d-50 & ram 50",
@@ -231,8 +231,8 @@
   },
   "Dodge Dart": {
     "bat_slug": "dodge/dart",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Dart",
     "keywords": [
       "dodge dart",
@@ -241,8 +241,8 @@
   },
   "Dodge Daytona & Chrysler Laser": {
     "bat_slug": "dodge/daytona-chrysler-laser",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Daytona & Chrysler Laser",
     "keywords": [
       "dodge daytona & chrysler laser",
@@ -261,8 +261,8 @@
   },
   "Dodge Durango": {
     "bat_slug": "dodge/durango",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Durango",
     "keywords": [
       "dodge durango",
@@ -291,8 +291,8 @@
   },
   "Dodge Lancer": {
     "bat_slug": "dodge/lancer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Lancer",
     "keywords": [
       "dodge lancer",
@@ -301,8 +301,8 @@
   },
   "Dodge Magnum": {
     "bat_slug": "dodge/magnum",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Magnum",
     "keywords": [
       "dodge magnum",
@@ -311,8 +311,8 @@
   },
   "Dodge Military Vehicles": {
     "bat_slug": "dodge/dodge-military-vehicles",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Military Vehicles",
     "keywords": [
       "dodge military vehicles",
@@ -321,8 +321,8 @@
   },
   "Dodge Monaco": {
     "bat_slug": "dodge/monaco",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Monaco",
     "keywords": [
       "dodge monaco",
@@ -331,8 +331,8 @@
   },
   "Dodge Omni & Plymouth Horizon": {
     "bat_slug": "dodge/omni-plymouth-horizon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Omni & Plymouth Horizon",
     "keywords": [
       "dodge omni & plymouth horizon",
@@ -351,8 +351,8 @@
   },
   "Dodge Polara": {
     "bat_slug": "dodge/polara",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Polara",
     "keywords": [
       "dodge polara",
@@ -361,8 +361,8 @@
   },
   "Dodge Power Wagon": {
     "bat_slug": "dodge/power-wagon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Power Wagon",
     "keywords": [
       "dodge power wagon",
@@ -461,8 +461,8 @@
   },
   "Dodge Ram SRT-10 Pickup": {
     "bat_slug": "dodge/ram-srt-10-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Ram SRT-10 Pickup",
     "keywords": [
       "dodge ram srt-10 pickup",
@@ -471,8 +471,8 @@
   },
   "Dodge Ram TRX": {
     "bat_slug": "dodge/ram-trx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Ram TRX",
     "keywords": [
       "dodge ram trx",
@@ -481,8 +481,8 @@
   },
   "Dodge Ram Van": {
     "bat_slug": "dodge/ram-van",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Ram Van",
     "keywords": [
       "dodge ram van",
@@ -491,8 +491,8 @@
   },
   "Dodge Ramcharger / Plymouth Trail Duster": {
     "bat_slug": "dodge/ramcharger",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Ramcharger / Plymouth Trail Duster",
     "keywords": [
       "dodge ramcharger / plymouth trail duster",
@@ -501,8 +501,8 @@
   },
   "Dodge Rampage and Plymouth Scamp": {
     "bat_slug": "dodge/rampage-and-plymouth-scamp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Rampage and Plymouth Scamp",
     "keywords": [
       "dodge rampage and plymouth scamp",
@@ -511,8 +511,8 @@
   },
   "Dodge Royal": {
     "bat_slug": "dodge/royal",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Royal",
     "keywords": [
       "dodge royal",
@@ -521,8 +521,8 @@
   },
   "Dodge Shelby": {
     "bat_slug": "dodge/shelby",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Shelby",
     "keywords": [
       "dodge shelby",
@@ -531,8 +531,8 @@
   },
   "Dodge Stealth": {
     "bat_slug": "dodge/stealth",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Stealth",
     "keywords": [
       "dodge stealth",
@@ -541,8 +541,8 @@
   },
   "Dodge Super Bee": {
     "bat_slug": "dodge/super-bee",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Super Bee",
     "keywords": [
       "dodge super bee",
@@ -561,8 +561,8 @@
   },
   "Dodge Town Wagon": {
     "bat_slug": "dodge/town-wagon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Town Wagon",
     "keywords": [
       "dodge town wagon",
@@ -571,8 +571,8 @@
   },
   "Dodge Tradesman & Sportsman Vans": {
     "bat_slug": "dodge/tradesman-sportsman-vans",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Dodge Tradesman & Sportsman Vans",
     "keywords": [
       "dodge tradesman & sportsman vans",

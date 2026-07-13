@@ -1,8 +1,8 @@
 {
   "Quadro Sherp": {
     "bat_slug": "quadro/sherp",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Quadro Sherp",
     "keywords": [
       "quadro sherp",

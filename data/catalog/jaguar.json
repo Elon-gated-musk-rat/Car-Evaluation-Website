@@ -1,8 +1,8 @@
 {
   "Jaguar 420": {
     "bat_slug": "jaguar/420",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar 420",
     "keywords": [
       "jaguar 420",
@@ -11,8 +11,8 @@
   },
   "Jaguar F-Type": {
     "bat_slug": "jaguar/f-type",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar F-Type",
     "keywords": [
       "jaguar f-type",
@@ -21,8 +21,8 @@
   },
   "Jaguar Mark X & 420G": {
     "bat_slug": "jaguar/mark-x-420g",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mark X & 420G",
     "keywords": [
       "jaguar mark x & 420g",
@@ -31,8 +31,8 @@
   },
   "Jaguar Mk I": {
     "bat_slug": "jaguar/mk-i",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mk I",
     "keywords": [
       "jaguar mk i",
@@ -41,8 +41,8 @@
   },
   "Jaguar Mk II": {
     "bat_slug": "jaguar/jaguar-mkii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mk II",
     "keywords": [
       "jaguar mk ii",
@@ -51,8 +51,8 @@
   },
   "Jaguar Mk IV": {
     "bat_slug": "jaguar/mk-iv",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mk IV",
     "keywords": [
       "jaguar mk iv",
@@ -61,8 +61,8 @@
   },
   "Jaguar Mk V": {
     "bat_slug": "jaguar/mk-v",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mk V",
     "keywords": [
       "jaguar mk v",
@@ -71,8 +71,8 @@
   },
   "Jaguar Mk VII, VIII, & IX": {
     "bat_slug": "jaguar/jaguar-mk-vii-viii-ix",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Mk VII, VIII, & IX",
     "keywords": [
       "jaguar mk vii, viii, & ix",
@@ -81,8 +81,8 @@
   },
   "Jaguar Replica": {
     "bat_slug": "jaguar/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar Replica",
     "keywords": [
       "jaguar replica",
@@ -111,8 +111,8 @@
   },
   "Jaguar SS": {
     "bat_slug": "jaguar/ss",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar SS",
     "keywords": [
       "jaguar ss",
@@ -121,8 +121,8 @@
   },
   "Jaguar X-Type": {
     "bat_slug": "jaguar/x-type",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar X-Type",
     "keywords": [
       "jaguar x-type",
@@ -201,8 +201,8 @@
   },
   "Jaguar XE": {
     "bat_slug": "jaguar/xe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XE",
     "keywords": [
       "jaguar xe",
@@ -211,8 +211,8 @@
   },
   "Jaguar XF": {
     "bat_slug": "jaguar/xf",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XF",
     "keywords": [
       "jaguar xf",
@@ -261,8 +261,8 @@
   },
   "Jaguar XJ220": {
     "bat_slug": "jaguar/xj220",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XJ220",
     "keywords": [
       "jaguar xj220",
@@ -281,8 +281,8 @@
   },
   "Jaguar XJS": {
     "bat_slug": "jaguar/xjs",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XJS",
     "keywords": [
       "jaguar xjs",
@@ -291,8 +291,8 @@
   },
   "Jaguar XK": {
     "bat_slug": "jaguar/xk",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XK",
     "keywords": [
       "jaguar xk",
@@ -301,8 +301,8 @@
   },
   "Jaguar XK120": {
     "bat_slug": "jaguar/xk120",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XK120",
     "keywords": [
       "jaguar xk120",
@@ -311,8 +311,8 @@
   },
   "Jaguar XK140": {
     "bat_slug": "jaguar/xk140",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XK140",
     "keywords": [
       "jaguar xk140",
@@ -321,8 +321,8 @@
   },
   "Jaguar XK150": {
     "bat_slug": "jaguar/xk150",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XK150",
     "keywords": [
       "jaguar xk150",
@@ -331,8 +331,8 @@
   },
   "Jaguar XK8": {
     "bat_slug": "jaguar/xk8",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XK8",
     "keywords": [
       "jaguar xk8",
@@ -341,8 +341,8 @@
   },
   "Jaguar XKE Series I": {
     "bat_slug": "jaguar/xke-series-1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XKE Series I",
     "keywords": [
       "jaguar xke series i",
@@ -351,8 +351,8 @@
   },
   "Jaguar XKE Series II": {
     "bat_slug": "jaguar/xke-series-2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XKE Series II",
     "keywords": [
       "jaguar xke series ii",
@@ -361,8 +361,8 @@
   },
   "Jaguar XKE Series III": {
     "bat_slug": "jaguar/xke-series-iii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XKE Series III",
     "keywords": [
       "jaguar xke series iii",
@@ -371,8 +371,8 @@
   },
   "Jaguar XKR": {
     "bat_slug": "jaguar/xkr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Jaguar XKR",
     "keywords": [
       "jaguar xkr",

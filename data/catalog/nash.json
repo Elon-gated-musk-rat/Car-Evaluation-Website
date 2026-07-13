@@ -1,8 +1,8 @@
 {
   "Nash \u2013 Healey": {
     "bat_slug": "nash/healey",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nash \u2013 Healey",
     "keywords": [
       "nash \u2013 healey",
@@ -11,8 +11,8 @@
   },
   "Nash Ambassador": {
     "bat_slug": "nash/ambassador",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nash Ambassador",
     "keywords": [
       "nash ambassador",
@@ -21,8 +21,8 @@
   },
   "Nash Metropolitan": {
     "bat_slug": "nash/metropolitan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nash Metropolitan",
     "keywords": [
       "nash metropolitan",
@@ -31,8 +31,8 @@
   },
   "Nash Rambler": {
     "bat_slug": "nash/rambler",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Nash Rambler",
     "keywords": [
       "nash rambler",

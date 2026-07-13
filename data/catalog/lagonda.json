@@ -1,8 +1,8 @@
 {
   "Lagonda 3-Litre": {
     "bat_slug": "lagonda/3-litre",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Lagonda 3-Litre",
     "keywords": [
       "lagonda 3-litre",

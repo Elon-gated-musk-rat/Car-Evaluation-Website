@@ -1,8 +1,8 @@
 {
   "Buick Centurion": {
     "bat_slug": "buick/centurion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Centurion",
     "keywords": [
       "buick centurion",
@@ -11,8 +11,8 @@
   },
   "Buick Century": {
     "bat_slug": "buick/century",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Century",
     "keywords": [
       "buick century",
@@ -21,8 +21,8 @@
   },
   "Buick Electra": {
     "bat_slug": "buick/electra",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Electra",
     "keywords": [
       "buick electra",
@@ -41,8 +41,8 @@
   },
   "Buick GNX": {
     "bat_slug": "buick/gnx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick GNX",
     "keywords": [
       "buick gnx",
@@ -51,8 +51,8 @@
   },
   "Buick Gran Sport": {
     "bat_slug": "buick/gran-sport",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Gran Sport",
     "keywords": [
       "buick gran sport",
@@ -61,8 +61,8 @@
   },
   "Buick Grand National": {
     "bat_slug": "buick/grand-national",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Grand National",
     "keywords": [
       "buick grand national",
@@ -71,8 +71,8 @@
   },
   "Buick GSX": {
     "bat_slug": "buick/gsx",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick GSX",
     "keywords": [
       "buick gsx",
@@ -81,8 +81,8 @@
   },
   "Buick Invicta": {
     "bat_slug": "buick/invicta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Invicta",
     "keywords": [
       "buick invicta",
@@ -91,8 +91,8 @@
   },
   "Buick LeSabre": {
     "bat_slug": "buick/lesabre",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick LeSabre",
     "keywords": [
       "buick lesabre",
@@ -101,8 +101,8 @@
   },
   "Buick Park Avenue": {
     "bat_slug": "buick/park-avenue",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Park Avenue",
     "keywords": [
       "buick park avenue",
@@ -111,8 +111,8 @@
   },
   "Buick Reatta": {
     "bat_slug": "buick/reatta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Reatta",
     "keywords": [
       "buick reatta",
@@ -171,8 +171,8 @@
   },
   "Buick Regal T-Type & Turbo-T": {
     "bat_slug": "buick/regal-t-type-turbo-t",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Regal T-Type & Turbo-T",
     "keywords": [
       "buick regal t-type & turbo-t",
@@ -181,8 +181,8 @@
   },
   "Buick Riviera": {
     "bat_slug": "buick/riviera",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Riviera",
     "keywords": [
       "buick riviera",
@@ -191,8 +191,8 @@
   },
   "Buick Roadmaster": {
     "bat_slug": "buick/roadmaster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Roadmaster",
     "keywords": [
       "buick roadmaster",
@@ -201,8 +201,8 @@
   },
   "Buick Skylark": {
     "bat_slug": "buick/skylark",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Skylark",
     "keywords": [
       "buick skylark",
@@ -211,8 +211,8 @@
   },
   "Buick Special": {
     "bat_slug": "buick/special",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Special",
     "keywords": [
       "buick special",
@@ -221,8 +221,8 @@
   },
   "Buick Standard Six & Master Six": {
     "bat_slug": "buick/standard-six-master-six",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Standard Six & Master Six",
     "keywords": [
       "buick standard six & master six",
@@ -231,8 +231,8 @@
   },
   "Buick Super": {
     "bat_slug": "buick/super",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Super",
     "keywords": [
       "buick super",
@@ -241,8 +241,8 @@
   },
   "Buick Wildcat": {
     "bat_slug": "buick/wildcat",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Buick Wildcat",
     "keywords": [
       "buick wildcat",

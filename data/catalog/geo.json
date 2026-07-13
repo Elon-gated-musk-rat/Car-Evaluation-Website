@@ -1,8 +1,8 @@
 {
   "Geo Tracker/Suzuki Sidekick": {
     "bat_slug": "geo/tracker-suzuki-sidekick",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Geo Tracker/Suzuki Sidekick",
     "keywords": [
       "geo tracker/suzuki sidekick",

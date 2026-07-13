@@ -1,8 +1,8 @@
 {
   "Indian Chief": {
     "bat_slug": "indian-motorcycles/chief",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Indian Chief",
     "keywords": [
       "indian chief",
@@ -11,8 +11,8 @@
   },
   "Indian Four": {
     "bat_slug": "indian-motorcycles/four",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Indian Four",
     "keywords": [
       "indian four",
@@ -21,8 +21,8 @@
   },
   "Indian Scout": {
     "bat_slug": "indian-motorcycles/scout",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Indian Scout",
     "keywords": [
       "indian scout",

@@ -1,8 +1,8 @@
 {
   "Ford Aerostar": {
     "bat_slug": "ford/aerostar",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Aerostar",
     "keywords": [
       "ford aerostar",
@@ -41,8 +41,8 @@
   },
   "Ford Bronco II": {
     "bat_slug": "ford/bronco-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Bronco II",
     "keywords": [
       "ford bronco ii",
@@ -61,8 +61,8 @@
   },
   "Ford Bronco U725": {
     "bat_slug": "ford/u725-bronco",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Bronco U725",
     "keywords": [
       "ford bronco u725",
@@ -71,8 +71,8 @@
   },
   "Ford Contour": {
     "bat_slug": "ford/contour",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Contour",
     "keywords": [
       "ford contour",
@@ -81,8 +81,8 @@
   },
   "Ford Cortina": {
     "bat_slug": "ford/cortina",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Cortina",
     "keywords": [
       "ford cortina",
@@ -91,8 +91,8 @@
   },
   "Ford Country Sedan": {
     "bat_slug": "ford/country-sedan",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Country Sedan",
     "keywords": [
       "ford country sedan",
@@ -101,8 +101,8 @@
   },
   "Ford Country Squire": {
     "bat_slug": "ford/country-squire",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Country Squire",
     "keywords": [
       "ford country squire",
@@ -111,8 +111,8 @@
   },
   "Ford Courier": {
     "bat_slug": "ford/courier",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Courier",
     "keywords": [
       "ford courier",
@@ -121,8 +121,8 @@
   },
   "Ford Crestline": {
     "bat_slug": "ford/crestline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Crestline",
     "keywords": [
       "ford crestline",
@@ -131,8 +131,8 @@
   },
   "Ford Crown Victoria": {
     "bat_slug": "ford/crown-victoria",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Crown Victoria",
     "keywords": [
       "ford crown victoria",
@@ -141,8 +141,8 @@
   },
   "Ford Custom 300 & Custom 500": {
     "bat_slug": "ford/custom-300-custom-500",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Custom 300 & Custom 500",
     "keywords": [
       "ford custom 300 & custom 500",
@@ -151,8 +151,8 @@
   },
   "Ford Customline": {
     "bat_slug": "ford/customline",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Customline",
     "keywords": [
       "ford customline",
@@ -161,8 +161,8 @@
   },
   "Ford Econoline Pickup": {
     "bat_slug": "ford/econoline-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Econoline Pickup",
     "keywords": [
       "ford econoline pickup",
@@ -171,8 +171,8 @@
   },
   "Ford Econoline Van": {
     "bat_slug": "ford/econoline-van",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Econoline Van",
     "keywords": [
       "ford econoline van",
@@ -251,8 +251,8 @@
   },
   "Ford Escort RS Cosworth": {
     "bat_slug": "ford/escort-cosworth",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Escort RS Cosworth",
     "keywords": [
       "ford escort rs cosworth",
@@ -261,8 +261,8 @@
   },
   "Ford Excursion": {
     "bat_slug": "ford/excursion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Excursion",
     "keywords": [
       "ford excursion",
@@ -271,8 +271,8 @@
   },
   "Ford Expedition": {
     "bat_slug": "ford/expedition",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Expedition",
     "keywords": [
       "ford expedition",
@@ -281,8 +281,8 @@
   },
   "Ford Explorer": {
     "bat_slug": "ford/explorer",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Explorer",
     "keywords": [
       "ford explorer",
@@ -291,8 +291,8 @@
   },
   "Ford Explorer Sport Trac": {
     "bat_slug": "ford/explorer-sport-trac",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Explorer Sport Trac",
     "keywords": [
       "ford explorer sport trac",
@@ -351,8 +351,8 @@
   },
   "Ford F-150 Lightning Electric": {
     "bat_slug": "ford/f-150-lightning-electric",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford F-150 Lightning Electric",
     "keywords": [
       "ford f-150 lightning electric",
@@ -361,8 +361,8 @@
   },
   "Ford F-150 Raptor": {
     "bat_slug": "ford/f-150-raptor",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford F-150 Raptor",
     "keywords": [
       "ford f-150 raptor",
@@ -371,8 +371,8 @@
   },
   "Ford F-150 SVT Lightning": {
     "bat_slug": "ford/f150-svt-lightning",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford F-150 SVT Lightning",
     "keywords": [
       "ford f-150 svt lightning",
@@ -471,8 +471,8 @@
   },
   "Ford Fairlane": {
     "bat_slug": "ford/fairlane",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Fairlane",
     "keywords": [
       "ford fairlane",
@@ -481,8 +481,8 @@
   },
   "Ford Fairmont": {
     "bat_slug": "ford/fairmont",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Fairmont",
     "keywords": [
       "ford fairmont",
@@ -491,8 +491,8 @@
   },
   "Ford Falcon": {
     "bat_slug": "ford/falcon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Falcon",
     "keywords": [
       "ford falcon",
@@ -501,8 +501,8 @@
   },
   "Ford Fiesta": {
     "bat_slug": "ford/fiesta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Fiesta",
     "keywords": [
       "ford fiesta",
@@ -511,8 +511,8 @@
   },
   "Ford Focus": {
     "bat_slug": "ford/focus",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Focus",
     "keywords": [
       "ford focus",
@@ -521,8 +521,8 @@
   },
   "Ford Formula Ford": {
     "bat_slug": "ford/formula-ford",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Formula Ford",
     "keywords": [
       "ford formula ford",
@@ -531,8 +531,8 @@
   },
   "Ford Fox-Body Mustang": {
     "bat_slug": "ford/mustang-fox-body",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Fox-Body Mustang",
     "keywords": [
       "ford fox-body mustang",
@@ -541,8 +541,8 @@
   },
   "Ford Fusion": {
     "bat_slug": "ford/fusion",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Fusion",
     "keywords": [
       "ford fusion",
@@ -551,8 +551,8 @@
   },
   "Ford Galaxie": {
     "bat_slug": "ford/galaxie",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Galaxie",
     "keywords": [
       "ford galaxie",
@@ -561,8 +561,8 @@
   },
   "Ford GT 1st Generation": {
     "bat_slug": "ford/gt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford GT 1st Generation",
     "keywords": [
       "ford gt 1st generation",
@@ -571,8 +571,8 @@
   },
   "Ford GT 2nd Generation": {
     "bat_slug": "ford/gt-2nd-generation",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford GT 2nd Generation",
     "keywords": [
       "ford gt 2nd generation",
@@ -581,8 +581,8 @@
   },
   "Ford GT40": {
     "bat_slug": "ford/gt-40",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford GT40",
     "keywords": [
       "ford gt40",
@@ -591,8 +591,8 @@
   },
   "Ford GT40 Replica": {
     "bat_slug": "ford/gt40-replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford GT40 Replica",
     "keywords": [
       "ford gt40 replica",
@@ -601,8 +601,8 @@
   },
   "Ford Hot Rod": {
     "bat_slug": "ford/hot-rod",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Hot Rod",
     "keywords": [
       "ford hot rod",
@@ -611,8 +611,8 @@
   },
   "Ford LTD": {
     "bat_slug": "ford/ltd",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford LTD",
     "keywords": [
       "ford ltd",
@@ -621,8 +621,8 @@
   },
   "Ford Maverick": {
     "bat_slug": "ford/maverick",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Maverick",
     "keywords": [
       "ford maverick",
@@ -631,8 +631,8 @@
   },
   "Ford Maverick Pickup": {
     "bat_slug": "ford/maverick-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Maverick Pickup",
     "keywords": [
       "ford maverick pickup",
@@ -641,8 +641,8 @@
   },
   "Ford Military": {
     "bat_slug": "ford/military",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Military",
     "keywords": [
       "ford military",
@@ -671,8 +671,8 @@
   },
   "Ford Model A": {
     "bat_slug": "ford/model-a",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Model A",
     "keywords": [
       "ford model a",
@@ -681,8 +681,8 @@
   },
   "Ford Model A Pickup & Model AA": {
     "bat_slug": "ford/model-a-pickup-model-aa",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Model A Pickup & Model AA",
     "keywords": [
       "ford model a pickup & model aa",
@@ -691,8 +691,8 @@
   },
   "Ford Model B": {
     "bat_slug": "ford/model-b",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Model B",
     "keywords": [
       "ford model b",
@@ -701,8 +701,8 @@
   },
   "Ford Model T": {
     "bat_slug": "ford/model-t",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Model T",
     "keywords": [
       "ford model t",
@@ -711,8 +711,8 @@
   },
   "Ford Model T Pickup & Model TT": {
     "bat_slug": "ford/model-t-pickup-model-tt",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Model T Pickup & Model TT",
     "keywords": [
       "ford model t pickup & model tt",
@@ -751,8 +751,8 @@
   },
   "Ford Mustang II": {
     "bat_slug": "ford/mustang-ii",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Mustang II",
     "keywords": [
       "ford mustang ii",
@@ -761,8 +761,8 @@
   },
   "Ford Mustang Mach-E": {
     "bat_slug": "ford/mustang-mach-e",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Mustang Mach-E",
     "keywords": [
       "ford mustang mach-e",
@@ -781,8 +781,8 @@
   },
   "Ford Mustang S550": {
     "bat_slug": "ford/s550-mustang",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Mustang S550",
     "keywords": [
       "ford mustang s550",
@@ -791,8 +791,8 @@
   },
   "Ford Mustang S650": {
     "bat_slug": "ford/mustang-s650",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Mustang S650",
     "keywords": [
       "ford mustang s650",
@@ -871,8 +871,8 @@
   },
   "Ford Pinto": {
     "bat_slug": "ford/pinto",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Pinto",
     "keywords": [
       "ford pinto",
@@ -881,8 +881,8 @@
   },
   "Ford Probe": {
     "bat_slug": "ford/probe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Probe",
     "keywords": [
       "ford probe",
@@ -891,8 +891,8 @@
   },
   "Ford Ranch Wagon": {
     "bat_slug": "ford/ranch-wagon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Ranch Wagon",
     "keywords": [
       "ford ranch wagon",
@@ -901,8 +901,8 @@
   },
   "Ford Ranchero": {
     "bat_slug": "ford/ranchero",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Ranchero",
     "keywords": [
       "ford ranchero",
@@ -951,8 +951,8 @@
   },
   "Ford Roush": {
     "bat_slug": "ford/roush",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Roush",
     "keywords": [
       "ford roush",
@@ -961,8 +961,8 @@
   },
   "Ford RS200": {
     "bat_slug": "ford/rs200",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford RS200",
     "keywords": [
       "ford rs200",
@@ -971,8 +971,8 @@
   },
   "Ford S197 Shelby Mustang": {
     "bat_slug": "ford/s197-shelby-mustang",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford S197 Shelby Mustang",
     "keywords": [
       "ford s197 shelby mustang",
@@ -981,8 +981,8 @@
   },
   "Ford S550 Shelby Mustang": {
     "bat_slug": "ford/s550-shelby-mustang",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford S550 Shelby Mustang",
     "keywords": [
       "ford s550 shelby mustang",
@@ -991,8 +991,8 @@
   },
   "Ford Saleen": {
     "bat_slug": "ford/saleen",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Saleen",
     "keywords": [
       "ford saleen",
@@ -1001,8 +1001,8 @@
   },
   "Ford Shelby Pickup": {
     "bat_slug": "ford/shelby-pickup",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Shelby Pickup",
     "keywords": [
       "ford shelby pickup",
@@ -1011,8 +1011,8 @@
   },
   "Ford Shoebox": {
     "bat_slug": "ford/shoebox",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Shoebox",
     "keywords": [
       "ford shoebox",
@@ -1021,8 +1021,8 @@
   },
   "Ford Sierra RS Cosworth": {
     "bat_slug": "ford/sierra-rs-cosworth",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Sierra RS Cosworth",
     "keywords": [
       "ford sierra rs cosworth",
@@ -1031,8 +1031,8 @@
   },
   "Ford Standard, Deluxe, & Super Deluxe": {
     "bat_slug": "ford/de-luxe-super-de-luxe",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Standard, Deluxe, & Super Deluxe",
     "keywords": [
       "ford standard, deluxe, & super deluxe",
@@ -1081,8 +1081,8 @@
   },
   "Ford Taurus Race Car": {
     "bat_slug": "ford/taurus-race-car",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Taurus Race Car",
     "keywords": [
       "ford taurus race car",
@@ -1091,8 +1091,8 @@
   },
   "Ford Taurus Sedan & Wagon": {
     "bat_slug": "ford/taurus-sedan-wagon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Taurus Sedan & Wagon",
     "keywords": [
       "ford taurus sedan & wagon",
@@ -1101,8 +1101,8 @@
   },
   "Ford Taurus SHO": {
     "bat_slug": "ford/taurus-sho",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Taurus SHO",
     "keywords": [
       "ford taurus sho",
@@ -1221,8 +1221,8 @@
   },
   "Ford Torino": {
     "bat_slug": "ford/torino",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Torino",
     "keywords": [
       "ford torino",
@@ -1231,8 +1231,8 @@
   },
   "Ford Tractor": {
     "bat_slug": "ford/tractor",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Tractor",
     "keywords": [
       "ford tractor",
@@ -1241,8 +1241,8 @@
   },
   "Ford Transit": {
     "bat_slug": "ford/transit",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Ford Transit",
     "keywords": [
       "ford transit",

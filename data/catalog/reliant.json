@@ -1,8 +1,8 @@
 {
   "Reliant Scimitar": {
     "bat_slug": "reliant/scimitar",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Reliant Scimitar",
     "keywords": [
       "reliant scimitar",

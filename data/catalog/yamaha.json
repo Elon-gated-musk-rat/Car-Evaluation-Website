@@ -1,8 +1,8 @@
 {
   "Yamaha ATV": {
     "bat_slug": "yamaha/atv",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha ATV",
     "keywords": [
       "yamaha atv",
@@ -11,8 +11,8 @@
   },
   "Yamaha Enduro": {
     "bat_slug": "yamaha/enduro",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha Enduro",
     "keywords": [
       "yamaha enduro",
@@ -21,8 +21,8 @@
   },
   "Yamaha RD": {
     "bat_slug": "yamaha/rd",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha RD",
     "keywords": [
       "yamaha rd",
@@ -31,8 +31,8 @@
   },
   "Yamaha RZ": {
     "bat_slug": "yamaha/rz",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha RZ",
     "keywords": [
       "yamaha rz",
@@ -41,8 +41,8 @@
   },
   "Yamaha SR": {
     "bat_slug": "yamaha/sr",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha SR",
     "keywords": [
       "yamaha sr",
@@ -51,8 +51,8 @@
   },
   "Yamaha TT500": {
     "bat_slug": "yamaha/tt500",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha TT500",
     "keywords": [
       "yamaha tt500",
@@ -61,8 +61,8 @@
   },
   "Yamaha V-Max": {
     "bat_slug": "yamaha/v-max",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha V-Max",
     "keywords": [
       "yamaha v-max",
@@ -71,8 +71,8 @@
   },
   "Yamaha Virago": {
     "bat_slug": "yamaha/virago",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha Virago",
     "keywords": [
       "yamaha virago",
@@ -81,8 +81,8 @@
   },
   "Yamaha XS": {
     "bat_slug": "yamaha/xs",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha XS",
     "keywords": [
       "yamaha xs",
@@ -91,8 +91,8 @@
   },
   "Yamaha YSR50 & YSR80": {
     "bat_slug": "yamaha/ysr50",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha YSR50 & YSR80",
     "keywords": [
       "yamaha ysr50 & ysr80",
@@ -101,8 +101,8 @@
   },
   "Yamaha YZ": {
     "bat_slug": "yamaha/yz",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha YZ",
     "keywords": [
       "yamaha yz",
@@ -111,8 +111,8 @@
   },
   "Yamaha YZF": {
     "bat_slug": "yamaha/yzf",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Yamaha YZF",
     "keywords": [
       "yamaha yzf",

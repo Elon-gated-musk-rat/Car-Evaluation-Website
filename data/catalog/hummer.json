@@ -1,8 +1,8 @@
 {
   "Hummer H1": {
     "bat_slug": "hummer/h1",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Hummer H1",
     "keywords": [
       "hummer h1",
@@ -11,8 +11,8 @@
   },
   "Hummer H2": {
     "bat_slug": "hummer/h2",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Hummer H2",
     "keywords": [
       "hummer h2",
@@ -21,8 +21,8 @@
   },
   "Hummer H3": {
     "bat_slug": "hummer/h3",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Hummer H3",
     "keywords": [
       "hummer h3",
@@ -31,8 +31,8 @@
   },
   "Hummer HMMWV/Humvee": {
     "bat_slug": "hummer/hmmwv-hu",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Hummer HMMWV/Humvee",
     "keywords": [
       "hummer hmmwv/humvee",

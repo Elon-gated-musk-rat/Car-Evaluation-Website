@@ -1,8 +1,8 @@
 {
   "MG Magnette": {
     "bat_slug": "mg/magnette",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG Magnette",
     "keywords": [
       "mg magnette",
@@ -11,8 +11,8 @@
   },
   "MG MGA": {
     "bat_slug": "mg/mga",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG MGA",
     "keywords": [
       "mg mga",
@@ -21,8 +21,8 @@
   },
   "MG MGB": {
     "bat_slug": "mg/mgb",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG MGB",
     "keywords": [
       "mg mgb",
@@ -31,8 +31,8 @@
   },
   "MG MGC": {
     "bat_slug": "mg/mgc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG MGC",
     "keywords": [
       "mg mgc",
@@ -41,8 +41,8 @@
   },
   "MG Midget": {
     "bat_slug": "mg/midget",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG Midget",
     "keywords": [
       "mg midget",
@@ -51,8 +51,8 @@
   },
   "MG Replica": {
     "bat_slug": "mg/replica",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG Replica",
     "keywords": [
       "mg replica",
@@ -61,8 +61,8 @@
   },
   "MG TA": {
     "bat_slug": "mg/ta",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG TA",
     "keywords": [
       "mg ta",
@@ -71,8 +71,8 @@
   },
   "MG TC": {
     "bat_slug": "mg/tc",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG TC",
     "keywords": [
       "mg tc",
@@ -81,8 +81,8 @@
   },
   "MG TD": {
     "bat_slug": "mg/td",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG TD",
     "keywords": [
       "mg td",
@@ -91,8 +91,8 @@
   },
   "MG TF": {
     "bat_slug": "mg/tf",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MG TF",
     "keywords": [
       "mg tf",

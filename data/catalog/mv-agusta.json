@@ -1,8 +1,8 @@
 {
   "MV Agusta 750S America": {
     "bat_slug": "mv-agusta/750s-america",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MV Agusta 750S America",
     "keywords": [
       "mv agusta 750s america",
@@ -11,8 +11,8 @@
   },
   "MV Agusta Brutale": {
     "bat_slug": "mv-agusta/brutale",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MV Agusta Brutale",
     "keywords": [
       "mv agusta brutale",
@@ -21,8 +21,8 @@
   },
   "MV Agusta Dragster": {
     "bat_slug": "mv-agusta/dragster",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MV Agusta Dragster",
     "keywords": [
       "mv agusta dragster",
@@ -31,8 +31,8 @@
   },
   "MV Agusta F4": {
     "bat_slug": "mv-agusta/f4",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "MV Agusta F4",
     "keywords": [
       "mv agusta f4",

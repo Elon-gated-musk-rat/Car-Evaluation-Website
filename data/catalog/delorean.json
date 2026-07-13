@@ -1,8 +1,8 @@
 {
   "DeLorean DMC-12": {
     "bat_slug": "delorean/dmc-12",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "DeLorean DMC-12",
     "keywords": [
       "delorean dmc-12",

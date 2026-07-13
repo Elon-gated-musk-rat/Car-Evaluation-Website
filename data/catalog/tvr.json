@@ -1,8 +1,8 @@
 {
   "TVR 2500M": {
     "bat_slug": "tvr/2500m",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR 2500M",
     "keywords": [
       "tvr 2500m",
@@ -11,8 +11,8 @@
   },
   "TVR 280i": {
     "bat_slug": "tvr/280i",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR 280i",
     "keywords": [
       "tvr 280i",
@@ -21,8 +21,8 @@
   },
   "TVR Cerbera": {
     "bat_slug": "tvr/cerbera",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR Cerbera",
     "keywords": [
       "tvr cerbera",
@@ -41,8 +41,8 @@
   },
   "TVR Tuscan Challenge": {
     "bat_slug": "tvr/tuscan-challenge",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR Tuscan Challenge",
     "keywords": [
       "tvr tuscan challenge",
@@ -51,8 +51,8 @@
   },
   "TVR Tuscan Speed Six": {
     "bat_slug": "tvr/tuscan-speed-six",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR Tuscan Speed Six",
     "keywords": [
       "tvr tuscan speed six",
@@ -61,8 +61,8 @@
   },
   "TVR Vixen": {
     "bat_slug": "tvr/vixen",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "TVR Vixen",
     "keywords": [
       "tvr vixen",

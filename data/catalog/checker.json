@@ -1,8 +1,8 @@
 {
   "Checker Marathon": {
     "bat_slug": "checker/marathon",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Checker Marathon",
     "keywords": [
       "checker marathon",

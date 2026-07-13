@@ -1,8 +1,8 @@
 {
   "Scion FR-S": {
     "bat_slug": "scion/fr-s",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Scion FR-S",
     "keywords": [
       "scion fr-s",
@@ -11,8 +11,8 @@
   },
   "Scion xB": {
     "bat_slug": "scion/xb",
-    "start_year": 1950,
-    "end_year": 2026,
+    "start_year": null,
+    "end_year": null,
     "generation": "Scion xB",
     "keywords": [
       "scion xb",
