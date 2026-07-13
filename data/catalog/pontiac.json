@@ -1,0 +1,222 @@
+{
+  "Pontiac Bonneville": {
+    "bat_slug": "pontiac/bonneville",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Bonneville",
+    "keywords": [
+      "pontiac bonneville",
+      "bonneville"
+    ]
+  },
+  "Pontiac Catalina": {
+    "bat_slug": "pontiac/catalina",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Catalina",
+    "keywords": [
+      "pontiac catalina",
+      "catalina"
+    ]
+  },
+  "Pontiac Chieftain": {
+    "bat_slug": "pontiac/chieftain",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Chieftain",
+    "keywords": [
+      "pontiac chieftain",
+      "chieftain"
+    ]
+  },
+  "Pontiac Deluxe": {
+    "bat_slug": "pontiac/deluxe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Deluxe",
+    "keywords": [
+      "pontiac deluxe",
+      "deluxe"
+    ]
+  },
+  "Pontiac Fiero": {
+    "bat_slug": "pontiac/fiero",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Fiero",
+    "keywords": [
+      "pontiac fiero",
+      "fiero"
+    ]
+  },
+  "Pontiac Firebird (1st Generation \u2013 1967-1969)": {
+    "bat_slug": "pontiac/firebird-1967-1969",
+    "start_year": 1967,
+    "end_year": 1969,
+    "generation": "Pontiac Firebird (1st Generation \u2013 1967-1969)",
+    "keywords": [
+      "pontiac firebird (1st generation \u2013 1967-1969)",
+      "firebird 1967 1969"
+    ]
+  },
+  "Pontiac Firebird (2nd Generation \u2013 1970-1981)": {
+    "bat_slug": "pontiac/firebird-1970-1981",
+    "start_year": 1970,
+    "end_year": 1981,
+    "generation": "Pontiac Firebird (2nd Generation \u2013 1970-1981)",
+    "keywords": [
+      "pontiac firebird (2nd generation \u2013 1970-1981)",
+      "firebird 1970 1981"
+    ]
+  },
+  "Pontiac Firebird (3rd Generation \u2013 1982-1992)": {
+    "bat_slug": "pontiac/firebird-1982-1992",
+    "start_year": 1982,
+    "end_year": 1992,
+    "generation": "Pontiac Firebird (3rd Generation \u2013 1982-1992)",
+    "keywords": [
+      "pontiac firebird (3rd generation \u2013 1982-1992)",
+      "firebird 1982 1992"
+    ]
+  },
+  "Pontiac Firebird (4th Generation \u2013 1993-2002)": {
+    "bat_slug": "pontiac/firebird-1993-2002",
+    "start_year": 1993,
+    "end_year": 2002,
+    "generation": "Pontiac Firebird (4th Generation \u2013 1993-2002)",
+    "keywords": [
+      "pontiac firebird (4th generation \u2013 1993-2002)",
+      "firebird 1993 2002"
+    ]
+  },
+  "Pontiac G8": {
+    "bat_slug": "pontiac/g8",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac G8",
+    "keywords": [
+      "pontiac g8",
+      "g8"
+    ]
+  },
+  "Pontiac Grand Am": {
+    "bat_slug": "pontiac/grand-am",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Grand Am",
+    "keywords": [
+      "pontiac grand am",
+      "grand am"
+    ]
+  },
+  "Pontiac Grand Prix": {
+    "bat_slug": "pontiac/grand-prix",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Grand Prix",
+    "keywords": [
+      "pontiac grand prix",
+      "grand prix"
+    ]
+  },
+  "Pontiac Grand Ville": {
+    "bat_slug": "pontiac/grand-ville",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Grand Ville",
+    "keywords": [
+      "pontiac grand ville",
+      "grand ville"
+    ]
+  },
+  "Pontiac GTO (1964-1967)": {
+    "bat_slug": "pontiac/pontiac-gto-1964-1967",
+    "start_year": 1964,
+    "end_year": 1967,
+    "generation": "Pontiac GTO (1964-1967)",
+    "keywords": [
+      "pontiac gto (1964-1967)",
+      "pontiac gto 1964 1967"
+    ]
+  },
+  "Pontiac GTO (1968-1972)": {
+    "bat_slug": "pontiac/gto-1968-1972",
+    "start_year": 1968,
+    "end_year": 1972,
+    "generation": "Pontiac GTO (1968-1972)",
+    "keywords": [
+      "pontiac gto (1968-1972)",
+      "gto 1968 1972"
+    ]
+  },
+  "Pontiac GTO (1973-1974)": {
+    "bat_slug": "pontiac/gto-1973-1974",
+    "start_year": 1973,
+    "end_year": 1974,
+    "generation": "Pontiac GTO (1973-1974)",
+    "keywords": [
+      "pontiac gto (1973-1974)",
+      "gto 1973 1974"
+    ]
+  },
+  "Pontiac GTO (2004-2006)": {
+    "bat_slug": "pontiac/gto-2004-2006",
+    "start_year": 2004,
+    "end_year": 2006,
+    "generation": "Pontiac GTO (2004-2006)",
+    "keywords": [
+      "pontiac gto (2004-2006)",
+      "gto 2004 2006"
+    ]
+  },
+  "Pontiac Parisienne": {
+    "bat_slug": "pontiac/parisienne",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Parisienne",
+    "keywords": [
+      "pontiac parisienne",
+      "parisienne"
+    ]
+  },
+  "Pontiac Safari": {
+    "bat_slug": "pontiac/safari",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Safari",
+    "keywords": [
+      "pontiac safari",
+      "safari"
+    ]
+  },
+  "Pontiac Solstice": {
+    "bat_slug": "pontiac/solstice-saturn-sky",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Solstice",
+    "keywords": [
+      "pontiac solstice",
+      "solstice saturn sky"
+    ]
+  },
+  "Pontiac Star Chief": {
+    "bat_slug": "pontiac/star-chief",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Star Chief",
+    "keywords": [
+      "pontiac star chief",
+      "star chief"
+    ]
+  },
+  "Pontiac Tempest / LeMans": {
+    "bat_slug": "pontiac/le-mans",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Pontiac Tempest / LeMans",
+    "keywords": [
+      "pontiac tempest / lemans",
+      "le mans"
+    ]
+  }
+}

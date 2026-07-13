@@ -1,0 +1,22 @@
+{
+  "Jensen \u2013 Healey": {
+    "bat_slug": "jensen/jensen-healey",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jensen \u2013 Healey",
+    "keywords": [
+      "jensen \u2013 healey",
+      "jensen healey"
+    ]
+  },
+  "Jensen Interceptor": {
+    "bat_slug": "jensen/interceptor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jensen Interceptor",
+    "keywords": [
+      "jensen interceptor",
+      "interceptor"
+    ]
+  }
+}

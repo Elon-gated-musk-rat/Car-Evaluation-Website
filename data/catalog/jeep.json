@@ -1,0 +1,272 @@
+{
+  "Jeep CJ-10": {
+    "bat_slug": "jeep/cj-10",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep CJ-10",
+    "keywords": [
+      "jeep cj-10",
+      "cj 10"
+    ]
+  },
+  "Jeep CJ-5": {
+    "bat_slug": "jeep/cj-5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep CJ-5",
+    "keywords": [
+      "jeep cj-5",
+      "cj 5"
+    ]
+  },
+  "Jeep CJ-6": {
+    "bat_slug": "jeep/cj-6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep CJ-6",
+    "keywords": [
+      "jeep cj-6",
+      "cj 6"
+    ]
+  },
+  "Jeep CJ-7": {
+    "bat_slug": "jeep/cj-7",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep CJ-7",
+    "keywords": [
+      "jeep cj-7",
+      "cj 7"
+    ]
+  },
+  "Jeep CJ-8": {
+    "bat_slug": "jeep/cj-8-scrambler",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep CJ-8",
+    "keywords": [
+      "jeep cj-8",
+      "cj 8 scrambler"
+    ]
+  },
+  "Jeep Comanche": {
+    "bat_slug": "jeep/comanche",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep Comanche",
+    "keywords": [
+      "jeep comanche",
+      "comanche"
+    ]
+  },
+  "Jeep Forward Control": {
+    "bat_slug": "jeep/fc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep Forward Control",
+    "keywords": [
+      "jeep forward control",
+      "fc"
+    ]
+  },
+  "Jeep J-Series": {
+    "bat_slug": "jeep/j-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep J-Series",
+    "keywords": [
+      "jeep j-series",
+      "j series"
+    ]
+  },
+  "Jeep Jeepster Commando": {
+    "bat_slug": "jeep/jeepster-commando",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep Jeepster Commando",
+    "keywords": [
+      "jeep jeepster commando",
+      "jeepster commando"
+    ]
+  },
+  "Jeep JT Gladiator": {
+    "bat_slug": "jeep/jt-gladiator",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep JT Gladiator",
+    "keywords": [
+      "jeep jt gladiator",
+      "jt gladiator"
+    ]
+  },
+  "Jeep SJ Cherokee": {
+    "bat_slug": "jeep/sj-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep SJ Cherokee",
+    "keywords": [
+      "jeep sj cherokee",
+      "sj cherokee"
+    ]
+  },
+  "Jeep SJ Gladiator": {
+    "bat_slug": "jeep/sj-gladiator",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep SJ Gladiator",
+    "keywords": [
+      "jeep sj gladiator",
+      "sj gladiator"
+    ]
+  },
+  "Jeep SJ Grand Wagoneer": {
+    "bat_slug": "jeep/grand-wagoneer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep SJ Grand Wagoneer",
+    "keywords": [
+      "jeep sj grand wagoneer",
+      "grand wagoneer"
+    ]
+  },
+  "Jeep SJ Wagoneer": {
+    "bat_slug": "jeep/sj-wagoneer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep SJ Wagoneer",
+    "keywords": [
+      "jeep sj wagoneer",
+      "sj wagoneer"
+    ]
+  },
+  "Jeep WJ Grand Cherokee": {
+    "bat_slug": "jeep/wj-grand-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep WJ Grand Cherokee",
+    "keywords": [
+      "jeep wj grand cherokee",
+      "wj grand cherokee"
+    ]
+  },
+  "Jeep WK Grand Cherokee": {
+    "bat_slug": "jeep/wk-grand-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep WK Grand Cherokee",
+    "keywords": [
+      "jeep wk grand cherokee",
+      "wk grand cherokee"
+    ]
+  },
+  "Jeep WK2 Grand Cherokee": {
+    "bat_slug": "jeep/wk2-grand-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep WK2 Grand Cherokee",
+    "keywords": [
+      "jeep wk2 grand cherokee",
+      "wk2 grand cherokee"
+    ]
+  },
+  "Jeep WL Grand Cherokee": {
+    "bat_slug": "jeep/wl-grand-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep WL Grand Cherokee",
+    "keywords": [
+      "jeep wl grand cherokee",
+      "wl grand cherokee"
+    ]
+  },
+  "Jeep Wrangler JK (2007-2018)": {
+    "bat_slug": "jeep/wrangler-jk-2007-2017",
+    "start_year": 2007,
+    "end_year": 2018,
+    "generation": "Jeep Wrangler JK (2007-2018)",
+    "keywords": [
+      "jeep wrangler jk (2007-2018)",
+      "wrangler jk 2007 2017"
+    ]
+  },
+  "Jeep Wrangler JL (2018+)": {
+    "bat_slug": "jeep/wrangler-jl-2018",
+    "start_year": 2017,
+    "end_year": 2019,
+    "generation": "Jeep Wrangler JL (2018+)",
+    "keywords": [
+      "jeep wrangler jl (2018+)",
+      "wrangler jl 2018"
+    ]
+  },
+  "Jeep Wrangler TJ (1997-2006)": {
+    "bat_slug": "jeep/wrangler-tj",
+    "start_year": 1997,
+    "end_year": 2006,
+    "generation": "Jeep Wrangler TJ (1997-2006)",
+    "keywords": [
+      "jeep wrangler tj (1997-2006)",
+      "wrangler tj"
+    ]
+  },
+  "Jeep Wrangler YJ (1987-1995)": {
+    "bat_slug": "jeep/wrangler-yj",
+    "start_year": 1987,
+    "end_year": 1995,
+    "generation": "Jeep Wrangler YJ (1987-1995)",
+    "keywords": [
+      "jeep wrangler yj (1987-1995)",
+      "wrangler yj"
+    ]
+  },
+  "Jeep WS Grand Wagoneer": {
+    "bat_slug": "jeep/ws-grand-wagoneer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep WS Grand Wagoneer",
+    "keywords": [
+      "jeep ws grand wagoneer",
+      "ws grand wagoneer"
+    ]
+  },
+  "Jeep XJ Cherokee": {
+    "bat_slug": "jeep/cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep XJ Cherokee",
+    "keywords": [
+      "jeep xj cherokee",
+      "cherokee"
+    ]
+  },
+  "Jeep XJ Wagoneer": {
+    "bat_slug": "jeep/xj-wagoneer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep XJ Wagoneer",
+    "keywords": [
+      "jeep xj wagoneer",
+      "xj wagoneer"
+    ]
+  },
+  "Jeep ZJ Grand Cherokee": {
+    "bat_slug": "jeep/grand-cherokee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep ZJ Grand Cherokee",
+    "keywords": [
+      "jeep zj grand cherokee",
+      "grand cherokee"
+    ]
+  },
+  "Jeep ZJ Grand Wagoneer": {
+    "bat_slug": "jeep/zj-grand-wagoneer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jeep ZJ Grand Wagoneer",
+    "keywords": [
+      "jeep zj grand wagoneer",
+      "zj grand wagoneer"
+    ]
+  }
+}

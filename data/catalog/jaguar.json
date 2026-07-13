@@ -1,0 +1,382 @@
+{
+  "Jaguar 420": {
+    "bat_slug": "jaguar/420",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar 420",
+    "keywords": [
+      "jaguar 420",
+      "420"
+    ]
+  },
+  "Jaguar F-Type": {
+    "bat_slug": "jaguar/f-type",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar F-Type",
+    "keywords": [
+      "jaguar f-type",
+      "f type"
+    ]
+  },
+  "Jaguar Mark X & 420G": {
+    "bat_slug": "jaguar/mark-x-420g",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mark X & 420G",
+    "keywords": [
+      "jaguar mark x & 420g",
+      "mark x 420g"
+    ]
+  },
+  "Jaguar Mk I": {
+    "bat_slug": "jaguar/mk-i",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mk I",
+    "keywords": [
+      "jaguar mk i",
+      "mk i"
+    ]
+  },
+  "Jaguar Mk II": {
+    "bat_slug": "jaguar/jaguar-mkii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mk II",
+    "keywords": [
+      "jaguar mk ii",
+      "jaguar mkii"
+    ]
+  },
+  "Jaguar Mk IV": {
+    "bat_slug": "jaguar/mk-iv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mk IV",
+    "keywords": [
+      "jaguar mk iv",
+      "mk iv"
+    ]
+  },
+  "Jaguar Mk V": {
+    "bat_slug": "jaguar/mk-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mk V",
+    "keywords": [
+      "jaguar mk v",
+      "mk v"
+    ]
+  },
+  "Jaguar Mk VII, VIII, & IX": {
+    "bat_slug": "jaguar/jaguar-mk-vii-viii-ix",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Mk VII, VIII, & IX",
+    "keywords": [
+      "jaguar mk vii, viii, & ix",
+      "jaguar mk vii viii ix"
+    ]
+  },
+  "Jaguar Replica": {
+    "bat_slug": "jaguar/replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar Replica",
+    "keywords": [
+      "jaguar replica",
+      "replica"
+    ]
+  },
+  "Jaguar S-Type (1963-1968)": {
+    "bat_slug": "jaguar/s-type-1963-1968",
+    "start_year": 1963,
+    "end_year": 1968,
+    "generation": "Jaguar S-Type (1963-1968)",
+    "keywords": [
+      "jaguar s-type (1963-1968)",
+      "s type 1963 1968"
+    ]
+  },
+  "Jaguar S-Type (1999-2007)": {
+    "bat_slug": "jaguar/s-type-1999-2007",
+    "start_year": 1999,
+    "end_year": 2007,
+    "generation": "Jaguar S-Type (1999-2007)",
+    "keywords": [
+      "jaguar s-type (1999-2007)",
+      "s type 1999 2007"
+    ]
+  },
+  "Jaguar SS": {
+    "bat_slug": "jaguar/ss",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar SS",
+    "keywords": [
+      "jaguar ss",
+      "ss"
+    ]
+  },
+  "Jaguar X-Type": {
+    "bat_slug": "jaguar/x-type",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar X-Type",
+    "keywords": [
+      "jaguar x-type",
+      "x type"
+    ]
+  },
+  "Jaguar X300 XJ (1995-1997)": {
+    "bat_slug": "jaguar/x300-xj-1995-1997",
+    "start_year": 1995,
+    "end_year": 1997,
+    "generation": "Jaguar X300 XJ (1995-1997)",
+    "keywords": [
+      "jaguar x300 xj (1995-1997)",
+      "x300 xj 1995 1997"
+    ]
+  },
+  "Jaguar X306 XJR (1995-1997)": {
+    "bat_slug": "jaguar/x306-xjr",
+    "start_year": 1995,
+    "end_year": 1997,
+    "generation": "Jaguar X306 XJR (1995-1997)",
+    "keywords": [
+      "jaguar x306 xjr (1995-1997)",
+      "x306 xjr"
+    ]
+  },
+  "Jaguar X308 XJ (1998-2003)": {
+    "bat_slug": "jaguar/x308-xj-1998-2003",
+    "start_year": 1998,
+    "end_year": 2003,
+    "generation": "Jaguar X308 XJ (1998-2003)",
+    "keywords": [
+      "jaguar x308 xj (1998-2003)",
+      "x308 xj 1998 2003"
+    ]
+  },
+  "Jaguar X308 XJR (1998-2003)": {
+    "bat_slug": "jaguar/x308-xjr",
+    "start_year": 1998,
+    "end_year": 2003,
+    "generation": "Jaguar X308 XJR (1998-2003)",
+    "keywords": [
+      "jaguar x308 xjr (1998-2003)",
+      "x308 xjr"
+    ]
+  },
+  "Jaguar X350/X356/X358 XJ (2004-2009)": {
+    "bat_slug": "jaguar/x350-x356-x358-xj",
+    "start_year": 2004,
+    "end_year": 2009,
+    "generation": "Jaguar X350/X356/X358 XJ (2004-2009)",
+    "keywords": [
+      "jaguar x350/x356/x358 xj (2004-2009)",
+      "x350 x356 x358 xj"
+    ]
+  },
+  "Jaguar X350/X356/X358 XJR (2004-2009)": {
+    "bat_slug": "jaguar/x350-x356-x358-xjr",
+    "start_year": 2004,
+    "end_year": 2009,
+    "generation": "Jaguar X350/X356/X358 XJR (2004-2009)",
+    "keywords": [
+      "jaguar x350/x356/x358 xjr (2004-2009)",
+      "x350 x356 x358 xjr"
+    ]
+  },
+  "Jaguar X351 XJ (2010-2019)": {
+    "bat_slug": "jaguar/x351-xj-2010-2019",
+    "start_year": 2010,
+    "end_year": 2019,
+    "generation": "Jaguar X351 XJ (2010-2019)",
+    "keywords": [
+      "jaguar x351 xj (2010-2019)",
+      "x351 xj 2010 2019"
+    ]
+  },
+  "Jaguar XE": {
+    "bat_slug": "jaguar/xe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XE",
+    "keywords": [
+      "jaguar xe",
+      "xe"
+    ]
+  },
+  "Jaguar XF": {
+    "bat_slug": "jaguar/xf",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XF",
+    "keywords": [
+      "jaguar xf",
+      "xf"
+    ]
+  },
+  "Jaguar XJ Coupe (1975-1978)": {
+    "bat_slug": "jaguar/xj-coupe-1975-1978",
+    "start_year": 1975,
+    "end_year": 1978,
+    "generation": "Jaguar XJ Coupe (1975-1978)",
+    "keywords": [
+      "jaguar xj coupe (1975-1978)",
+      "xj coupe 1975 1978"
+    ]
+  },
+  "Jaguar XJ Series 1 (1968-1973)": {
+    "bat_slug": "jaguar/xj-series-1-1968-1973",
+    "start_year": 1968,
+    "end_year": 1973,
+    "generation": "Jaguar XJ Series 1 (1968-1973)",
+    "keywords": [
+      "jaguar xj series 1 (1968-1973)",
+      "xj series 1 1968 1973"
+    ]
+  },
+  "Jaguar XJ Series 2 (1974-1979)": {
+    "bat_slug": "jaguar/xj-series-2-1974-1979",
+    "start_year": 1974,
+    "end_year": 1979,
+    "generation": "Jaguar XJ Series 2 (1974-1979)",
+    "keywords": [
+      "jaguar xj series 2 (1974-1979)",
+      "xj series 2 1974 1979"
+    ]
+  },
+  "Jaguar XJ Series 3 (1980-1992)": {
+    "bat_slug": "jaguar/xj-series-3-1979-1992",
+    "start_year": 1980,
+    "end_year": 1992,
+    "generation": "Jaguar XJ Series 3 (1980-1992)",
+    "keywords": [
+      "jaguar xj series 3 (1980-1992)",
+      "xj series 3 1979 1992"
+    ]
+  },
+  "Jaguar XJ220": {
+    "bat_slug": "jaguar/xj220",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XJ220",
+    "keywords": [
+      "jaguar xj220",
+      "xj220"
+    ]
+  },
+  "Jaguar XJ40 XJ (1988-1994)": {
+    "bat_slug": "jaguar/xj40-xj-1988-1994",
+    "start_year": 1988,
+    "end_year": 1994,
+    "generation": "Jaguar XJ40 XJ (1988-1994)",
+    "keywords": [
+      "jaguar xj40 xj (1988-1994)",
+      "xj40 xj 1988 1994"
+    ]
+  },
+  "Jaguar XJS": {
+    "bat_slug": "jaguar/xjs",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XJS",
+    "keywords": [
+      "jaguar xjs",
+      "xjs"
+    ]
+  },
+  "Jaguar XK": {
+    "bat_slug": "jaguar/xk",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XK",
+    "keywords": [
+      "jaguar xk",
+      "xk"
+    ]
+  },
+  "Jaguar XK120": {
+    "bat_slug": "jaguar/xk120",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XK120",
+    "keywords": [
+      "jaguar xk120",
+      "xk120"
+    ]
+  },
+  "Jaguar XK140": {
+    "bat_slug": "jaguar/xk140",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XK140",
+    "keywords": [
+      "jaguar xk140",
+      "xk140"
+    ]
+  },
+  "Jaguar XK150": {
+    "bat_slug": "jaguar/xk150",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XK150",
+    "keywords": [
+      "jaguar xk150",
+      "xk150"
+    ]
+  },
+  "Jaguar XK8": {
+    "bat_slug": "jaguar/xk8",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XK8",
+    "keywords": [
+      "jaguar xk8",
+      "xk8"
+    ]
+  },
+  "Jaguar XKE Series I": {
+    "bat_slug": "jaguar/xke-series-1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XKE Series I",
+    "keywords": [
+      "jaguar xke series i",
+      "xke series 1"
+    ]
+  },
+  "Jaguar XKE Series II": {
+    "bat_slug": "jaguar/xke-series-2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XKE Series II",
+    "keywords": [
+      "jaguar xke series ii",
+      "xke series 2"
+    ]
+  },
+  "Jaguar XKE Series III": {
+    "bat_slug": "jaguar/xke-series-iii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XKE Series III",
+    "keywords": [
+      "jaguar xke series iii",
+      "xke series iii"
+    ]
+  },
+  "Jaguar XKR": {
+    "bat_slug": "jaguar/xkr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Jaguar XKR",
+    "keywords": [
+      "jaguar xkr",
+      "xkr"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Willys CJ-2A": {
+    "bat_slug": "willys/cj-2a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys CJ-2A",
+    "keywords": [
+      "willys cj-2a",
+      "cj 2a"
+    ]
+  },
+  "Willys CJ-3A": {
+    "bat_slug": "willys/cj-3a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys CJ-3A",
+    "keywords": [
+      "willys cj-3a",
+      "cj 3a"
+    ]
+  },
+  "Willys CJ-3B": {
+    "bat_slug": "willys/cj-3b",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys CJ-3B",
+    "keywords": [
+      "willys cj-3b",
+      "cj 3b"
+    ]
+  },
+  "Willys Coupe (1937-1942)": {
+    "bat_slug": "willys/coupe",
+    "start_year": 1937,
+    "end_year": 1942,
+    "generation": "Willys Coupe (1937-1942)",
+    "keywords": [
+      "willys coupe (1937-1942)",
+      "coupe"
+    ]
+  },
+  "Willys Jeep Wagon": {
+    "bat_slug": "willys/jeep-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys Jeep Wagon",
+    "keywords": [
+      "willys jeep wagon",
+      "jeep wagon"
+    ]
+  },
+  "Willys Jeepster": {
+    "bat_slug": "willys/jeepster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys Jeepster",
+    "keywords": [
+      "willys jeepster",
+      "jeepster"
+    ]
+  },
+  "Willys M38": {
+    "bat_slug": "willys/m38",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys M38",
+    "keywords": [
+      "willys m38",
+      "m38"
+    ]
+  },
+  "Willys MB": {
+    "bat_slug": "willys/mb",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys MB",
+    "keywords": [
+      "willys mb",
+      "mb"
+    ]
+  },
+  "Willys Pickup": {
+    "bat_slug": "willys/pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Willys Pickup",
+    "keywords": [
+      "willys pickup",
+      "pickup"
+    ]
+  }
+}

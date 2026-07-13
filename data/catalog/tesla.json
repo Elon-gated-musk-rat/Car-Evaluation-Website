@@ -1,0 +1,42 @@
+{
+  "Tesla Cybertruck": {
+    "bat_slug": "tesla/cybertruck",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Tesla Cybertruck",
+    "keywords": [
+      "tesla cybertruck",
+      "cybertruck"
+    ]
+  },
+  "Tesla Model S": {
+    "bat_slug": "tesla/model-s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Tesla Model S",
+    "keywords": [
+      "tesla model s",
+      "model s"
+    ]
+  },
+  "Tesla Model X": {
+    "bat_slug": "tesla/model-x",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Tesla Model X",
+    "keywords": [
+      "tesla model x",
+      "model x"
+    ]
+  },
+  "Tesla Roadster": {
+    "bat_slug": "tesla/roadster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Tesla Roadster",
+    "keywords": [
+      "tesla roadster",
+      "roadster"
+    ]
+  }
+}

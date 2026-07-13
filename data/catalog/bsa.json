@@ -1,0 +1,52 @@
+{
+  "BSA Gold Star": {
+    "bat_slug": "bsa/gold-star",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "BSA Gold Star",
+    "keywords": [
+      "bsa gold star",
+      "gold star"
+    ]
+  },
+  "BSA Lightning": {
+    "bat_slug": "bsa/lightning",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "BSA Lightning",
+    "keywords": [
+      "bsa lightning",
+      "lightning"
+    ]
+  },
+  "BSA Rocket": {
+    "bat_slug": "bsa/rocket",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "BSA Rocket",
+    "keywords": [
+      "bsa rocket",
+      "rocket"
+    ]
+  },
+  "BSA Spitfire": {
+    "bat_slug": "bsa/spitfire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "BSA Spitfire",
+    "keywords": [
+      "bsa spitfire",
+      "spitfire"
+    ]
+  },
+  "BSA Victor Special": {
+    "bat_slug": "bsa/victor-special",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "BSA Victor Special",
+    "keywords": [
+      "bsa victor special",
+      "victor special"
+    ]
+  }
+}

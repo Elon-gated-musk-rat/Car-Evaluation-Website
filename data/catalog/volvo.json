@@ -1,0 +1,212 @@
+{
+  "Volvo 140": {
+    "bat_slug": "volvo/140",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 140",
+    "keywords": [
+      "volvo 140",
+      "140"
+    ]
+  },
+  "Volvo 1800ES": {
+    "bat_slug": "volvo/1800es",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 1800ES",
+    "keywords": [
+      "volvo 1800es",
+      "1800es"
+    ]
+  },
+  "Volvo 240": {
+    "bat_slug": "volvo/240",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 240",
+    "keywords": [
+      "volvo 240",
+      "240"
+    ]
+  },
+  "Volvo 700-Series": {
+    "bat_slug": "volvo/700-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 700-Series",
+    "keywords": [
+      "volvo 700-series",
+      "700 series"
+    ]
+  },
+  "Volvo 850": {
+    "bat_slug": "volvo/850",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 850",
+    "keywords": [
+      "volvo 850",
+      "850"
+    ]
+  },
+  "Volvo 900-Series": {
+    "bat_slug": "volvo/900-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo 900-Series",
+    "keywords": [
+      "volvo 900-series",
+      "900 series"
+    ]
+  },
+  "Volvo Amazon": {
+    "bat_slug": "volvo/amazon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo Amazon",
+    "keywords": [
+      "volvo amazon",
+      "amazon"
+    ]
+  },
+  "Volvo C30": {
+    "bat_slug": "volvo/c30",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo C30",
+    "keywords": [
+      "volvo c30",
+      "c30"
+    ]
+  },
+  "Volvo C70": {
+    "bat_slug": "volvo/c70",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo C70",
+    "keywords": [
+      "volvo c70",
+      "c70"
+    ]
+  },
+  "Volvo P1800/1800": {
+    "bat_slug": "volvo/p1800",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo P1800/1800",
+    "keywords": [
+      "volvo p1800/1800",
+      "p1800"
+    ]
+  },
+  "Volvo PV444 and PV544": {
+    "bat_slug": "volvo/pv444-pv544",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo PV444 and PV544",
+    "keywords": [
+      "volvo pv444 and pv544",
+      "pv444 pv544"
+    ]
+  },
+  "Volvo S40": {
+    "bat_slug": "volvo/s40",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo S40",
+    "keywords": [
+      "volvo s40",
+      "s40"
+    ]
+  },
+  "Volvo S60": {
+    "bat_slug": "volvo/s60",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo S60",
+    "keywords": [
+      "volvo s60",
+      "s60"
+    ]
+  },
+  "Volvo S60R": {
+    "bat_slug": "volvo/s60r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo S60R",
+    "keywords": [
+      "volvo s60r",
+      "s60r"
+    ]
+  },
+  "Volvo S80": {
+    "bat_slug": "volvo/s80",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo S80",
+    "keywords": [
+      "volvo s80",
+      "s80"
+    ]
+  },
+  "Volvo V60": {
+    "bat_slug": "volvo/v60",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo V60",
+    "keywords": [
+      "volvo v60",
+      "v60"
+    ]
+  },
+  "Volvo V70": {
+    "bat_slug": "volvo/v70",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo V70",
+    "keywords": [
+      "volvo v70",
+      "v70"
+    ]
+  },
+  "Volvo V70R": {
+    "bat_slug": "volvo/v70r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo V70R",
+    "keywords": [
+      "volvo v70r",
+      "v70r"
+    ]
+  },
+  "Volvo XC60": {
+    "bat_slug": "volvo/xc60",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo XC60",
+    "keywords": [
+      "volvo xc60",
+      "xc60"
+    ]
+  },
+  "Volvo XC70": {
+    "bat_slug": "volvo/xc70",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo XC70",
+    "keywords": [
+      "volvo xc70",
+      "xc70"
+    ]
+  },
+  "Volvo XC90": {
+    "bat_slug": "volvo/xc90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volvo XC90",
+    "keywords": [
+      "volvo xc90",
+      "xc90"
+    ]
+  }
+}

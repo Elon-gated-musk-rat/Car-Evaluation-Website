@@ -1,0 +1,1542 @@
+{
+  "Porsche 356 Carrera": {
+    "bat_slug": "porsche/356-carrera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356 Carrera",
+    "keywords": [
+      "porsche 356 carrera",
+      "356 carrera"
+    ]
+  },
+  "Porsche 356 Pre-A": {
+    "bat_slug": "porsche/356-pre-a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356 Pre-A",
+    "keywords": [
+      "porsche 356 pre-a",
+      "356 pre a"
+    ]
+  },
+  "Porsche 356 Replica": {
+    "bat_slug": "porsche/356-speedster-replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356 Replica",
+    "keywords": [
+      "porsche 356 replica",
+      "356 speedster replica"
+    ]
+  },
+  "Porsche 356 Speedster": {
+    "bat_slug": "porsche/356-speedster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356 Speedster",
+    "keywords": [
+      "porsche 356 speedster",
+      "356 speedster"
+    ]
+  },
+  "Porsche 356A": {
+    "bat_slug": "porsche/356a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356A",
+    "keywords": [
+      "porsche 356a",
+      "356a"
+    ]
+  },
+  "Porsche 356B": {
+    "bat_slug": "porsche/356b",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356B",
+    "keywords": [
+      "porsche 356b",
+      "356b"
+    ]
+  },
+  "Porsche 356C": {
+    "bat_slug": "porsche/356c",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 356C",
+    "keywords": [
+      "porsche 356c",
+      "356c"
+    ]
+  },
+  "Porsche 550 Spyder Replica": {
+    "bat_slug": "porsche/550-spyder-replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 550 Spyder Replica",
+    "keywords": [
+      "porsche 550 spyder replica",
+      "550 spyder replica"
+    ]
+  },
+  "Porsche 911 1974-1977": {
+    "bat_slug": "porsche/911-carrera-1974-1977",
+    "start_year": 1974,
+    "end_year": 1977,
+    "generation": "Porsche 911 1974-1977",
+    "keywords": [
+      "porsche 911 1974-1977",
+      "911 carrera 1974 1977"
+    ]
+  },
+  "Porsche 911 Carrera 3.2": {
+    "bat_slug": "porsche/911-carrera-3-2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 911 Carrera 3.2",
+    "keywords": [
+      "porsche 911 carrera 3.2",
+      "911 carrera 3 2"
+    ]
+  },
+  "Porsche 911 Carrera RS (1973)": {
+    "bat_slug": "porsche/911-carrera-rs-1973",
+    "start_year": 1972,
+    "end_year": 1974,
+    "generation": "Porsche 911 Carrera RS (1973)",
+    "keywords": [
+      "porsche 911 carrera rs (1973)",
+      "911 carrera rs 1973"
+    ]
+  },
+  "Porsche 911 RS America": {
+    "bat_slug": "porsche/911-rs-america",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 911 RS America",
+    "keywords": [
+      "porsche 911 rs america",
+      "911 rs america"
+    ]
+  },
+  "Porsche 911 Safari": {
+    "bat_slug": "porsche/911-safari",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 911 Safari",
+    "keywords": [
+      "porsche 911 safari",
+      "911 safari"
+    ]
+  },
+  "Porsche 911 Speedster (1989)": {
+    "bat_slug": "porsche/911-speedster-1989",
+    "start_year": 1988,
+    "end_year": 1990,
+    "generation": "Porsche 911 Speedster (1989)",
+    "keywords": [
+      "porsche 911 speedster (1989)",
+      "911 speedster 1989"
+    ]
+  },
+  "Porsche 911SC": {
+    "bat_slug": "porsche/911sc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 911SC",
+    "keywords": [
+      "porsche 911sc",
+      "911sc"
+    ]
+  },
+  "Porsche 912": {
+    "bat_slug": "porsche/912",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 912",
+    "keywords": [
+      "porsche 912",
+      "912"
+    ]
+  },
+  "Porsche 912E": {
+    "bat_slug": "porsche/912e",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 912E",
+    "keywords": [
+      "porsche 912e",
+      "912e"
+    ]
+  },
+  "Porsche 914 1.7/1.8/2.0": {
+    "bat_slug": "porsche/914-171820",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 914 1.7/1.8/2.0",
+    "keywords": [
+      "porsche 914 1.7/1.8/2.0",
+      "914 171820"
+    ]
+  },
+  "Porsche 914/6": {
+    "bat_slug": "porsche/914-6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 914/6",
+    "keywords": [
+      "porsche 914/6",
+      "914 6"
+    ]
+  },
+  "Porsche 918 Spyder": {
+    "bat_slug": "porsche/918-spyder",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 918 Spyder",
+    "keywords": [
+      "porsche 918 spyder",
+      "918 spyder"
+    ]
+  },
+  "Porsche 924": {
+    "bat_slug": "porsche/924",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 924",
+    "keywords": [
+      "porsche 924",
+      "924"
+    ]
+  },
+  "Porsche 928": {
+    "bat_slug": "porsche/928",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 928",
+    "keywords": [
+      "porsche 928",
+      "928"
+    ]
+  },
+  "Porsche 930 Turbo": {
+    "bat_slug": "porsche/930-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 930 Turbo",
+    "keywords": [
+      "porsche 930 turbo",
+      "930 turbo"
+    ]
+  },
+  "Porsche 934 & 935": {
+    "bat_slug": "porsche/934-935",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 934 & 935",
+    "keywords": [
+      "porsche 934 & 935",
+      "934 935"
+    ]
+  },
+  "Porsche 944": {
+    "bat_slug": "porsche/944-951",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 944",
+    "keywords": [
+      "porsche 944",
+      "944 951"
+    ]
+  },
+  "Porsche 944 Turbo": {
+    "bat_slug": "porsche/944-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 944 Turbo",
+    "keywords": [
+      "porsche 944 turbo",
+      "944 turbo"
+    ]
+  },
+  "Porsche 956 & 962": {
+    "bat_slug": "porsche/956-962",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 956 & 962",
+    "keywords": [
+      "porsche 956 & 962",
+      "956 962"
+    ]
+  },
+  "Porsche 959": {
+    "bat_slug": "porsche/959",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 959",
+    "keywords": [
+      "porsche 959",
+      "959"
+    ]
+  },
+  "Porsche 964 911 (Non-Turbo)": {
+    "bat_slug": "porsche/964",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 911 (Non-Turbo)",
+    "keywords": [
+      "porsche 964 911 (non-turbo)",
+      "964"
+    ]
+  },
+  "Porsche 964 911 Parts and Automobilia": {
+    "bat_slug": "porsche/964-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 964 911 parts and automobilia",
+      "964 911 parts and automobilia"
+    ]
+  },
+  "Porsche 964 911 Singer": {
+    "bat_slug": "porsche/singer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 911 Singer",
+    "keywords": [
+      "porsche 964 911 singer",
+      "singer"
+    ]
+  },
+  "Porsche 964 911 Speedster": {
+    "bat_slug": "porsche/964-911-speedster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 911 Speedster",
+    "keywords": [
+      "porsche 964 911 speedster",
+      "964 911 speedster"
+    ]
+  },
+  "Porsche 964 Carrera RS": {
+    "bat_slug": "porsche/964-carrera-rs",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 Carrera RS",
+    "keywords": [
+      "porsche 964 carrera rs",
+      "964 carrera rs"
+    ]
+  },
+  "Porsche 964 Turbo": {
+    "bat_slug": "porsche/964-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 964 Turbo",
+    "keywords": [
+      "porsche 964 turbo",
+      "964 turbo"
+    ]
+  },
+  "Porsche 968": {
+    "bat_slug": "porsche/968",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 968",
+    "keywords": [
+      "porsche 968",
+      "968"
+    ]
+  },
+  "Porsche 981 Boxster": {
+    "bat_slug": "porsche/981-boxster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 981 Boxster",
+    "keywords": [
+      "porsche 981 boxster",
+      "981 boxster"
+    ]
+  },
+  "Porsche 981 Cayman": {
+    "bat_slug": "porsche/981-cayman",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 981 Cayman",
+    "keywords": [
+      "porsche 981 cayman",
+      "981 cayman"
+    ]
+  },
+  "Porsche 982 718 Boxster": {
+    "bat_slug": "porsche/982-718-boxster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 982 718 Boxster",
+    "keywords": [
+      "porsche 982 718 boxster",
+      "982 718 boxster"
+    ]
+  },
+  "Porsche 982 718 Cayman": {
+    "bat_slug": "porsche/982-718-cayman",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 982 718 Cayman",
+    "keywords": [
+      "porsche 982 718 cayman",
+      "982 718 cayman"
+    ]
+  },
+  "Porsche 986 Boxster": {
+    "bat_slug": "porsche/986-boxster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 986 Boxster",
+    "keywords": [
+      "porsche 986 boxster",
+      "986 boxster"
+    ]
+  },
+  "Porsche 987 Boxster": {
+    "bat_slug": "porsche/987-boxster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 987 Boxster",
+    "keywords": [
+      "porsche 987 boxster",
+      "987 boxster"
+    ]
+  },
+  "Porsche 987 Cayman": {
+    "bat_slug": "porsche/987-cayman",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 987 Cayman",
+    "keywords": [
+      "porsche 987 cayman",
+      "987 cayman"
+    ]
+  },
+  "Porsche 991 911 50th Anniversary Edition": {
+    "bat_slug": "porsche/991-911-50th-anniversary",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 50th Anniversary Edition",
+    "keywords": [
+      "porsche 991 911 50th anniversary edition",
+      "991 911 50th anniversary"
+    ]
+  },
+  "Porsche 991 911 Carrera": {
+    "bat_slug": "porsche/991-911-carrera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera",
+    "keywords": [
+      "porsche 991 911 carrera",
+      "991 911 carrera"
+    ]
+  },
+  "Porsche 991 911 Carrera 4": {
+    "bat_slug": "porsche/991-911-carrera-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera 4",
+    "keywords": [
+      "porsche 991 911 carrera 4",
+      "991 911 carrera 4"
+    ]
+  },
+  "Porsche 991 911 Carrera 4 GTS": {
+    "bat_slug": "porsche/991-911-carrera-4-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera 4 GTS",
+    "keywords": [
+      "porsche 991 911 carrera 4 gts",
+      "991 911 carrera 4 gts"
+    ]
+  },
+  "Porsche 991 911 Carrera 4S": {
+    "bat_slug": "porsche/991-911-carrera-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera 4S",
+    "keywords": [
+      "porsche 991 911 carrera 4s",
+      "991 911 carrera 4s"
+    ]
+  },
+  "Porsche 991 911 Carrera Black Edition": {
+    "bat_slug": "porsche/991-911-carrera-black-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera Black Edition",
+    "keywords": [
+      "porsche 991 911 carrera black edition",
+      "991 911 carrera black edition"
+    ]
+  },
+  "Porsche 991 911 Carrera GTS": {
+    "bat_slug": "porsche/991-911-carrera-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera GTS",
+    "keywords": [
+      "porsche 991 911 carrera gts",
+      "991 911 carrera gts"
+    ]
+  },
+  "Porsche 991 911 Carrera GTS Club Coupe": {
+    "bat_slug": "porsche/991-911-carrera-gts-club-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera GTS Club Coupe",
+    "keywords": [
+      "porsche 991 911 carrera gts club coupe",
+      "991 911 carrera gts club coupe"
+    ]
+  },
+  "Porsche 991 911 Carrera GTS Rennsport Reunion": {
+    "bat_slug": "porsche/991-911-carrera-gts-rennsport-reunion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera GTS Rennsport Reunion",
+    "keywords": [
+      "porsche 991 911 carrera gts rennsport reunion",
+      "991 911 carrera gts rennsport reunion"
+    ]
+  },
+  "Porsche 991 911 Carrera S": {
+    "bat_slug": "porsche/991-911",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera S",
+    "keywords": [
+      "porsche 991 911 carrera s",
+      "991 911"
+    ]
+  },
+  "Porsche 991 911 Carrera S Endurance Racing Edition": {
+    "bat_slug": "porsche/991-911-carrera-s-endurance-racing-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera S Endurance Racing Edition",
+    "keywords": [
+      "porsche 991 911 carrera s endurance racing edition",
+      "991 911 carrera s endurance racing edition"
+    ]
+  },
+  "Porsche 991 911 Carrera T": {
+    "bat_slug": "porsche/991-911-carrera-t",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Carrera T",
+    "keywords": [
+      "porsche 991 911 carrera t",
+      "991 911 carrera t"
+    ]
+  },
+  "Porsche 991 911 GT2": {
+    "bat_slug": "porsche/991-gt2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 GT2",
+    "keywords": [
+      "porsche 991 911 gt2",
+      "991 gt2"
+    ]
+  },
+  "Porsche 991 911 GT3": {
+    "bat_slug": "porsche/991-gt3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 GT3",
+    "keywords": [
+      "porsche 991 911 gt3",
+      "991 gt3"
+    ]
+  },
+  "Porsche 991 911 Parts and Automobilia": {
+    "bat_slug": "porsche/991-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 991 911 parts and automobilia",
+      "991 911 parts and automobilia"
+    ]
+  },
+  "Porsche 991 911 R": {
+    "bat_slug": "porsche/991-911-r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 R",
+    "keywords": [
+      "porsche 991 911 r",
+      "991 911 r"
+    ]
+  },
+  "Porsche 991 911 Speedster": {
+    "bat_slug": "porsche/991-911-speedster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Speedster",
+    "keywords": [
+      "porsche 991 911 speedster",
+      "991 911 speedster"
+    ]
+  },
+  "Porsche 991 911 Targa 4": {
+    "bat_slug": "porsche/991-911-targa-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Targa 4",
+    "keywords": [
+      "porsche 991 911 targa 4",
+      "991 911 targa 4"
+    ]
+  },
+  "Porsche 991 911 Targa 4 GTS": {
+    "bat_slug": "porsche/991-911-targa-4-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Targa 4 GTS",
+    "keywords": [
+      "porsche 991 911 targa 4 gts",
+      "991 911 targa 4 gts"
+    ]
+  },
+  "Porsche 991 911 Targa 4 GTS Exclusive Manufaktur Edition": {
+    "bat_slug": "porsche/991-911-targa-4-gts-exclusive-manufaktur-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Targa 4 GTS Exclusive Manufaktur Edition",
+    "keywords": [
+      "porsche 991 911 targa 4 gts exclusive manufaktur edition",
+      "991 911 targa 4 gts exclusive manufaktur edition"
+    ]
+  },
+  "Porsche 991 911 Targa 4S": {
+    "bat_slug": "porsche/991-911-targa-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Targa 4S",
+    "keywords": [
+      "porsche 991 911 targa 4s",
+      "991 911 targa 4s"
+    ]
+  },
+  "Porsche 991 911 Targa 4S Exclusive Design Edition": {
+    "bat_slug": "porsche/991-911-targa-4s-exclusive-design-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Targa 4S Exclusive Design Edition",
+    "keywords": [
+      "porsche 991 911 targa 4s exclusive design edition",
+      "991 911 targa 4s exclusive design edition"
+    ]
+  },
+  "Porsche 991 911 Turbo": {
+    "bat_slug": "porsche/991-911-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 991 911 Turbo",
+    "keywords": [
+      "porsche 991 911 turbo",
+      "991 911 turbo"
+    ]
+  },
+  "Porsche 992 911 Carrera": {
+    "bat_slug": "porsche/992-911-carrera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera",
+    "keywords": [
+      "porsche 992 911 carrera",
+      "992 911 carrera"
+    ]
+  },
+  "Porsche 992 911 Carrera 4": {
+    "bat_slug": "porsche/992-911-carrera-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera 4",
+    "keywords": [
+      "porsche 992 911 carrera 4",
+      "992 911 carrera 4"
+    ]
+  },
+  "Porsche 992 911 Carrera 4 GTS": {
+    "bat_slug": "porsche/992-911-carrera-4-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera 4 GTS",
+    "keywords": [
+      "porsche 992 911 carrera 4 gts",
+      "992 911 carrera 4 gts"
+    ]
+  },
+  "Porsche 992 911 Carrera 4S": {
+    "bat_slug": "porsche/992-911-carrera-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera 4S",
+    "keywords": [
+      "porsche 992 911 carrera 4s",
+      "992 911 carrera 4s"
+    ]
+  },
+  "Porsche 992 911 Carrera GTS": {
+    "bat_slug": "porsche/992-911-carrera-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera GTS",
+    "keywords": [
+      "porsche 992 911 carrera gts",
+      "992 911 carrera gts"
+    ]
+  },
+  "Porsche 992 911 Carrera GTS Cabriolet America Edition": {
+    "bat_slug": "porsche/992-911-carrera-gts-cabriolet-america-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera GTS Cabriolet America Edition",
+    "keywords": [
+      "porsche 992 911 carrera gts cabriolet america edition",
+      "992 911 carrera gts cabriolet america edition"
+    ]
+  },
+  "Porsche 992 911 Carrera S": {
+    "bat_slug": "porsche/992-911",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera S",
+    "keywords": [
+      "porsche 992 911 carrera s",
+      "992 911"
+    ]
+  },
+  "Porsche 992 911 Carrera T": {
+    "bat_slug": "porsche/992-911-carrera-t",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Carrera T",
+    "keywords": [
+      "porsche 992 911 carrera t",
+      "992 911 carrera t"
+    ]
+  },
+  "Porsche 992 911 Dakar": {
+    "bat_slug": "porsche/992-911-dakar",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Dakar",
+    "keywords": [
+      "porsche 992 911 dakar",
+      "992 911 dakar"
+    ]
+  },
+  "Porsche 992 911 GT3": {
+    "bat_slug": "porsche/992-gt3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 GT3",
+    "keywords": [
+      "porsche 992 911 gt3",
+      "992 gt3"
+    ]
+  },
+  "Porsche 992 911 Parts and Automobilia": {
+    "bat_slug": "porsche/992-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 992 911 parts and automobilia",
+      "992 911 parts and automobilia"
+    ]
+  },
+  "Porsche 992 911 S/T": {
+    "bat_slug": "porsche/992-911-st",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 S/T",
+    "keywords": [
+      "porsche 992 911 s/t",
+      "992 911 st"
+    ]
+  },
+  "Porsche 992 911 Spirit 70": {
+    "bat_slug": "porsche/992-911-spirit-70",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Spirit 70",
+    "keywords": [
+      "porsche 992 911 spirit 70",
+      "992 911 spirit 70"
+    ]
+  },
+  "Porsche 992 911 Sport Classic": {
+    "bat_slug": "porsche/992-911-sport-classic",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Sport Classic",
+    "keywords": [
+      "porsche 992 911 sport classic",
+      "992 911 sport classic"
+    ]
+  },
+  "Porsche 992 911 Targa 4": {
+    "bat_slug": "porsche/992-911-targa-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Targa 4",
+    "keywords": [
+      "porsche 992 911 targa 4",
+      "992 911 targa 4"
+    ]
+  },
+  "Porsche 992 911 Targa 4 GTS": {
+    "bat_slug": "porsche/992-911-targa-4-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Targa 4 GTS",
+    "keywords": [
+      "porsche 992 911 targa 4 gts",
+      "992 911 targa 4 gts"
+    ]
+  },
+  "Porsche 992 911 Targa 4S": {
+    "bat_slug": "porsche/992-911-targa-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Targa 4S",
+    "keywords": [
+      "porsche 992 911 targa 4s",
+      "992 911 targa 4s"
+    ]
+  },
+  "Porsche 992 911 Targa 4S Heritage Design Edition": {
+    "bat_slug": "porsche/992-911-targa-4s-heritage-design-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Targa 4S Heritage Design Edition",
+    "keywords": [
+      "porsche 992 911 targa 4s heritage design edition",
+      "992 911 targa 4s heritage design edition"
+    ]
+  },
+  "Porsche 992 911 Targa Edition 50 Years Porsche Design": {
+    "bat_slug": "porsche/992-911-targa-edition-50-years-porsche-design",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Targa Edition 50 Years Porsche Design",
+    "keywords": [
+      "porsche 992 911 targa edition 50 years porsche design",
+      "992 911 targa edition 50 years porsche design"
+    ]
+  },
+  "Porsche 992 911 Turbo": {
+    "bat_slug": "porsche/992-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 992 911 Turbo",
+    "keywords": [
+      "porsche 992 911 turbo",
+      "992 turbo"
+    ]
+  },
+  "Porsche 993 911 Carrera": {
+    "bat_slug": "porsche/993",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera",
+    "keywords": [
+      "porsche 993 911 carrera",
+      "993"
+    ]
+  },
+  "Porsche 993 911 Carrera 4": {
+    "bat_slug": "porsche/993-911-carrera-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera 4",
+    "keywords": [
+      "porsche 993 911 carrera 4",
+      "993 911 carrera 4"
+    ]
+  },
+  "Porsche 993 911 Carrera 4S": {
+    "bat_slug": "porsche/993-911-carrera-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera 4S",
+    "keywords": [
+      "porsche 993 911 carrera 4s",
+      "993 911 carrera 4s"
+    ]
+  },
+  "Porsche 993 911 Carrera RS": {
+    "bat_slug": "porsche/993-911-carrera-rs",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera RS",
+    "keywords": [
+      "porsche 993 911 carrera rs",
+      "993 911 carrera rs"
+    ]
+  },
+  "Porsche 993 911 Carrera S": {
+    "bat_slug": "porsche/993-911-carrera-s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera S",
+    "keywords": [
+      "porsche 993 911 carrera s",
+      "993 911 carrera s"
+    ]
+  },
+  "Porsche 993 911 Carrera S Coupe Vesuvio Edition": {
+    "bat_slug": "porsche/993-911-carrera-s-coupe-vesuvio-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Carrera S Coupe Vesuvio Edition",
+    "keywords": [
+      "porsche 993 911 carrera s coupe vesuvio edition",
+      "993 911 carrera s coupe vesuvio edition"
+    ]
+  },
+  "Porsche 993 911 Gunther Werks": {
+    "bat_slug": "porsche/993-911-gunther-werks",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Gunther Werks",
+    "keywords": [
+      "porsche 993 911 gunther werks",
+      "993 911 gunther werks"
+    ]
+  },
+  "Porsche 993 911 Kaege Retro": {
+    "bat_slug": "porsche/993-911-kaege-retro",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Kaege Retro",
+    "keywords": [
+      "porsche 993 911 kaege retro",
+      "993 911 kaege retro"
+    ]
+  },
+  "Porsche 993 911 Parts and Automobilia": {
+    "bat_slug": "porsche/993-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 993 911 parts and automobilia",
+      "993 911 parts and automobilia"
+    ]
+  },
+  "Porsche 993 911 Race Car": {
+    "bat_slug": "porsche/993-911-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 911 Race Car",
+    "keywords": [
+      "porsche 993 911 race car",
+      "993 911 race car"
+    ]
+  },
+  "Porsche 993 GT2": {
+    "bat_slug": "porsche/993-gt2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 GT2",
+    "keywords": [
+      "porsche 993 gt2",
+      "993 gt2"
+    ]
+  },
+  "Porsche 993 Turbo": {
+    "bat_slug": "porsche/993-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 993 Turbo",
+    "keywords": [
+      "porsche 993 turbo",
+      "993 turbo"
+    ]
+  },
+  "Porsche 996 911 40th Anniversary Edition": {
+    "bat_slug": "porsche/996-911-40th-anniversary-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 40th Anniversary Edition",
+    "keywords": [
+      "porsche 996 911 40th anniversary edition",
+      "996 911 40th anniversary edition"
+    ]
+  },
+  "Porsche 996 911 Carrera": {
+    "bat_slug": "porsche/996-911",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Carrera",
+    "keywords": [
+      "porsche 996 911 carrera",
+      "996 911"
+    ]
+  },
+  "Porsche 996 911 Carrera 4": {
+    "bat_slug": "porsche/996-911-carrera-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Carrera 4",
+    "keywords": [
+      "porsche 996 911 carrera 4",
+      "996 911 carrera 4"
+    ]
+  },
+  "Porsche 996 911 Carrera 4 Millennium Edition": {
+    "bat_slug": "porsche/996-911-carrera-4-millennium-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Carrera 4 Millennium Edition",
+    "keywords": [
+      "porsche 996 911 carrera 4 millennium edition",
+      "996 911 carrera 4 millennium edition"
+    ]
+  },
+  "Porsche 996 911 Carrera 4S": {
+    "bat_slug": "porsche/996-911-carrera-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Carrera 4S",
+    "keywords": [
+      "porsche 996 911 carrera 4s",
+      "996 911 carrera 4s"
+    ]
+  },
+  "Porsche 996 911 Carrera Targa": {
+    "bat_slug": "porsche/996-911-carrera-targa",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Carrera Targa",
+    "keywords": [
+      "porsche 996 911 carrera targa",
+      "996 911 carrera targa"
+    ]
+  },
+  "Porsche 996 911 GT2": {
+    "bat_slug": "porsche/996-gt2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 GT2",
+    "keywords": [
+      "porsche 996 911 gt2",
+      "996 gt2"
+    ]
+  },
+  "Porsche 996 911 GT3": {
+    "bat_slug": "porsche/996-gt3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 GT3",
+    "keywords": [
+      "porsche 996 911 gt3",
+      "996 gt3"
+    ]
+  },
+  "Porsche 996 911 Parts and Automobilia": {
+    "bat_slug": "porsche/996-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 996 911 parts and automobilia",
+      "996 911 parts and automobilia"
+    ]
+  },
+  "Porsche 996 911 Turbo": {
+    "bat_slug": "porsche/996-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 996 911 Turbo",
+    "keywords": [
+      "porsche 996 911 turbo",
+      "996 turbo"
+    ]
+  },
+  "Porsche 997 911 Carrera": {
+    "bat_slug": "porsche/997-911-carrera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera",
+    "keywords": [
+      "porsche 997 911 carrera",
+      "997 911 carrera"
+    ]
+  },
+  "Porsche 997 911 Carrera 4": {
+    "bat_slug": "porsche/997-911-carrera-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera 4",
+    "keywords": [
+      "porsche 997 911 carrera 4",
+      "997 911 carrera 4"
+    ]
+  },
+  "Porsche 997 911 Carrera 4 GTS": {
+    "bat_slug": "porsche/997-911-carrera-4-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera 4 GTS",
+    "keywords": [
+      "porsche 997 911 carrera 4 gts",
+      "997 911 carrera 4 gts"
+    ]
+  },
+  "Porsche 997 911 Carrera 4S": {
+    "bat_slug": "porsche/997-911-carrera-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera 4S",
+    "keywords": [
+      "porsche 997 911 carrera 4s",
+      "997 911 carrera 4s"
+    ]
+  },
+  "Porsche 997 911 Carrera Black Edition": {
+    "bat_slug": "porsche/997-911-carrera-black-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera Black Edition",
+    "keywords": [
+      "porsche 997 911 carrera black edition",
+      "997 911 carrera black edition"
+    ]
+  },
+  "Porsche 997 911 Carrera GTS": {
+    "bat_slug": "porsche/997-911-carrera-gts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera GTS",
+    "keywords": [
+      "porsche 997 911 carrera gts",
+      "997 911 carrera gts"
+    ]
+  },
+  "Porsche 997 911 Carrera S": {
+    "bat_slug": "porsche/997-911",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera S",
+    "keywords": [
+      "porsche 997 911 carrera s",
+      "997 911"
+    ]
+  },
+  "Porsche 997 911 Carrera S Club Coupe": {
+    "bat_slug": "porsche/997-911-carrera-s-club-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Carrera S Club Coupe",
+    "keywords": [
+      "porsche 997 911 carrera s club coupe",
+      "997 911 carrera s club coupe"
+    ]
+  },
+  "Porsche 997 911 GT2": {
+    "bat_slug": "porsche/997-gt2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 GT2",
+    "keywords": [
+      "porsche 997 911 gt2",
+      "997 gt2"
+    ]
+  },
+  "Porsche 997 911 GT3": {
+    "bat_slug": "porsche/997-gt3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 GT3",
+    "keywords": [
+      "porsche 997 911 gt3",
+      "997 gt3"
+    ]
+  },
+  "Porsche 997 911 Parts and Automobilia": {
+    "bat_slug": "porsche/997-911-parts-and-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Parts and Automobilia",
+    "keywords": [
+      "porsche 997 911 parts and automobilia",
+      "997 911 parts and automobilia"
+    ]
+  },
+  "Porsche 997 911 Speedster": {
+    "bat_slug": "porsche/997-911-speedster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Speedster",
+    "keywords": [
+      "porsche 997 911 speedster",
+      "997 911 speedster"
+    ]
+  },
+  "Porsche 997 911 Sport Classic": {
+    "bat_slug": "porsche/997-911-sport-classic",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Sport Classic",
+    "keywords": [
+      "porsche 997 911 sport classic",
+      "997 911 sport classic"
+    ]
+  },
+  "Porsche 997 911 Targa 4": {
+    "bat_slug": "porsche/997-911-targa-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Targa 4",
+    "keywords": [
+      "porsche 997 911 targa 4",
+      "997 911 targa 4"
+    ]
+  },
+  "Porsche 997 911 Targa 4S": {
+    "bat_slug": "porsche/997-911-targa-4s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Targa 4S",
+    "keywords": [
+      "porsche 997 911 targa 4s",
+      "997 911 targa 4s"
+    ]
+  },
+  "Porsche 997 911 Turbo": {
+    "bat_slug": "porsche/997-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche 997 911 Turbo",
+    "keywords": [
+      "porsche 997 911 turbo",
+      "997 turbo"
+    ]
+  },
+  "Porsche 9Y0/9Y3 Cayenne (2019+)": {
+    "bat_slug": "porsche/9y0-9y3-cayenne-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Porsche 9Y0/9Y3 Cayenne (2019+)",
+    "keywords": [
+      "porsche 9y0/9y3 cayenne (2019+)",
+      "9y0 9y3 cayenne 2019"
+    ]
+  },
+  "Porsche Carrera GT": {
+    "bat_slug": "porsche/carrera-gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Carrera GT",
+    "keywords": [
+      "porsche carrera gt",
+      "carrera gt"
+    ]
+  },
+  "Porsche Cayenne Diesel (958)": {
+    "bat_slug": "porsche/cayenne-diesel-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Diesel (958)",
+    "keywords": [
+      "porsche cayenne diesel (958)",
+      "cayenne diesel 958"
+    ]
+  },
+  "Porsche Cayenne Diesel Platinum Edition (958)": {
+    "bat_slug": "porsche/cayenne-diesel-platinum-edition-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Diesel Platinum Edition (958)",
+    "keywords": [
+      "porsche cayenne diesel platinum edition (958)",
+      "cayenne diesel platinum edition 958"
+    ]
+  },
+  "Porsche Cayenne GTS (957)": {
+    "bat_slug": "porsche/cayenne-gts-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne GTS (957)",
+    "keywords": [
+      "porsche cayenne gts (957)",
+      "cayenne gts 957"
+    ]
+  },
+  "Porsche Cayenne GTS (958)": {
+    "bat_slug": "porsche/cayenne-gts-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne GTS (958)",
+    "keywords": [
+      "porsche cayenne gts (958)",
+      "cayenne gts 958"
+    ]
+  },
+  "Porsche Cayenne GTS Design Edition 3 (957)": {
+    "bat_slug": "porsche/cayenne-gts-design-edition-3-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne GTS Design Edition 3 (957)",
+    "keywords": [
+      "porsche cayenne gts design edition 3 (957)",
+      "cayenne gts design edition 3 957"
+    ]
+  },
+  "Porsche Cayenne S (955/957)": {
+    "bat_slug": "porsche/cayenne-s-955-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S (955/957)",
+    "keywords": [
+      "porsche cayenne s (955/957)",
+      "cayenne s 955 957"
+    ]
+  },
+  "Porsche Cayenne S (958)": {
+    "bat_slug": "porsche/cayenne-s-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S (958)",
+    "keywords": [
+      "porsche cayenne s (958)",
+      "cayenne s 958"
+    ]
+  },
+  "Porsche Cayenne S E-Hybrid & S Hybrid (958)": {
+    "bat_slug": "porsche/cayenne-s-e-hybrid-s-hybrid-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S E-Hybrid & S Hybrid (958)",
+    "keywords": [
+      "porsche cayenne s e-hybrid & s hybrid (958)",
+      "cayenne s e hybrid s hybrid 958"
+    ]
+  },
+  "Porsche Cayenne S E-Hybrid Platinum Edition (958)": {
+    "bat_slug": "porsche/cayenne-s-e-hybrid-platinum-edition-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S E-Hybrid Platinum Edition (958)",
+    "keywords": [
+      "porsche cayenne s e-hybrid platinum edition (958)",
+      "cayenne s e hybrid platinum edition 958"
+    ]
+  },
+  "Porsche Cayenne S Titanium Edition (955)": {
+    "bat_slug": "porsche/cayenne-s-titanium-edition-955",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S Titanium Edition (955)",
+    "keywords": [
+      "porsche cayenne s titanium edition (955)",
+      "cayenne s titanium edition 955"
+    ]
+  },
+  "Porsche Cayenne S Transsyberia (957)": {
+    "bat_slug": "porsche/cayenne-s-transsyberia-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne S Transsyberia (957)",
+    "keywords": [
+      "porsche cayenne s transsyberia (957)",
+      "cayenne s transsyberia 957"
+    ]
+  },
+  "Porsche Cayenne Turbo (955/957)": {
+    "bat_slug": "porsche/cayenne-turbo-955-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Turbo (955/957)",
+    "keywords": [
+      "porsche cayenne turbo (955/957)",
+      "cayenne turbo 955 957"
+    ]
+  },
+  "Porsche Cayenne Turbo (958)": {
+    "bat_slug": "porsche/cayenne-turbo-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Turbo (958)",
+    "keywords": [
+      "porsche cayenne turbo (958)",
+      "cayenne turbo 958"
+    ]
+  },
+  "Porsche Cayenne Turbo S (955/957)": {
+    "bat_slug": "porsche/cayenne-turbo-s-955-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Turbo S (955/957)",
+    "keywords": [
+      "porsche cayenne turbo s (955/957)",
+      "cayenne turbo s 955 957"
+    ]
+  },
+  "Porsche Cayenne Turbo S (958)": {
+    "bat_slug": "porsche/cayenne-turbo-s-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne Turbo S (958)",
+    "keywords": [
+      "porsche cayenne turbo s (958)",
+      "cayenne turbo s 958"
+    ]
+  },
+  "Porsche Cayenne V6 (955/957)": {
+    "bat_slug": "porsche/cayenne-v6-955-957",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne V6 (955/957)",
+    "keywords": [
+      "porsche cayenne v6 (955/957)",
+      "cayenne v6 955 957"
+    ]
+  },
+  "Porsche Cayenne V6 (958)": {
+    "bat_slug": "porsche/cayenne-v6-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne V6 (958)",
+    "keywords": [
+      "porsche cayenne v6 (958)",
+      "cayenne v6 958"
+    ]
+  },
+  "Porsche Cayenne V6 Platinum Edition (958)": {
+    "bat_slug": "porsche/cayenne-v6-platinum-edition-958",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayenne V6 Platinum Edition (958)",
+    "keywords": [
+      "porsche cayenne v6 platinum edition (958)",
+      "cayenne v6 platinum edition 958"
+    ]
+  },
+  "Porsche Cayman GT4": {
+    "bat_slug": "porsche/cayman-gt4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Cayman GT4",
+    "keywords": [
+      "porsche cayman gt4",
+      "cayman gt4"
+    ]
+  },
+  "Porsche Emory Outlaw": {
+    "bat_slug": "porsche/emory-outlaw",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Emory Outlaw",
+    "keywords": [
+      "porsche emory outlaw",
+      "emory outlaw"
+    ]
+  },
+  "Porsche LWB 911E (1969-1973)": {
+    "bat_slug": "porsche/lwb-911e-1969-1973",
+    "start_year": 1969,
+    "end_year": 1973,
+    "generation": "Porsche LWB 911E (1969-1973)",
+    "keywords": [
+      "porsche lwb 911e (1969-1973)",
+      "lwb 911e 1969 1973"
+    ]
+  },
+  "Porsche LWB 911S (1969-1973)": {
+    "bat_slug": "porsche/lwb-911s-1969-1973",
+    "start_year": 1969,
+    "end_year": 1973,
+    "generation": "Porsche LWB 911S (1969-1973)",
+    "keywords": [
+      "porsche lwb 911s (1969-1973)",
+      "lwb 911s 1969 1973"
+    ]
+  },
+  "Porsche LWB 911T (1969-1973)": {
+    "bat_slug": "porsche/lwb-911t-1969-1973",
+    "start_year": 1969,
+    "end_year": 1973,
+    "generation": "Porsche LWB 911T (1969-1973)",
+    "keywords": [
+      "porsche lwb 911t (1969-1973)",
+      "lwb 911t 1969 1973"
+    ]
+  },
+  "Porsche Macan": {
+    "bat_slug": "porsche/macan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Macan",
+    "keywords": [
+      "porsche macan",
+      "macan"
+    ]
+  },
+  "Porsche Panamera": {
+    "bat_slug": "porsche/panamera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Panamera",
+    "keywords": [
+      "porsche panamera",
+      "panamera"
+    ]
+  },
+  "Porsche Sports Prototypes (1960s & 1970s)": {
+    "bat_slug": "porsche/sports-prototypes-1960s-1970s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Sports Prototypes (1960s & 1970s)",
+    "keywords": [
+      "porsche sports prototypes (1960s & 1970s)",
+      "sports prototypes 1960s 1970s"
+    ]
+  },
+  "Porsche SWB 911 (1965-1968)": {
+    "bat_slug": "porsche/swb-911-1965-1968",
+    "start_year": 1965,
+    "end_year": 1968,
+    "generation": "Porsche SWB 911 (1965-1968)",
+    "keywords": [
+      "porsche swb 911 (1965-1968)",
+      "swb 911 1965 1968"
+    ]
+  },
+  "Porsche Taycan": {
+    "bat_slug": "porsche/taycan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Taycan",
+    "keywords": [
+      "porsche taycan",
+      "taycan"
+    ]
+  },
+  "Porsche Tractor": {
+    "bat_slug": "porsche/tractor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Porsche Tractor",
+    "keywords": [
+      "porsche tractor",
+      "tractor"
+    ]
+  }
+}

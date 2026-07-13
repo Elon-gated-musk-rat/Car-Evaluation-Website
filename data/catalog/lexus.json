@@ -1,0 +1,192 @@
+{
+  "Lexus GS": {
+    "bat_slug": "lexus/gs",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus GS",
+    "keywords": [
+      "lexus gs",
+      "gs"
+    ]
+  },
+  "Lexus GX": {
+    "bat_slug": "lexus/gx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus GX",
+    "keywords": [
+      "lexus gx",
+      "gx"
+    ]
+  },
+  "Lexus IS": {
+    "bat_slug": "lexus/is",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus IS",
+    "keywords": [
+      "lexus is",
+      "is"
+    ]
+  },
+  "Lexus LC": {
+    "bat_slug": "lexus/lc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LC",
+    "keywords": [
+      "lexus lc",
+      "lc"
+    ]
+  },
+  "Lexus LFA": {
+    "bat_slug": "lexus/lfa",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LFA",
+    "keywords": [
+      "lexus lfa",
+      "lfa"
+    ]
+  },
+  "Lexus LX (J310)": {
+    "bat_slug": "lexus/lx-j310",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LX (J310)",
+    "keywords": [
+      "lexus lx (j310)",
+      "lx j310"
+    ]
+  },
+  "Lexus LX450": {
+    "bat_slug": "lexus/lx450",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LX450",
+    "keywords": [
+      "lexus lx450",
+      "lx450"
+    ]
+  },
+  "Lexus LX470": {
+    "bat_slug": "lexus/lx470",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LX470",
+    "keywords": [
+      "lexus lx470",
+      "lx470"
+    ]
+  },
+  "Lexus LX570": {
+    "bat_slug": "lexus/lx570",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus LX570",
+    "keywords": [
+      "lexus lx570",
+      "lx570"
+    ]
+  },
+  "Lexus RC": {
+    "bat_slug": "lexus/rc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus RC",
+    "keywords": [
+      "lexus rc",
+      "rc"
+    ]
+  },
+  "Lexus RX": {
+    "bat_slug": "lexus/rx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus RX",
+    "keywords": [
+      "lexus rx",
+      "rx"
+    ]
+  },
+  "Lexus XF10 LS400": {
+    "bat_slug": "lexus/xf10-ls400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus XF10 LS400",
+    "keywords": [
+      "lexus xf10 ls400",
+      "xf10 ls400"
+    ]
+  },
+  "Lexus XF20 LS400": {
+    "bat_slug": "lexus/xf20-ls400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus XF20 LS400",
+    "keywords": [
+      "lexus xf20 ls400",
+      "xf20 ls400"
+    ]
+  },
+  "Lexus XF30 LS430": {
+    "bat_slug": "lexus/xf30-ls430",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus XF30 LS430",
+    "keywords": [
+      "lexus xf30 ls430",
+      "xf30 ls430"
+    ]
+  },
+  "Lexus XF40 LS": {
+    "bat_slug": "lexus/xf40-ls",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus XF40 LS",
+    "keywords": [
+      "lexus xf40 ls",
+      "xf40 ls"
+    ]
+  },
+  "Lexus XF50 LS": {
+    "bat_slug": "lexus/xf50-ls",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus XF50 LS",
+    "keywords": [
+      "lexus xf50 ls",
+      "xf50 ls"
+    ]
+  },
+  "Lexus Z30 SC300": {
+    "bat_slug": "lexus/z30-sc300",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus Z30 SC300",
+    "keywords": [
+      "lexus z30 sc300",
+      "z30 sc300"
+    ]
+  },
+  "Lexus Z30 SC400": {
+    "bat_slug": "lexus/z30-sc400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus Z30 SC400",
+    "keywords": [
+      "lexus z30 sc400",
+      "z30 sc400"
+    ]
+  },
+  "Lexus Z40 SC430": {
+    "bat_slug": "lexus/z40-sc430",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lexus Z40 SC430",
+    "keywords": [
+      "lexus z40 sc430",
+      "z40 sc430"
+    ]
+  }
+}

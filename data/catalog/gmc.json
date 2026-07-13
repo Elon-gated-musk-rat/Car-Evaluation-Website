@@ -1,0 +1,412 @@
+{
+  "GMC Blue Chip Pickup (1955-1959)": {
+    "bat_slug": "gmc/blue-chip-pickup-1955-1959",
+    "start_year": 1955,
+    "end_year": 1959,
+    "generation": "GMC Blue Chip Pickup (1955-1959)",
+    "keywords": [
+      "gmc blue chip pickup (1955-1959)",
+      "blue chip pickup 1955 1959"
+    ]
+  },
+  "GMC C-Series Pickup (1941-1945)": {
+    "bat_slug": "gmc/c-series-pickup-1941-1945",
+    "start_year": 1941,
+    "end_year": 1945,
+    "generation": "GMC C-Series Pickup (1941-1945)",
+    "keywords": [
+      "gmc c-series pickup (1941-1945)",
+      "c series pickup 1941 1945"
+    ]
+  },
+  "GMC C/K 1960-1966": {
+    "bat_slug": "gmc/ck-1960-1966",
+    "start_year": 1960,
+    "end_year": 1966,
+    "generation": "GMC C/K 1960-1966",
+    "keywords": [
+      "gmc c/k 1960-1966",
+      "ck 1960 1966"
+    ]
+  },
+  "GMC C/K 1967-1972": {
+    "bat_slug": "gmc/ck-1967-1972",
+    "start_year": 1967,
+    "end_year": 1972,
+    "generation": "GMC C/K 1967-1972",
+    "keywords": [
+      "gmc c/k 1967-1972",
+      "ck 1967 1972"
+    ]
+  },
+  "GMC C/K 1973-1991": {
+    "bat_slug": "gmc/ck-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "GMC C/K 1973-1991",
+    "keywords": [
+      "gmc c/k 1973-1991",
+      "ck 1973 1991"
+    ]
+  },
+  "GMC Caballero": {
+    "bat_slug": "gmc/caballero",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Caballero",
+    "keywords": [
+      "gmc caballero",
+      "caballero"
+    ]
+  },
+  "GMC Canyon": {
+    "bat_slug": "gmc/canyon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Canyon",
+    "keywords": [
+      "gmc canyon",
+      "canyon"
+    ]
+  },
+  "GMC Carryall Suburban (1947-1955)": {
+    "bat_slug": "gmc/carryall-suburban-1947-1955",
+    "start_year": 1947,
+    "end_year": 1955,
+    "generation": "GMC Carryall Suburban (1947-1955)",
+    "keywords": [
+      "gmc carryall suburban (1947-1955)",
+      "carryall suburban 1947 1955"
+    ]
+  },
+  "GMC E-Series Pickup (1946-1947)": {
+    "bat_slug": "gmc/e-series-pickup-1946-1947",
+    "start_year": 1946,
+    "end_year": 1947,
+    "generation": "GMC E-Series Pickup (1946-1947)",
+    "keywords": [
+      "gmc e-series pickup (1946-1947)",
+      "e series pickup 1946 1947"
+    ]
+  },
+  "GMC Hummer EV": {
+    "bat_slug": "gmc/hummer-ev",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Hummer EV",
+    "keywords": [
+      "gmc hummer ev",
+      "hummer ev"
+    ]
+  },
+  "GMC Jimmy (1970-1972)": {
+    "bat_slug": "gmc/jimmy-1970-1972",
+    "start_year": 1970,
+    "end_year": 1972,
+    "generation": "GMC Jimmy (1970-1972)",
+    "keywords": [
+      "gmc jimmy (1970-1972)",
+      "jimmy 1970 1972"
+    ]
+  },
+  "GMC Jimmy (1973-1991)": {
+    "bat_slug": "gmc/jimmy-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "GMC Jimmy (1973-1991)",
+    "keywords": [
+      "gmc jimmy (1973-1991)",
+      "jimmy 1973 1991"
+    ]
+  },
+  "GMC Jimmy (1995-2005)": {
+    "bat_slug": "gmc/jimmy-1995-2005",
+    "start_year": 1995,
+    "end_year": 2005,
+    "generation": "GMC Jimmy (1995-2005)",
+    "keywords": [
+      "gmc jimmy (1995-2005)",
+      "jimmy 1995 2005"
+    ]
+  },
+  "GMC Motorhome": {
+    "bat_slug": "gmc/motorhome",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Motorhome",
+    "keywords": [
+      "gmc motorhome",
+      "motorhome"
+    ]
+  },
+  "GMC New Design Pickup (1947-1955)": {
+    "bat_slug": "gmc/new-design-pickup-1947-1955",
+    "start_year": 1947,
+    "end_year": 1955,
+    "generation": "GMC New Design Pickup (1947-1955)",
+    "keywords": [
+      "gmc new design pickup (1947-1955)",
+      "new design pickup 1947 1955"
+    ]
+  },
+  "GMC Pickup (1933-1940)": {
+    "bat_slug": "gmc/pickup-1933-1940",
+    "start_year": 1933,
+    "end_year": 1940,
+    "generation": "GMC Pickup (1933-1940)",
+    "keywords": [
+      "gmc pickup (1933-1940)",
+      "pickup 1933 1940"
+    ]
+  },
+  "GMC S-15 Jimmy": {
+    "bat_slug": "gmc/s-15-jimmy",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC S-15 Jimmy",
+    "keywords": [
+      "gmc s-15 jimmy",
+      "s 15 jimmy"
+    ]
+  },
+  "GMC S-15 Sonoma (1982-1993)": {
+    "bat_slug": "gmc/s-15-sonoma-1982-1993",
+    "start_year": 1982,
+    "end_year": 1993,
+    "generation": "GMC S-15 Sonoma (1982-1993)",
+    "keywords": [
+      "gmc s-15 sonoma (1982-1993)",
+      "s 15 sonoma 1982 1993"
+    ]
+  },
+  "GMC Sierra (GMT400 1988-2002)": {
+    "bat_slug": "gmc/sierra-gmt400-1988-2002",
+    "start_year": 1988,
+    "end_year": 2002,
+    "generation": "GMC Sierra (GMT400 1988-2002)",
+    "keywords": [
+      "gmc sierra (gmt400 1988-2002)",
+      "sierra gmt400 1988 2002"
+    ]
+  },
+  "GMC Sierra (GMT800 1999-2007)": {
+    "bat_slug": "gmc/sierra-gmt800-1999-2007",
+    "start_year": 1999,
+    "end_year": 2007,
+    "generation": "GMC Sierra (GMT800 1999-2007)",
+    "keywords": [
+      "gmc sierra (gmt800 1999-2007)",
+      "sierra gmt800 1999 2007"
+    ]
+  },
+  "GMC Sierra (GMT900 2007-2013)": {
+    "bat_slug": "gmc/sierra-gmt900-2007-2013",
+    "start_year": 2007,
+    "end_year": 2013,
+    "generation": "GMC Sierra (GMT900 2007-2013)",
+    "keywords": [
+      "gmc sierra (gmt900 2007-2013)",
+      "sierra gmt900 2007 2013"
+    ]
+  },
+  "GMC Sierra (K2XX 2014-2019)": {
+    "bat_slug": "gmc/sierra-k2xx-2014-2019",
+    "start_year": 2014,
+    "end_year": 2019,
+    "generation": "GMC Sierra (K2XX 2014-2019)",
+    "keywords": [
+      "gmc sierra (k2xx 2014-2019)",
+      "sierra k2xx 2014 2019"
+    ]
+  },
+  "GMC Sierra (T1XX 2019+)": {
+    "bat_slug": "gmc/sierra-t1xx-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "GMC Sierra (T1XX 2019+)",
+    "keywords": [
+      "gmc sierra (t1xx 2019+)",
+      "sierra t1xx 2019"
+    ]
+  },
+  "GMC Sierra HD (GMT800 2000-2007)": {
+    "bat_slug": "gmc/sierra-hd-gmt800-2000-2007",
+    "start_year": 2000,
+    "end_year": 2007,
+    "generation": "GMC Sierra HD (GMT800 2000-2007)",
+    "keywords": [
+      "gmc sierra hd (gmt800 2000-2007)",
+      "sierra hd gmt800 2000 2007"
+    ]
+  },
+  "GMC Sierra HD (GMT900 2007-2014)": {
+    "bat_slug": "gmc/sierra-hd-gmt900-2007-2015",
+    "start_year": 2007,
+    "end_year": 2014,
+    "generation": "GMC Sierra HD (GMT900 2007-2014)",
+    "keywords": [
+      "gmc sierra hd (gmt900 2007-2014)",
+      "sierra hd gmt900 2007 2015"
+    ]
+  },
+  "GMC Sonoma (1994-2004)": {
+    "bat_slug": "gmc/sonoma-1994-2004",
+    "start_year": 1994,
+    "end_year": 2004,
+    "generation": "GMC Sonoma (1994-2004)",
+    "keywords": [
+      "gmc sonoma (1994-2004)",
+      "sonoma 1994 2004"
+    ]
+  },
+  "GMC Sprint": {
+    "bat_slug": "gmc/sprint",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Sprint",
+    "keywords": [
+      "gmc sprint",
+      "sprint"
+    ]
+  },
+  "GMC Suburban (1955-1959)": {
+    "bat_slug": "gmc/suburban-1955-1959",
+    "start_year": 1955,
+    "end_year": 1959,
+    "generation": "GMC Suburban (1955-1959)",
+    "keywords": [
+      "gmc suburban (1955-1959)",
+      "suburban 1955 1959"
+    ]
+  },
+  "GMC Suburban (1960-1966)": {
+    "bat_slug": "gmc/suburban-1960-1966",
+    "start_year": 1960,
+    "end_year": 1966,
+    "generation": "GMC Suburban (1960-1966)",
+    "keywords": [
+      "gmc suburban (1960-1966)",
+      "suburban 1960 1966"
+    ]
+  },
+  "GMC Suburban (1967-1972)": {
+    "bat_slug": "gmc/suburban-1967-1972",
+    "start_year": 1967,
+    "end_year": 1972,
+    "generation": "GMC Suburban (1967-1972)",
+    "keywords": [
+      "gmc suburban (1967-1972)",
+      "suburban 1967 1972"
+    ]
+  },
+  "GMC Suburban (1973-1991)": {
+    "bat_slug": "gmc/suburban-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "GMC Suburban (1973-1991)",
+    "keywords": [
+      "gmc suburban (1973-1991)",
+      "suburban 1973 1991"
+    ]
+  },
+  "GMC Suburban (GMT400 1992-1999)": {
+    "bat_slug": "gmc/suburban-gmt400-1992-1999",
+    "start_year": 1992,
+    "end_year": 1999,
+    "generation": "GMC Suburban (GMT400 1992-1999)",
+    "keywords": [
+      "gmc suburban (gmt400 1992-1999)",
+      "suburban gmt400 1992 1999"
+    ]
+  },
+  "GMC Syclone": {
+    "bat_slug": "gmc/syclone",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Syclone",
+    "keywords": [
+      "gmc syclone",
+      "syclone"
+    ]
+  },
+  "GMC TopKick": {
+    "bat_slug": "gmc/topkick",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC TopKick",
+    "keywords": [
+      "gmc topkick",
+      "topkick"
+    ]
+  },
+  "GMC Typhoon": {
+    "bat_slug": "gmc/typhoon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Typhoon",
+    "keywords": [
+      "gmc typhoon",
+      "typhoon"
+    ]
+  },
+  "GMC Van": {
+    "bat_slug": "gmc/van",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Van",
+    "keywords": [
+      "gmc van",
+      "van"
+    ]
+  },
+  "GMC Yukon GMT400": {
+    "bat_slug": "gmc/yukon-gmt400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Yukon GMT400",
+    "keywords": [
+      "gmc yukon gmt400",
+      "yukon gmt400"
+    ]
+  },
+  "GMC Yukon GMT800": {
+    "bat_slug": "gmc/yukon-gmt800",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Yukon GMT800",
+    "keywords": [
+      "gmc yukon gmt800",
+      "yukon gmt800"
+    ]
+  },
+  "GMC Yukon GMT900": {
+    "bat_slug": "gmc/gmt900-yukon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "GMC Yukon GMT900",
+    "keywords": [
+      "gmc yukon gmt900",
+      "gmt900 yukon"
+    ]
+  },
+  "GMC Yukon K2XX (2015-2020)": {
+    "bat_slug": "gmc/yukon-k2xx-2015-2020",
+    "start_year": 2015,
+    "end_year": 2020,
+    "generation": "GMC Yukon K2XX (2015-2020)",
+    "keywords": [
+      "gmc yukon k2xx (2015-2020)",
+      "yukon k2xx 2015 2020"
+    ]
+  },
+  "GMC Yukon T1XX (2021+)": {
+    "bat_slug": "gmc/yukon-t1xx-2021",
+    "start_year": 2020,
+    "end_year": 2022,
+    "generation": "GMC Yukon T1XX (2021+)",
+    "keywords": [
+      "gmc yukon t1xx (2021+)",
+      "yukon t1xx 2021"
+    ]
+  }
+}

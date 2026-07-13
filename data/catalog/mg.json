@@ -1,0 +1,102 @@
+{
+  "MG Magnette": {
+    "bat_slug": "mg/magnette",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG Magnette",
+    "keywords": [
+      "mg magnette",
+      "magnette"
+    ]
+  },
+  "MG MGA": {
+    "bat_slug": "mg/mga",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG MGA",
+    "keywords": [
+      "mg mga",
+      "mga"
+    ]
+  },
+  "MG MGB": {
+    "bat_slug": "mg/mgb",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG MGB",
+    "keywords": [
+      "mg mgb",
+      "mgb"
+    ]
+  },
+  "MG MGC": {
+    "bat_slug": "mg/mgc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG MGC",
+    "keywords": [
+      "mg mgc",
+      "mgc"
+    ]
+  },
+  "MG Midget": {
+    "bat_slug": "mg/midget",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG Midget",
+    "keywords": [
+      "mg midget",
+      "midget"
+    ]
+  },
+  "MG Replica": {
+    "bat_slug": "mg/replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG Replica",
+    "keywords": [
+      "mg replica",
+      "replica"
+    ]
+  },
+  "MG TA": {
+    "bat_slug": "mg/ta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG TA",
+    "keywords": [
+      "mg ta",
+      "ta"
+    ]
+  },
+  "MG TC": {
+    "bat_slug": "mg/tc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG TC",
+    "keywords": [
+      "mg tc",
+      "tc"
+    ]
+  },
+  "MG TD": {
+    "bat_slug": "mg/td",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG TD",
+    "keywords": [
+      "mg td",
+      "td"
+    ]
+  },
+  "MG TF": {
+    "bat_slug": "mg/tf",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "MG TF",
+    "keywords": [
+      "mg tf",
+      "tf"
+    ]
+  }
+}

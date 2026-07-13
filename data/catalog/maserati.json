@@ -1,0 +1,152 @@
+{
+  "Maserati 3500 GT": {
+    "bat_slug": "maserati/3500-gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati 3500 GT",
+    "keywords": [
+      "maserati 3500 gt",
+      "3500 gt"
+    ]
+  },
+  "Maserati Biturbo": {
+    "bat_slug": "maserati/biturbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Biturbo",
+    "keywords": [
+      "maserati biturbo",
+      "biturbo"
+    ]
+  },
+  "Maserati Bora": {
+    "bat_slug": "maserati/bora",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Bora",
+    "keywords": [
+      "maserati bora",
+      "bora"
+    ]
+  },
+  "Maserati Coupe & Spyder": {
+    "bat_slug": "maserati/coupe-spyder",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Coupe & Spyder",
+    "keywords": [
+      "maserati coupe & spyder",
+      "coupe spyder"
+    ]
+  },
+  "Maserati Ghibli": {
+    "bat_slug": "maserati/ghibli",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Ghibli",
+    "keywords": [
+      "maserati ghibli",
+      "ghibli"
+    ]
+  },
+  "Maserati GranTurismo": {
+    "bat_slug": "maserati/granturismo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati GranTurismo",
+    "keywords": [
+      "maserati granturismo",
+      "granturismo"
+    ]
+  },
+  "Maserati Indy": {
+    "bat_slug": "maserati/indy",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Indy",
+    "keywords": [
+      "maserati indy",
+      "indy"
+    ]
+  },
+  "Maserati Levante": {
+    "bat_slug": "maserati/levante",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Levante",
+    "keywords": [
+      "maserati levante",
+      "levante"
+    ]
+  },
+  "Maserati MC20 / MCPura": {
+    "bat_slug": "maserati/mc20",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati MC20 / MCPura",
+    "keywords": [
+      "maserati mc20 / mcpura",
+      "mc20"
+    ]
+  },
+  "Maserati Merak": {
+    "bat_slug": "maserati/merak",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Merak",
+    "keywords": [
+      "maserati merak",
+      "merak"
+    ]
+  },
+  "Maserati Mexico": {
+    "bat_slug": "maserati/mexico",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Mexico",
+    "keywords": [
+      "maserati mexico",
+      "mexico"
+    ]
+  },
+  "Maserati Mistral": {
+    "bat_slug": "maserati/mistral",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Mistral",
+    "keywords": [
+      "maserati mistral",
+      "mistral"
+    ]
+  },
+  "Maserati Quattroporte": {
+    "bat_slug": "maserati/quattroporte",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Quattroporte",
+    "keywords": [
+      "maserati quattroporte",
+      "quattroporte"
+    ]
+  },
+  "Maserati Race Car": {
+    "bat_slug": "maserati/race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Race Car",
+    "keywords": [
+      "maserati race car",
+      "race car"
+    ]
+  },
+  "Maserati Sebring": {
+    "bat_slug": "maserati/sebring",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Maserati Sebring",
+    "keywords": [
+      "maserati sebring",
+      "sebring"
+    ]
+  }
+}

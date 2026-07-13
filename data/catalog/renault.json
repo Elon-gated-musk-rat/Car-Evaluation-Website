@@ -1,0 +1,42 @@
+{
+  "Renault 4CV": {
+    "bat_slug": "renault/4cv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Renault 4CV",
+    "keywords": [
+      "renault 4cv",
+      "4cv"
+    ]
+  },
+  "Renault Clio": {
+    "bat_slug": "renault/clio",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Renault Clio",
+    "keywords": [
+      "renault clio",
+      "clio"
+    ]
+  },
+  "Renault Dauphine": {
+    "bat_slug": "renault/dauphine",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Renault Dauphine",
+    "keywords": [
+      "renault dauphine",
+      "dauphine"
+    ]
+  },
+  "Renault R5 Turbo": {
+    "bat_slug": "renault/r5-turbo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Renault R5 Turbo",
+    "keywords": [
+      "renault r5 turbo",
+      "r5 turbo"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Arnolt \u2013 Bristol": {
+    "bat_slug": "arnolt/bristol",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Arnolt \u2013 Bristol",
+    "keywords": [
+      "arnolt \u2013 bristol",
+      "bristol",
+      "arnolt bristol"
+    ]
+  },
+  "Arnolt \u2013 MG": {
+    "bat_slug": "arnolt/mg",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Arnolt \u2013 MG",
+    "keywords": [
+      "arnolt \u2013 mg",
+      "arnolt mg",
+      "mg"
+    ]
+  }
+}

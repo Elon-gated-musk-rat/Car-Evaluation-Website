@@ -1,0 +1,94 @@
+{
+  "AMC & Rambler Ambassador": {
+    "bat_slug": "amc/ambassador",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC & Rambler Ambassador",
+    "keywords": [
+      "amc & rambler ambassador",
+      "amc ambassador",
+      "ambassador"
+    ]
+  },
+  "AMC & Rambler Marlin": {
+    "bat_slug": "amc/rambler-marlin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC & Rambler Marlin",
+    "keywords": [
+      "amc rambler-marlin",
+      "rambler marlin",
+      "amc & rambler marlin"
+    ]
+  },
+  "AMC AMX": {
+    "bat_slug": "amc/amx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC AMX",
+    "keywords": [
+      "amx",
+      "amc amx"
+    ]
+  },
+  "AMC Eagle": {
+    "bat_slug": "amc/eagle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Eagle",
+    "keywords": [
+      "amc eagle",
+      "eagle"
+    ]
+  },
+  "AMC Gremlin": {
+    "bat_slug": "amc/gremlin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Gremlin",
+    "keywords": [
+      "gremlin",
+      "amc gremlin"
+    ]
+  },
+  "AMC Hornet": {
+    "bat_slug": "amc/hornet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Hornet",
+    "keywords": [
+      "amc hornet",
+      "hornet"
+    ]
+  },
+  "AMC Javelin": {
+    "bat_slug": "amc/javelin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Javelin",
+    "keywords": [
+      "amc javelin",
+      "javelin"
+    ]
+  },
+  "AMC Matador": {
+    "bat_slug": "amc/matador",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Matador",
+    "keywords": [
+      "matador",
+      "amc matador"
+    ]
+  },
+  "AMC Pacer": {
+    "bat_slug": "amc/pacer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "AMC Pacer",
+    "keywords": [
+      "pacer",
+      "amc pacer"
+    ]
+  }
+}

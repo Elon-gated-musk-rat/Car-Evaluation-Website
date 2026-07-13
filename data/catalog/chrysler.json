@@ -1,0 +1,232 @@
+{
+  "Chrysler & DeSoto Airflow": {
+    "bat_slug": "chrysler/desoto-airflow",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler & DeSoto Airflow",
+    "keywords": [
+      "chrysler & desoto airflow",
+      "desoto airflow"
+    ]
+  },
+  "Chrysler 300 (2005-2023)": {
+    "bat_slug": "chrysler/300-2005-2023",
+    "start_year": 2005,
+    "end_year": 2023,
+    "generation": "Chrysler 300 (2005-2023)",
+    "keywords": [
+      "chrysler 300 (2005-2023)",
+      "300 2005 2023"
+    ]
+  },
+  "Chrysler 300 Letter Series": {
+    "bat_slug": "chrysler/letter-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler 300 Letter Series",
+    "keywords": [
+      "chrysler 300 letter series",
+      "letter series"
+    ]
+  },
+  "Chrysler 300 Non-Letter Series (1962-1972)": {
+    "bat_slug": "chrysler/300-non-letter-series-1962-1972",
+    "start_year": 1962,
+    "end_year": 1972,
+    "generation": "Chrysler 300 Non-Letter Series (1962-1972)",
+    "keywords": [
+      "chrysler 300 non-letter series (1962-1972)",
+      "300 non letter series 1962 1972"
+    ]
+  },
+  "Chrysler Conquest & Mitsubishi Starion": {
+    "bat_slug": "chrysler/conquest-mitsubishi-starion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Conquest & Mitsubishi Starion",
+    "keywords": [
+      "chrysler conquest & mitsubishi starion",
+      "conquest mitsubishi starion"
+    ]
+  },
+  "Chrysler Cordoba": {
+    "bat_slug": "chrysler/cordoba",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Cordoba",
+    "keywords": [
+      "chrysler cordoba",
+      "cordoba"
+    ]
+  },
+  "Chrysler Crossfire": {
+    "bat_slug": "chrysler/crossfire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Crossfire",
+    "keywords": [
+      "chrysler crossfire",
+      "crossfire"
+    ]
+  },
+  "Chrysler Fifth Avenue": {
+    "bat_slug": "chrysler/fifth-avenue",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Fifth Avenue",
+    "keywords": [
+      "chrysler fifth avenue",
+      "fifth avenue"
+    ]
+  },
+  "Chrysler Imperial": {
+    "bat_slug": "chrysler/imperial",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Imperial",
+    "keywords": [
+      "chrysler imperial",
+      "imperial"
+    ]
+  },
+  "Chrysler K-Car": {
+    "bat_slug": "chrysler/k-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler K-Car",
+    "keywords": [
+      "chrysler k-car",
+      "k car"
+    ]
+  },
+  "Chrysler LeBaron": {
+    "bat_slug": "chrysler/lebaron",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler LeBaron",
+    "keywords": [
+      "chrysler lebaron",
+      "lebaron"
+    ]
+  },
+  "Chrysler New Yorker": {
+    "bat_slug": "chrysler/new-yorker",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler New Yorker",
+    "keywords": [
+      "chrysler new yorker",
+      "new yorker"
+    ]
+  },
+  "Chrysler Newport": {
+    "bat_slug": "chrysler/newport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Newport",
+    "keywords": [
+      "chrysler newport",
+      "newport"
+    ]
+  },
+  "Chrysler Pacifica Minivan": {
+    "bat_slug": "chrysler/pacifica-minivan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Pacifica Minivan",
+    "keywords": [
+      "chrysler pacifica minivan",
+      "pacifica minivan"
+    ]
+  },
+  "Chrysler PT Cruiser": {
+    "bat_slug": "chrysler/pt-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler PT Cruiser",
+    "keywords": [
+      "chrysler pt cruiser",
+      "pt cruiser"
+    ]
+  },
+  "Chrysler Royal": {
+    "bat_slug": "chrysler/royal",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Royal",
+    "keywords": [
+      "chrysler royal",
+      "royal"
+    ]
+  },
+  "Chrysler Sebring": {
+    "bat_slug": "chrysler/sebring",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Sebring",
+    "keywords": [
+      "chrysler sebring",
+      "sebring"
+    ]
+  },
+  "Chrysler Sno-Runner": {
+    "bat_slug": "chrysler/sno-runner",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Sno-Runner",
+    "keywords": [
+      "chrysler sno-runner",
+      "sno runner"
+    ]
+  },
+  "Chrysler TC by Maserati": {
+    "bat_slug": "chrysler/tc-by-maserati",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler TC by Maserati",
+    "keywords": [
+      "chrysler tc by maserati",
+      "tc by maserati"
+    ]
+  },
+  "Chrysler Town & Country": {
+    "bat_slug": "chrysler/town-country",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Town & Country",
+    "keywords": [
+      "chrysler town & country",
+      "town country"
+    ]
+  },
+  "Chrysler Town & Country Minivan": {
+    "bat_slug": "chrysler/town-country-minivan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Town & Country Minivan",
+    "keywords": [
+      "chrysler town & country minivan",
+      "town country minivan"
+    ]
+  },
+  "Chrysler Voyager (2020-2026)": {
+    "bat_slug": "chrysler/voyager-2020-2026",
+    "start_year": 2020,
+    "end_year": 2026,
+    "generation": "Chrysler Voyager (2020-2026)",
+    "keywords": [
+      "chrysler voyager (2020-2026)",
+      "voyager 2020 2026"
+    ]
+  },
+  "Chrysler Windsor": {
+    "bat_slug": "chrysler/windsor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chrysler Windsor",
+    "keywords": [
+      "chrysler windsor",
+      "windsor"
+    ]
+  }
+}

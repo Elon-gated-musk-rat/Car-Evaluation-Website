@@ -1,0 +1,22 @@
+{
+  "Puch G": {
+    "bat_slug": "puch/g",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Puch G",
+    "keywords": [
+      "puch g",
+      "g"
+    ]
+  },
+  "Puch Moped": {
+    "bat_slug": "puch/moped",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Puch Moped",
+    "keywords": [
+      "puch moped",
+      "moped"
+    ]
+  }
+}

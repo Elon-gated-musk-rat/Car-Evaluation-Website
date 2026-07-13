@@ -1,0 +1,172 @@
+{
+  "Lamborghini 350 GT & 400 GT": {
+    "bat_slug": "lamborghini/350-gt-400-gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini 350 GT & 400 GT",
+    "keywords": [
+      "lamborghini 350 gt & 400 gt",
+      "350 gt 400 gt"
+    ]
+  },
+  "Lamborghini Aventador": {
+    "bat_slug": "lamborghini/aventador",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Aventador",
+    "keywords": [
+      "lamborghini aventador",
+      "aventador"
+    ]
+  },
+  "Lamborghini Countach": {
+    "bat_slug": "lamborghini/countach",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Countach",
+    "keywords": [
+      "lamborghini countach",
+      "countach"
+    ]
+  },
+  "Lamborghini Diablo": {
+    "bat_slug": "lamborghini/diablo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Diablo",
+    "keywords": [
+      "lamborghini diablo",
+      "diablo"
+    ]
+  },
+  "Lamborghini Espada": {
+    "bat_slug": "lamborghini/espada",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Espada",
+    "keywords": [
+      "lamborghini espada",
+      "espada"
+    ]
+  },
+  "Lamborghini Gallardo": {
+    "bat_slug": "lamborghini/gallardo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Gallardo",
+    "keywords": [
+      "lamborghini gallardo",
+      "gallardo"
+    ]
+  },
+  "Lamborghini Hurac\u00e1n": {
+    "bat_slug": "lamborghini/huaracan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Hurac\u00e1n",
+    "keywords": [
+      "lamborghini hurac\u00e1n",
+      "huaracan"
+    ]
+  },
+  "Lamborghini Islero": {
+    "bat_slug": "lamborghini/islero",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Islero",
+    "keywords": [
+      "lamborghini islero",
+      "islero"
+    ]
+  },
+  "Lamborghini Jalpa": {
+    "bat_slug": "lamborghini/jalpa",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Jalpa",
+    "keywords": [
+      "lamborghini jalpa",
+      "jalpa"
+    ]
+  },
+  "Lamborghini Jarama": {
+    "bat_slug": "lamborghini/jarama",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Jarama",
+    "keywords": [
+      "lamborghini jarama",
+      "jarama"
+    ]
+  },
+  "Lamborghini LM002": {
+    "bat_slug": "lamborghini/lm002",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini LM002",
+    "keywords": [
+      "lamborghini lm002",
+      "lm002"
+    ]
+  },
+  "Lamborghini Miura": {
+    "bat_slug": "lamborghini/miura",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Miura",
+    "keywords": [
+      "lamborghini miura",
+      "miura"
+    ]
+  },
+  "Lamborghini Murci\u00e9lago": {
+    "bat_slug": "lamborghini/murcielago",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Murci\u00e9lago",
+    "keywords": [
+      "lamborghini murci\u00e9lago",
+      "murcielago"
+    ]
+  },
+  "Lamborghini Revuelto": {
+    "bat_slug": "lamborghini/revuelto",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Revuelto",
+    "keywords": [
+      "lamborghini revuelto",
+      "revuelto"
+    ]
+  },
+  "Lamborghini Tractor": {
+    "bat_slug": "lamborghini/tractor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Tractor",
+    "keywords": [
+      "lamborghini tractor",
+      "tractor"
+    ]
+  },
+  "Lamborghini Urraco": {
+    "bat_slug": "lamborghini/urraco",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Urraco",
+    "keywords": [
+      "lamborghini urraco",
+      "urraco"
+    ]
+  },
+  "Lamborghini Urus": {
+    "bat_slug": "lamborghini/urus",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lamborghini Urus",
+    "keywords": [
+      "lamborghini urus",
+      "urus"
+    ]
+  }
+}

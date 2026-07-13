@@ -1,0 +1,132 @@
+{
+  "Oldsmobile 442": {
+    "bat_slug": "oldsmobile/442",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile 442",
+    "keywords": [
+      "oldsmobile 442",
+      "442"
+    ]
+  },
+  "Oldsmobile 88": {
+    "bat_slug": "oldsmobile/88",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile 88",
+    "keywords": [
+      "oldsmobile 88",
+      "88"
+    ]
+  },
+  "Oldsmobile 98": {
+    "bat_slug": "oldsmobile/98",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile 98",
+    "keywords": [
+      "oldsmobile 98",
+      "98"
+    ]
+  },
+  "Oldsmobile Curved Dash": {
+    "bat_slug": "oldsmobile/curved-dash",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Curved Dash",
+    "keywords": [
+      "oldsmobile curved dash",
+      "curved dash"
+    ]
+  },
+  "Oldsmobile Custom Cruiser": {
+    "bat_slug": "oldsmobile/custom-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Custom Cruiser",
+    "keywords": [
+      "oldsmobile custom cruiser",
+      "custom cruiser"
+    ]
+  },
+  "Oldsmobile Cutlass": {
+    "bat_slug": "oldsmobile/cutlass",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Cutlass",
+    "keywords": [
+      "oldsmobile cutlass",
+      "cutlass"
+    ]
+  },
+  "Oldsmobile F-85 & Jetfire": {
+    "bat_slug": "oldsmobile/f-85-jetfire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile F-85 & Jetfire",
+    "keywords": [
+      "oldsmobile f-85 & jetfire",
+      "f 85 jetfire"
+    ]
+  },
+  "Oldsmobile F-Series": {
+    "bat_slug": "oldsmobile/f-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile F-Series",
+    "keywords": [
+      "oldsmobile f-series",
+      "f series"
+    ]
+  },
+  "Oldsmobile Hurst/Olds": {
+    "bat_slug": "oldsmobile/hurst-olds",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Hurst/Olds",
+    "keywords": [
+      "oldsmobile hurst/olds",
+      "hurst olds"
+    ]
+  },
+  "Oldsmobile Series 76": {
+    "bat_slug": "oldsmobile/series-76",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Series 76",
+    "keywords": [
+      "oldsmobile series 76",
+      "series 76"
+    ]
+  },
+  "Oldsmobile Starfire": {
+    "bat_slug": "oldsmobile/starfire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Starfire",
+    "keywords": [
+      "oldsmobile starfire",
+      "starfire"
+    ]
+  },
+  "Oldsmobile Toronado": {
+    "bat_slug": "oldsmobile/toronado",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Toronado",
+    "keywords": [
+      "oldsmobile toronado",
+      "toronado"
+    ]
+  },
+  "Oldsmobile Vista Cruiser": {
+    "bat_slug": "oldsmobile/vista-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Oldsmobile Vista Cruiser",
+    "keywords": [
+      "oldsmobile vista cruiser",
+      "vista cruiser"
+    ]
+  }
+}

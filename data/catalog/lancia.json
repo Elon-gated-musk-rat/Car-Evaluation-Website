@@ -1,0 +1,92 @@
+{
+  "Lancia Appia": {
+    "bat_slug": "lancia/appia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Appia",
+    "keywords": [
+      "lancia appia",
+      "appia"
+    ]
+  },
+  "Lancia Aurelia": {
+    "bat_slug": "lancia/aurelia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Aurelia",
+    "keywords": [
+      "lancia aurelia",
+      "aurelia"
+    ]
+  },
+  "Lancia Beta": {
+    "bat_slug": "lancia/beta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Beta",
+    "keywords": [
+      "lancia beta",
+      "beta"
+    ]
+  },
+  "Lancia Delta": {
+    "bat_slug": "lancia/delta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Delta",
+    "keywords": [
+      "lancia delta",
+      "delta"
+    ]
+  },
+  "Lancia Flaminia": {
+    "bat_slug": "lancia/flaminia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Flaminia",
+    "keywords": [
+      "lancia flaminia",
+      "flaminia"
+    ]
+  },
+  "Lancia Flavia": {
+    "bat_slug": "lancia/flavia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Flavia",
+    "keywords": [
+      "lancia flavia",
+      "flavia"
+    ]
+  },
+  "Lancia Fulvia": {
+    "bat_slug": "lancia/fulvia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Fulvia",
+    "keywords": [
+      "lancia fulvia",
+      "fulvia"
+    ]
+  },
+  "Lancia Scorpion / Montecarlo": {
+    "bat_slug": "lancia/scorpion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Scorpion / Montecarlo",
+    "keywords": [
+      "lancia scorpion / montecarlo",
+      "scorpion"
+    ]
+  },
+  "Lancia Stratos": {
+    "bat_slug": "lancia/stratos",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Lancia Stratos",
+    "keywords": [
+      "lancia stratos",
+      "stratos"
+    ]
+  }
+}

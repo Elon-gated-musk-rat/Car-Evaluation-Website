@@ -1,0 +1,412 @@
+{
+  "Cadillac Allant\u00e9": {
+    "bat_slug": "cadillac/allante",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Allant\u00e9",
+    "keywords": [
+      "cadillac allant\u00e9",
+      "allante"
+    ]
+  },
+  "Cadillac ATS & ATS-V": {
+    "bat_slug": "cadillac/ats-ats-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac ATS & ATS-V",
+    "keywords": [
+      "cadillac ats & ats-v",
+      "ats ats v"
+    ]
+  },
+  "Cadillac Brougham": {
+    "bat_slug": "cadillac/brougham",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Brougham",
+    "keywords": [
+      "cadillac brougham",
+      "brougham"
+    ]
+  },
+  "Cadillac Calais": {
+    "bat_slug": "cadillac/calais",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Calais",
+    "keywords": [
+      "cadillac calais",
+      "calais"
+    ]
+  },
+  "Cadillac Celestiq": {
+    "bat_slug": "cadillac/celestiq",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Celestiq",
+    "keywords": [
+      "cadillac celestiq",
+      "celestiq"
+    ]
+  },
+  "Cadillac CT4 & CT4-V": {
+    "bat_slug": "cadillac/ct4-ct4-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac CT4 & CT4-V",
+    "keywords": [
+      "cadillac ct4 & ct4-v",
+      "ct4 ct4 v"
+    ]
+  },
+  "Cadillac CT5 & CT5-V": {
+    "bat_slug": "cadillac/ct5-ct5-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac CT5 & CT5-V",
+    "keywords": [
+      "cadillac ct5 & ct5-v",
+      "ct5 ct5 v"
+    ]
+  },
+  "Cadillac CT6 & CT6-V": {
+    "bat_slug": "cadillac/ct6-ct6-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac CT6 & CT6-V",
+    "keywords": [
+      "cadillac ct6 & ct6-v",
+      "ct6 ct6 v"
+    ]
+  },
+  "Cadillac CTS & CTS-V": {
+    "bat_slug": "cadillac/cts-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac CTS & CTS-V",
+    "keywords": [
+      "cadillac cts & cts-v",
+      "cts v"
+    ]
+  },
+  "Cadillac DeVille": {
+    "bat_slug": "cadillac/deville",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac DeVille",
+    "keywords": [
+      "cadillac deville",
+      "deville"
+    ]
+  },
+  "Cadillac DTS": {
+    "bat_slug": "cadillac/dts",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac DTS",
+    "keywords": [
+      "cadillac dts",
+      "dts"
+    ]
+  },
+  "Cadillac Eldorado (1953)": {
+    "bat_slug": "cadillac/eldorado-1953",
+    "start_year": 1952,
+    "end_year": 1954,
+    "generation": "Cadillac Eldorado (1953)",
+    "keywords": [
+      "cadillac eldorado (1953)",
+      "eldorado 1953"
+    ]
+  },
+  "Cadillac Eldorado (1954-1956)": {
+    "bat_slug": "cadillac/eldorado-1954-1956",
+    "start_year": 1954,
+    "end_year": 1956,
+    "generation": "Cadillac Eldorado (1954-1956)",
+    "keywords": [
+      "cadillac eldorado (1954-1956)",
+      "eldorado 1954 1956"
+    ]
+  },
+  "Cadillac Eldorado (1957-1958)": {
+    "bat_slug": "cadillac/eldorado-1957-1958",
+    "start_year": 1957,
+    "end_year": 1958,
+    "generation": "Cadillac Eldorado (1957-1958)",
+    "keywords": [
+      "cadillac eldorado (1957-1958)",
+      "eldorado 1957 1958"
+    ]
+  },
+  "Cadillac Eldorado (1959-1960)": {
+    "bat_slug": "cadillac/eldorado-1959-1960",
+    "start_year": 1959,
+    "end_year": 1960,
+    "generation": "Cadillac Eldorado (1959-1960)",
+    "keywords": [
+      "cadillac eldorado (1959-1960)",
+      "eldorado 1959 1960"
+    ]
+  },
+  "Cadillac Eldorado (1961-1962)": {
+    "bat_slug": "cadillac/eldorado-1961-1962",
+    "start_year": 1961,
+    "end_year": 1962,
+    "generation": "Cadillac Eldorado (1961-1962)",
+    "keywords": [
+      "cadillac eldorado (1961-1962)",
+      "eldorado 1961 1962"
+    ]
+  },
+  "Cadillac Eldorado (1963-1964)": {
+    "bat_slug": "cadillac/eldorado-1963-1964",
+    "start_year": 1963,
+    "end_year": 1964,
+    "generation": "Cadillac Eldorado (1963-1964)",
+    "keywords": [
+      "cadillac eldorado (1963-1964)",
+      "eldorado 1963 1964"
+    ]
+  },
+  "Cadillac Eldorado (1965-1966)": {
+    "bat_slug": "cadillac/eldorado-1965-1966",
+    "start_year": 1965,
+    "end_year": 1966,
+    "generation": "Cadillac Eldorado (1965-1966)",
+    "keywords": [
+      "cadillac eldorado (1965-1966)",
+      "eldorado 1965 1966"
+    ]
+  },
+  "Cadillac Eldorado (1967-1970)": {
+    "bat_slug": "cadillac/eldorado-1967-1970",
+    "start_year": 1967,
+    "end_year": 1970,
+    "generation": "Cadillac Eldorado (1967-1970)",
+    "keywords": [
+      "cadillac eldorado (1967-1970)",
+      "eldorado 1967 1970"
+    ]
+  },
+  "Cadillac Eldorado (1971-1978)": {
+    "bat_slug": "cadillac/eldorado-1971-1978",
+    "start_year": 1971,
+    "end_year": 1978,
+    "generation": "Cadillac Eldorado (1971-1978)",
+    "keywords": [
+      "cadillac eldorado (1971-1978)",
+      "eldorado 1971 1978"
+    ]
+  },
+  "Cadillac Eldorado (1979-1985)": {
+    "bat_slug": "cadillac/eldorado-1979-1985",
+    "start_year": 1979,
+    "end_year": 1985,
+    "generation": "Cadillac Eldorado (1979-1985)",
+    "keywords": [
+      "cadillac eldorado (1979-1985)",
+      "eldorado 1979 1985"
+    ]
+  },
+  "Cadillac Eldorado (1986-1991)": {
+    "bat_slug": "cadillac/eldorado-1986-1991",
+    "start_year": 1986,
+    "end_year": 1991,
+    "generation": "Cadillac Eldorado (1986-1991)",
+    "keywords": [
+      "cadillac eldorado (1986-1991)",
+      "eldorado 1986 1991"
+    ]
+  },
+  "Cadillac Eldorado (1992-2002)": {
+    "bat_slug": "cadillac/eldorado-1992-2002",
+    "start_year": 1992,
+    "end_year": 2002,
+    "generation": "Cadillac Eldorado (1992-2002)",
+    "keywords": [
+      "cadillac eldorado (1992-2002)",
+      "eldorado 1992 2002"
+    ]
+  },
+  "Cadillac ELR": {
+    "bat_slug": "cadillac/elr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac ELR",
+    "keywords": [
+      "cadillac elr",
+      "elr"
+    ]
+  },
+  "Cadillac Escalade & EXT GMT800 (2002-2006)": {
+    "bat_slug": "cadillac/escalade-ext-gmt800-2002-2006",
+    "start_year": 2002,
+    "end_year": 2006,
+    "generation": "Cadillac Escalade & EXT GMT800 (2002-2006)",
+    "keywords": [
+      "cadillac escalade & ext gmt800 (2002-2006)",
+      "escalade ext gmt800 2002 2006"
+    ]
+  },
+  "Cadillac Escalade & EXT GMT900 (2007-2014)": {
+    "bat_slug": "cadillac/escalade-ext-gmt900-2007-2014",
+    "start_year": 2007,
+    "end_year": 2014,
+    "generation": "Cadillac Escalade & EXT GMT900 (2007-2014)",
+    "keywords": [
+      "cadillac escalade & ext gmt900 (2007-2014)",
+      "escalade ext gmt900 2007 2014"
+    ]
+  },
+  "Cadillac Escalade GMT400 (1999-2000)": {
+    "bat_slug": "cadillac/escalade-gmt400-1999-2000",
+    "start_year": 1999,
+    "end_year": 2000,
+    "generation": "Cadillac Escalade GMT400 (1999-2000)",
+    "keywords": [
+      "cadillac escalade gmt400 (1999-2000)",
+      "escalade gmt400 1999 2000"
+    ]
+  },
+  "Cadillac Escalade K2XL (2015-2020)": {
+    "bat_slug": "cadillac/escalade-k2xl-2015-2020",
+    "start_year": 2015,
+    "end_year": 2020,
+    "generation": "Cadillac Escalade K2XL (2015-2020)",
+    "keywords": [
+      "cadillac escalade k2xl (2015-2020)",
+      "escalade k2xl 2015 2020"
+    ]
+  },
+  "Cadillac Escalade T1XL (2021+)": {
+    "bat_slug": "cadillac/escalade-t1xl-2021",
+    "start_year": 2020,
+    "end_year": 2022,
+    "generation": "Cadillac Escalade T1XL (2021+)",
+    "keywords": [
+      "cadillac escalade t1xl (2021+)",
+      "escalade t1xl 2021"
+    ]
+  },
+  "Cadillac Fleetwood 1985-1996": {
+    "bat_slug": "cadillac/fleetwood-1985-1996",
+    "start_year": 1985,
+    "end_year": 1996,
+    "generation": "Cadillac Fleetwood 1985-1996",
+    "keywords": [
+      "cadillac fleetwood 1985-1996",
+      "fleetwood 1985 1996"
+    ]
+  },
+  "Cadillac Series 61": {
+    "bat_slug": "cadillac/series-61",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Series 61",
+    "keywords": [
+      "cadillac series 61",
+      "series 61"
+    ]
+  },
+  "Cadillac Series 62": {
+    "bat_slug": "cadillac/series-62",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Series 62",
+    "keywords": [
+      "cadillac series 62",
+      "series 62"
+    ]
+  },
+  "Cadillac Series 75/Fleetwood": {
+    "bat_slug": "cadillac/series-75-fleetwood",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Series 75/Fleetwood",
+    "keywords": [
+      "cadillac series 75/fleetwood",
+      "series 75 fleetwood"
+    ]
+  },
+  "Cadillac Seville": {
+    "bat_slug": "cadillac/seville",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Seville",
+    "keywords": [
+      "cadillac seville",
+      "seville"
+    ]
+  },
+  "Cadillac Sixty Special": {
+    "bat_slug": "cadillac/sixty-special",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac Sixty Special",
+    "keywords": [
+      "cadillac sixty special",
+      "sixty special"
+    ]
+  },
+  "Cadillac SRX": {
+    "bat_slug": "cadillac/srx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac SRX",
+    "keywords": [
+      "cadillac srx",
+      "srx"
+    ]
+  },
+  "Cadillac STS & STS-V": {
+    "bat_slug": "cadillac/sts-sts-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac STS & STS-V",
+    "keywords": [
+      "cadillac sts & sts-v",
+      "sts sts v"
+    ]
+  },
+  "Cadillac V-12": {
+    "bat_slug": "cadillac/v-12",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac V-12",
+    "keywords": [
+      "cadillac v-12",
+      "v 12"
+    ]
+  },
+  "Cadillac V16": {
+    "bat_slug": "cadillac/v16",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac V16",
+    "keywords": [
+      "cadillac v16",
+      "v16"
+    ]
+  },
+  "Cadillac V8": {
+    "bat_slug": "cadillac/v8",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac V8",
+    "keywords": [
+      "cadillac v8",
+      "v8"
+    ]
+  },
+  "Cadillac XLR": {
+    "bat_slug": "cadillac/xlr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Cadillac XLR",
+    "keywords": [
+      "cadillac xlr",
+      "xlr"
+    ]
+  }
+}

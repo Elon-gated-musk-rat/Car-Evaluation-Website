@@ -1,0 +1,92 @@
+{
+  "Moto Guzzi 1000 S/SP": {
+    "bat_slug": "moto-guzzi/1000-s-sp",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi 1000 S/SP",
+    "keywords": [
+      "moto guzzi 1000 s/sp",
+      "1000 s sp"
+    ]
+  },
+  "Moto Guzzi 850 T, T3, & T5": {
+    "bat_slug": "moto-guzzi/850-t-t3-t5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi 850 T, T3, & T5",
+    "keywords": [
+      "moto guzzi 850 t, t3, & t5",
+      "850 t t3 t5"
+    ]
+  },
+  "Moto Guzzi Ambassador": {
+    "bat_slug": "moto-guzzi/ambassador",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi Ambassador",
+    "keywords": [
+      "moto guzzi ambassador",
+      "ambassador"
+    ]
+  },
+  "Moto Guzzi California": {
+    "bat_slug": "moto-guzzi/california",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi California",
+    "keywords": [
+      "moto guzzi california",
+      "california"
+    ]
+  },
+  "Moto Guzzi Eldorado": {
+    "bat_slug": "moto-guzzi/eldorado",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi Eldorado",
+    "keywords": [
+      "moto guzzi eldorado",
+      "eldorado"
+    ]
+  },
+  "Moto Guzzi Falcone": {
+    "bat_slug": "moto-guzzi/falcone",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi Falcone",
+    "keywords": [
+      "moto guzzi falcone",
+      "falcone"
+    ]
+  },
+  "Moto Guzzi Le Mans": {
+    "bat_slug": "moto-guzzi/le-mans",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Moto Guzzi Le Mans",
+    "keywords": [
+      "moto guzzi le mans",
+      "le mans"
+    ]
+  },
+  "Moto Guzzi V7 (1965-1974)": {
+    "bat_slug": "moto-guzzi/v7-1965-1974",
+    "start_year": 1965,
+    "end_year": 1974,
+    "generation": "Moto Guzzi V7 (1965-1974)",
+    "keywords": [
+      "moto guzzi v7 (1965-1974)",
+      "v7 1965 1974"
+    ]
+  },
+  "Moto Guzzi V7 (2007+)": {
+    "bat_slug": "moto-guzzi/v7-2007",
+    "start_year": 2006,
+    "end_year": 2008,
+    "generation": "Moto Guzzi V7 (2007+)",
+    "keywords": [
+      "moto guzzi v7 (2007+)",
+      "v7 2007"
+    ]
+  }
+}

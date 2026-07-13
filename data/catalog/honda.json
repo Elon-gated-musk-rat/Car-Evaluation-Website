@@ -1,0 +1,912 @@
+{
+  "Honda Accord": {
+    "bat_slug": "honda/accord",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Accord",
+    "keywords": [
+      "honda accord",
+      "accord"
+    ]
+  },
+  "Honda Acty": {
+    "bat_slug": "honda/acty",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Acty",
+    "keywords": [
+      "honda acty",
+      "acty"
+    ]
+  },
+  "Honda Africa Twin": {
+    "bat_slug": "honda/xrv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Africa Twin",
+    "keywords": [
+      "honda africa twin",
+      "xrv"
+    ]
+  },
+  "Honda AP1 S2000": {
+    "bat_slug": "honda/ap1-s2000",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda AP1 S2000",
+    "keywords": [
+      "honda ap1 s2000",
+      "ap1 s2000"
+    ]
+  },
+  "Honda AP2 S2000": {
+    "bat_slug": "honda/ap2-s2000",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda AP2 S2000",
+    "keywords": [
+      "honda ap2 s2000",
+      "ap2 s2000"
+    ]
+  },
+  "Honda AP2 S2000 CR": {
+    "bat_slug": "honda/ap2-s2000-cr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda AP2 S2000 CR",
+    "keywords": [
+      "honda ap2 s2000 cr",
+      "ap2 s2000 cr"
+    ]
+  },
+  "Honda Ascot": {
+    "bat_slug": "honda/ascot",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Ascot",
+    "keywords": [
+      "honda ascot",
+      "ascot"
+    ]
+  },
+  "Honda ATV": {
+    "bat_slug": "honda/atv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda ATV",
+    "keywords": [
+      "honda atv",
+      "atv"
+    ]
+  },
+  "Honda Beat": {
+    "bat_slug": "honda/beat",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Beat",
+    "keywords": [
+      "honda beat",
+      "beat"
+    ]
+  },
+  "Honda Benly": {
+    "bat_slug": "honda/benly",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Benly",
+    "keywords": [
+      "honda benly",
+      "benly"
+    ]
+  },
+  "Honda C200": {
+    "bat_slug": "honda/c200",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda C200",
+    "keywords": [
+      "honda c200",
+      "c200"
+    ]
+  },
+  "Honda CB100 & CL100": {
+    "bat_slug": "honda/cb100-cl100",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB100 & CL100",
+    "keywords": [
+      "honda cb100 & cl100",
+      "cb100 cl100"
+    ]
+  },
+  "Honda CB1000 & CB1100": {
+    "bat_slug": "honda/cb1000-cb1100",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB1000 & CB1100",
+    "keywords": [
+      "honda cb1000 & cb1100",
+      "cb1000 cb1100"
+    ]
+  },
+  "Honda CB125 & CL125": {
+    "bat_slug": "honda/cb125-cl125",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB125 & CL125",
+    "keywords": [
+      "honda cb125 & cl125",
+      "cb125 cl125"
+    ]
+  },
+  "Honda CB160 & CL160": {
+    "bat_slug": "honda/cb160-cl160",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB160 & CL160",
+    "keywords": [
+      "honda cb160 & cl160",
+      "cb160 cl160"
+    ]
+  },
+  "Honda CB175 & CL175": {
+    "bat_slug": "honda/cb175-cl175",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB175 & CL175",
+    "keywords": [
+      "honda cb175 & cl175",
+      "cb175 cl175"
+    ]
+  },
+  "Honda CB200 & CL200": {
+    "bat_slug": "honda/cb200-cl200",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB200 & CL200",
+    "keywords": [
+      "honda cb200 & cl200",
+      "cb200 cl200"
+    ]
+  },
+  "Honda CB350 & CL350": {
+    "bat_slug": "honda/cb350-cl350",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB350 & CL350",
+    "keywords": [
+      "honda cb350 & cl350",
+      "cb350 cl350"
+    ]
+  },
+  "Honda CB350F & CB400F": {
+    "bat_slug": "honda/cb350f-cb400f",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB350F & CB400F",
+    "keywords": [
+      "honda cb350f & cb400f",
+      "cb350f cb400f"
+    ]
+  },
+  "Honda CB360 & CL360": {
+    "bat_slug": "honda/cb360-cl360",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB360 & CL360",
+    "keywords": [
+      "honda cb360 & cl360",
+      "cb360 cl360"
+    ]
+  },
+  "Honda CB400, CM400, & CB450T Twins": {
+    "bat_slug": "honda/cb400-cm400-cb450t-twins",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB400, CM400, & CB450T Twins",
+    "keywords": [
+      "honda cb400, cm400, & cb450t twins",
+      "cb400 cm400 cb450t twins"
+    ]
+  },
+  "Honda CB450, CL450, & CB500 Twin": {
+    "bat_slug": "honda/cb450-cl450-cb500-twin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB450, CL450, & CB500 Twin",
+    "keywords": [
+      "honda cb450, cl450, & cb500 twin",
+      "cb450 cl450 cb500 twin"
+    ]
+  },
+  "Honda CB500 Four & CB550": {
+    "bat_slug": "honda/cb500-four-cb550",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB500 Four & CB550",
+    "keywords": [
+      "honda cb500 four & cb550",
+      "cb500 four cb550"
+    ]
+  },
+  "Honda CB650": {
+    "bat_slug": "honda/cb650",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB650",
+    "keywords": [
+      "honda cb650",
+      "cb650"
+    ]
+  },
+  "Honda CB750 & CB750A": {
+    "bat_slug": "honda/cb750-cb750a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CB750 & CB750A",
+    "keywords": [
+      "honda cb750 & cb750a",
+      "cb750 cb750a"
+    ]
+  },
+  "Honda CBR": {
+    "bat_slug": "honda/cbr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CBR",
+    "keywords": [
+      "honda cbr",
+      "cbr"
+    ]
+  },
+  "Honda CBX": {
+    "bat_slug": "honda/cbx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CBX",
+    "keywords": [
+      "honda cbx",
+      "cbx"
+    ]
+  },
+  "Honda City": {
+    "bat_slug": "honda/city",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda City",
+    "keywords": [
+      "honda city",
+      "city"
+    ]
+  },
+  "Honda Civic (1972-1979)": {
+    "bat_slug": "honda/civic-1972-1979",
+    "start_year": 1972,
+    "end_year": 1979,
+    "generation": "Honda Civic (1972-1979)",
+    "keywords": [
+      "honda civic (1972-1979)",
+      "civic 1972 1979"
+    ]
+  },
+  "Honda Civic (1980-1983)": {
+    "bat_slug": "honda/civic-1980-1983",
+    "start_year": 1980,
+    "end_year": 1983,
+    "generation": "Honda Civic (1980-1983)",
+    "keywords": [
+      "honda civic (1980-1983)",
+      "civic 1980 1983"
+    ]
+  },
+  "Honda Civic (1984-1987)": {
+    "bat_slug": "honda/civic-1984-1987",
+    "start_year": 1984,
+    "end_year": 1987,
+    "generation": "Honda Civic (1984-1987)",
+    "keywords": [
+      "honda civic (1984-1987)",
+      "civic 1984 1987"
+    ]
+  },
+  "Honda Civic (1988-1991)": {
+    "bat_slug": "honda/civic-1988-1991",
+    "start_year": 1988,
+    "end_year": 1991,
+    "generation": "Honda Civic (1988-1991)",
+    "keywords": [
+      "honda civic (1988-1991)",
+      "civic 1988 1991"
+    ]
+  },
+  "Honda Civic (1992-1995)": {
+    "bat_slug": "honda/civic-1992-1995",
+    "start_year": 1992,
+    "end_year": 1995,
+    "generation": "Honda Civic (1992-1995)",
+    "keywords": [
+      "honda civic (1992-1995)",
+      "civic 1992 1995"
+    ]
+  },
+  "Honda Civic (1996-2000)": {
+    "bat_slug": "honda/civic-1996-2001",
+    "start_year": 1996,
+    "end_year": 2000,
+    "generation": "Honda Civic (1996-2000)",
+    "keywords": [
+      "honda civic (1996-2000)",
+      "civic 1996 2001"
+    ]
+  },
+  "Honda Civic (2001-2005)": {
+    "bat_slug": "honda/civic-2001-2005",
+    "start_year": 2001,
+    "end_year": 2005,
+    "generation": "Honda Civic (2001-2005)",
+    "keywords": [
+      "honda civic (2001-2005)",
+      "civic 2001 2005"
+    ]
+  },
+  "Honda Civic (2006-2011)": {
+    "bat_slug": "honda/civic-2006-2011",
+    "start_year": 2006,
+    "end_year": 2011,
+    "generation": "Honda Civic (2006-2011)",
+    "keywords": [
+      "honda civic (2006-2011)",
+      "civic 2006 2011"
+    ]
+  },
+  "Honda Civic (2012-2015)": {
+    "bat_slug": "honda/civic-2012-2015",
+    "start_year": 2012,
+    "end_year": 2015,
+    "generation": "Honda Civic (2012-2015)",
+    "keywords": [
+      "honda civic (2012-2015)",
+      "civic 2012 2015"
+    ]
+  },
+  "Honda Civic (2016-2021)": {
+    "bat_slug": "honda/civic-2016-2021",
+    "start_year": 2016,
+    "end_year": 2021,
+    "generation": "Honda Civic (2016-2021)",
+    "keywords": [
+      "honda civic (2016-2021)",
+      "civic 2016 2021"
+    ]
+  },
+  "Honda Civic (2022+)": {
+    "bat_slug": "honda/civic-2022",
+    "start_year": 2021,
+    "end_year": 2023,
+    "generation": "Honda Civic (2022+)",
+    "keywords": [
+      "honda civic (2022+)",
+      "civic 2022"
+    ]
+  },
+  "Honda Civic Del Sol": {
+    "bat_slug": "honda/civic-del-sol",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Civic Del Sol",
+    "keywords": [
+      "honda civic del sol",
+      "civic del sol"
+    ]
+  },
+  "Honda Civic Si": {
+    "bat_slug": "honda/civic-si",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Civic Si",
+    "keywords": [
+      "honda civic si",
+      "civic si"
+    ]
+  },
+  "Honda Civic Type R": {
+    "bat_slug": "honda/civic-type-r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Civic Type R",
+    "keywords": [
+      "honda civic type r",
+      "civic type r"
+    ]
+  },
+  "Honda CL70 & CL90": {
+    "bat_slug": "honda/cl70-cl90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CL70 & CL90",
+    "keywords": [
+      "honda cl70 & cl90",
+      "cl70 cl90"
+    ]
+  },
+  "Honda CL72, CB72, CA72, & C72": {
+    "bat_slug": "honda/cl72-cb72-ca72-c72",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CL72, CB72, CA72, & C72",
+    "keywords": [
+      "honda cl72, cb72, ca72, & c72",
+      "cl72 cb72 ca72 c72"
+    ]
+  },
+  "Honda CR & CRF": {
+    "bat_slug": "honda/cr-crf",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CR & CRF",
+    "keywords": [
+      "honda cr & crf",
+      "cr crf"
+    ]
+  },
+  "Honda CR-V": {
+    "bat_slug": "honda/cr-v",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CR-V",
+    "keywords": [
+      "honda cr-v",
+      "cr v"
+    ]
+  },
+  "Honda CRX": {
+    "bat_slug": "honda/crx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CRX",
+    "keywords": [
+      "honda crx",
+      "crx"
+    ]
+  },
+  "Honda CT110": {
+    "bat_slug": "honda/ct110",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CT110",
+    "keywords": [
+      "honda ct110",
+      "ct110"
+    ]
+  },
+  "Honda CT70": {
+    "bat_slug": "honda/ct70",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CT70",
+    "keywords": [
+      "honda ct70",
+      "ct70"
+    ]
+  },
+  "Honda CT90": {
+    "bat_slug": "honda/ct90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CT90",
+    "keywords": [
+      "honda ct90",
+      "ct90"
+    ]
+  },
+  "Honda Custom: CB650C, CB750C, CB900C, & CB1000C": {
+    "bat_slug": "honda/custom-cb650c-cb750c-cb900c-cb1000c",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Custom: CB650C, CB750C, CB900C, & CB1000C",
+    "keywords": [
+      "honda custom: cb650c, cb750c, cb900c, & cb1000c",
+      "custom cb650c cb750c cb900c cb1000c"
+    ]
+  },
+  "Honda CX": {
+    "bat_slug": "honda/cx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda CX",
+    "keywords": [
+      "honda cx",
+      "cx"
+    ]
+  },
+  "Honda Dream, CB77 Super Hawk, & CL77 Scrambler": {
+    "bat_slug": "honda/dream-cb77-super-hawk-cl77-scrambler",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Dream, CB77 Super Hawk, & CL77 Scrambler",
+    "keywords": [
+      "honda dream, cb77 super hawk, & cl77 scrambler",
+      "dream cb77 super hawk cl77 scrambler"
+    ]
+  },
+  "Honda Element": {
+    "bat_slug": "honda/element",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Element",
+    "keywords": [
+      "honda element",
+      "element"
+    ]
+  },
+  "Honda Elsinore": {
+    "bat_slug": "honda/elsinore",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Elsinore",
+    "keywords": [
+      "honda elsinore",
+      "elsinore"
+    ]
+  },
+  "Honda EZ90 Cub": {
+    "bat_slug": "honda/ez90-cub",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda EZ90 Cub",
+    "keywords": [
+      "honda ez90 cub",
+      "ez90 cub"
+    ]
+  },
+  "Honda GB500 Tourist Trophy": {
+    "bat_slug": "honda/gb500-tourist-trophy",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda GB500 Tourist Trophy",
+    "keywords": [
+      "honda gb500 tourist trophy",
+      "gb500 tourist trophy"
+    ]
+  },
+  "Honda Gold Wing": {
+    "bat_slug": "honda/gold-wing",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Gold Wing",
+    "keywords": [
+      "honda gold wing",
+      "gold wing"
+    ]
+  },
+  "Honda Grom": {
+    "bat_slug": "honda/grom",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Grom",
+    "keywords": [
+      "honda grom",
+      "grom"
+    ]
+  },
+  "Honda Insight": {
+    "bat_slug": "honda/insight",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Insight",
+    "keywords": [
+      "honda insight",
+      "insight"
+    ]
+  },
+  "Honda Magna": {
+    "bat_slug": "honda/magna",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Magna",
+    "keywords": [
+      "honda magna",
+      "magna"
+    ]
+  },
+  "Honda Mopeds": {
+    "bat_slug": "honda/mopeds",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Mopeds",
+    "keywords": [
+      "honda mopeds",
+      "mopeds"
+    ]
+  },
+  "Honda Motocompo & Motocompacto": {
+    "bat_slug": "honda/motocompo-motocompacto",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Motocompo & Motocompacto",
+    "keywords": [
+      "honda motocompo & motocompacto",
+      "motocompo motocompacto"
+    ]
+  },
+  "Honda N360 & N600": {
+    "bat_slug": "honda/n600",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda N360 & N600",
+    "keywords": [
+      "honda n360 & n600",
+      "n600"
+    ]
+  },
+  "Honda Nighthawk": {
+    "bat_slug": "honda/nighthawk",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Nighthawk",
+    "keywords": [
+      "honda nighthawk",
+      "nighthawk"
+    ]
+  },
+  "Honda NSR, NSF, & Dream CB50R": {
+    "bat_slug": "honda/nsr-nsf-dream-cb50r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda NSR, NSF, & Dream CB50R",
+    "keywords": [
+      "honda nsr, nsf, & dream cb50r",
+      "nsr nsf dream cb50r"
+    ]
+  },
+  "Honda NT Series": {
+    "bat_slug": "honda/nt-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda NT Series",
+    "keywords": [
+      "honda nt series",
+      "nt series"
+    ]
+  },
+  "Honda NX Series": {
+    "bat_slug": "honda/nx-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda NX Series",
+    "keywords": [
+      "honda nx series",
+      "nx series"
+    ]
+  },
+  "Honda Odyssey Minivan": {
+    "bat_slug": "honda/odyssey-minivan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Odyssey Minivan",
+    "keywords": [
+      "honda odyssey minivan",
+      "odyssey minivan"
+    ]
+  },
+  "Honda Other Motorcycles": {
+    "bat_slug": "honda/other-motorcycles",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Other Motorcycles",
+    "keywords": [
+      "honda other motorcycles",
+      "other motorcycles"
+    ]
+  },
+  "Honda Pickup": {
+    "bat_slug": "honda/pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Pickup",
+    "keywords": [
+      "honda pickup",
+      "pickup"
+    ]
+  },
+  "Honda Prelude": {
+    "bat_slug": "honda/prelude",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Prelude",
+    "keywords": [
+      "honda prelude",
+      "prelude"
+    ]
+  },
+  "Honda QA50": {
+    "bat_slug": "honda/qa50",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda QA50",
+    "keywords": [
+      "honda qa50",
+      "qa50"
+    ]
+  },
+  "Honda RC Four": {
+    "bat_slug": "honda/rc-four",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda RC Four",
+    "keywords": [
+      "honda rc four",
+      "rc four"
+    ]
+  },
+  "Honda RC51": {
+    "bat_slug": "honda/rc51",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda RC51",
+    "keywords": [
+      "honda rc51",
+      "rc51"
+    ]
+  },
+  "Honda Reflex": {
+    "bat_slug": "honda/reflex",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Reflex",
+    "keywords": [
+      "honda reflex",
+      "reflex"
+    ]
+  },
+  "Honda Rune": {
+    "bat_slug": "honda/rune",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Rune",
+    "keywords": [
+      "honda rune",
+      "rune"
+    ]
+  },
+  "Honda S600 & S800": {
+    "bat_slug": "honda/s600-s800",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda S600 & S800",
+    "keywords": [
+      "honda s600 & s800",
+      "s600 s800"
+    ]
+  },
+  "Honda S90": {
+    "bat_slug": "honda/s90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda S90",
+    "keywords": [
+      "honda s90",
+      "s90"
+    ]
+  },
+  "Honda Sabre": {
+    "bat_slug": "honda/sabre",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Sabre",
+    "keywords": [
+      "honda sabre",
+      "sabre"
+    ]
+  },
+  "Honda SL Motosport": {
+    "bat_slug": "honda/sl-motosport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda SL Motosport",
+    "keywords": [
+      "honda sl motosport",
+      "sl motosport"
+    ]
+  },
+  "Honda ST90": {
+    "bat_slug": "honda/st90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda ST90",
+    "keywords": [
+      "honda st90",
+      "st90"
+    ]
+  },
+  "Honda Step-Through Scooter": {
+    "bat_slug": "honda/step-through-scooter",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Step-Through Scooter",
+    "keywords": [
+      "honda step-through scooter",
+      "step through scooter"
+    ]
+  },
+  "Honda Super Cub": {
+    "bat_slug": "honda/super-cub",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Super Cub",
+    "keywords": [
+      "honda super cub",
+      "super cub"
+    ]
+  },
+  "Honda Super Sport: CB750F, CB900F, & CB1100F": {
+    "bat_slug": "honda/super-sport-cb750f-cb900f-cb1100f",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Super Sport: CB750F, CB900F, & CB1100F",
+    "keywords": [
+      "honda super sport: cb750f, cb900f, & cb1100f",
+      "super sport cb750f cb900f cb1100f"
+    ]
+  },
+  "Honda TL125 & TL250": {
+    "bat_slug": "honda/tl125-tl250",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda TL125 & TL250",
+    "keywords": [
+      "honda tl125 & tl250",
+      "tl125 tl250"
+    ]
+  },
+  "Honda VF & VFR": {
+    "bat_slug": "honda/vf-vfr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda VF & VFR",
+    "keywords": [
+      "honda vf & vfr",
+      "vf vfr"
+    ]
+  },
+  "Honda XL & XR": {
+    "bat_slug": "honda/xl-xr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda XL & XR",
+    "keywords": [
+      "honda xl & xr",
+      "xl xr"
+    ]
+  },
+  "Honda Z50": {
+    "bat_slug": "honda/z50",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Z50",
+    "keywords": [
+      "honda z50",
+      "z50"
+    ]
+  },
+  "Honda Z600": {
+    "bat_slug": "honda/z600",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda Z600",
+    "keywords": [
+      "honda z600",
+      "z600"
+    ]
+  },
+  "Honda ZB50": {
+    "bat_slug": "honda/zb50",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Honda ZB50",
+    "keywords": [
+      "honda zb50",
+      "zb50"
+    ]
+  }
+}

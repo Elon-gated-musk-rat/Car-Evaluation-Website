@@ -1,0 +1,64 @@
+{
+  "Austin-Healey 100": {
+    "bat_slug": "austin-healey/100",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey 100",
+    "keywords": [
+      "100",
+      "austin-healey 100"
+    ]
+  },
+  "Austin-Healey 100-6": {
+    "bat_slug": "austin-healey/100-6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey 100-6",
+    "keywords": [
+      "100 6",
+      "austin-healey 100-6"
+    ]
+  },
+  "Austin-Healey 3000": {
+    "bat_slug": "austin-healey/3000",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey 3000",
+    "keywords": [
+      "austin-healey 3000",
+      "3000"
+    ]
+  },
+  "Austin-Healey Bugeye Sprite": {
+    "bat_slug": "austin-healey/bugeye-sprite",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey Bugeye Sprite",
+    "keywords": [
+      "austin-healey bugeye sprite",
+      "austin-healey bugeye-sprite",
+      "bugeye sprite"
+    ]
+  },
+  "Austin-Healey Replica": {
+    "bat_slug": "austin-healey/replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey Replica",
+    "keywords": [
+      "replica",
+      "austin-healey replica"
+    ]
+  },
+  "Austin-Healey Sprite Mk II, III, & IV": {
+    "bat_slug": "austin-healey/sprite-mk-ii-iii-iv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Austin-Healey Sprite Mk II, III, & IV",
+    "keywords": [
+      "austin-healey sprite-mk-ii-iii-iv",
+      "sprite mk ii iii iv",
+      "austin-healey sprite mk ii, iii, & iv"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Hudson Commodore": {
+    "bat_slug": "hudson/commodore",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Hudson Commodore",
+    "keywords": [
+      "hudson commodore",
+      "commodore"
+    ]
+  },
+  "Hudson Hornet": {
+    "bat_slug": "hudson/hornet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Hudson Hornet",
+    "keywords": [
+      "hudson hornet",
+      "hornet"
+    ]
+  },
+  "Hudson Super Six": {
+    "bat_slug": "hudson/super-six",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Hudson Super Six",
+    "keywords": [
+      "hudson super six",
+      "super six"
+    ]
+  }
+}

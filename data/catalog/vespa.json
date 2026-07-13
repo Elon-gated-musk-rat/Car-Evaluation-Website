@@ -1,0 +1,72 @@
+{
+  "Vespa 400": {
+    "bat_slug": "vespa/400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa 400",
+    "keywords": [
+      "vespa 400",
+      "400"
+    ]
+  },
+  "Vespa ET, LX, GT, PX, & Sei": {
+    "bat_slug": "vespa/et-lx-gt-px-sei",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa ET, LX, GT, PX, & Sei",
+    "keywords": [
+      "vespa et, lx, gt, px, & sei",
+      "et lx gt px sei"
+    ]
+  },
+  "Vespa GL & Sprint": {
+    "bat_slug": "vespa/gl-sprint",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa GL & Sprint",
+    "keywords": [
+      "vespa gl & sprint",
+      "gl sprint"
+    ]
+  },
+  "Vespa GS & Rally": {
+    "bat_slug": "vespa/gs-rally",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa GS & Rally",
+    "keywords": [
+      "vespa gs & rally",
+      "gs rally"
+    ]
+  },
+  "Vespa Moped": {
+    "bat_slug": "vespa/moped",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa Moped",
+    "keywords": [
+      "vespa moped",
+      "moped"
+    ]
+  },
+  "Vespa P, Super, & Primavera": {
+    "bat_slug": "vespa/p-super-primavera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa P, Super, & Primavera",
+    "keywords": [
+      "vespa p, super, & primavera",
+      "p super primavera"
+    ]
+  },
+  "Vespa VBB, VNA, VNB, & VLB": {
+    "bat_slug": "vespa/vbb-vna-vlb",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vespa VBB, VNA, VNB, & VLB",
+    "keywords": [
+      "vespa vbb, vna, vnb, & vlb",
+      "vbb vna vlb"
+    ]
+  }
+}

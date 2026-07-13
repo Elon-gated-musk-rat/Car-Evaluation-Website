@@ -1,0 +1,22 @@
+{
+  "Vanderhall Carmel": {
+    "bat_slug": "vanderhall/carmel",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vanderhall Carmel",
+    "keywords": [
+      "vanderhall carmel",
+      "carmel"
+    ]
+  },
+  "Vanderhall Venice": {
+    "bat_slug": "vanderhall/venice",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Vanderhall Venice",
+    "keywords": [
+      "vanderhall venice",
+      "venice"
+    ]
+  }
+}

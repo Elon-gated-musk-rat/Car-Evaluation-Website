@@ -1,0 +1,1252 @@
+{
+  "Ford Aerostar": {
+    "bat_slug": "ford/aerostar",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Aerostar",
+    "keywords": [
+      "ford aerostar",
+      "aerostar"
+    ]
+  },
+  "Ford Bronco 2nd Generation 1978-1979": {
+    "bat_slug": "ford/bronco-2nd-generation",
+    "start_year": 1978,
+    "end_year": 1979,
+    "generation": "Ford Bronco 2nd Generation 1978-1979",
+    "keywords": [
+      "ford bronco 2nd generation 1978-1979",
+      "bronco 2nd generation"
+    ]
+  },
+  "Ford Bronco 3rd Generation 1980-1986": {
+    "bat_slug": "ford/bronco-3rd-generation",
+    "start_year": 1980,
+    "end_year": 1986,
+    "generation": "Ford Bronco 3rd Generation 1980-1986",
+    "keywords": [
+      "ford bronco 3rd generation 1980-1986",
+      "bronco 3rd generation"
+    ]
+  },
+  "Ford Bronco 4th-5th Generations 1987-1996": {
+    "bat_slug": "ford/bronco-4-5th-generations-1987-1997",
+    "start_year": 1987,
+    "end_year": 1996,
+    "generation": "Ford Bronco 4th-5th Generations 1987-1996",
+    "keywords": [
+      "ford bronco 4th-5th generations 1987-1996",
+      "bronco 4 5th generations 1987 1997"
+    ]
+  },
+  "Ford Bronco II": {
+    "bat_slug": "ford/bronco-ii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Bronco II",
+    "keywords": [
+      "ford bronco ii",
+      "bronco ii"
+    ]
+  },
+  "Ford Bronco U13/U14/U15 1966-1977": {
+    "bat_slug": "ford/bronco-u13-u14-u15-1966-1977",
+    "start_year": 1966,
+    "end_year": 1977,
+    "generation": "Ford Bronco U13/U14/U15 1966-1977",
+    "keywords": [
+      "ford bronco u13/u14/u15 1966-1977",
+      "bronco u13 u14 u15 1966 1977"
+    ]
+  },
+  "Ford Bronco U725": {
+    "bat_slug": "ford/u725-bronco",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Bronco U725",
+    "keywords": [
+      "ford bronco u725",
+      "u725 bronco"
+    ]
+  },
+  "Ford Contour": {
+    "bat_slug": "ford/contour",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Contour",
+    "keywords": [
+      "ford contour",
+      "contour"
+    ]
+  },
+  "Ford Cortina": {
+    "bat_slug": "ford/cortina",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Cortina",
+    "keywords": [
+      "ford cortina",
+      "cortina"
+    ]
+  },
+  "Ford Country Sedan": {
+    "bat_slug": "ford/country-sedan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Country Sedan",
+    "keywords": [
+      "ford country sedan",
+      "country sedan"
+    ]
+  },
+  "Ford Country Squire": {
+    "bat_slug": "ford/country-squire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Country Squire",
+    "keywords": [
+      "ford country squire",
+      "country squire"
+    ]
+  },
+  "Ford Courier": {
+    "bat_slug": "ford/courier",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Courier",
+    "keywords": [
+      "ford courier",
+      "courier"
+    ]
+  },
+  "Ford Crestline": {
+    "bat_slug": "ford/crestline",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Crestline",
+    "keywords": [
+      "ford crestline",
+      "crestline"
+    ]
+  },
+  "Ford Crown Victoria": {
+    "bat_slug": "ford/crown-victoria",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Crown Victoria",
+    "keywords": [
+      "ford crown victoria",
+      "crown victoria"
+    ]
+  },
+  "Ford Custom 300 & Custom 500": {
+    "bat_slug": "ford/custom-300-custom-500",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Custom 300 & Custom 500",
+    "keywords": [
+      "ford custom 300 & custom 500",
+      "custom 300 custom 500"
+    ]
+  },
+  "Ford Customline": {
+    "bat_slug": "ford/customline",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Customline",
+    "keywords": [
+      "ford customline",
+      "customline"
+    ]
+  },
+  "Ford Econoline Pickup": {
+    "bat_slug": "ford/econoline-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Econoline Pickup",
+    "keywords": [
+      "ford econoline pickup",
+      "econoline pickup"
+    ]
+  },
+  "Ford Econoline Van": {
+    "bat_slug": "ford/econoline-van",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Econoline Van",
+    "keywords": [
+      "ford econoline van",
+      "econoline van"
+    ]
+  },
+  "Ford Escort (US, 1981-1990)": {
+    "bat_slug": "ford/escort-us-1981-1990",
+    "start_year": 1981,
+    "end_year": 1990,
+    "generation": "Ford Escort (US, 1981-1990)",
+    "keywords": [
+      "ford escort (us, 1981-1990)",
+      "escort us 1981 1990"
+    ]
+  },
+  "Ford Escort (US, 1991-1996)": {
+    "bat_slug": "ford/escort-us-1991-1996",
+    "start_year": 1991,
+    "end_year": 1996,
+    "generation": "Ford Escort (US, 1991-1996)",
+    "keywords": [
+      "ford escort (us, 1991-1996)",
+      "escort us 1991 1996"
+    ]
+  },
+  "Ford Escort (US, 1997-2002)": {
+    "bat_slug": "ford/escort-us-1997-2002",
+    "start_year": 1997,
+    "end_year": 2002,
+    "generation": "Ford Escort (US, 1997-2002)",
+    "keywords": [
+      "ford escort (us, 1997-2002)",
+      "escort us 1997 2002"
+    ]
+  },
+  "Ford Escort Mk1 (Euro, 1967-1975)": {
+    "bat_slug": "ford/escort-mk1",
+    "start_year": 1967,
+    "end_year": 1975,
+    "generation": "Ford Escort Mk1 (Euro, 1967-1975)",
+    "keywords": [
+      "ford escort mk1 (euro, 1967-1975)",
+      "escort mk1"
+    ]
+  },
+  "Ford Escort Mk2 (Euro, 1974-1980)": {
+    "bat_slug": "ford/escort-mk2-euro-1974-1980",
+    "start_year": 1974,
+    "end_year": 1980,
+    "generation": "Ford Escort Mk2 (Euro, 1974-1980)",
+    "keywords": [
+      "ford escort mk2 (euro, 1974-1980)",
+      "escort mk2 euro 1974 1980"
+    ]
+  },
+  "Ford Escort Mk3 (Euro, 1980-1986)": {
+    "bat_slug": "ford/escort-mk3-euro-1980-1986",
+    "start_year": 1980,
+    "end_year": 1986,
+    "generation": "Ford Escort Mk3 (Euro, 1980-1986)",
+    "keywords": [
+      "ford escort mk3 (euro, 1980-1986)",
+      "escort mk3 euro 1980 1986"
+    ]
+  },
+  "Ford Escort Mk4 (Euro, 1986-1992)": {
+    "bat_slug": "ford/escort-mk4-euro-1986-1992",
+    "start_year": 1986,
+    "end_year": 1992,
+    "generation": "Ford Escort Mk4 (Euro, 1986-1992)",
+    "keywords": [
+      "ford escort mk4 (euro, 1986-1992)",
+      "escort mk4 euro 1986 1992"
+    ]
+  },
+  "Ford Escort RS Cosworth": {
+    "bat_slug": "ford/escort-cosworth",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Escort RS Cosworth",
+    "keywords": [
+      "ford escort rs cosworth",
+      "escort cosworth"
+    ]
+  },
+  "Ford Excursion": {
+    "bat_slug": "ford/excursion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Excursion",
+    "keywords": [
+      "ford excursion",
+      "excursion"
+    ]
+  },
+  "Ford Expedition": {
+    "bat_slug": "ford/expedition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Expedition",
+    "keywords": [
+      "ford expedition",
+      "expedition"
+    ]
+  },
+  "Ford Explorer": {
+    "bat_slug": "ford/explorer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Explorer",
+    "keywords": [
+      "ford explorer",
+      "explorer"
+    ]
+  },
+  "Ford Explorer Sport Trac": {
+    "bat_slug": "ford/explorer-sport-trac",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Explorer Sport Trac",
+    "keywords": [
+      "ford explorer sport trac",
+      "explorer sport trac"
+    ]
+  },
+  "Ford F-150 (1997-2004)": {
+    "bat_slug": "ford/f-series-1997-2004",
+    "start_year": 1997,
+    "end_year": 2004,
+    "generation": "Ford F-150 (1997-2004)",
+    "keywords": [
+      "ford f-150 (1997-2004)",
+      "f series 1997 2004"
+    ]
+  },
+  "Ford F-150 (2004-2008)": {
+    "bat_slug": "ford/f-series-2004-2008",
+    "start_year": 2004,
+    "end_year": 2008,
+    "generation": "Ford F-150 (2004-2008)",
+    "keywords": [
+      "ford f-150 (2004-2008)",
+      "f series 2004 2008"
+    ]
+  },
+  "Ford F-150 (2009-2014)": {
+    "bat_slug": "ford/f-series-2009-2014",
+    "start_year": 2009,
+    "end_year": 2014,
+    "generation": "Ford F-150 (2009-2014)",
+    "keywords": [
+      "ford f-150 (2009-2014)",
+      "f series 2009 2014"
+    ]
+  },
+  "Ford F-150 (2015-2020)": {
+    "bat_slug": "ford/f-series-2015-2020",
+    "start_year": 2015,
+    "end_year": 2020,
+    "generation": "Ford F-150 (2015-2020)",
+    "keywords": [
+      "ford f-150 (2015-2020)",
+      "f series 2015 2020"
+    ]
+  },
+  "Ford F-150 (2021+)": {
+    "bat_slug": "ford/f-series-2021",
+    "start_year": 2020,
+    "end_year": 2022,
+    "generation": "Ford F-150 (2021+)",
+    "keywords": [
+      "ford f-150 (2021+)",
+      "f series 2021"
+    ]
+  },
+  "Ford F-150 Lightning Electric": {
+    "bat_slug": "ford/f-150-lightning-electric",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford F-150 Lightning Electric",
+    "keywords": [
+      "ford f-150 lightning electric",
+      "f 150 lightning electric"
+    ]
+  },
+  "Ford F-150 Raptor": {
+    "bat_slug": "ford/f-150-raptor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford F-150 Raptor",
+    "keywords": [
+      "ford f-150 raptor",
+      "f 150 raptor"
+    ]
+  },
+  "Ford F-150 SVT Lightning": {
+    "bat_slug": "ford/f150-svt-lightning",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford F-150 SVT Lightning",
+    "keywords": [
+      "ford f-150 svt lightning",
+      "f150 svt lightning"
+    ]
+  },
+  "Ford F-Series 1948-1952": {
+    "bat_slug": "ford/f-series-1948-1952",
+    "start_year": 1948,
+    "end_year": 1952,
+    "generation": "Ford F-Series 1948-1952",
+    "keywords": [
+      "ford f-series 1948-1952",
+      "f series 1948 1952"
+    ]
+  },
+  "Ford F-Series 1953-1956": {
+    "bat_slug": "ford/f-series-1953-1956",
+    "start_year": 1953,
+    "end_year": 1956,
+    "generation": "Ford F-Series 1953-1956",
+    "keywords": [
+      "ford f-series 1953-1956",
+      "f series 1953 1956"
+    ]
+  },
+  "Ford F-Series 1957-1960": {
+    "bat_slug": "ford/f-series-1957-1960",
+    "start_year": 1957,
+    "end_year": 1960,
+    "generation": "Ford F-Series 1957-1960",
+    "keywords": [
+      "ford f-series 1957-1960",
+      "f series 1957 1960"
+    ]
+  },
+  "Ford F-Series 1961-1966": {
+    "bat_slug": "ford/f-series-1961-1966",
+    "start_year": 1961,
+    "end_year": 1966,
+    "generation": "Ford F-Series 1961-1966",
+    "keywords": [
+      "ford f-series 1961-1966",
+      "f series 1961 1966"
+    ]
+  },
+  "Ford F-Series 1967-1972": {
+    "bat_slug": "ford/f-series-1967-1972",
+    "start_year": 1967,
+    "end_year": 1972,
+    "generation": "Ford F-Series 1967-1972",
+    "keywords": [
+      "ford f-series 1967-1972",
+      "f series 1967 1972"
+    ]
+  },
+  "Ford F-Series 1973-1979": {
+    "bat_slug": "ford/f-series-1973-1979",
+    "start_year": 1973,
+    "end_year": 1979,
+    "generation": "Ford F-Series 1973-1979",
+    "keywords": [
+      "ford f-series 1973-1979",
+      "f series 1973 1979"
+    ]
+  },
+  "Ford F-Series 1980-1986": {
+    "bat_slug": "ford/f-series-1980-1986",
+    "start_year": 1980,
+    "end_year": 1986,
+    "generation": "Ford F-Series 1980-1986",
+    "keywords": [
+      "ford f-series 1980-1986",
+      "f series 1980 1986"
+    ]
+  },
+  "Ford F-Series 1987-1991": {
+    "bat_slug": "ford/f-series-bricknose-1987-1991",
+    "start_year": 1987,
+    "end_year": 1991,
+    "generation": "Ford F-Series 1987-1991",
+    "keywords": [
+      "ford f-series 1987-1991",
+      "f series bricknose 1987 1991"
+    ]
+  },
+  "Ford F-Series 1992-1997": {
+    "bat_slug": "ford/f-series-1992-1997",
+    "start_year": 1992,
+    "end_year": 1997,
+    "generation": "Ford F-Series 1992-1997",
+    "keywords": [
+      "ford f-series 1992-1997",
+      "f series 1992 1997"
+    ]
+  },
+  "Ford Fairlane": {
+    "bat_slug": "ford/fairlane",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Fairlane",
+    "keywords": [
+      "ford fairlane",
+      "fairlane"
+    ]
+  },
+  "Ford Fairmont": {
+    "bat_slug": "ford/fairmont",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Fairmont",
+    "keywords": [
+      "ford fairmont",
+      "fairmont"
+    ]
+  },
+  "Ford Falcon": {
+    "bat_slug": "ford/falcon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Falcon",
+    "keywords": [
+      "ford falcon",
+      "falcon"
+    ]
+  },
+  "Ford Fiesta": {
+    "bat_slug": "ford/fiesta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Fiesta",
+    "keywords": [
+      "ford fiesta",
+      "fiesta"
+    ]
+  },
+  "Ford Focus": {
+    "bat_slug": "ford/focus",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Focus",
+    "keywords": [
+      "ford focus",
+      "focus"
+    ]
+  },
+  "Ford Formula Ford": {
+    "bat_slug": "ford/formula-ford",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Formula Ford",
+    "keywords": [
+      "ford formula ford",
+      "formula ford"
+    ]
+  },
+  "Ford Fox-Body Mustang": {
+    "bat_slug": "ford/mustang-fox-body",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Fox-Body Mustang",
+    "keywords": [
+      "ford fox-body mustang",
+      "mustang fox body"
+    ]
+  },
+  "Ford Fusion": {
+    "bat_slug": "ford/fusion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Fusion",
+    "keywords": [
+      "ford fusion",
+      "fusion"
+    ]
+  },
+  "Ford Galaxie": {
+    "bat_slug": "ford/galaxie",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Galaxie",
+    "keywords": [
+      "ford galaxie",
+      "galaxie"
+    ]
+  },
+  "Ford GT 1st Generation": {
+    "bat_slug": "ford/gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford GT 1st Generation",
+    "keywords": [
+      "ford gt 1st generation",
+      "gt"
+    ]
+  },
+  "Ford GT 2nd Generation": {
+    "bat_slug": "ford/gt-2nd-generation",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford GT 2nd Generation",
+    "keywords": [
+      "ford gt 2nd generation",
+      "gt 2nd generation"
+    ]
+  },
+  "Ford GT40": {
+    "bat_slug": "ford/gt-40",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford GT40",
+    "keywords": [
+      "ford gt40",
+      "gt 40"
+    ]
+  },
+  "Ford GT40 Replica": {
+    "bat_slug": "ford/gt40-replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford GT40 Replica",
+    "keywords": [
+      "ford gt40 replica",
+      "gt40 replica"
+    ]
+  },
+  "Ford Hot Rod": {
+    "bat_slug": "ford/hot-rod",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Hot Rod",
+    "keywords": [
+      "ford hot rod",
+      "hot rod"
+    ]
+  },
+  "Ford LTD": {
+    "bat_slug": "ford/ltd",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford LTD",
+    "keywords": [
+      "ford ltd",
+      "ltd"
+    ]
+  },
+  "Ford Maverick": {
+    "bat_slug": "ford/maverick",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Maverick",
+    "keywords": [
+      "ford maverick",
+      "maverick"
+    ]
+  },
+  "Ford Maverick Pickup": {
+    "bat_slug": "ford/maverick-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Maverick Pickup",
+    "keywords": [
+      "ford maverick pickup",
+      "maverick pickup"
+    ]
+  },
+  "Ford Military": {
+    "bat_slug": "ford/military",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Military",
+    "keywords": [
+      "ford military",
+      "military"
+    ]
+  },
+  "Ford Model 18 & 40 V8 (1932-1934)": {
+    "bat_slug": "ford/model-18-40-v8-1932-1934",
+    "start_year": 1932,
+    "end_year": 1934,
+    "generation": "Ford Model 18 & 40 V8 (1932-1934)",
+    "keywords": [
+      "ford model 18 & 40 v8 (1932-1934)",
+      "model 18 40 v8 1932 1934"
+    ]
+  },
+  "Ford Model 48 & 68 V8 (1935-1936)": {
+    "bat_slug": "ford/model-48-68-v8-1935-1936",
+    "start_year": 1935,
+    "end_year": 1936,
+    "generation": "Ford Model 48 & 68 V8 (1935-1936)",
+    "keywords": [
+      "ford model 48 & 68 v8 (1935-1936)",
+      "model 48 68 v8 1935 1936"
+    ]
+  },
+  "Ford Model A": {
+    "bat_slug": "ford/model-a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Model A",
+    "keywords": [
+      "ford model a",
+      "model a"
+    ]
+  },
+  "Ford Model A Pickup & Model AA": {
+    "bat_slug": "ford/model-a-pickup-model-aa",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Model A Pickup & Model AA",
+    "keywords": [
+      "ford model a pickup & model aa",
+      "model a pickup model aa"
+    ]
+  },
+  "Ford Model B": {
+    "bat_slug": "ford/model-b",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Model B",
+    "keywords": [
+      "ford model b",
+      "model b"
+    ]
+  },
+  "Ford Model T": {
+    "bat_slug": "ford/model-t",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Model T",
+    "keywords": [
+      "ford model t",
+      "model t"
+    ]
+  },
+  "Ford Model T Pickup & Model TT": {
+    "bat_slug": "ford/model-t-pickup-model-tt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Model T Pickup & Model TT",
+    "keywords": [
+      "ford model t pickup & model tt",
+      "model t pickup model tt"
+    ]
+  },
+  "Ford Mustang 1964.5-1966": {
+    "bat_slug": "ford/mustang-1965",
+    "start_year": 1963,
+    "end_year": 1965,
+    "generation": "Ford Mustang 1964.5-1966",
+    "keywords": [
+      "ford mustang 1964.5-1966",
+      "mustang 1965"
+    ]
+  },
+  "Ford Mustang 1967-1968": {
+    "bat_slug": "ford/mustang-1967-1968",
+    "start_year": 1967,
+    "end_year": 1968,
+    "generation": "Ford Mustang 1967-1968",
+    "keywords": [
+      "ford mustang 1967-1968",
+      "mustang 1967 1968"
+    ]
+  },
+  "Ford Mustang 1969-1973": {
+    "bat_slug": "ford/mustang-1969-1970-1971-1972-1973",
+    "start_year": 1969,
+    "end_year": 1973,
+    "generation": "Ford Mustang 1969-1973",
+    "keywords": [
+      "ford mustang 1969-1973",
+      "mustang 1969 1970 1971 1972 1973"
+    ]
+  },
+  "Ford Mustang II": {
+    "bat_slug": "ford/mustang-ii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Mustang II",
+    "keywords": [
+      "ford mustang ii",
+      "mustang ii"
+    ]
+  },
+  "Ford Mustang Mach-E": {
+    "bat_slug": "ford/mustang-mach-e",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Mustang Mach-E",
+    "keywords": [
+      "ford mustang mach-e",
+      "mustang mach e"
+    ]
+  },
+  "Ford Mustang S197 2005-2014": {
+    "bat_slug": "ford/mustang-s197-2005-2014",
+    "start_year": 2005,
+    "end_year": 2014,
+    "generation": "Ford Mustang S197 2005-2014",
+    "keywords": [
+      "ford mustang s197 2005-2014",
+      "mustang s197 2005 2014"
+    ]
+  },
+  "Ford Mustang S550": {
+    "bat_slug": "ford/s550-mustang",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Mustang S550",
+    "keywords": [
+      "ford mustang s550",
+      "s550 mustang"
+    ]
+  },
+  "Ford Mustang S650": {
+    "bat_slug": "ford/mustang-s650",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Mustang S650",
+    "keywords": [
+      "ford mustang s650",
+      "mustang s650"
+    ]
+  },
+  "Ford Mustang SN95 1994-2004": {
+    "bat_slug": "ford/mustang-sn95-1994-2004",
+    "start_year": 1994,
+    "end_year": 2004,
+    "generation": "Ford Mustang SN95 1994-2004",
+    "keywords": [
+      "ford mustang sn95 1994-2004",
+      "mustang sn95 1994 2004"
+    ]
+  },
+  "Ford P703 Ranger (2024+)": {
+    "bat_slug": "ford/p703-ranger-2024",
+    "start_year": 2023,
+    "end_year": 2025,
+    "generation": "Ford P703 Ranger (2024+)",
+    "keywords": [
+      "ford p703 ranger (2024+)",
+      "p703 ranger 2024"
+    ]
+  },
+  "Ford P708 F-Series Super Duty (2023+)": {
+    "bat_slug": "ford/p708-f-series-super-duty-2023",
+    "start_year": 2022,
+    "end_year": 2024,
+    "generation": "Ford P708 F-Series Super Duty (2023+)",
+    "keywords": [
+      "ford p708 f-series super duty (2023+)",
+      "p708 f series super duty 2023"
+    ]
+  },
+  "Ford Pickup 1932-1934 & Model BB": {
+    "bat_slug": "ford/pickup-1932-1934-model-bb",
+    "start_year": 1932,
+    "end_year": 1934,
+    "generation": "Ford Pickup 1932-1934 & Model BB",
+    "keywords": [
+      "ford pickup 1932-1934 & model bb",
+      "pickup 1932 1934 model bb"
+    ]
+  },
+  "Ford Pickup 1935-1936": {
+    "bat_slug": "ford/pickup-1935-1936",
+    "start_year": 1935,
+    "end_year": 1936,
+    "generation": "Ford Pickup 1935-1936",
+    "keywords": [
+      "ford pickup 1935-1936",
+      "pickup 1935 1936"
+    ]
+  },
+  "Ford Pickup 1937-1939": {
+    "bat_slug": "ford/pickup-1937-1939",
+    "start_year": 1937,
+    "end_year": 1939,
+    "generation": "Ford Pickup 1937-1939",
+    "keywords": [
+      "ford pickup 1937-1939",
+      "pickup 1937 1939"
+    ]
+  },
+  "Ford Pickup 1940-1947": {
+    "bat_slug": "ford/pickup-1940-1947",
+    "start_year": 1940,
+    "end_year": 1947,
+    "generation": "Ford Pickup 1940-1947",
+    "keywords": [
+      "ford pickup 1940-1947",
+      "pickup 1940 1947"
+    ]
+  },
+  "Ford Pinto": {
+    "bat_slug": "ford/pinto",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Pinto",
+    "keywords": [
+      "ford pinto",
+      "pinto"
+    ]
+  },
+  "Ford Probe": {
+    "bat_slug": "ford/probe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Probe",
+    "keywords": [
+      "ford probe",
+      "probe"
+    ]
+  },
+  "Ford Ranch Wagon": {
+    "bat_slug": "ford/ranch-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Ranch Wagon",
+    "keywords": [
+      "ford ranch wagon",
+      "ranch wagon"
+    ]
+  },
+  "Ford Ranchero": {
+    "bat_slug": "ford/ranchero",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Ranchero",
+    "keywords": [
+      "ford ranchero",
+      "ranchero"
+    ]
+  },
+  "Ford Ranger 1983-1992": {
+    "bat_slug": "ford/ranger-1983-1992",
+    "start_year": 1983,
+    "end_year": 1992,
+    "generation": "Ford Ranger 1983-1992",
+    "keywords": [
+      "ford ranger 1983-1992",
+      "ranger 1983 1992"
+    ]
+  },
+  "Ford Ranger 1993-1997": {
+    "bat_slug": "ford/ranger-1993-1997",
+    "start_year": 1993,
+    "end_year": 1997,
+    "generation": "Ford Ranger 1993-1997",
+    "keywords": [
+      "ford ranger 1993-1997",
+      "ranger 1993 1997"
+    ]
+  },
+  "Ford Ranger 1998-2011": {
+    "bat_slug": "ford/ranger-1998-2011",
+    "start_year": 1998,
+    "end_year": 2011,
+    "generation": "Ford Ranger 1998-2011",
+    "keywords": [
+      "ford ranger 1998-2011",
+      "ranger 1998 2011"
+    ]
+  },
+  "Ford Ranger 2019-2023": {
+    "bat_slug": "ford/ranger-2019-2023",
+    "start_year": 2019,
+    "end_year": 2023,
+    "generation": "Ford Ranger 2019-2023",
+    "keywords": [
+      "ford ranger 2019-2023",
+      "ranger 2019 2023"
+    ]
+  },
+  "Ford Roush": {
+    "bat_slug": "ford/roush",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Roush",
+    "keywords": [
+      "ford roush",
+      "roush"
+    ]
+  },
+  "Ford RS200": {
+    "bat_slug": "ford/rs200",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford RS200",
+    "keywords": [
+      "ford rs200",
+      "rs200"
+    ]
+  },
+  "Ford S197 Shelby Mustang": {
+    "bat_slug": "ford/s197-shelby-mustang",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford S197 Shelby Mustang",
+    "keywords": [
+      "ford s197 shelby mustang",
+      "s197 shelby mustang"
+    ]
+  },
+  "Ford S550 Shelby Mustang": {
+    "bat_slug": "ford/s550-shelby-mustang",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford S550 Shelby Mustang",
+    "keywords": [
+      "ford s550 shelby mustang",
+      "s550 shelby mustang"
+    ]
+  },
+  "Ford Saleen": {
+    "bat_slug": "ford/saleen",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Saleen",
+    "keywords": [
+      "ford saleen",
+      "saleen"
+    ]
+  },
+  "Ford Shelby Pickup": {
+    "bat_slug": "ford/shelby-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Shelby Pickup",
+    "keywords": [
+      "ford shelby pickup",
+      "shelby pickup"
+    ]
+  },
+  "Ford Shoebox": {
+    "bat_slug": "ford/shoebox",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Shoebox",
+    "keywords": [
+      "ford shoebox",
+      "shoebox"
+    ]
+  },
+  "Ford Sierra RS Cosworth": {
+    "bat_slug": "ford/sierra-rs-cosworth",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Sierra RS Cosworth",
+    "keywords": [
+      "ford sierra rs cosworth",
+      "sierra rs cosworth"
+    ]
+  },
+  "Ford Standard, Deluxe, & Super Deluxe": {
+    "bat_slug": "ford/de-luxe-super-de-luxe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Standard, Deluxe, & Super Deluxe",
+    "keywords": [
+      "ford standard, deluxe, & super deluxe",
+      "de luxe super de luxe"
+    ]
+  },
+  "Ford Super Duty 1999-2007": {
+    "bat_slug": "ford/super-duty-1999-2007",
+    "start_year": 1999,
+    "end_year": 2007,
+    "generation": "Ford Super Duty 1999-2007",
+    "keywords": [
+      "ford super duty 1999-2007",
+      "super duty 1999 2007"
+    ]
+  },
+  "Ford Super Duty 2008-2010": {
+    "bat_slug": "ford/super-duty-2008-2010",
+    "start_year": 2008,
+    "end_year": 2010,
+    "generation": "Ford Super Duty 2008-2010",
+    "keywords": [
+      "ford super duty 2008-2010",
+      "super duty 2008 2010"
+    ]
+  },
+  "Ford Super Duty 2011-2016": {
+    "bat_slug": "ford/super-duty-2011-2016",
+    "start_year": 2011,
+    "end_year": 2016,
+    "generation": "Ford Super Duty 2011-2016",
+    "keywords": [
+      "ford super duty 2011-2016",
+      "super duty 2011 2016"
+    ]
+  },
+  "Ford Super Duty 2017-2022": {
+    "bat_slug": "ford/super-duty-2017",
+    "start_year": 2017,
+    "end_year": 2022,
+    "generation": "Ford Super Duty 2017-2022",
+    "keywords": [
+      "ford super duty 2017-2022",
+      "super duty 2017"
+    ]
+  },
+  "Ford Taurus Race Car": {
+    "bat_slug": "ford/taurus-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Taurus Race Car",
+    "keywords": [
+      "ford taurus race car",
+      "taurus race car"
+    ]
+  },
+  "Ford Taurus Sedan & Wagon": {
+    "bat_slug": "ford/taurus-sedan-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Taurus Sedan & Wagon",
+    "keywords": [
+      "ford taurus sedan & wagon",
+      "taurus sedan wagon"
+    ]
+  },
+  "Ford Taurus SHO": {
+    "bat_slug": "ford/taurus-sho",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Taurus SHO",
+    "keywords": [
+      "ford taurus sho",
+      "taurus sho"
+    ]
+  },
+  "Ford Thunderbird (1955-1957)": {
+    "bat_slug": "ford/thunderbird-1955-1957",
+    "start_year": 1955,
+    "end_year": 1957,
+    "generation": "Ford Thunderbird (1955-1957)",
+    "keywords": [
+      "ford thunderbird (1955-1957)",
+      "thunderbird 1955 1957"
+    ]
+  },
+  "Ford Thunderbird (1958-1960)": {
+    "bat_slug": "ford/thunderbird-1958-1960",
+    "start_year": 1958,
+    "end_year": 1960,
+    "generation": "Ford Thunderbird (1958-1960)",
+    "keywords": [
+      "ford thunderbird (1958-1960)",
+      "thunderbird 1958 1960"
+    ]
+  },
+  "Ford Thunderbird (1961-1963)": {
+    "bat_slug": "ford/thunderbird-1961-1963",
+    "start_year": 1961,
+    "end_year": 1963,
+    "generation": "Ford Thunderbird (1961-1963)",
+    "keywords": [
+      "ford thunderbird (1961-1963)",
+      "thunderbird 1961 1963"
+    ]
+  },
+  "Ford Thunderbird (1964-1966)": {
+    "bat_slug": "ford/thunderbird-1964-1966",
+    "start_year": 1964,
+    "end_year": 1966,
+    "generation": "Ford Thunderbird (1964-1966)",
+    "keywords": [
+      "ford thunderbird (1964-1966)",
+      "thunderbird 1964 1966"
+    ]
+  },
+  "Ford Thunderbird (1967-1971)": {
+    "bat_slug": "ford/thunderbird-1967-1971",
+    "start_year": 1967,
+    "end_year": 1971,
+    "generation": "Ford Thunderbird (1967-1971)",
+    "keywords": [
+      "ford thunderbird (1967-1971)",
+      "thunderbird 1967 1971"
+    ]
+  },
+  "Ford Thunderbird (1972-1976)": {
+    "bat_slug": "ford/thunderbird-1972-1976",
+    "start_year": 1972,
+    "end_year": 1976,
+    "generation": "Ford Thunderbird (1972-1976)",
+    "keywords": [
+      "ford thunderbird (1972-1976)",
+      "thunderbird 1972 1976"
+    ]
+  },
+  "Ford Thunderbird (1977-1979)": {
+    "bat_slug": "ford/thunderbird-1977-1979",
+    "start_year": 1977,
+    "end_year": 1979,
+    "generation": "Ford Thunderbird (1977-1979)",
+    "keywords": [
+      "ford thunderbird (1977-1979)",
+      "thunderbird 1977 1979"
+    ]
+  },
+  "Ford Thunderbird (1980-1982)": {
+    "bat_slug": "ford/thunderbird-1980-1982",
+    "start_year": 1980,
+    "end_year": 1982,
+    "generation": "Ford Thunderbird (1980-1982)",
+    "keywords": [
+      "ford thunderbird (1980-1982)",
+      "thunderbird 1980 1982"
+    ]
+  },
+  "Ford Thunderbird (1983-1988)": {
+    "bat_slug": "ford/thunderbird-1983-1988",
+    "start_year": 1983,
+    "end_year": 1988,
+    "generation": "Ford Thunderbird (1983-1988)",
+    "keywords": [
+      "ford thunderbird (1983-1988)",
+      "thunderbird 1983 1988"
+    ]
+  },
+  "Ford Thunderbird (1989-1997)": {
+    "bat_slug": "ford/thunderbird-1989-1997",
+    "start_year": 1989,
+    "end_year": 1997,
+    "generation": "Ford Thunderbird (1989-1997)",
+    "keywords": [
+      "ford thunderbird (1989-1997)",
+      "thunderbird 1989 1997"
+    ]
+  },
+  "Ford Thunderbird (2002-2005)": {
+    "bat_slug": "ford/thunderbird-2002-2005",
+    "start_year": 2002,
+    "end_year": 2005,
+    "generation": "Ford Thunderbird (2002-2005)",
+    "keywords": [
+      "ford thunderbird (2002-2005)",
+      "thunderbird 2002 2005"
+    ]
+  },
+  "Ford Torino": {
+    "bat_slug": "ford/torino",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Torino",
+    "keywords": [
+      "ford torino",
+      "torino"
+    ]
+  },
+  "Ford Tractor": {
+    "bat_slug": "ford/tractor",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Tractor",
+    "keywords": [
+      "ford tractor",
+      "tractor"
+    ]
+  },
+  "Ford Transit": {
+    "bat_slug": "ford/transit",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ford Transit",
+    "keywords": [
+      "ford transit",
+      "transit"
+    ]
+  }
+}

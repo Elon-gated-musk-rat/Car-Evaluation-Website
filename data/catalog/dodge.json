@@ -1,0 +1,632 @@
+{
+  "Dodge & Plymouth Colt": {
+    "bat_slug": "dodge/colt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge & Plymouth Colt",
+    "keywords": [
+      "dodge & plymouth colt",
+      "colt"
+    ]
+  },
+  "Dodge & Plymouth Neon": {
+    "bat_slug": "dodge/dodge-plymouth-neon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge & Plymouth Neon",
+    "keywords": [
+      "dodge & plymouth neon",
+      "dodge plymouth neon"
+    ]
+  },
+  "Dodge 330, 440, & 880": {
+    "bat_slug": "dodge/330-440-880",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge 330, 440, & 880",
+    "keywords": [
+      "dodge 330, 440, & 880",
+      "330 440 880"
+    ]
+  },
+  "Dodge A100 & A108": {
+    "bat_slug": "dodge/a100-a108",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge A100 & A108",
+    "keywords": [
+      "dodge a100 & a108",
+      "a100 a108"
+    ]
+  },
+  "Dodge A100 Pickup": {
+    "bat_slug": "dodge/a100-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge A100 Pickup",
+    "keywords": [
+      "dodge a100 pickup",
+      "a100 pickup"
+    ]
+  },
+  "Dodge B-Series (1948-1953)": {
+    "bat_slug": "dodge/b-series-1948-1953",
+    "start_year": 1948,
+    "end_year": 1953,
+    "generation": "Dodge B-Series (1948-1953)",
+    "keywords": [
+      "dodge b-series (1948-1953)",
+      "b series 1948 1953"
+    ]
+  },
+  "Dodge C-Series (1954-1960)": {
+    "bat_slug": "dodge/c-series-1954-1960",
+    "start_year": 1954,
+    "end_year": 1960,
+    "generation": "Dodge C-Series (1954-1960)",
+    "keywords": [
+      "dodge c-series (1954-1960)",
+      "c series 1954 1960"
+    ]
+  },
+  "Dodge Caravan & Grand Caravan": {
+    "bat_slug": "dodge/caravan-grand-caravan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Caravan & Grand Caravan",
+    "keywords": [
+      "dodge caravan & grand caravan",
+      "caravan grand caravan"
+    ]
+  },
+  "Dodge Challenger (1970-1974)": {
+    "bat_slug": "dodge/challenger-1970-1974",
+    "start_year": 1970,
+    "end_year": 1974,
+    "generation": "Dodge Challenger (1970-1974)",
+    "keywords": [
+      "dodge challenger (1970-1974)",
+      "challenger 1970 1974"
+    ]
+  },
+  "Dodge Challenger (1978-1983)": {
+    "bat_slug": "dodge/challenger-1978-1983",
+    "start_year": 1978,
+    "end_year": 1983,
+    "generation": "Dodge Challenger (1978-1983)",
+    "keywords": [
+      "dodge challenger (1978-1983)",
+      "challenger 1978 1983"
+    ]
+  },
+  "Dodge Challenger (non-SRT, 2009-2023)": {
+    "bat_slug": "dodge/challenger-non-srt",
+    "start_year": 2009,
+    "end_year": 2023,
+    "generation": "Dodge Challenger (non-SRT, 2009-2023)",
+    "keywords": [
+      "dodge challenger (non-srt, 2009-2023)",
+      "challenger non srt"
+    ]
+  },
+  "Dodge Challenger SRT Demon & Super Stock": {
+    "bat_slug": "dodge/challenger-srt-demon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Challenger SRT Demon & Super Stock",
+    "keywords": [
+      "dodge challenger srt demon & super stock",
+      "challenger srt demon"
+    ]
+  },
+  "Dodge Challenger SRT Hellcat": {
+    "bat_slug": "dodge/challenger-srt-hellcat",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Challenger SRT Hellcat",
+    "keywords": [
+      "dodge challenger srt hellcat",
+      "challenger srt hellcat"
+    ]
+  },
+  "Dodge Challenger SRT8 & 392": {
+    "bat_slug": "dodge/challenger-srt8-392",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Challenger SRT8 & 392",
+    "keywords": [
+      "dodge challenger srt8 & 392",
+      "challenger srt8 392"
+    ]
+  },
+  "Dodge Charger": {
+    "bat_slug": "dodge/charger",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Charger",
+    "keywords": [
+      "dodge charger",
+      "charger"
+    ]
+  },
+  "Dodge Coronet": {
+    "bat_slug": "dodge/coronet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Coronet",
+    "keywords": [
+      "dodge coronet",
+      "coronet"
+    ]
+  },
+  "Dodge D-50 & Ram 50": {
+    "bat_slug": "dodge/d-50-ram-50",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge D-50 & Ram 50",
+    "keywords": [
+      "dodge d-50 & ram 50",
+      "d 50 ram 50"
+    ]
+  },
+  "Dodge D-Series (1961-1965)": {
+    "bat_slug": "dodge/d-series-1960-1965",
+    "start_year": 1961,
+    "end_year": 1965,
+    "generation": "Dodge D-Series (1961-1965)",
+    "keywords": [
+      "dodge d-series (1961-1965)",
+      "d series 1960 1965"
+    ]
+  },
+  "Dodge D-Series (1965-1971)": {
+    "bat_slug": "dodge/d-series-1965-1971",
+    "start_year": 1965,
+    "end_year": 1971,
+    "generation": "Dodge D-Series (1965-1971)",
+    "keywords": [
+      "dodge d-series (1965-1971)",
+      "d series 1965 1971"
+    ]
+  },
+  "Dodge D-Series (1972-1980)": {
+    "bat_slug": "dodge/d-series-1971-1980",
+    "start_year": 1972,
+    "end_year": 1980,
+    "generation": "Dodge D-Series (1972-1980)",
+    "keywords": [
+      "dodge d-series (1972-1980)",
+      "d series 1971 1980"
+    ]
+  },
+  "Dodge Dakota (1987-1996)": {
+    "bat_slug": "dodge/dakota-1987-1996",
+    "start_year": 1987,
+    "end_year": 1996,
+    "generation": "Dodge Dakota (1987-1996)",
+    "keywords": [
+      "dodge dakota (1987-1996)",
+      "dakota 1987 1996"
+    ]
+  },
+  "Dodge Dakota (1997-2004)": {
+    "bat_slug": "dodge/dakota-1997-2004",
+    "start_year": 1997,
+    "end_year": 2004,
+    "generation": "Dodge Dakota (1997-2004)",
+    "keywords": [
+      "dodge dakota (1997-2004)",
+      "dakota 1997 2004"
+    ]
+  },
+  "Dodge Dakota (2005-2011)": {
+    "bat_slug": "dodge/dakota-2005-2011",
+    "start_year": 2005,
+    "end_year": 2011,
+    "generation": "Dodge Dakota (2005-2011)",
+    "keywords": [
+      "dodge dakota (2005-2011)",
+      "dakota 2005 2011"
+    ]
+  },
+  "Dodge Dart": {
+    "bat_slug": "dodge/dart",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Dart",
+    "keywords": [
+      "dodge dart",
+      "dart"
+    ]
+  },
+  "Dodge Daytona & Chrysler Laser": {
+    "bat_slug": "dodge/daytona-chrysler-laser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Daytona & Chrysler Laser",
+    "keywords": [
+      "dodge daytona & chrysler laser",
+      "daytona chrysler laser"
+    ]
+  },
+  "Dodge Demon (1971-1972)": {
+    "bat_slug": "dodge/demon-1971-1972",
+    "start_year": 1971,
+    "end_year": 1972,
+    "generation": "Dodge Demon (1971-1972)",
+    "keywords": [
+      "dodge demon (1971-1972)",
+      "demon 1971 1972"
+    ]
+  },
+  "Dodge Durango": {
+    "bat_slug": "dodge/durango",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Durango",
+    "keywords": [
+      "dodge durango",
+      "durango"
+    ]
+  },
+  "Dodge HC/KC Pickup (1933-1935)": {
+    "bat_slug": "dodge/hc-kc-pickup-1933-1935",
+    "start_year": 1933,
+    "end_year": 1935,
+    "generation": "Dodge HC/KC Pickup (1933-1935)",
+    "keywords": [
+      "dodge hc/kc pickup (1933-1935)",
+      "hc kc pickup 1933 1935"
+    ]
+  },
+  "Dodge L/M/R-Series (1936-1938)": {
+    "bat_slug": "dodge/l-m-r-series-1936-1938",
+    "start_year": 1936,
+    "end_year": 1938,
+    "generation": "Dodge L/M/R-Series (1936-1938)",
+    "keywords": [
+      "dodge l/m/r-series (1936-1938)",
+      "l m r series 1936 1938"
+    ]
+  },
+  "Dodge Lancer": {
+    "bat_slug": "dodge/lancer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Lancer",
+    "keywords": [
+      "dodge lancer",
+      "lancer"
+    ]
+  },
+  "Dodge Magnum": {
+    "bat_slug": "dodge/magnum",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Magnum",
+    "keywords": [
+      "dodge magnum",
+      "magnum"
+    ]
+  },
+  "Dodge Military Vehicles": {
+    "bat_slug": "dodge/dodge-military-vehicles",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Military Vehicles",
+    "keywords": [
+      "dodge military vehicles",
+      "dodge military vehicles"
+    ]
+  },
+  "Dodge Monaco": {
+    "bat_slug": "dodge/monaco",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Monaco",
+    "keywords": [
+      "dodge monaco",
+      "monaco"
+    ]
+  },
+  "Dodge Omni & Plymouth Horizon": {
+    "bat_slug": "dodge/omni-plymouth-horizon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Omni & Plymouth Horizon",
+    "keywords": [
+      "dodge omni & plymouth horizon",
+      "omni plymouth horizon"
+    ]
+  },
+  "Dodge Pickup (1917-1932)": {
+    "bat_slug": "dodge/pickup-1917-1932",
+    "start_year": 1917,
+    "end_year": 1932,
+    "generation": "Dodge Pickup (1917-1932)",
+    "keywords": [
+      "dodge pickup (1917-1932)",
+      "pickup 1917 1932"
+    ]
+  },
+  "Dodge Polara": {
+    "bat_slug": "dodge/polara",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Polara",
+    "keywords": [
+      "dodge polara",
+      "polara"
+    ]
+  },
+  "Dodge Power Wagon": {
+    "bat_slug": "dodge/power-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Power Wagon",
+    "keywords": [
+      "dodge power wagon",
+      "power wagon"
+    ]
+  },
+  "Dodge Ram (1981-1993)": {
+    "bat_slug": "dodge/ram-1981-1993",
+    "start_year": 1981,
+    "end_year": 1993,
+    "generation": "Dodge Ram (1981-1993)",
+    "keywords": [
+      "dodge ram (1981-1993)",
+      "ram 1981 1993"
+    ]
+  },
+  "Dodge Ram 1500 (1994-2001)": {
+    "bat_slug": "dodge/ram-1994-2001",
+    "start_year": 1994,
+    "end_year": 2001,
+    "generation": "Dodge Ram 1500 (1994-2001)",
+    "keywords": [
+      "dodge ram 1500 (1994-2001)",
+      "ram 1994 2001"
+    ]
+  },
+  "Dodge Ram 1500 (2002-2008)": {
+    "bat_slug": "dodge/ram-2002-2010",
+    "start_year": 2002,
+    "end_year": 2008,
+    "generation": "Dodge Ram 1500 (2002-2008)",
+    "keywords": [
+      "dodge ram 1500 (2002-2008)",
+      "ram 2002 2010"
+    ]
+  },
+  "Dodge Ram 1500 (2009-2023)": {
+    "bat_slug": "dodge/ram-2009-2023",
+    "start_year": 2009,
+    "end_year": 2023,
+    "generation": "Dodge Ram 1500 (2009-2023)",
+    "keywords": [
+      "dodge ram 1500 (2009-2023)",
+      "ram 2009 2023"
+    ]
+  },
+  "Dodge Ram 1500 (2019+)": {
+    "bat_slug": "dodge/ram-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Dodge Ram 1500 (2019+)",
+    "keywords": [
+      "dodge ram 1500 (2019+)",
+      "ram 2019"
+    ]
+  },
+  "Dodge Ram HD (1994-2002)": {
+    "bat_slug": "dodge/ram-hd-1994-2002",
+    "start_year": 1994,
+    "end_year": 2002,
+    "generation": "Dodge Ram HD (1994-2002)",
+    "keywords": [
+      "dodge ram hd (1994-2002)",
+      "ram hd 1994 2002"
+    ]
+  },
+  "Dodge Ram HD (2003-2010)": {
+    "bat_slug": "dodge/ram-hd-2003-2010",
+    "start_year": 2003,
+    "end_year": 2010,
+    "generation": "Dodge Ram HD (2003-2010)",
+    "keywords": [
+      "dodge ram hd (2003-2010)",
+      "ram hd 2003 2010"
+    ]
+  },
+  "Dodge Ram HD (2010-2018)": {
+    "bat_slug": "dodge/ram-hd-2010-2018",
+    "start_year": 2010,
+    "end_year": 2018,
+    "generation": "Dodge Ram HD (2010-2018)",
+    "keywords": [
+      "dodge ram hd (2010-2018)",
+      "ram hd 2010 2018"
+    ]
+  },
+  "Dodge Ram HD (2019+)": {
+    "bat_slug": "dodge/ram-hd-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Dodge Ram HD (2019+)",
+    "keywords": [
+      "dodge ram hd (2019+)",
+      "ram hd 2019"
+    ]
+  },
+  "Dodge Ram SRT-10 Pickup": {
+    "bat_slug": "dodge/ram-srt-10-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Ram SRT-10 Pickup",
+    "keywords": [
+      "dodge ram srt-10 pickup",
+      "ram srt 10 pickup"
+    ]
+  },
+  "Dodge Ram TRX": {
+    "bat_slug": "dodge/ram-trx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Ram TRX",
+    "keywords": [
+      "dodge ram trx",
+      "ram trx"
+    ]
+  },
+  "Dodge Ram Van": {
+    "bat_slug": "dodge/ram-van",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Ram Van",
+    "keywords": [
+      "dodge ram van",
+      "ram van"
+    ]
+  },
+  "Dodge Ramcharger / Plymouth Trail Duster": {
+    "bat_slug": "dodge/ramcharger",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Ramcharger / Plymouth Trail Duster",
+    "keywords": [
+      "dodge ramcharger / plymouth trail duster",
+      "ramcharger"
+    ]
+  },
+  "Dodge Rampage and Plymouth Scamp": {
+    "bat_slug": "dodge/rampage-and-plymouth-scamp",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Rampage and Plymouth Scamp",
+    "keywords": [
+      "dodge rampage and plymouth scamp",
+      "rampage and plymouth scamp"
+    ]
+  },
+  "Dodge Royal": {
+    "bat_slug": "dodge/royal",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Royal",
+    "keywords": [
+      "dodge royal",
+      "royal"
+    ]
+  },
+  "Dodge Shelby": {
+    "bat_slug": "dodge/shelby",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Shelby",
+    "keywords": [
+      "dodge shelby",
+      "shelby"
+    ]
+  },
+  "Dodge Stealth": {
+    "bat_slug": "dodge/stealth",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Stealth",
+    "keywords": [
+      "dodge stealth",
+      "stealth"
+    ]
+  },
+  "Dodge Super Bee": {
+    "bat_slug": "dodge/super-bee",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Super Bee",
+    "keywords": [
+      "dodge super bee",
+      "super bee"
+    ]
+  },
+  "Dodge T/V/W-Series (1939-1947)": {
+    "bat_slug": "dodge/t-v-w-series-1939-1947",
+    "start_year": 1939,
+    "end_year": 1947,
+    "generation": "Dodge T/V/W-Series (1939-1947)",
+    "keywords": [
+      "dodge t/v/w-series (1939-1947)",
+      "t v w series 1939 1947"
+    ]
+  },
+  "Dodge Town Wagon": {
+    "bat_slug": "dodge/town-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Town Wagon",
+    "keywords": [
+      "dodge town wagon",
+      "town wagon"
+    ]
+  },
+  "Dodge Tradesman & Sportsman Vans": {
+    "bat_slug": "dodge/tradesman-sportsman-vans",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Dodge Tradesman & Sportsman Vans",
+    "keywords": [
+      "dodge tradesman & sportsman vans",
+      "tradesman sportsman vans"
+    ]
+  },
+  "Dodge Viper (2013-2017)": {
+    "bat_slug": "dodge/viper-2013-2017",
+    "start_year": 2013,
+    "end_year": 2017,
+    "generation": "Dodge Viper (2013-2017)",
+    "keywords": [
+      "dodge viper (2013-2017)",
+      "viper 2013 2017"
+    ]
+  },
+  "Dodge Viper SR I (1992-1995)": {
+    "bat_slug": "dodge/viper-sr-i-1992-1995",
+    "start_year": 1992,
+    "end_year": 1995,
+    "generation": "Dodge Viper SR I (1992-1995)",
+    "keywords": [
+      "dodge viper sr i (1992-1995)",
+      "viper sr i 1992 1995"
+    ]
+  },
+  "Dodge Viper SR II (1996-2002)": {
+    "bat_slug": "dodge/viper-sr-ii",
+    "start_year": 1996,
+    "end_year": 2002,
+    "generation": "Dodge Viper SR II (1996-2002)",
+    "keywords": [
+      "dodge viper sr ii (1996-2002)",
+      "viper sr ii"
+    ]
+  },
+  "Dodge Viper ZB I (2003-2006)": {
+    "bat_slug": "dodge/viper-zb-i-2003-2006",
+    "start_year": 2003,
+    "end_year": 2006,
+    "generation": "Dodge Viper ZB I (2003-2006)",
+    "keywords": [
+      "dodge viper zb i (2003-2006)",
+      "viper zb i 2003 2006"
+    ]
+  },
+  "Dodge Viper ZB II (2008-2010)": {
+    "bat_slug": "dodge/viper-zb-ii-2008-2010",
+    "start_year": 2008,
+    "end_year": 2010,
+    "generation": "Dodge Viper ZB II (2008-2010)",
+    "keywords": [
+      "dodge viper zb ii (2008-2010)",
+      "viper zb ii 2008 2010"
+    ]
+  }
+}

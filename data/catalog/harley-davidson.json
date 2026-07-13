@@ -1,0 +1,172 @@
+{
+  "Harley-Davidson 45 Flathead (1929-1975)": {
+    "bat_slug": "harley-davidson/45-flathead-1949-1975",
+    "start_year": 1929,
+    "end_year": 1975,
+    "generation": "Harley-Davidson 45 Flathead (1929-1975)",
+    "keywords": [
+      "harley-davidson 45 flathead (1929-1975)",
+      "45 flathead 1949 1975"
+    ]
+  },
+  "Harley-Davidson Aermacchi": {
+    "bat_slug": "harley-davidson/aermacchi",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Aermacchi",
+    "keywords": [
+      "harley-davidson aermacchi",
+      "aermacchi"
+    ]
+  },
+  "Harley-Davidson Big-Twin Flathead (1930-1948)": {
+    "bat_slug": "harley-davidson/big-twin-flathead-1930-1943",
+    "start_year": 1930,
+    "end_year": 1948,
+    "generation": "Harley-Davidson Big-Twin Flathead (1930-1948)",
+    "keywords": [
+      "harley-davidson big-twin flathead (1930-1948)",
+      "big twin flathead 1930 1943"
+    ]
+  },
+  "Harley-Davidson CVO": {
+    "bat_slug": "harley-davidson/cvo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson CVO",
+    "keywords": [
+      "harley-davidson cvo",
+      "cvo"
+    ]
+  },
+  "Harley-Davidson Dyna": {
+    "bat_slug": "harley-davidson/dyna",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Dyna",
+    "keywords": [
+      "harley-davidson dyna",
+      "dyna"
+    ]
+  },
+  "Harley-Davidson FXR": {
+    "bat_slug": "harley-davidson/fxr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson FXR",
+    "keywords": [
+      "harley-davidson fxr",
+      "fxr"
+    ]
+  },
+  "Harley-Davidson Knucklehead": {
+    "bat_slug": "harley-davidson/knucklehead",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Knucklehead",
+    "keywords": [
+      "harley-davidson knucklehead",
+      "knucklehead"
+    ]
+  },
+  "Harley-Davidson Panhead": {
+    "bat_slug": "harley-davidson/panhead",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Panhead",
+    "keywords": [
+      "harley-davidson panhead",
+      "panhead"
+    ]
+  },
+  "Harley-Davidson Servi-Car": {
+    "bat_slug": "harley-davidson/servi-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Servi-Car",
+    "keywords": [
+      "harley-davidson servi-car",
+      "servi car"
+    ]
+  },
+  "Harley-Davidson Shovelhead": {
+    "bat_slug": "harley-davidson/shovelhead",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Shovelhead",
+    "keywords": [
+      "harley-davidson shovelhead",
+      "shovelhead"
+    ]
+  },
+  "Harley-Davidson Softail": {
+    "bat_slug": "harley-davidson/softail",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Softail",
+    "keywords": [
+      "harley-davidson softail",
+      "softail"
+    ]
+  },
+  "Harley-Davidson Sportster": {
+    "bat_slug": "harley-davidson/sportster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Sportster",
+    "keywords": [
+      "harley-davidson sportster",
+      "sportster"
+    ]
+  },
+  "Harley-Davidson Sprint": {
+    "bat_slug": "harley-davidson/sprint",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Sprint",
+    "keywords": [
+      "harley-davidson sprint",
+      "sprint"
+    ]
+  },
+  "Harley-Davidson Touring": {
+    "bat_slug": "harley-davidson/touring",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson Touring",
+    "keywords": [
+      "harley-davidson touring",
+      "touring"
+    ]
+  },
+  "Harley-Davidson V-Rod": {
+    "bat_slug": "harley-davidson/v-rod",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson V-Rod",
+    "keywords": [
+      "harley-davidson v-rod",
+      "v rod"
+    ]
+  },
+  "Harley-Davidson X-90": {
+    "bat_slug": "harley-davidson/x-90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson X-90",
+    "keywords": [
+      "harley-davidson x-90",
+      "x 90"
+    ]
+  },
+  "Harley-Davidson XR-750 & KR-750": {
+    "bat_slug": "harley-davidson/xr-750-kr-750",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Harley-Davidson XR-750 & KR-750",
+    "keywords": [
+      "harley-davidson xr-750 & kr-750",
+      "xr 750 kr 750"
+    ]
+  }
+}

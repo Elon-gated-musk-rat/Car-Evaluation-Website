@@ -1,0 +1,182 @@
+{
+  "Rolls-Royce 20/25": {
+    "bat_slug": "rolls-royce/20-25",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce 20/25",
+    "keywords": [
+      "rolls-royce 20/25",
+      "20 25"
+    ]
+  },
+  "Rolls-Royce 25/30": {
+    "bat_slug": "rolls-royce/25-30",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce 25/30",
+    "keywords": [
+      "rolls-royce 25/30",
+      "25 30"
+    ]
+  },
+  "Rolls-Royce 40/50 Silver Ghost": {
+    "bat_slug": "rolls-royce/4050-silver-ghost",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce 40/50 Silver Ghost",
+    "keywords": [
+      "rolls-royce 40/50 silver ghost",
+      "4050 silver ghost"
+    ]
+  },
+  "Rolls-Royce Camargue": {
+    "bat_slug": "rolls-royce/camargue",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Camargue",
+    "keywords": [
+      "rolls-royce camargue",
+      "camargue"
+    ]
+  },
+  "Rolls-Royce Corniche": {
+    "bat_slug": "rolls-royce/corniche",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Corniche",
+    "keywords": [
+      "rolls-royce corniche",
+      "corniche"
+    ]
+  },
+  "Rolls-Royce Cullinan": {
+    "bat_slug": "rolls-royce/cullinan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Cullinan",
+    "keywords": [
+      "rolls-royce cullinan",
+      "cullinan"
+    ]
+  },
+  "Rolls-Royce Dawn": {
+    "bat_slug": "rolls-royce/dawn",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Dawn",
+    "keywords": [
+      "rolls-royce dawn",
+      "dawn"
+    ]
+  },
+  "Rolls-Royce Ghost": {
+    "bat_slug": "rolls-royce/ghost",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Ghost",
+    "keywords": [
+      "rolls-royce ghost",
+      "ghost"
+    ]
+  },
+  "Rolls-Royce Phantom Coupe & Drophead Coupe": {
+    "bat_slug": "rolls-royce/phantom-coupe-drophead-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Phantom Coupe & Drophead Coupe",
+    "keywords": [
+      "rolls-royce phantom coupe & drophead coupe",
+      "phantom coupe drophead coupe"
+    ]
+  },
+  "Rolls-Royce Phantom I, II, & III": {
+    "bat_slug": "rolls-royce/phantom-i-ii-iii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Phantom I, II, & III",
+    "keywords": [
+      "rolls-royce phantom i, ii, & iii",
+      "phantom i ii iii"
+    ]
+  },
+  "Rolls-Royce Phantom VII & VIII": {
+    "bat_slug": "rolls-royce/phantom-vii-viii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Phantom VII & VIII",
+    "keywords": [
+      "rolls-royce phantom vii & viii",
+      "phantom vii viii"
+    ]
+  },
+  "Rolls-Royce Silver Cloud & Phantom V": {
+    "bat_slug": "rolls-royce/silver-cloud",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Silver Cloud & Phantom V",
+    "keywords": [
+      "rolls-royce silver cloud & phantom v",
+      "silver cloud"
+    ]
+  },
+  "Rolls-Royce Silver Dawn (1949-1955)": {
+    "bat_slug": "rolls-royce/silver-dawn-1949-1955",
+    "start_year": 1949,
+    "end_year": 1955,
+    "generation": "Rolls-Royce Silver Dawn (1949-1955)",
+    "keywords": [
+      "rolls-royce silver dawn (1949-1955)",
+      "silver dawn 1949 1955"
+    ]
+  },
+  "Rolls-Royce Silver Seraph": {
+    "bat_slug": "rolls-royce/silver-seraph",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Silver Seraph",
+    "keywords": [
+      "rolls-royce silver seraph",
+      "silver seraph"
+    ]
+  },
+  "Rolls-Royce Silver Wraith": {
+    "bat_slug": "rolls-royce/silver-wraith",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Silver Wraith",
+    "keywords": [
+      "rolls-royce silver wraith",
+      "silver wraith"
+    ]
+  },
+  "Rolls-Royce SY Silver Shadow & Silver Wraith II": {
+    "bat_slug": "rolls-royce/silver-shadow",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce SY Silver Shadow & Silver Wraith II",
+    "keywords": [
+      "rolls-royce sy silver shadow & silver wraith ii",
+      "silver shadow"
+    ]
+  },
+  "Rolls-Royce SZ Silver Spirit & Silver Spur": {
+    "bat_slug": "rolls-royce/sz-silver-spirit-silver-spur",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce SZ Silver Spirit & Silver Spur",
+    "keywords": [
+      "rolls-royce sz silver spirit & silver spur",
+      "sz silver spirit silver spur"
+    ]
+  },
+  "Rolls-Royce Wraith": {
+    "bat_slug": "rolls-royce/wraith",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rolls-Royce Wraith",
+    "keywords": [
+      "rolls-royce wraith",
+      "wraith"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "Mitsubishi 3000GT": {
+    "bat_slug": "mitsubishi/3000gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi 3000GT",
+    "keywords": [
+      "mitsubishi 3000gt",
+      "3000gt"
+    ]
+  },
+  "Mitsubishi Canter": {
+    "bat_slug": "mitsubishi/canter",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Canter",
+    "keywords": [
+      "mitsubishi canter",
+      "canter"
+    ]
+  },
+  "Mitsubishi Delica": {
+    "bat_slug": "mitsubishi/delica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Delica",
+    "keywords": [
+      "mitsubishi delica",
+      "delica"
+    ]
+  },
+  "Mitsubishi Eclipse, Eagle Talon, & Plymouth Laser": {
+    "bat_slug": "mitsubishi/eclipse-eagle-talon-plymouth-laser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Eclipse, Eagle Talon, & Plymouth Laser",
+    "keywords": [
+      "mitsubishi eclipse, eagle talon, & plymouth laser",
+      "eclipse eagle talon plymouth laser"
+    ]
+  },
+  "Mitsubishi Galant": {
+    "bat_slug": "mitsubishi/galant",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Galant",
+    "keywords": [
+      "mitsubishi galant",
+      "galant"
+    ]
+  },
+  "Mitsubishi Lancer Evolution": {
+    "bat_slug": "mitsubishi/lancer-evolution",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Lancer Evolution",
+    "keywords": [
+      "mitsubishi lancer evolution",
+      "lancer evolution"
+    ]
+  },
+  "Mitsubishi Minicab": {
+    "bat_slug": "mitsubishi/minicab",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Minicab",
+    "keywords": [
+      "mitsubishi minicab",
+      "minicab"
+    ]
+  },
+  "Mitsubishi Pajero & Montero": {
+    "bat_slug": "mitsubishi/pajero-montero",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Pajero & Montero",
+    "keywords": [
+      "mitsubishi pajero & montero",
+      "pajero montero"
+    ]
+  },
+  "Mitsubishi Pajero Evolution": {
+    "bat_slug": "mitsubishi/pajero-evolution",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Pajero Evolution",
+    "keywords": [
+      "mitsubishi pajero evolution",
+      "pajero evolution"
+    ]
+  },
+  "Mitsubishi Pajero Mini": {
+    "bat_slug": "mitsubishi/pajero-mini",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Mitsubishi Pajero Mini",
+    "keywords": [
+      "mitsubishi pajero mini",
+      "pajero mini"
+    ]
+  }
+}

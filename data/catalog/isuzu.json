@@ -1,0 +1,42 @@
+{
+  "Isuzu Elf": {
+    "bat_slug": "isuzu/elf",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Isuzu Elf",
+    "keywords": [
+      "isuzu elf",
+      "elf"
+    ]
+  },
+  "Isuzu Rodeo": {
+    "bat_slug": "isuzu/rodeo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Isuzu Rodeo",
+    "keywords": [
+      "isuzu rodeo",
+      "rodeo"
+    ]
+  },
+  "Isuzu Trooper": {
+    "bat_slug": "isuzu/trooper",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Isuzu Trooper",
+    "keywords": [
+      "isuzu trooper",
+      "trooper"
+    ]
+  },
+  "Isuzu VehiCROSS": {
+    "bat_slug": "isuzu/vehicross",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Isuzu VehiCROSS",
+    "keywords": [
+      "isuzu vehicross",
+      "vehicross"
+    ]
+  }
+}

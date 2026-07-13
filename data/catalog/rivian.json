@@ -1,0 +1,22 @@
+{
+  "Rivian R1S": {
+    "bat_slug": "rivian/r1s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rivian R1S",
+    "keywords": [
+      "rivian r1s",
+      "r1s"
+    ]
+  },
+  "Rivian R1T": {
+    "bat_slug": "rivian/r1t",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rivian R1T",
+    "keywords": [
+      "rivian r1t",
+      "r1t"
+    ]
+  }
+}

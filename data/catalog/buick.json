@@ -1,0 +1,252 @@
+{
+  "Buick Centurion": {
+    "bat_slug": "buick/centurion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Centurion",
+    "keywords": [
+      "buick centurion",
+      "centurion"
+    ]
+  },
+  "Buick Century": {
+    "bat_slug": "buick/century",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Century",
+    "keywords": [
+      "buick century",
+      "century"
+    ]
+  },
+  "Buick Electra": {
+    "bat_slug": "buick/electra",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Electra",
+    "keywords": [
+      "buick electra",
+      "electra"
+    ]
+  },
+  "Buick Estate Wagon (1977-1990)": {
+    "bat_slug": "buick/estate-wagon-1977-1990",
+    "start_year": 1977,
+    "end_year": 1990,
+    "generation": "Buick Estate Wagon (1977-1990)",
+    "keywords": [
+      "buick estate wagon (1977-1990)",
+      "estate wagon 1977 1990"
+    ]
+  },
+  "Buick GNX": {
+    "bat_slug": "buick/gnx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick GNX",
+    "keywords": [
+      "buick gnx",
+      "gnx"
+    ]
+  },
+  "Buick Gran Sport": {
+    "bat_slug": "buick/gran-sport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Gran Sport",
+    "keywords": [
+      "buick gran sport",
+      "gran sport"
+    ]
+  },
+  "Buick Grand National": {
+    "bat_slug": "buick/grand-national",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Grand National",
+    "keywords": [
+      "buick grand national",
+      "grand national"
+    ]
+  },
+  "Buick GSX": {
+    "bat_slug": "buick/gsx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick GSX",
+    "keywords": [
+      "buick gsx",
+      "gsx"
+    ]
+  },
+  "Buick Invicta": {
+    "bat_slug": "buick/invicta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Invicta",
+    "keywords": [
+      "buick invicta",
+      "invicta"
+    ]
+  },
+  "Buick LeSabre": {
+    "bat_slug": "buick/lesabre",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick LeSabre",
+    "keywords": [
+      "buick lesabre",
+      "lesabre"
+    ]
+  },
+  "Buick Park Avenue": {
+    "bat_slug": "buick/park-avenue",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Park Avenue",
+    "keywords": [
+      "buick park avenue",
+      "park avenue"
+    ]
+  },
+  "Buick Reatta": {
+    "bat_slug": "buick/reatta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Reatta",
+    "keywords": [
+      "buick reatta",
+      "reatta"
+    ]
+  },
+  "Buick Regal (1973-1977)": {
+    "bat_slug": "buick/regal-1973-1977",
+    "start_year": 1973,
+    "end_year": 1977,
+    "generation": "Buick Regal (1973-1977)",
+    "keywords": [
+      "buick regal (1973-1977)",
+      "regal 1973 1977"
+    ]
+  },
+  "Buick Regal (1978-1987)": {
+    "bat_slug": "buick/regal-1978-1987",
+    "start_year": 1978,
+    "end_year": 1987,
+    "generation": "Buick Regal (1978-1987)",
+    "keywords": [
+      "buick regal (1978-1987)",
+      "regal 1978 1987"
+    ]
+  },
+  "Buick Regal (1988-1996)": {
+    "bat_slug": "buick/regal-1988-1996",
+    "start_year": 1988,
+    "end_year": 1996,
+    "generation": "Buick Regal (1988-1996)",
+    "keywords": [
+      "buick regal (1988-1996)",
+      "regal 1988 1996"
+    ]
+  },
+  "Buick Regal (1997-2004)": {
+    "bat_slug": "buick/regal-1997-2004",
+    "start_year": 1997,
+    "end_year": 2004,
+    "generation": "Buick Regal (1997-2004)",
+    "keywords": [
+      "buick regal (1997-2004)",
+      "regal 1997 2004"
+    ]
+  },
+  "Buick Regal (2018-2020)": {
+    "bat_slug": "buick/regal-2018-2020",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Buick Regal (2018-2020)",
+    "keywords": [
+      "buick regal (2018-2020)",
+      "regal 2018 2020"
+    ]
+  },
+  "Buick Regal T-Type & Turbo-T": {
+    "bat_slug": "buick/regal-t-type-turbo-t",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Regal T-Type & Turbo-T",
+    "keywords": [
+      "buick regal t-type & turbo-t",
+      "regal t type turbo t"
+    ]
+  },
+  "Buick Riviera": {
+    "bat_slug": "buick/riviera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Riviera",
+    "keywords": [
+      "buick riviera",
+      "riviera"
+    ]
+  },
+  "Buick Roadmaster": {
+    "bat_slug": "buick/roadmaster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Roadmaster",
+    "keywords": [
+      "buick roadmaster",
+      "roadmaster"
+    ]
+  },
+  "Buick Skylark": {
+    "bat_slug": "buick/skylark",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Skylark",
+    "keywords": [
+      "buick skylark",
+      "skylark"
+    ]
+  },
+  "Buick Special": {
+    "bat_slug": "buick/special",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Special",
+    "keywords": [
+      "buick special",
+      "special"
+    ]
+  },
+  "Buick Standard Six & Master Six": {
+    "bat_slug": "buick/standard-six-master-six",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Standard Six & Master Six",
+    "keywords": [
+      "buick standard six & master six",
+      "standard six master six"
+    ]
+  },
+  "Buick Super": {
+    "bat_slug": "buick/super",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Super",
+    "keywords": [
+      "buick super",
+      "super"
+    ]
+  },
+  "Buick Wildcat": {
+    "bat_slug": "buick/wildcat",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Buick Wildcat",
+    "keywords": [
+      "buick wildcat",
+      "wildcat"
+    ]
+  }
+}

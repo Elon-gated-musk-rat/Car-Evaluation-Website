@@ -1,0 +1,62 @@
+{
+  "Shelby Cobra Mk I, II, & III": {
+    "bat_slug": "shelby/cobra-csx2000-csx3000",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby Cobra Mk I, II, & III",
+    "keywords": [
+      "shelby cobra mk i, ii, & iii",
+      "cobra csx2000 csx3000"
+    ]
+  },
+  "Shelby Cobra Replica": {
+    "bat_slug": "shelby/cobra-replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby Cobra Replica",
+    "keywords": [
+      "shelby cobra replica",
+      "cobra replica"
+    ]
+  },
+  "Shelby CSX Cobra Continuation": {
+    "bat_slug": "shelby/csx-cobra-continuation",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby CSX Cobra Continuation",
+    "keywords": [
+      "shelby csx cobra continuation",
+      "csx cobra continuation"
+    ]
+  },
+  "Shelby Daytona Coupe Replica": {
+    "bat_slug": "shelby/daytona-coupe-replica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby Daytona Coupe Replica",
+    "keywords": [
+      "shelby daytona coupe replica",
+      "daytona coupe replica"
+    ]
+  },
+  "Shelby Mustang GT350 & GT500": {
+    "bat_slug": "shelby/mustanggt350gt500",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby Mustang GT350 & GT500",
+    "keywords": [
+      "shelby mustang gt350 & gt500",
+      "mustanggt350gt500"
+    ]
+  },
+  "Shelby Series 1": {
+    "bat_slug": "shelby/series-1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Shelby Series 1",
+    "keywords": [
+      "shelby series 1",
+      "series 1"
+    ]
+  }
+}

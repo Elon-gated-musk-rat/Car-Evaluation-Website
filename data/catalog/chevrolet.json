@@ -1,0 +1,1592 @@
+{
+  "Chevrolet 150, 210, & Bel Air (1953-1954)": {
+    "bat_slug": "chevrolet/150-210-bel-air-1953-1954",
+    "start_year": 1953,
+    "end_year": 1954,
+    "generation": "Chevrolet 150, 210, & Bel Air (1953-1954)",
+    "keywords": [
+      "chevrolet 150, 210, & bel air (1953-1954)",
+      "150 210 bel air 1953 1954"
+    ]
+  },
+  "Chevrolet 454 SS": {
+    "bat_slug": "chevrolet/454-ss",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet 454 SS",
+    "keywords": [
+      "chevrolet 454 ss",
+      "454 ss"
+    ]
+  },
+  "Chevrolet Advance Design Pickup (1947-1955)": {
+    "bat_slug": "chevrolet/advance-design-pickup-1947-1955",
+    "start_year": 1947,
+    "end_year": 1955,
+    "generation": "Chevrolet Advance Design Pickup (1947-1955)",
+    "keywords": [
+      "chevrolet advance design pickup (1947-1955)",
+      "advance design pickup 1947 1955"
+    ]
+  },
+  "Chevrolet AK Series Pickup (1941-1947)": {
+    "bat_slug": "chevrolet/ak-series-pickup-1941-1947",
+    "start_year": 1941,
+    "end_year": 1947,
+    "generation": "Chevrolet AK Series Pickup (1941-1947)",
+    "keywords": [
+      "chevrolet ak series pickup (1941-1947)",
+      "ak series pickup 1941 1947"
+    ]
+  },
+  "Chevrolet Astro": {
+    "bat_slug": "chevrolet/astro",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Astro",
+    "keywords": [
+      "chevrolet astro",
+      "astro"
+    ]
+  },
+  "Chevrolet Avalanche": {
+    "bat_slug": "chevrolet/avalanche",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Avalanche",
+    "keywords": [
+      "chevrolet avalanche",
+      "avalanche"
+    ]
+  },
+  "Chevrolet Bel Air": {
+    "bat_slug": "chevrolet/bel-air",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Bel Air",
+    "keywords": [
+      "chevrolet bel air",
+      "bel air"
+    ]
+  },
+  "Chevrolet Beretta": {
+    "bat_slug": "chevrolet/beretta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Beretta",
+    "keywords": [
+      "chevrolet beretta",
+      "beretta"
+    ]
+  },
+  "Chevrolet Biscayne": {
+    "bat_slug": "chevrolet/biscayne",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Biscayne",
+    "keywords": [
+      "chevrolet biscayne",
+      "biscayne"
+    ]
+  },
+  "Chevrolet Blazer (2019+)": {
+    "bat_slug": "chevrolet/blazer-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Chevrolet Blazer (2019+)",
+    "keywords": [
+      "chevrolet blazer (2019+)",
+      "blazer 2019"
+    ]
+  },
+  "Chevrolet Blazer 1995-2004": {
+    "bat_slug": "chevrolet/blazer-1995-2004",
+    "start_year": 1995,
+    "end_year": 2004,
+    "generation": "Chevrolet Blazer 1995-2004",
+    "keywords": [
+      "chevrolet blazer 1995-2004",
+      "blazer 1995 2004"
+    ]
+  },
+  "Chevrolet Blazer GMT415": {
+    "bat_slug": "chevrolet/blazer-gmt415",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Blazer GMT415",
+    "keywords": [
+      "chevrolet blazer gmt415",
+      "blazer gmt415"
+    ]
+  },
+  "Chevrolet C/K (1960-1966)": {
+    "bat_slug": "chevrolet/ck-1960-1966",
+    "start_year": 1960,
+    "end_year": 1966,
+    "generation": "Chevrolet C/K (1960-1966)",
+    "keywords": [
+      "chevrolet c/k (1960-1966)",
+      "ck 1960 1966"
+    ]
+  },
+  "Chevrolet C/K (1967-1972)": {
+    "bat_slug": "chevrolet/ck-1967-1972",
+    "start_year": 1967,
+    "end_year": 1972,
+    "generation": "Chevrolet C/K (1967-1972)",
+    "keywords": [
+      "chevrolet c/k (1967-1972)",
+      "ck 1967 1972"
+    ]
+  },
+  "Chevrolet C/K (1973-1991)": {
+    "bat_slug": "chevrolet/ck-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "Chevrolet C/K (1973-1991)",
+    "keywords": [
+      "chevrolet c/k (1973-1991)",
+      "ck 1973 1991"
+    ]
+  },
+  "Chevrolet C/K GMT400 (1988-2002)": {
+    "bat_slug": "chevrolet/ck-gmt400-1988-2002",
+    "start_year": 1988,
+    "end_year": 2002,
+    "generation": "Chevrolet C/K GMT400 (1988-2002)",
+    "keywords": [
+      "chevrolet c/k gmt400 (1988-2002)",
+      "ck gmt400 1988 2002"
+    ]
+  },
+  "Chevrolet Camaro (1st Generation \u2013 1967-1969)": {
+    "bat_slug": "chevrolet/camaro-1967-1969",
+    "start_year": 1967,
+    "end_year": 1969,
+    "generation": "Chevrolet Camaro (1st Generation \u2013 1967-1969)",
+    "keywords": [
+      "chevrolet camaro (1st generation \u2013 1967-1969)",
+      "camaro 1967 1969"
+    ]
+  },
+  "Chevrolet Camaro (2nd Generation \u2013 1970-1981)": {
+    "bat_slug": "chevrolet/chevrolet-camaro-2nd-generation-1970-1981",
+    "start_year": 1970,
+    "end_year": 1981,
+    "generation": "Chevrolet Camaro (2nd Generation \u2013 1970-1981)",
+    "keywords": [
+      "chevrolet camaro (2nd generation \u2013 1970-1981)",
+      "chevrolet camaro 2nd generation 1970 1981"
+    ]
+  },
+  "Chevrolet Camaro (3rd Generation \u2013 1982-1992)": {
+    "bat_slug": "chevrolet/camaro-3rd-generation-1982-1992",
+    "start_year": 1982,
+    "end_year": 1992,
+    "generation": "Chevrolet Camaro (3rd Generation \u2013 1982-1992)",
+    "keywords": [
+      "chevrolet camaro (3rd generation \u2013 1982-1992)",
+      "camaro 3rd generation 1982 1992"
+    ]
+  },
+  "Chevrolet Camaro (4th Generation \u2013 1993-2002)": {
+    "bat_slug": "chevrolet/camaro-4th-generation-1993-2002",
+    "start_year": 1993,
+    "end_year": 2002,
+    "generation": "Chevrolet Camaro (4th Generation \u2013 1993-2002)",
+    "keywords": [
+      "chevrolet camaro (4th generation \u2013 1993-2002)",
+      "camaro 4th generation 1993 2002"
+    ]
+  },
+  "Chevrolet Camaro (5th Generation \u2013 2010-2015)": {
+    "bat_slug": "chevrolet/camaro-5th-generation-2010-2015",
+    "start_year": 2010,
+    "end_year": 2015,
+    "generation": "Chevrolet Camaro (5th Generation \u2013 2010-2015)",
+    "keywords": [
+      "chevrolet camaro (5th generation \u2013 2010-2015)",
+      "camaro 5th generation 2010 2015"
+    ]
+  },
+  "Chevrolet Camaro (6th Generation \u2013 2016-2024)": {
+    "bat_slug": "chevrolet/camaro-6th-generation-2016",
+    "start_year": 2016,
+    "end_year": 2024,
+    "generation": "Chevrolet Camaro (6th Generation \u2013 2016-2024)",
+    "keywords": [
+      "chevrolet camaro (6th generation \u2013 2016-2024)",
+      "camaro 6th generation 2016"
+    ]
+  },
+  "Chevrolet Caprice": {
+    "bat_slug": "chevrolet/caprice",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Caprice",
+    "keywords": [
+      "chevrolet caprice",
+      "caprice"
+    ]
+  },
+  "Chevrolet Carryall Suburban (1935-1940)": {
+    "bat_slug": "chevrolet/carryall-suburban-1935-1940",
+    "start_year": 1935,
+    "end_year": 1940,
+    "generation": "Chevrolet Carryall Suburban (1935-1940)",
+    "keywords": [
+      "chevrolet carryall suburban (1935-1940)",
+      "carryall suburban 1935 1940"
+    ]
+  },
+  "Chevrolet Carryall Suburban (1941-1946)": {
+    "bat_slug": "chevrolet/carryall-suburban-1941-1946",
+    "start_year": 1941,
+    "end_year": 1946,
+    "generation": "Chevrolet Carryall Suburban (1941-1946)",
+    "keywords": [
+      "chevrolet carryall suburban (1941-1946)",
+      "carryall suburban 1941 1946"
+    ]
+  },
+  "Chevrolet Cavalier": {
+    "bat_slug": "chevrolet/cavalier",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Cavalier",
+    "keywords": [
+      "chevrolet cavalier",
+      "cavalier"
+    ]
+  },
+  "Chevrolet Chevelle": {
+    "bat_slug": "chevrolet/chevelle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Chevelle",
+    "keywords": [
+      "chevrolet chevelle",
+      "chevelle"
+    ]
+  },
+  "Chevrolet Colorado": {
+    "bat_slug": "chevrolet/colorado",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Colorado",
+    "keywords": [
+      "chevrolet colorado",
+      "colorado"
+    ]
+  },
+  "Chevrolet Corvair (1960-1964)": {
+    "bat_slug": "chevrolet/corvair-1960-1964",
+    "start_year": 1960,
+    "end_year": 1964,
+    "generation": "Chevrolet Corvair (1960-1964)",
+    "keywords": [
+      "chevrolet corvair (1960-1964)",
+      "corvair 1960 1964"
+    ]
+  },
+  "Chevrolet Corvair (1965-1969)": {
+    "bat_slug": "chevrolet/corvair-1965-1969",
+    "start_year": 1965,
+    "end_year": 1969,
+    "generation": "Chevrolet Corvair (1965-1969)",
+    "keywords": [
+      "chevrolet corvair (1965-1969)",
+      "corvair 1965 1969"
+    ]
+  },
+  "Chevrolet Corvair Greenbrier and Corvan": {
+    "bat_slug": "chevrolet/corvair-greenbrier-and-corvan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvair Greenbrier and Corvan",
+    "keywords": [
+      "chevrolet corvair greenbrier and corvan",
+      "corvair greenbrier and corvan"
+    ]
+  },
+  "Chevrolet Corvair Rampside and Loadside Pickup": {
+    "bat_slug": "chevrolet/corvair-rampside-and-loadside-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvair Rampside and Loadside Pickup",
+    "keywords": [
+      "chevrolet corvair rampside and loadside pickup",
+      "corvair rampside and loadside pickup"
+    ]
+  },
+  "Chevrolet Corvette C1 (1953-1955, Six-Cylinder)": {
+    "bat_slug": "chevrolet/corvette-c1-six-cylinder-1953-1955",
+    "start_year": 1953,
+    "end_year": 1955,
+    "generation": "Chevrolet Corvette C1 (1953-1955, Six-Cylinder)",
+    "keywords": [
+      "chevrolet corvette c1 (1953-1955, six-cylinder)",
+      "corvette c1 six cylinder 1953 1955"
+    ]
+  },
+  "Chevrolet Corvette C1 (1955, V8)": {
+    "bat_slug": "chevrolet/corvette-c1-v8-1955",
+    "start_year": 1954,
+    "end_year": 1956,
+    "generation": "Chevrolet Corvette C1 (1955, V8)",
+    "keywords": [
+      "chevrolet corvette c1 (1955, v8)",
+      "corvette c1 v8 1955"
+    ]
+  },
+  "Chevrolet Corvette C1 (1956-1957)": {
+    "bat_slug": "chevrolet/corvette-c1-1956-1957",
+    "start_year": 1956,
+    "end_year": 1957,
+    "generation": "Chevrolet Corvette C1 (1956-1957)",
+    "keywords": [
+      "chevrolet corvette c1 (1956-1957)",
+      "corvette c1 1956 1957"
+    ]
+  },
+  "Chevrolet Corvette C1 (1958-1960)": {
+    "bat_slug": "chevrolet/corvette-c1-1958-1960",
+    "start_year": 1958,
+    "end_year": 1960,
+    "generation": "Chevrolet Corvette C1 (1958-1960)",
+    "keywords": [
+      "chevrolet corvette c1 (1958-1960)",
+      "corvette c1 1958 1960"
+    ]
+  },
+  "Chevrolet Corvette C1 (1961-1962)": {
+    "bat_slug": "chevrolet/corvette-c1-1961-1962",
+    "start_year": 1961,
+    "end_year": 1962,
+    "generation": "Chevrolet Corvette C1 (1961-1962)",
+    "keywords": [
+      "chevrolet corvette c1 (1961-1962)",
+      "corvette c1 1961 1962"
+    ]
+  },
+  "Chevrolet Corvette C1 Fuelie": {
+    "bat_slug": "chevrolet/corvette-c1-fuelie",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C1 Fuelie",
+    "keywords": [
+      "chevrolet corvette c1 fuelie",
+      "corvette c1 fuelie"
+    ]
+  },
+  "Chevrolet Corvette C1 Parts & Automobilia": {
+    "bat_slug": "chevrolet/corvette-c1-parts-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C1 Parts & Automobilia",
+    "keywords": [
+      "chevrolet corvette c1 parts & automobilia",
+      "corvette c1 parts automobilia"
+    ]
+  },
+  "Chevrolet Corvette C1 Race Car": {
+    "bat_slug": "chevrolet/corvette-c1-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C1 Race Car",
+    "keywords": [
+      "chevrolet corvette c1 race car",
+      "corvette c1 race car"
+    ]
+  },
+  "Chevrolet Corvette C1 Resto-Mod": {
+    "bat_slug": "chevrolet/corvette-c1-resto-mod",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C1 Resto-Mod",
+    "keywords": [
+      "chevrolet corvette c1 resto-mod",
+      "corvette c1 resto mod"
+    ]
+  },
+  "Chevrolet Corvette C2 (1963)": {
+    "bat_slug": "chevrolet/corvette-c2-1963",
+    "start_year": 1962,
+    "end_year": 1964,
+    "generation": "Chevrolet Corvette C2 (1963)",
+    "keywords": [
+      "chevrolet corvette c2 (1963)",
+      "corvette c2 1963"
+    ]
+  },
+  "Chevrolet Corvette C2 (1964)": {
+    "bat_slug": "chevrolet/corvette-c2-1964",
+    "start_year": 1963,
+    "end_year": 1965,
+    "generation": "Chevrolet Corvette C2 (1964)",
+    "keywords": [
+      "chevrolet corvette c2 (1964)",
+      "corvette c2 1964"
+    ]
+  },
+  "Chevrolet Corvette C2 (1965)": {
+    "bat_slug": "chevrolet/corvette-c2-1965",
+    "start_year": 1964,
+    "end_year": 1966,
+    "generation": "Chevrolet Corvette C2 (1965)",
+    "keywords": [
+      "chevrolet corvette c2 (1965)",
+      "corvette c2 1965"
+    ]
+  },
+  "Chevrolet Corvette C2 (1966)": {
+    "bat_slug": "chevrolet/corvette-c2-1966",
+    "start_year": 1965,
+    "end_year": 1967,
+    "generation": "Chevrolet Corvette C2 (1966)",
+    "keywords": [
+      "chevrolet corvette c2 (1966)",
+      "corvette c2 1966"
+    ]
+  },
+  "Chevrolet Corvette C2 (1967)": {
+    "bat_slug": "chevrolet/corvette-c2-1967",
+    "start_year": 1966,
+    "end_year": 1968,
+    "generation": "Chevrolet Corvette C2 (1967)",
+    "keywords": [
+      "chevrolet corvette c2 (1967)",
+      "corvette c2 1967"
+    ]
+  },
+  "Chevrolet Corvette C2 Parts & Automobilia": {
+    "bat_slug": "chevrolet/corvette-c2-parts-automobilia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C2 Parts & Automobilia",
+    "keywords": [
+      "chevrolet corvette c2 parts & automobilia",
+      "corvette c2 parts automobilia"
+    ]
+  },
+  "Chevrolet Corvette C2 Race Car": {
+    "bat_slug": "chevrolet/corvette-c2-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C2 Race Car",
+    "keywords": [
+      "chevrolet corvette c2 race car",
+      "corvette c2 race car"
+    ]
+  },
+  "Chevrolet Corvette C3 Collector Edition": {
+    "bat_slug": "chevrolet/c3-corvette-collector-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 Collector Edition",
+    "keywords": [
+      "chevrolet corvette c3 collector edition",
+      "c3 corvette collector edition"
+    ]
+  },
+  "Chevrolet Corvette C3 Convertible": {
+    "bat_slug": "chevrolet/c3-corvette-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 Convertible",
+    "keywords": [
+      "chevrolet corvette c3 convertible",
+      "c3 corvette convertible"
+    ]
+  },
+  "Chevrolet Corvette C3 Coupe (1968-1972)": {
+    "bat_slug": "chevrolet/c3-corvette-coupe-1968-1972",
+    "start_year": 1968,
+    "end_year": 1972,
+    "generation": "Chevrolet Corvette C3 Coupe (1968-1972)",
+    "keywords": [
+      "chevrolet corvette c3 coupe (1968-1972)",
+      "c3 corvette coupe 1968 1972"
+    ]
+  },
+  "Chevrolet Corvette C3 Coupe (1973-1982)": {
+    "bat_slug": "chevrolet/c3-corvette-coupe-1973-1982",
+    "start_year": 1973,
+    "end_year": 1982,
+    "generation": "Chevrolet Corvette C3 Coupe (1973-1982)",
+    "keywords": [
+      "chevrolet corvette c3 coupe (1973-1982)",
+      "c3 corvette coupe 1973 1982"
+    ]
+  },
+  "Chevrolet Corvette C3 L88": {
+    "bat_slug": "chevrolet/c3-corvette-l88",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 L88",
+    "keywords": [
+      "chevrolet corvette c3 l88",
+      "c3 corvette l88"
+    ]
+  },
+  "Chevrolet Corvette C3 LT-1": {
+    "bat_slug": "chevrolet/c3-corvette-lt-1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 LT-1",
+    "keywords": [
+      "chevrolet corvette c3 lt-1",
+      "c3 corvette lt 1"
+    ]
+  },
+  "Chevrolet Corvette C3 Pace Car": {
+    "bat_slug": "chevrolet/c3-corvette-pace-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 Pace Car",
+    "keywords": [
+      "chevrolet corvette c3 pace car",
+      "c3 corvette pace car"
+    ]
+  },
+  "Chevrolet Corvette C3 Race Car": {
+    "bat_slug": "chevrolet/c3-corvette-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 Race Car",
+    "keywords": [
+      "chevrolet corvette c3 race car",
+      "c3 corvette race car"
+    ]
+  },
+  "Chevrolet Corvette C3 ZR1 & ZR2": {
+    "bat_slug": "chevrolet/c3-corvette-zr1-zr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C3 ZR1 & ZR2",
+    "keywords": [
+      "chevrolet corvette c3 zr1 & zr2",
+      "c3 corvette zr1 zr2"
+    ]
+  },
+  "Chevrolet Corvette C4 Callaway": {
+    "bat_slug": "chevrolet/corvette-c4-callaway",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C4 Callaway",
+    "keywords": [
+      "chevrolet corvette c4 callaway",
+      "corvette c4 callaway"
+    ]
+  },
+  "Chevrolet Corvette C4 Collector Edition": {
+    "bat_slug": "chevrolet/corvette-c4-collector-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C4 Collector Edition",
+    "keywords": [
+      "chevrolet corvette c4 collector edition",
+      "corvette c4 collector edition"
+    ]
+  },
+  "Chevrolet Corvette C4 Convertible (1986-1991)": {
+    "bat_slug": "chevrolet/corvette-c4-convertible-1986-1991",
+    "start_year": 1986,
+    "end_year": 1991,
+    "generation": "Chevrolet Corvette C4 Convertible (1986-1991)",
+    "keywords": [
+      "chevrolet corvette c4 convertible (1986-1991)",
+      "corvette c4 convertible 1986 1991"
+    ]
+  },
+  "Chevrolet Corvette C4 Convertible (1992-1996)": {
+    "bat_slug": "chevrolet/corvette-c4-convertible-1992-1996",
+    "start_year": 1992,
+    "end_year": 1996,
+    "generation": "Chevrolet Corvette C4 Convertible (1992-1996)",
+    "keywords": [
+      "chevrolet corvette c4 convertible (1992-1996)",
+      "corvette c4 convertible 1992 1996"
+    ]
+  },
+  "Chevrolet Corvette C4 Coupe (1984-1991)": {
+    "bat_slug": "chevrolet/corvette-c4-coupe-1983-1991",
+    "start_year": 1984,
+    "end_year": 1991,
+    "generation": "Chevrolet Corvette C4 Coupe (1984-1991)",
+    "keywords": [
+      "chevrolet corvette c4 coupe (1984-1991)",
+      "corvette c4 coupe 1983 1991"
+    ]
+  },
+  "Chevrolet Corvette C4 Coupe (1992-1996)": {
+    "bat_slug": "chevrolet/corvette-c4-coupe-1992-1996",
+    "start_year": 1992,
+    "end_year": 1996,
+    "generation": "Chevrolet Corvette C4 Coupe (1992-1996)",
+    "keywords": [
+      "chevrolet corvette c4 coupe (1992-1996)",
+      "corvette c4 coupe 1992 1996"
+    ]
+  },
+  "Chevrolet Corvette C4 Grand Sport": {
+    "bat_slug": "chevrolet/corvette-c4-grand-sport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C4 Grand Sport",
+    "keywords": [
+      "chevrolet corvette c4 grand sport",
+      "corvette c4 grand sport"
+    ]
+  },
+  "Chevrolet Corvette C4 Race Car": {
+    "bat_slug": "chevrolet/corvette-c4-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C4 Race Car",
+    "keywords": [
+      "chevrolet corvette c4 race car",
+      "corvette c4 race car"
+    ]
+  },
+  "Chevrolet Corvette C4 ZR-1": {
+    "bat_slug": "chevrolet/corvette-c4-zr-1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C4 ZR-1",
+    "keywords": [
+      "chevrolet corvette c4 zr-1",
+      "corvette c4 zr 1"
+    ]
+  },
+  "Chevrolet Corvette C5 50th Anniversary": {
+    "bat_slug": "chevrolet/corvette-c5-50th-anniversary",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 50th Anniversary",
+    "keywords": [
+      "chevrolet corvette c5 50th anniversary",
+      "corvette c5 50th anniversary"
+    ]
+  },
+  "Chevrolet Corvette C5 Backdate": {
+    "bat_slug": "chevrolet/corvette-c5-backdate",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Backdate",
+    "keywords": [
+      "chevrolet corvette c5 backdate",
+      "corvette c5 backdate"
+    ]
+  },
+  "Chevrolet Corvette C5 Callaway": {
+    "bat_slug": "chevrolet/corvette-c5-callaway",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Callaway",
+    "keywords": [
+      "chevrolet corvette c5 callaway",
+      "corvette c5 callaway"
+    ]
+  },
+  "Chevrolet Corvette C5 Commemorative Edition": {
+    "bat_slug": "chevrolet/corvette-c5-commemorative-edition",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Commemorative Edition",
+    "keywords": [
+      "chevrolet corvette c5 commemorative edition",
+      "corvette c5 commemorative edition"
+    ]
+  },
+  "Chevrolet Corvette C5 Convertible": {
+    "bat_slug": "chevrolet/corvette-c5-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Convertible",
+    "keywords": [
+      "chevrolet corvette c5 convertible",
+      "corvette c5 convertible"
+    ]
+  },
+  "Chevrolet Corvette C5 Coupe": {
+    "bat_slug": "chevrolet/corvette-c5-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Coupe",
+    "keywords": [
+      "chevrolet corvette c5 coupe",
+      "corvette c5 coupe"
+    ]
+  },
+  "Chevrolet Corvette C5 FRC": {
+    "bat_slug": "chevrolet/corvette-c5-frc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 FRC",
+    "keywords": [
+      "chevrolet corvette c5 frc",
+      "corvette c5 frc"
+    ]
+  },
+  "Chevrolet Corvette C5 Pace Car": {
+    "bat_slug": "chevrolet/corvette-c5-pace-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Pace Car",
+    "keywords": [
+      "chevrolet corvette c5 pace car",
+      "corvette c5 pace car"
+    ]
+  },
+  "Chevrolet Corvette C5 Race Car": {
+    "bat_slug": "chevrolet/corvette-c5-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Race Car",
+    "keywords": [
+      "chevrolet corvette c5 race car",
+      "corvette c5 race car"
+    ]
+  },
+  "Chevrolet Corvette C5 Z06": {
+    "bat_slug": "chevrolet/corvette-c5-z06",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C5 Z06",
+    "keywords": [
+      "chevrolet corvette c5 z06",
+      "corvette c5 z06"
+    ]
+  },
+  "Chevrolet Corvette C6 427 Convertible": {
+    "bat_slug": "chevrolet/corvette-c6-427-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 427 Convertible",
+    "keywords": [
+      "chevrolet corvette c6 427 convertible",
+      "corvette c6 427 convertible"
+    ]
+  },
+  "Chevrolet Corvette C6 Callaway": {
+    "bat_slug": "chevrolet/corvette-c6-callaway",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Callaway",
+    "keywords": [
+      "chevrolet corvette c6 callaway",
+      "corvette c6 callaway"
+    ]
+  },
+  "Chevrolet Corvette C6 Convertible": {
+    "bat_slug": "chevrolet/corvette-c6-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Convertible",
+    "keywords": [
+      "chevrolet corvette c6 convertible",
+      "corvette c6 convertible"
+    ]
+  },
+  "Chevrolet Corvette C6 Coupe": {
+    "bat_slug": "chevrolet/corvette-c6-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Coupe",
+    "keywords": [
+      "chevrolet corvette c6 coupe",
+      "corvette c6 coupe"
+    ]
+  },
+  "Chevrolet Corvette C6 Grand Sport": {
+    "bat_slug": "chevrolet/corvette-c6-grand-sport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Grand Sport",
+    "keywords": [
+      "chevrolet corvette c6 grand sport",
+      "corvette c6 grand sport"
+    ]
+  },
+  "Chevrolet Corvette C6 Pace Car": {
+    "bat_slug": "chevrolet/corvette-c6-pace-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Pace Car",
+    "keywords": [
+      "chevrolet corvette c6 pace car",
+      "corvette c6 pace car"
+    ]
+  },
+  "Chevrolet Corvette C6 Race Car": {
+    "bat_slug": "chevrolet/corvette-c6-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Race Car",
+    "keywords": [
+      "chevrolet corvette c6 race car",
+      "corvette c6 race car"
+    ]
+  },
+  "Chevrolet Corvette C6 Z06": {
+    "bat_slug": "chevrolet/corvette-c6-z06",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 Z06",
+    "keywords": [
+      "chevrolet corvette c6 z06",
+      "corvette c6 z06"
+    ]
+  },
+  "Chevrolet Corvette C6 ZR1": {
+    "bat_slug": "chevrolet/corvette-c6-zr1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C6 ZR1",
+    "keywords": [
+      "chevrolet corvette c6 zr1",
+      "corvette c6 zr1"
+    ]
+  },
+  "Chevrolet Corvette C7 Callaway": {
+    "bat_slug": "chevrolet/corvette-c7-callaway",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Callaway",
+    "keywords": [
+      "chevrolet corvette c7 callaway",
+      "corvette c7 callaway"
+    ]
+  },
+  "Chevrolet Corvette C7 Grand Sport": {
+    "bat_slug": "chevrolet/corvette-c7-grand-sport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Grand Sport",
+    "keywords": [
+      "chevrolet corvette c7 grand sport",
+      "corvette c7 grand sport"
+    ]
+  },
+  "Chevrolet Corvette C7 Race Car": {
+    "bat_slug": "chevrolet/corvette-c7-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Race Car",
+    "keywords": [
+      "chevrolet corvette c7 race car",
+      "corvette c7 race car"
+    ]
+  },
+  "Chevrolet Corvette C7 Stingray Convertible": {
+    "bat_slug": "chevrolet/corvette-c7-stingray-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Stingray Convertible",
+    "keywords": [
+      "chevrolet corvette c7 stingray convertible",
+      "corvette c7 stingray convertible"
+    ]
+  },
+  "Chevrolet Corvette C7 Stingray Coupe": {
+    "bat_slug": "chevrolet/corvette-c7-stingray-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Stingray Coupe",
+    "keywords": [
+      "chevrolet corvette c7 stingray coupe",
+      "corvette c7 stingray coupe"
+    ]
+  },
+  "Chevrolet Corvette C7 Stingray Z51": {
+    "bat_slug": "chevrolet/corvette-c7-stingray-z51",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Stingray Z51",
+    "keywords": [
+      "chevrolet corvette c7 stingray z51",
+      "corvette c7 stingray z51"
+    ]
+  },
+  "Chevrolet Corvette C7 Z06": {
+    "bat_slug": "chevrolet/corvette-c7-z06",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 Z06",
+    "keywords": [
+      "chevrolet corvette c7 z06",
+      "corvette c7 z06"
+    ]
+  },
+  "Chevrolet Corvette C7 ZR1": {
+    "bat_slug": "chevrolet/corvette-c7-zr1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C7 ZR1",
+    "keywords": [
+      "chevrolet corvette c7 zr1",
+      "corvette c7 zr1"
+    ]
+  },
+  "Chevrolet Corvette C8 E-Ray": {
+    "bat_slug": "chevrolet/corvette-c8-e-ray",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 E-Ray",
+    "keywords": [
+      "chevrolet corvette c8 e-ray",
+      "corvette c8 e ray"
+    ]
+  },
+  "Chevrolet Corvette C8 Stingray Convertible": {
+    "bat_slug": "chevrolet/corvette-c8-stingray-convertible",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 Stingray Convertible",
+    "keywords": [
+      "chevrolet corvette c8 stingray convertible",
+      "corvette c8 stingray convertible"
+    ]
+  },
+  "Chevrolet Corvette C8 Stingray Coupe": {
+    "bat_slug": "chevrolet/corvette-c8-stingray-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 Stingray Coupe",
+    "keywords": [
+      "chevrolet corvette c8 stingray coupe",
+      "corvette c8 stingray coupe"
+    ]
+  },
+  "Chevrolet Corvette C8 Z06": {
+    "bat_slug": "chevrolet/corvette-c8-z06",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 Z06",
+    "keywords": [
+      "chevrolet corvette c8 z06",
+      "corvette c8 z06"
+    ]
+  },
+  "Chevrolet Corvette C8 ZR1": {
+    "bat_slug": "chevrolet/corvette-c8-zr1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 ZR1",
+    "keywords": [
+      "chevrolet corvette c8 zr1",
+      "corvette c8 zr1"
+    ]
+  },
+  "Chevrolet Corvette C8 ZR1X": {
+    "bat_slug": "chevrolet/corvette-c8-zr1x",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Corvette C8 ZR1X",
+    "keywords": [
+      "chevrolet corvette c8 zr1x",
+      "corvette c8 zr1x"
+    ]
+  },
+  "Chevrolet Delray": {
+    "bat_slug": "chevrolet/delray",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Delray",
+    "keywords": [
+      "chevrolet delray",
+      "delray"
+    ]
+  },
+  "Chevrolet El Camino": {
+    "bat_slug": "chevrolet/el-camino",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet El Camino",
+    "keywords": [
+      "chevrolet el camino",
+      "el camino"
+    ]
+  },
+  "Chevrolet Express": {
+    "bat_slug": "chevrolet/express",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Express",
+    "keywords": [
+      "chevrolet express",
+      "express"
+    ]
+  },
+  "Chevrolet G-Series Van": {
+    "bat_slug": "chevrolet/g-series-van",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet G-Series Van",
+    "keywords": [
+      "chevrolet g-series van",
+      "g series van"
+    ]
+  },
+  "Chevrolet HHR": {
+    "bat_slug": "chevrolet/hhr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet HHR",
+    "keywords": [
+      "chevrolet hhr",
+      "hhr"
+    ]
+  },
+  "Chevrolet Impala (1958)": {
+    "bat_slug": "chevrolet/impala-1958",
+    "start_year": 1957,
+    "end_year": 1959,
+    "generation": "Chevrolet Impala (1958)",
+    "keywords": [
+      "chevrolet impala (1958)",
+      "impala 1958"
+    ]
+  },
+  "Chevrolet Impala (1959-1960)": {
+    "bat_slug": "chevrolet/impala-1959-1960",
+    "start_year": 1959,
+    "end_year": 1960,
+    "generation": "Chevrolet Impala (1959-1960)",
+    "keywords": [
+      "chevrolet impala (1959-1960)",
+      "impala 1959 1960"
+    ]
+  },
+  "Chevrolet Impala (1961-1964)": {
+    "bat_slug": "chevrolet/impala-1961-1964",
+    "start_year": 1961,
+    "end_year": 1964,
+    "generation": "Chevrolet Impala (1961-1964)",
+    "keywords": [
+      "chevrolet impala (1961-1964)",
+      "impala 1961 1964"
+    ]
+  },
+  "Chevrolet Impala (1965-1970)": {
+    "bat_slug": "chevrolet/impala-1965-1970",
+    "start_year": 1965,
+    "end_year": 1970,
+    "generation": "Chevrolet Impala (1965-1970)",
+    "keywords": [
+      "chevrolet impala (1965-1970)",
+      "impala 1965 1970"
+    ]
+  },
+  "Chevrolet Impala (1971-1976)": {
+    "bat_slug": "chevrolet/impala-1971-1976",
+    "start_year": 1971,
+    "end_year": 1976,
+    "generation": "Chevrolet Impala (1971-1976)",
+    "keywords": [
+      "chevrolet impala (1971-1976)",
+      "impala 1971 1976"
+    ]
+  },
+  "Chevrolet Impala (1977-1985)": {
+    "bat_slug": "chevrolet/impala-1977-1985",
+    "start_year": 1977,
+    "end_year": 1985,
+    "generation": "Chevrolet Impala (1977-1985)",
+    "keywords": [
+      "chevrolet impala (1977-1985)",
+      "impala 1977 1985"
+    ]
+  },
+  "Chevrolet Impala (2006-2016)": {
+    "bat_slug": "chevrolet/impala-2006-2016",
+    "start_year": 2006,
+    "end_year": 2016,
+    "generation": "Chevrolet Impala (2006-2016)",
+    "keywords": [
+      "chevrolet impala (2006-2016)",
+      "impala 2006 2016"
+    ]
+  },
+  "Chevrolet Impala Race Car": {
+    "bat_slug": "chevrolet/impala-race-car",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Impala Race Car",
+    "keywords": [
+      "chevrolet impala race car",
+      "impala race car"
+    ]
+  },
+  "Chevrolet Impala SS (1994-1996)": {
+    "bat_slug": "chevrolet/impala-ss-1994-1996",
+    "start_year": 1994,
+    "end_year": 1996,
+    "generation": "Chevrolet Impala SS (1994-1996)",
+    "keywords": [
+      "chevrolet impala ss (1994-1996)",
+      "impala ss 1994 1996"
+    ]
+  },
+  "Chevrolet Independence & Confederate": {
+    "bat_slug": "chevrolet/independence-confederate",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Independence & Confederate",
+    "keywords": [
+      "chevrolet independence & confederate",
+      "independence confederate"
+    ]
+  },
+  "Chevrolet K5 Blazer 1969-1972": {
+    "bat_slug": "chevrolet/k5-blazer-1969-1972",
+    "start_year": 1969,
+    "end_year": 1972,
+    "generation": "Chevrolet K5 Blazer 1969-1972",
+    "keywords": [
+      "chevrolet k5 blazer 1969-1972",
+      "k5 blazer 1969 1972"
+    ]
+  },
+  "Chevrolet K5 Blazer 1973-1991": {
+    "bat_slug": "chevrolet/k5-blazer-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "Chevrolet K5 Blazer 1973-1991",
+    "keywords": [
+      "chevrolet k5 blazer 1973-1991",
+      "k5 blazer 1973 1991"
+    ]
+  },
+  "Chevrolet Kodiak": {
+    "bat_slug": "chevrolet/kodiak",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Kodiak",
+    "keywords": [
+      "chevrolet kodiak",
+      "kodiak"
+    ]
+  },
+  "Chevrolet Lumina": {
+    "bat_slug": "chevrolet/lumina",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Lumina",
+    "keywords": [
+      "chevrolet lumina",
+      "lumina"
+    ]
+  },
+  "Chevrolet LUV": {
+    "bat_slug": "chevrolet/luv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet LUV",
+    "keywords": [
+      "chevrolet luv",
+      "luv"
+    ]
+  },
+  "Chevrolet Monte Carlo": {
+    "bat_slug": "chevrolet/monte-carlo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Monte Carlo",
+    "keywords": [
+      "chevrolet monte carlo",
+      "monte carlo"
+    ]
+  },
+  "Chevrolet National, International, & Universal": {
+    "bat_slug": "chevrolet/national-international-universal",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet National, International, & Universal",
+    "keywords": [
+      "chevrolet national, international, & universal",
+      "national international universal"
+    ]
+  },
+  "Chevrolet Nomad": {
+    "bat_slug": "chevrolet/nomad",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Nomad",
+    "keywords": [
+      "chevrolet nomad",
+      "nomad"
+    ]
+  },
+  "Chevrolet Nova": {
+    "bat_slug": "chevrolet/nova",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Nova",
+    "keywords": [
+      "chevrolet nova",
+      "nova"
+    ]
+  },
+  "Chevrolet Pickup (1918-1932)": {
+    "bat_slug": "chevrolet/pickup-1918-1932",
+    "start_year": 1918,
+    "end_year": 1932,
+    "generation": "Chevrolet Pickup (1918-1932)",
+    "keywords": [
+      "chevrolet pickup (1918-1932)",
+      "pickup 1918 1932"
+    ]
+  },
+  "Chevrolet Pickup (1933-1940)": {
+    "bat_slug": "chevrolet/pickup-1933-1940",
+    "start_year": 1933,
+    "end_year": 1940,
+    "generation": "Chevrolet Pickup (1933-1940)",
+    "keywords": [
+      "chevrolet pickup (1933-1940)",
+      "pickup 1933 1940"
+    ]
+  },
+  "Chevrolet S-10 (1982-1993)": {
+    "bat_slug": "chevrolet/s-10-1982-1993",
+    "start_year": 1982,
+    "end_year": 1993,
+    "generation": "Chevrolet S-10 (1982-1993)",
+    "keywords": [
+      "chevrolet s-10 (1982-1993)",
+      "s 10 1982 1993"
+    ]
+  },
+  "Chevrolet S-10 (1994-2004)": {
+    "bat_slug": "chevrolet/s-10-1994-2004",
+    "start_year": 1994,
+    "end_year": 2004,
+    "generation": "Chevrolet S-10 (1994-2004)",
+    "keywords": [
+      "chevrolet s-10 (1994-2004)",
+      "s 10 1994 2004"
+    ]
+  },
+  "Chevrolet S-10 Blazer 1982-1994": {
+    "bat_slug": "chevrolet/s-10-blazer-1982-1994",
+    "start_year": 1982,
+    "end_year": 1994,
+    "generation": "Chevrolet S-10 Blazer 1982-1994",
+    "keywords": [
+      "chevrolet s-10 blazer 1982-1994",
+      "s 10 blazer 1982 1994"
+    ]
+  },
+  "Chevrolet Silverado GMT800 (1999-2007)": {
+    "bat_slug": "chevrolet/silverado-gmt800",
+    "start_year": 1999,
+    "end_year": 2007,
+    "generation": "Chevrolet Silverado GMT800 (1999-2007)",
+    "keywords": [
+      "chevrolet silverado gmt800 (1999-2007)",
+      "silverado gmt800"
+    ]
+  },
+  "Chevrolet Silverado GMT800 Heavy Duty (2000-2007)": {
+    "bat_slug": "chevrolet/silverado-gmt800-heavy-duty-2000-2007",
+    "start_year": 2000,
+    "end_year": 2007,
+    "generation": "Chevrolet Silverado GMT800 Heavy Duty (2000-2007)",
+    "keywords": [
+      "chevrolet silverado gmt800 heavy duty (2000-2007)",
+      "silverado gmt800 heavy duty 2000 2007"
+    ]
+  },
+  "Chevrolet Silverado GMT900 (2007-2013)": {
+    "bat_slug": "chevrolet/silverado-gmt900-2007-2013",
+    "start_year": 2007,
+    "end_year": 2013,
+    "generation": "Chevrolet Silverado GMT900 (2007-2013)",
+    "keywords": [
+      "chevrolet silverado gmt900 (2007-2013)",
+      "silverado gmt900 2007 2013"
+    ]
+  },
+  "Chevrolet Silverado GMT900 Heavy Duty (2007-2014)": {
+    "bat_slug": "chevrolet/silverado-gmt900-heavy-duty-2007-2015",
+    "start_year": 2007,
+    "end_year": 2014,
+    "generation": "Chevrolet Silverado GMT900 Heavy Duty (2007-2014)",
+    "keywords": [
+      "chevrolet silverado gmt900 heavy duty (2007-2014)",
+      "silverado gmt900 heavy duty 2007 2015"
+    ]
+  },
+  "Chevrolet Silverado K2XX (2014-2019)": {
+    "bat_slug": "chevrolet/silverado-k2xx-2014-2019",
+    "start_year": 2014,
+    "end_year": 2019,
+    "generation": "Chevrolet Silverado K2XX (2014-2019)",
+    "keywords": [
+      "chevrolet silverado k2xx (2014-2019)",
+      "silverado k2xx 2014 2019"
+    ]
+  },
+  "Chevrolet Silverado T1XX (2019+)": {
+    "bat_slug": "chevrolet/silverado-t1xx-2019",
+    "start_year": 2018,
+    "end_year": 2020,
+    "generation": "Chevrolet Silverado T1XX (2019+)",
+    "keywords": [
+      "chevrolet silverado t1xx (2019+)",
+      "silverado t1xx 2019"
+    ]
+  },
+  "Chevrolet Special, Deluxe, & Fleetline (1949-1952)": {
+    "bat_slug": "chevrolet/special-deluxe-fleetline-1949-1952",
+    "start_year": 1949,
+    "end_year": 1952,
+    "generation": "Chevrolet Special, Deluxe, & Fleetline (1949-1952)",
+    "keywords": [
+      "chevrolet special, deluxe, & fleetline (1949-1952)",
+      "special deluxe fleetline 1949 1952"
+    ]
+  },
+  "Chevrolet SS Sedan": {
+    "bat_slug": "chevrolet/ss",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet SS Sedan",
+    "keywords": [
+      "chevrolet ss sedan",
+      "ss"
+    ]
+  },
+  "Chevrolet SSR": {
+    "bat_slug": "chevrolet/ssr",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet SSR",
+    "keywords": [
+      "chevrolet ssr",
+      "ssr"
+    ]
+  },
+  "Chevrolet Standard, Master, Master Deluxe, & Special Deluxe (1933-1942)": {
+    "bat_slug": "chevrolet/master-master-deluxe-special-deluxe-1933-1942",
+    "start_year": 1933,
+    "end_year": 1942,
+    "generation": "Chevrolet Standard, Master, Master Deluxe, & Special Deluxe (1933-1942)",
+    "keywords": [
+      "chevrolet standard, master, master deluxe, & special deluxe (1933-1942)",
+      "master master deluxe special deluxe 1933 1942"
+    ]
+  },
+  "Chevrolet Stylemaster, Fleetmaster, & Fleetline (1946-1948)": {
+    "bat_slug": "chevrolet/stylemaster-fleetmaster-fleetline-1946-1948",
+    "start_year": 1946,
+    "end_year": 1948,
+    "generation": "Chevrolet Stylemaster, Fleetmaster, & Fleetline (1946-1948)",
+    "keywords": [
+      "chevrolet stylemaster, fleetmaster, & fleetline (1946-1948)",
+      "stylemaster fleetmaster fleetline 1946 1948"
+    ]
+  },
+  "Chevrolet Suburban (1947-1955)": {
+    "bat_slug": "chevrolet/suburban-1947-1955",
+    "start_year": 1947,
+    "end_year": 1955,
+    "generation": "Chevrolet Suburban (1947-1955)",
+    "keywords": [
+      "chevrolet suburban (1947-1955)",
+      "suburban 1947 1955"
+    ]
+  },
+  "Chevrolet Suburban (1955-1959)": {
+    "bat_slug": "chevrolet/suburban-1955-1959",
+    "start_year": 1955,
+    "end_year": 1959,
+    "generation": "Chevrolet Suburban (1955-1959)",
+    "keywords": [
+      "chevrolet suburban (1955-1959)",
+      "suburban 1955 1959"
+    ]
+  },
+  "Chevrolet Suburban (1960-1966)": {
+    "bat_slug": "chevrolet/suburban-1960-1966",
+    "start_year": 1960,
+    "end_year": 1966,
+    "generation": "Chevrolet Suburban (1960-1966)",
+    "keywords": [
+      "chevrolet suburban (1960-1966)",
+      "suburban 1960 1966"
+    ]
+  },
+  "Chevrolet Suburban (1967-1972)": {
+    "bat_slug": "chevrolet/suburban-1967-1972",
+    "start_year": 1967,
+    "end_year": 1972,
+    "generation": "Chevrolet Suburban (1967-1972)",
+    "keywords": [
+      "chevrolet suburban (1967-1972)",
+      "suburban 1967 1972"
+    ]
+  },
+  "Chevrolet Suburban (1973-1991)": {
+    "bat_slug": "chevrolet/suburban-1973-1991",
+    "start_year": 1973,
+    "end_year": 1991,
+    "generation": "Chevrolet Suburban (1973-1991)",
+    "keywords": [
+      "chevrolet suburban (1973-1991)",
+      "suburban 1973 1991"
+    ]
+  },
+  "Chevrolet Suburban (GMT400 1992-1999)": {
+    "bat_slug": "chevrolet/suburban-gmt400-1992-1999",
+    "start_year": 1992,
+    "end_year": 1999,
+    "generation": "Chevrolet Suburban (GMT400 1992-1999)",
+    "keywords": [
+      "chevrolet suburban (gmt400 1992-1999)",
+      "suburban gmt400 1992 1999"
+    ]
+  },
+  "Chevrolet Suburban (GMT800 2000-2006)": {
+    "bat_slug": "chevrolet/suburban-gmt800-2000-2006",
+    "start_year": 2000,
+    "end_year": 2006,
+    "generation": "Chevrolet Suburban (GMT800 2000-2006)",
+    "keywords": [
+      "chevrolet suburban (gmt800 2000-2006)",
+      "suburban gmt800 2000 2006"
+    ]
+  },
+  "Chevrolet Suburban (GMT900 2007-2014)": {
+    "bat_slug": "chevrolet/suburban-gmt900-2007-2014",
+    "start_year": 2007,
+    "end_year": 2014,
+    "generation": "Chevrolet Suburban (GMT900 2007-2014)",
+    "keywords": [
+      "chevrolet suburban (gmt900 2007-2014)",
+      "suburban gmt900 2007 2014"
+    ]
+  },
+  "Chevrolet Suburban (K2XX 2015-2020)": {
+    "bat_slug": "chevrolet/suburban-k2xx-2015-2020",
+    "start_year": 2015,
+    "end_year": 2020,
+    "generation": "Chevrolet Suburban (K2XX 2015-2020)",
+    "keywords": [
+      "chevrolet suburban (k2xx 2015-2020)",
+      "suburban k2xx 2015 2020"
+    ]
+  },
+  "Chevrolet Superior & Capitol": {
+    "bat_slug": "chevrolet/superior-capitol",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Superior & Capitol",
+    "keywords": [
+      "chevrolet superior & capitol",
+      "superior capitol"
+    ]
+  },
+  "Chevrolet Tahoe GMT400": {
+    "bat_slug": "chevrolet/tahoe-gmt400",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Tahoe GMT400",
+    "keywords": [
+      "chevrolet tahoe gmt400",
+      "tahoe gmt400"
+    ]
+  },
+  "Chevrolet Tahoe GMT800": {
+    "bat_slug": "chevrolet/tahoe-gmt800",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Tahoe GMT800",
+    "keywords": [
+      "chevrolet tahoe gmt800",
+      "tahoe gmt800"
+    ]
+  },
+  "Chevrolet Tahoe GMT900": {
+    "bat_slug": "chevrolet/tahoe-gmt900",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Tahoe GMT900",
+    "keywords": [
+      "chevrolet tahoe gmt900",
+      "tahoe gmt900"
+    ]
+  },
+  "Chevrolet Tahoe K2XX (2015-2020)": {
+    "bat_slug": "chevrolet/tahoe-k2xx-2015-2020",
+    "start_year": 2015,
+    "end_year": 2020,
+    "generation": "Chevrolet Tahoe K2XX (2015-2020)",
+    "keywords": [
+      "chevrolet tahoe k2xx (2015-2020)",
+      "tahoe k2xx 2015 2020"
+    ]
+  },
+  "Chevrolet Tahoe T1XX (2021+)": {
+    "bat_slug": "chevrolet/tahoe-t1xx-2021",
+    "start_year": 2020,
+    "end_year": 2022,
+    "generation": "Chevrolet Tahoe T1XX (2021+)",
+    "keywords": [
+      "chevrolet tahoe t1xx (2021+)",
+      "tahoe t1xx 2021"
+    ]
+  },
+  "Chevrolet Task Force Pickup (1955-1959)": {
+    "bat_slug": "chevrolet/task-force-pickup-1955-1961",
+    "start_year": 1955,
+    "end_year": 1959,
+    "generation": "Chevrolet Task Force Pickup (1955-1959)",
+    "keywords": [
+      "chevrolet task force pickup (1955-1959)",
+      "task force pickup 1955 1961"
+    ]
+  },
+  "Chevrolet Townsman": {
+    "bat_slug": "chevrolet/townsman",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Townsman",
+    "keywords": [
+      "chevrolet townsman",
+      "townsman"
+    ]
+  },
+  "Chevrolet Trailblazer": {
+    "bat_slug": "chevrolet/trailblazer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Trailblazer",
+    "keywords": [
+      "chevrolet trailblazer",
+      "trailblazer"
+    ]
+  },
+  "Chevrolet Tri-5": {
+    "bat_slug": "chevrolet/tri-5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Tri-5",
+    "keywords": [
+      "chevrolet tri-5",
+      "tri 5"
+    ]
+  },
+  "Chevrolet Vega": {
+    "bat_slug": "chevrolet/vega",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chevrolet Vega",
+    "keywords": [
+      "chevrolet vega",
+      "vega"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Kawasaki H1 Mach III": {
+    "bat_slug": "kawasaki/h1-mach-iii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki H1 Mach III",
+    "keywords": [
+      "kawasaki h1 mach iii",
+      "h1 mach iii"
+    ]
+  },
+  "Kawasaki H2 Mach IV": {
+    "bat_slug": "kawasaki/h2-mach-iv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki H2 Mach IV",
+    "keywords": [
+      "kawasaki h2 mach iv",
+      "h2 mach iv"
+    ]
+  },
+  "Kawasaki KX": {
+    "bat_slug": "kawasaki/kx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki KX",
+    "keywords": [
+      "kawasaki kx",
+      "kx"
+    ]
+  },
+  "Kawasaki KZ": {
+    "bat_slug": "kawasaki/kz",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki KZ",
+    "keywords": [
+      "kawasaki kz",
+      "kz"
+    ]
+  },
+  "Kawasaki Ninja": {
+    "bat_slug": "kawasaki/ninja",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki Ninja",
+    "keywords": [
+      "kawasaki ninja",
+      "ninja"
+    ]
+  },
+  "Kawasaki Z1 & Z1-R": {
+    "bat_slug": "kawasaki/z1-z1-r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kawasaki Z1 & Z1-R",
+    "keywords": [
+      "kawasaki z1 & z1-r",
+      "z1 z1 r"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Datsun 200SX": {
+    "bat_slug": "datsun/200sx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 200SX",
+    "keywords": [
+      "datsun 200sx",
+      "200sx"
+    ]
+  },
+  "Datsun 240Z": {
+    "bat_slug": "datsun/240z",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 240Z",
+    "keywords": [
+      "datsun 240z",
+      "240z"
+    ]
+  },
+  "Datsun 260Z": {
+    "bat_slug": "datsun/260z",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 260Z",
+    "keywords": [
+      "datsun 260z",
+      "260z"
+    ]
+  },
+  "Datsun 280Z": {
+    "bat_slug": "datsun/280z",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 280Z",
+    "keywords": [
+      "datsun 280z",
+      "280z"
+    ]
+  },
+  "Datsun 280ZX": {
+    "bat_slug": "datsun/280zx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 280ZX",
+    "keywords": [
+      "datsun 280zx",
+      "280zx"
+    ]
+  },
+  "Datsun 510": {
+    "bat_slug": "datsun/510",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun 510",
+    "keywords": [
+      "datsun 510",
+      "510"
+    ]
+  },
+  "Datsun Pickup": {
+    "bat_slug": "datsun/pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun Pickup",
+    "keywords": [
+      "datsun pickup",
+      "pickup"
+    ]
+  },
+  "Datsun Roadster": {
+    "bat_slug": "datsun/roadster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Datsun Roadster",
+    "keywords": [
+      "datsun roadster",
+      "roadster"
+    ]
+  }
+}

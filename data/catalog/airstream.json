@@ -1,0 +1,32 @@
+{
+  "Airstream Conversion": {
+    "bat_slug": "airstream/conversion",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Airstream Conversion",
+    "keywords": [
+      "airstream conversion",
+      "conversion"
+    ]
+  },
+  "Airstream Motorhome": {
+    "bat_slug": "airstream/motorhome",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Airstream Motorhome",
+    "keywords": [
+      "motorhome",
+      "airstream motorhome"
+    ]
+  },
+  "Airstream Trailer": {
+    "bat_slug": "airstream/trailer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Airstream Trailer",
+    "keywords": [
+      "trailer",
+      "airstream trailer"
+    ]
+  }
+}

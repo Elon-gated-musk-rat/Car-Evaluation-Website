@@ -1,0 +1,182 @@
+{
+  "Suzuki Alto": {
+    "bat_slug": "suzuki/alto",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Alto",
+    "keywords": [
+      "suzuki alto",
+      "alto"
+    ]
+  },
+  "Suzuki Carry": {
+    "bat_slug": "suzuki/carry",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Carry",
+    "keywords": [
+      "suzuki carry",
+      "carry"
+    ]
+  },
+  "Suzuki Every": {
+    "bat_slug": "suzuki/every",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Every",
+    "keywords": [
+      "suzuki every",
+      "every"
+    ]
+  },
+  "Suzuki GS": {
+    "bat_slug": "suzuki/gs",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki GS",
+    "keywords": [
+      "suzuki gs",
+      "gs"
+    ]
+  },
+  "Suzuki GSX-R 600, 750, 1000, & 1100": {
+    "bat_slug": "suzuki/gsx-r-600-750-1000-1100",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki GSX-R 600, 750, 1000, & 1100",
+    "keywords": [
+      "suzuki gsx-r 600, 750, 1000, & 1100",
+      "gsx r 600 750 1000 1100"
+    ]
+  },
+  "Suzuki GSX-R50": {
+    "bat_slug": "suzuki/gsx-r50",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki GSX-R50",
+    "keywords": [
+      "suzuki gsx-r50",
+      "gsx r50"
+    ]
+  },
+  "Suzuki GT": {
+    "bat_slug": "suzuki/gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki GT",
+    "keywords": [
+      "suzuki gt",
+      "gt"
+    ]
+  },
+  "Suzuki Hayabusa": {
+    "bat_slug": "suzuki/hayabusa",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Hayabusa",
+    "keywords": [
+      "suzuki hayabusa",
+      "hayabusa"
+    ]
+  },
+  "Suzuki Jimny": {
+    "bat_slug": "suzuki/jimny",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Jimny",
+    "keywords": [
+      "suzuki jimny",
+      "jimny"
+    ]
+  },
+  "Suzuki Katana": {
+    "bat_slug": "suzuki/katana",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Katana",
+    "keywords": [
+      "suzuki katana",
+      "katana"
+    ]
+  },
+  "Suzuki Other Motorcycles": {
+    "bat_slug": "suzuki/other-motorcycles",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Other Motorcycles",
+    "keywords": [
+      "suzuki other motorcycles",
+      "other motorcycles"
+    ]
+  },
+  "Suzuki RE5": {
+    "bat_slug": "suzuki/re5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki RE5",
+    "keywords": [
+      "suzuki re5",
+      "re5"
+    ]
+  },
+  "Suzuki RG": {
+    "bat_slug": "suzuki/rg",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki RG",
+    "keywords": [
+      "suzuki rg",
+      "rg"
+    ]
+  },
+  "Suzuki Samurai": {
+    "bat_slug": "suzuki/samurai",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki Samurai",
+    "keywords": [
+      "suzuki samurai",
+      "samurai"
+    ]
+  },
+  "Suzuki T Motorcycle": {
+    "bat_slug": "suzuki/t-motorcycle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki T Motorcycle",
+    "keywords": [
+      "suzuki t motorcycle",
+      "t motorcycle"
+    ]
+  },
+  "Suzuki TM & RM": {
+    "bat_slug": "suzuki/tm-rm",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki TM & RM",
+    "keywords": [
+      "suzuki tm & rm",
+      "tm rm"
+    ]
+  },
+  "Suzuki TS & TC": {
+    "bat_slug": "suzuki/ts-tc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki TS & TC",
+    "keywords": [
+      "suzuki ts & tc",
+      "ts tc"
+    ]
+  },
+  "Suzuki X-90": {
+    "bat_slug": "suzuki/x-90",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Suzuki X-90",
+    "keywords": [
+      "suzuki x-90",
+      "x 90"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Daimler Ferret": {
+    "bat_slug": "daimler/ferret",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Daimler Ferret",
+    "keywords": [
+      "daimler ferret",
+      "ferret"
+    ]
+  },
+  "Daimler SP250": {
+    "bat_slug": "daimler/sp250",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Daimler SP250",
+    "keywords": [
+      "daimler sp250",
+      "sp250"
+    ]
+  }
+}

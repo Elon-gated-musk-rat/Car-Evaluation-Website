@@ -1,0 +1,712 @@
+{
+  "Toyota 2000GT": {
+    "bat_slug": "toyota/2000gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 2000GT",
+    "keywords": [
+      "toyota 2000gt",
+      "2000gt"
+    ]
+  },
+  "Toyota 4Runner (N120)": {
+    "bat_slug": "toyota/4runner-n120",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 4Runner (N120)",
+    "keywords": [
+      "toyota 4runner (n120)",
+      "4runner n120"
+    ]
+  },
+  "Toyota 4Runner (N180)": {
+    "bat_slug": "toyota/4runner-n180",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 4Runner (N180)",
+    "keywords": [
+      "toyota 4runner (n180)",
+      "4runner n180"
+    ]
+  },
+  "Toyota 4Runner (N210)": {
+    "bat_slug": "toyota/4runner-n210",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 4Runner (N210)",
+    "keywords": [
+      "toyota 4runner (n210)",
+      "4runner n210"
+    ]
+  },
+  "Toyota 4Runner (N280)": {
+    "bat_slug": "toyota/4runner-n280",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 4Runner (N280)",
+    "keywords": [
+      "toyota 4runner (n280)",
+      "4runner n280"
+    ]
+  },
+  "Toyota 4Runner (N60)": {
+    "bat_slug": "toyota/4runner-n60",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota 4Runner (N60)",
+    "keywords": [
+      "toyota 4runner (n60)",
+      "4runner n60"
+    ]
+  },
+  "Toyota AE86": {
+    "bat_slug": "toyota/ae86",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota AE86",
+    "keywords": [
+      "toyota ae86",
+      "ae86"
+    ]
+  },
+  "Toyota Aristo": {
+    "bat_slug": "toyota/aristo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Aristo",
+    "keywords": [
+      "toyota aristo",
+      "aristo"
+    ]
+  },
+  "Toyota Avalon": {
+    "bat_slug": "toyota/avalon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Avalon",
+    "keywords": [
+      "toyota avalon",
+      "avalon"
+    ]
+  },
+  "Toyota AW11 MR2": {
+    "bat_slug": "toyota/aw11-mr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota AW11 MR2",
+    "keywords": [
+      "toyota aw11 mr2",
+      "aw11 mr2"
+    ]
+  },
+  "Toyota Camry": {
+    "bat_slug": "toyota/camry",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Camry",
+    "keywords": [
+      "toyota camry",
+      "camry"
+    ]
+  },
+  "Toyota Camry Solara": {
+    "bat_slug": "toyota/camry-solara",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Camry Solara",
+    "keywords": [
+      "toyota camry solara",
+      "camry solara"
+    ]
+  },
+  "Toyota Celica": {
+    "bat_slug": "toyota/celica",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Celica",
+    "keywords": [
+      "toyota celica",
+      "celica"
+    ]
+  },
+  "Toyota Celica Supra A40/A50 (1979-1981)": {
+    "bat_slug": "toyota/celica-supra-a40-a50-1979-1981",
+    "start_year": 1979,
+    "end_year": 1981,
+    "generation": "Toyota Celica Supra A40/A50 (1979-1981)",
+    "keywords": [
+      "toyota celica supra a40/a50 (1979-1981)",
+      "celica supra a40 a50 1979 1981"
+    ]
+  },
+  "Toyota Celica Supra A60 (1982-1986)": {
+    "bat_slug": "toyota/celica-supra-a60-1982-1986",
+    "start_year": 1982,
+    "end_year": 1986,
+    "generation": "Toyota Celica Supra A60 (1982-1986)",
+    "keywords": [
+      "toyota celica supra a60 (1982-1986)",
+      "celica supra a60 1982 1986"
+    ]
+  },
+  "Toyota Celsior": {
+    "bat_slug": "toyota/celsior",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Celsior",
+    "keywords": [
+      "toyota celsior",
+      "celsior"
+    ]
+  },
+  "Toyota Century": {
+    "bat_slug": "toyota/century",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Century",
+    "keywords": [
+      "toyota century",
+      "century"
+    ]
+  },
+  "Toyota Corolla": {
+    "bat_slug": "toyota/corolla",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Corolla",
+    "keywords": [
+      "toyota corolla",
+      "corolla"
+    ]
+  },
+  "Toyota Corona": {
+    "bat_slug": "toyota/corona",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Corona",
+    "keywords": [
+      "toyota corona",
+      "corona"
+    ]
+  },
+  "Toyota Cressida & Mark II": {
+    "bat_slug": "toyota/cressida-mark-ii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Cressida & Mark II",
+    "keywords": [
+      "toyota cressida & mark ii",
+      "cressida mark ii"
+    ]
+  },
+  "Toyota Crown": {
+    "bat_slug": "toyota/crown",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Crown",
+    "keywords": [
+      "toyota crown",
+      "crown"
+    ]
+  },
+  "Toyota Dyna": {
+    "bat_slug": "toyota/dyna",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Dyna",
+    "keywords": [
+      "toyota dyna",
+      "dyna"
+    ]
+  },
+  "Toyota FJ Cruiser": {
+    "bat_slug": "toyota/fj-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota FJ Cruiser",
+    "keywords": [
+      "toyota fj cruiser",
+      "fj cruiser"
+    ]
+  },
+  "Toyota GR86": {
+    "bat_slug": "toyota/gr86",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota GR86",
+    "keywords": [
+      "toyota gr86",
+      "gr86"
+    ]
+  },
+  "Toyota HiAce": {
+    "bat_slug": "toyota/hiace",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota HiAce",
+    "keywords": [
+      "toyota hiace",
+      "hiace"
+    ]
+  },
+  "Toyota Hilux (N10 1968-1972)": {
+    "bat_slug": "toyota/hilux-n10-1968-1972",
+    "start_year": 1968,
+    "end_year": 1972,
+    "generation": "Toyota Hilux (N10 1968-1972)",
+    "keywords": [
+      "toyota hilux (n10 1968-1972)",
+      "hilux n10 1968 1972"
+    ]
+  },
+  "Toyota Hilux (N140/N150/N160/N170 1997-2005)": {
+    "bat_slug": "toyota/hilux-n140n150n160n170-1997-2005",
+    "start_year": 1997,
+    "end_year": 2005,
+    "generation": "Toyota Hilux (N140/N150/N160/N170 1997-2005)",
+    "keywords": [
+      "toyota hilux (n140/n150/n160/n170 1997-2005)",
+      "hilux n140n150n160n170 1997 2005"
+    ]
+  },
+  "Toyota Hilux/Pickup (N20 1972-1978)": {
+    "bat_slug": "toyota/hilux-pickup-n20-1972-1978",
+    "start_year": 1972,
+    "end_year": 1978,
+    "generation": "Toyota Hilux/Pickup (N20 1972-1978)",
+    "keywords": [
+      "toyota hilux/pickup (n20 1972-1978)",
+      "hilux pickup n20 1972 1978"
+    ]
+  },
+  "Toyota Land Cruiser 100-Series": {
+    "bat_slug": "toyota/land-cruiser-100-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser 100-Series",
+    "keywords": [
+      "toyota land cruiser 100-series",
+      "land cruiser 100 series"
+    ]
+  },
+  "Toyota Land Cruiser 200-Series": {
+    "bat_slug": "toyota/200-series-land-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser 200-Series",
+    "keywords": [
+      "toyota land cruiser 200-series",
+      "200 series land cruiser"
+    ]
+  },
+  "Toyota Land Cruiser 60-Series": {
+    "bat_slug": "toyota/land-cruiser-fj60-fj62",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser 60-Series",
+    "keywords": [
+      "toyota land cruiser 60-series",
+      "land cruiser fj60 fj62"
+    ]
+  },
+  "Toyota Land Cruiser 70-Series": {
+    "bat_slug": "toyota/land-cruiser-70-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser 70-Series",
+    "keywords": [
+      "toyota land cruiser 70-series",
+      "land cruiser 70 series"
+    ]
+  },
+  "Toyota Land Cruiser 80-Series": {
+    "bat_slug": "toyota/land-cruiser-fj80-fzj80",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser 80-Series",
+    "keywords": [
+      "toyota land cruiser 80-series",
+      "land cruiser fj80 fzj80"
+    ]
+  },
+  "Toyota Land Cruiser FJ25": {
+    "bat_slug": "toyota/land-cruiser-fj25",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser FJ25",
+    "keywords": [
+      "toyota land cruiser fj25",
+      "land cruiser fj25"
+    ]
+  },
+  "Toyota Land Cruiser FJ40": {
+    "bat_slug": "toyota/fj40",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser FJ40",
+    "keywords": [
+      "toyota land cruiser fj40",
+      "fj40"
+    ]
+  },
+  "Toyota Land Cruiser FJ43": {
+    "bat_slug": "toyota/land-cruiser-fj43",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser FJ43",
+    "keywords": [
+      "toyota land cruiser fj43",
+      "land cruiser fj43"
+    ]
+  },
+  "Toyota Land Cruiser FJ45": {
+    "bat_slug": "toyota/land-cruiser-fj45",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser FJ45",
+    "keywords": [
+      "toyota land cruiser fj45",
+      "land cruiser fj45"
+    ]
+  },
+  "Toyota Land Cruiser FJ55": {
+    "bat_slug": "toyota/land-cruiser-fj55",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser FJ55",
+    "keywords": [
+      "toyota land cruiser fj55",
+      "land cruiser fj55"
+    ]
+  },
+  "Toyota Land Cruiser J250": {
+    "bat_slug": "toyota/land-cruiser-j250",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser J250",
+    "keywords": [
+      "toyota land cruiser j250",
+      "land cruiser j250"
+    ]
+  },
+  "Toyota Land Cruiser Prado 70-Series": {
+    "bat_slug": "toyota/land-cruiser-prado-70-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser Prado 70-Series",
+    "keywords": [
+      "toyota land cruiser prado 70-series",
+      "land cruiser prado 70 series"
+    ]
+  },
+  "Toyota Land Cruiser Prado 90-Series": {
+    "bat_slug": "toyota/land-cruiser-prado-90-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Land Cruiser Prado 90-Series",
+    "keywords": [
+      "toyota land cruiser prado 90-series",
+      "land cruiser prado 90 series"
+    ]
+  },
+  "Toyota LiteAce & TownAce": {
+    "bat_slug": "toyota/liteace-townace",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota LiteAce & TownAce",
+    "keywords": [
+      "toyota liteace & townace",
+      "liteace townace"
+    ]
+  },
+  "Toyota Mega Cruiser": {
+    "bat_slug": "toyota/mega-cruiser",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Mega Cruiser",
+    "keywords": [
+      "toyota mega cruiser",
+      "mega cruiser"
+    ]
+  },
+  "Toyota Pickup (N30/N40 1978-1983)": {
+    "bat_slug": "toyota/pickup-n30n40-1978-1983",
+    "start_year": 1978,
+    "end_year": 1983,
+    "generation": "Toyota Pickup (N30/N40 1978-1983)",
+    "keywords": [
+      "toyota pickup (n30/n40 1978-1983)",
+      "pickup n30n40 1978 1983"
+    ]
+  },
+  "Toyota Pickup (N50/N60/N70 1984-1988)": {
+    "bat_slug": "toyota/pickup-n50n60n70-1984-1988",
+    "start_year": 1984,
+    "end_year": 1988,
+    "generation": "Toyota Pickup (N50/N60/N70 1984-1988)",
+    "keywords": [
+      "toyota pickup (n50/n60/n70 1984-1988)",
+      "pickup n50n60n70 1984 1988"
+    ]
+  },
+  "Toyota Pickup (N80/90/100/110 1989-1997)": {
+    "bat_slug": "toyota/pickup-n8090100110-1989-1997",
+    "start_year": 1989,
+    "end_year": 1997,
+    "generation": "Toyota Pickup (N80/90/100/110 1989-1997)",
+    "keywords": [
+      "toyota pickup (n80/90/100/110 1989-1997)",
+      "pickup n8090100110 1989 1997"
+    ]
+  },
+  "Toyota Previa & Estima": {
+    "bat_slug": "toyota/previa-estima",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Previa & Estima",
+    "keywords": [
+      "toyota previa & estima",
+      "previa estima"
+    ]
+  },
+  "Toyota RAV4": {
+    "bat_slug": "toyota/rav4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota RAV4",
+    "keywords": [
+      "toyota rav4",
+      "rav4"
+    ]
+  },
+  "Toyota RV": {
+    "bat_slug": "toyota/rv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota RV",
+    "keywords": [
+      "toyota rv",
+      "rv"
+    ]
+  },
+  "Toyota Sequoia": {
+    "bat_slug": "toyota/sequoia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Sequoia",
+    "keywords": [
+      "toyota sequoia",
+      "sequoia"
+    ]
+  },
+  "Toyota Sera": {
+    "bat_slug": "toyota/sera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Sera",
+    "keywords": [
+      "toyota sera",
+      "sera"
+    ]
+  },
+  "Toyota Sienna": {
+    "bat_slug": "toyota/sienna",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Sienna",
+    "keywords": [
+      "toyota sienna",
+      "sienna"
+    ]
+  },
+  "Toyota Soarer": {
+    "bat_slug": "toyota/soarer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Soarer",
+    "keywords": [
+      "toyota soarer",
+      "soarer"
+    ]
+  },
+  "Toyota Starlet": {
+    "bat_slug": "toyota/starlet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Starlet",
+    "keywords": [
+      "toyota starlet",
+      "starlet"
+    ]
+  },
+  "Toyota Stout": {
+    "bat_slug": "toyota/stout",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Stout",
+    "keywords": [
+      "toyota stout",
+      "stout"
+    ]
+  },
+  "Toyota Supra A70 (1986-1992)": {
+    "bat_slug": "toyota/supra-a70-1986-1993",
+    "start_year": 1986,
+    "end_year": 1992,
+    "generation": "Toyota Supra A70 (1986-1992)",
+    "keywords": [
+      "toyota supra a70 (1986-1992)",
+      "supra a70 1986 1993"
+    ]
+  },
+  "Toyota Supra A80 (1993-2002)": {
+    "bat_slug": "toyota/supra-a80-1994-2002",
+    "start_year": 1993,
+    "end_year": 2002,
+    "generation": "Toyota Supra A80 (1993-2002)",
+    "keywords": [
+      "toyota supra a80 (1993-2002)",
+      "supra a80 1994 2002"
+    ]
+  },
+  "Toyota Supra J29/DB (2020-)": {
+    "bat_slug": "toyota/supra-j29-db-2020",
+    "start_year": 2019,
+    "end_year": 2021,
+    "generation": "Toyota Supra J29/DB (2020-)",
+    "keywords": [
+      "toyota supra j29/db (2020-)",
+      "supra j29 db 2020"
+    ]
+  },
+  "Toyota SW20 MR2": {
+    "bat_slug": "toyota/sw20-mr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota SW20 MR2",
+    "keywords": [
+      "toyota sw20 mr2",
+      "sw20 mr2"
+    ]
+  },
+  "Toyota T100": {
+    "bat_slug": "toyota/t100",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota T100",
+    "keywords": [
+      "toyota t100",
+      "t100"
+    ]
+  },
+  "Toyota Tacoma (N1X0 1995-2005)": {
+    "bat_slug": "toyota/tacoma-n1x0-1994-2005",
+    "start_year": 1995,
+    "end_year": 2005,
+    "generation": "Toyota Tacoma (N1X0 1995-2005)",
+    "keywords": [
+      "toyota tacoma (n1x0 1995-2005)",
+      "tacoma n1x0 1994 2005"
+    ]
+  },
+  "Toyota Tacoma (N2X0 2005-2015)": {
+    "bat_slug": "toyota/tacoma-n2x0-2005-2015",
+    "start_year": 2005,
+    "end_year": 2015,
+    "generation": "Toyota Tacoma (N2X0 2005-2015)",
+    "keywords": [
+      "toyota tacoma (n2x0 2005-2015)",
+      "tacoma n2x0 2005 2015"
+    ]
+  },
+  "Toyota Tacoma (N300 2016-2023)": {
+    "bat_slug": "toyota/tacoma-n300-2016-2023",
+    "start_year": 2016,
+    "end_year": 2023,
+    "generation": "Toyota Tacoma (N300 2016-2023)",
+    "keywords": [
+      "toyota tacoma (n300 2016-2023)",
+      "tacoma n300 2016 2023"
+    ]
+  },
+  "Toyota Tacoma (N400 2024+)": {
+    "bat_slug": "toyota/n400-tacoma-2024",
+    "start_year": 2023,
+    "end_year": 2025,
+    "generation": "Toyota Tacoma (N400 2024+)",
+    "keywords": [
+      "toyota tacoma (n400 2024+)",
+      "n400 tacoma 2024"
+    ]
+  },
+  "Toyota Tercel": {
+    "bat_slug": "toyota/tercel",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Tercel",
+    "keywords": [
+      "toyota tercel",
+      "tercel"
+    ]
+  },
+  "Toyota ToyoAce": {
+    "bat_slug": "toyota/toyoace",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota ToyoAce",
+    "keywords": [
+      "toyota toyoace",
+      "toyoace"
+    ]
+  },
+  "Toyota Trekker": {
+    "bat_slug": "toyota/trekker",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota Trekker",
+    "keywords": [
+      "toyota trekker",
+      "trekker"
+    ]
+  },
+  "Toyota Tundra (XK30/XK40 2000-2006)": {
+    "bat_slug": "toyota/tundra-xk30xk40-2000-2006",
+    "start_year": 2000,
+    "end_year": 2006,
+    "generation": "Toyota Tundra (XK30/XK40 2000-2006)",
+    "keywords": [
+      "toyota tundra (xk30/xk40 2000-2006)",
+      "tundra xk30xk40 2000 2006"
+    ]
+  },
+  "Toyota Tundra (XK50 2007-2021)": {
+    "bat_slug": "toyota/tundra-xk50-2007-2021",
+    "start_year": 2007,
+    "end_year": 2021,
+    "generation": "Toyota Tundra (XK50 2007-2021)",
+    "keywords": [
+      "toyota tundra (xk50 2007-2021)",
+      "tundra xk50 2007 2021"
+    ]
+  },
+  "Toyota Tundra (XK70 2022+)": {
+    "bat_slug": "toyota/tundra-xk70-2022",
+    "start_year": 2021,
+    "end_year": 2023,
+    "generation": "Toyota Tundra (XK70 2022+)",
+    "keywords": [
+      "toyota tundra (xk70 2022+)",
+      "tundra xk70 2022"
+    ]
+  },
+  "Toyota W30 MR2": {
+    "bat_slug": "toyota/w30-mr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Toyota W30 MR2",
+    "keywords": [
+      "toyota w30 mr2",
+      "w30 mr2"
+    ]
+  }
+}

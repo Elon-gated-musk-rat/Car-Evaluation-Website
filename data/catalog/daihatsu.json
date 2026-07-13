@@ -1,0 +1,22 @@
+{
+  "Daihatsu Hijet": {
+    "bat_slug": "daihatsu/hijet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Daihatsu Hijet",
+    "keywords": [
+      "daihatsu hijet",
+      "hijet"
+    ]
+  },
+  "Daihatsu Midget": {
+    "bat_slug": "daihatsu/midget",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Daihatsu Midget",
+    "keywords": [
+      "daihatsu midget",
+      "midget"
+    ]
+  }
+}

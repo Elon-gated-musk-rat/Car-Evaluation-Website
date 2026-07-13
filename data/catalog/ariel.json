@@ -1,0 +1,32 @@
+{
+  "Ariel Atom": {
+    "bat_slug": "ariel/atom",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ariel Atom",
+    "keywords": [
+      "atom",
+      "ariel atom"
+    ]
+  },
+  "Ariel Motorcycles": {
+    "bat_slug": "ariel/motorcycles",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ariel Motorcycles",
+    "keywords": [
+      "motorcycles",
+      "ariel motorcycles"
+    ]
+  },
+  "Ariel Nomad": {
+    "bat_slug": "ariel/nomad",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Ariel Nomad",
+    "keywords": [
+      "nomad",
+      "ariel nomad"
+    ]
+  }
+}

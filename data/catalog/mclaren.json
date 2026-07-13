@@ -1,0 +1,142 @@
+{
+  "McLaren 650S": {
+    "bat_slug": "mclaren/650s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren 650S",
+    "keywords": [
+      "mclaren 650s",
+      "650s"
+    ]
+  },
+  "McLaren 675LT": {
+    "bat_slug": "mclaren/675lt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren 675LT",
+    "keywords": [
+      "mclaren 675lt",
+      "675lt"
+    ]
+  },
+  "McLaren 720S": {
+    "bat_slug": "mclaren/720s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren 720S",
+    "keywords": [
+      "mclaren 720s",
+      "720s"
+    ]
+  },
+  "McLaren 750S": {
+    "bat_slug": "mclaren/750s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren 750S",
+    "keywords": [
+      "mclaren 750s",
+      "750s"
+    ]
+  },
+  "McLaren 765LT": {
+    "bat_slug": "mclaren/765lt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren 765LT",
+    "keywords": [
+      "mclaren 765lt",
+      "765lt"
+    ]
+  },
+  "McLaren Artura": {
+    "bat_slug": "mclaren/artura",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Artura",
+    "keywords": [
+      "mclaren artura",
+      "artura"
+    ]
+  },
+  "McLaren Elva": {
+    "bat_slug": "mclaren/elva",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Elva",
+    "keywords": [
+      "mclaren elva",
+      "elva"
+    ]
+  },
+  "McLaren GT": {
+    "bat_slug": "mclaren/gt",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren GT",
+    "keywords": [
+      "mclaren gt",
+      "gt"
+    ]
+  },
+  "McLaren MP4-12C": {
+    "bat_slug": "mclaren/mp4-12c",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren MP4-12C",
+    "keywords": [
+      "mclaren mp4-12c",
+      "mp4 12c"
+    ]
+  },
+  "McLaren P1": {
+    "bat_slug": "mclaren/p1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren P1",
+    "keywords": [
+      "mclaren p1",
+      "p1"
+    ]
+  },
+  "McLaren Racing": {
+    "bat_slug": "mclaren/race-cars",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Racing",
+    "keywords": [
+      "mclaren racing",
+      "race cars"
+    ]
+  },
+  "McLaren Senna": {
+    "bat_slug": "mclaren/senna",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Senna",
+    "keywords": [
+      "mclaren senna",
+      "senna"
+    ]
+  },
+  "McLaren Speedtail": {
+    "bat_slug": "mclaren/speedtail",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Speedtail",
+    "keywords": [
+      "mclaren speedtail",
+      "speedtail"
+    ]
+  },
+  "McLaren Sports Series": {
+    "bat_slug": "mclaren/sports-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "McLaren Sports Series",
+    "keywords": [
+      "mclaren sports series",
+      "sports series"
+    ]
+  }
+}

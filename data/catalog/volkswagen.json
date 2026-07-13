@@ -1,0 +1,452 @@
+{
+  "Volkswagen A5 Beetle (2012-2019)": {
+    "bat_slug": "volkswagen/a5-beetle-2012-2019",
+    "start_year": 2012,
+    "end_year": 2019,
+    "generation": "Volkswagen A5 Beetle (2012-2019)",
+    "keywords": [
+      "volkswagen a5 beetle (2012-2019)",
+      "a5 beetle 2012 2019"
+    ]
+  },
+  "Volkswagen Bay-Window Bus": {
+    "bat_slug": "volkswagen/bay-window-bus",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Bay-Window Bus",
+    "keywords": [
+      "volkswagen bay-window bus",
+      "bay window bus"
+    ]
+  },
+  "Volkswagen Bay-Window Camper": {
+    "bat_slug": "volkswagen/bay-window-camper",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Bay-Window Camper",
+    "keywords": [
+      "volkswagen bay-window camper",
+      "bay window camper"
+    ]
+  },
+  "Volkswagen Bay-Window Pickup": {
+    "bat_slug": "volkswagen/bay-window-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Bay-Window Pickup",
+    "keywords": [
+      "volkswagen bay-window pickup",
+      "bay window pickup"
+    ]
+  },
+  "Volkswagen Beetle (1958-1979)": {
+    "bat_slug": "volkswagen/beetle-1958-1979",
+    "start_year": 1958,
+    "end_year": 1979,
+    "generation": "Volkswagen Beetle (1958-1979)",
+    "keywords": [
+      "volkswagen beetle (1958-1979)",
+      "beetle 1958 1979"
+    ]
+  },
+  "Volkswagen Beetle (1980-2003)": {
+    "bat_slug": "volkswagen/beetle-1980-2003",
+    "start_year": 1980,
+    "end_year": 2003,
+    "generation": "Volkswagen Beetle (1980-2003)",
+    "keywords": [
+      "volkswagen beetle (1980-2003)",
+      "beetle 1980 2003"
+    ]
+  },
+  "Volkswagen Beetle (Oval Window)": {
+    "bat_slug": "volkswagen/beetle-oval-window",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Beetle (Oval Window)",
+    "keywords": [
+      "volkswagen beetle (oval window)",
+      "beetle oval window"
+    ]
+  },
+  "Volkswagen Beetle (Split Window)": {
+    "bat_slug": "volkswagen/beetle-split-window",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Beetle (Split Window)",
+    "keywords": [
+      "volkswagen beetle (split window)",
+      "beetle split window"
+    ]
+  },
+  "Volkswagen Cabrio Mk3": {
+    "bat_slug": "volkswagen/mk3-cabrio",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Cabrio Mk3",
+    "keywords": [
+      "volkswagen cabrio mk3",
+      "mk3 cabrio"
+    ]
+  },
+  "Volkswagen Caddy & Rabbit Pickup": {
+    "bat_slug": "volkswagen/caddy-rabbit-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Caddy & Rabbit Pickup",
+    "keywords": [
+      "volkswagen caddy & rabbit pickup",
+      "caddy rabbit pickup"
+    ]
+  },
+  "Volkswagen CC": {
+    "bat_slug": "volkswagen/cc",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen CC",
+    "keywords": [
+      "volkswagen cc",
+      "cc"
+    ]
+  },
+  "Volkswagen Corrado": {
+    "bat_slug": "volkswagen/corrado",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Corrado",
+    "keywords": [
+      "volkswagen corrado",
+      "corrado"
+    ]
+  },
+  "Volkswagen Eos": {
+    "bat_slug": "volkswagen/eos",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Eos",
+    "keywords": [
+      "volkswagen eos",
+      "eos"
+    ]
+  },
+  "Volkswagen EuroVan": {
+    "bat_slug": "volkswagen/eurovan",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen EuroVan",
+    "keywords": [
+      "volkswagen eurovan",
+      "eurovan"
+    ]
+  },
+  "Volkswagen Golf & Rabbit (Non-GTI)": {
+    "bat_slug": "volkswagen/golf-rabbit",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Golf & Rabbit (Non-GTI)",
+    "keywords": [
+      "volkswagen golf & rabbit (non-gti)",
+      "golf rabbit"
+    ]
+  },
+  "Volkswagen Golf R": {
+    "bat_slug": "volkswagen/golf-r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Golf R",
+    "keywords": [
+      "volkswagen golf r",
+      "golf r"
+    ]
+  },
+  "Volkswagen Golf/Rabbit Cabriolet Mk1": {
+    "bat_slug": "volkswagen/golf-rabbit-cabriolet",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Golf/Rabbit Cabriolet Mk1",
+    "keywords": [
+      "volkswagen golf/rabbit cabriolet mk1",
+      "golf rabbit cabriolet"
+    ]
+  },
+  "Volkswagen GTI Mk1": {
+    "bat_slug": "volkswagen/gti-mk1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk1",
+    "keywords": [
+      "volkswagen gti mk1",
+      "gti mk1"
+    ]
+  },
+  "Volkswagen GTI Mk2": {
+    "bat_slug": "volkswagen/gti-mk2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk2",
+    "keywords": [
+      "volkswagen gti mk2",
+      "gti mk2"
+    ]
+  },
+  "Volkswagen GTI Mk3": {
+    "bat_slug": "volkswagen/gti-mk3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk3",
+    "keywords": [
+      "volkswagen gti mk3",
+      "gti mk3"
+    ]
+  },
+  "Volkswagen GTI Mk4": {
+    "bat_slug": "volkswagen/gti-mk4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk4",
+    "keywords": [
+      "volkswagen gti mk4",
+      "gti mk4"
+    ]
+  },
+  "Volkswagen GTI Mk5": {
+    "bat_slug": "volkswagen/gti-mk5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk5",
+    "keywords": [
+      "volkswagen gti mk5",
+      "gti mk5"
+    ]
+  },
+  "Volkswagen GTI Mk6": {
+    "bat_slug": "volkswagen/gti-mk6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk6",
+    "keywords": [
+      "volkswagen gti mk6",
+      "gti mk6"
+    ]
+  },
+  "Volkswagen GTI Mk7": {
+    "bat_slug": "volkswagen/volkswagen-gti-mk7",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk7",
+    "keywords": [
+      "volkswagen gti mk7",
+      "volkswagen gti mk7"
+    ]
+  },
+  "Volkswagen GTI Mk8": {
+    "bat_slug": "volkswagen/gti-mk8",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen GTI Mk8",
+    "keywords": [
+      "volkswagen gti mk8",
+      "gti mk8"
+    ]
+  },
+  "Volkswagen ID.Buzz": {
+    "bat_slug": "volkswagen/idbuzz",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen ID.Buzz",
+    "keywords": [
+      "volkswagen id.buzz",
+      "idbuzz"
+    ]
+  },
+  "Volkswagen Jetta": {
+    "bat_slug": "volkswagen/jetta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Jetta",
+    "keywords": [
+      "volkswagen jetta",
+      "jetta"
+    ]
+  },
+  "Volkswagen Karmann Ghia": {
+    "bat_slug": "volkswagen/karmann-ghia",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Karmann Ghia",
+    "keywords": [
+      "volkswagen karmann ghia",
+      "karmann ghia"
+    ]
+  },
+  "Volkswagen Military": {
+    "bat_slug": "volkswagen/military",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Military",
+    "keywords": [
+      "volkswagen military",
+      "military"
+    ]
+  },
+  "Volkswagen New Beetle (1998-2010)": {
+    "bat_slug": "volkswagen/new-beetle-1998-2010",
+    "start_year": 1998,
+    "end_year": 2010,
+    "generation": "Volkswagen New Beetle (1998-2010)",
+    "keywords": [
+      "volkswagen new beetle (1998-2010)",
+      "new beetle 1998 2010"
+    ]
+  },
+  "Volkswagen Passat": {
+    "bat_slug": "volkswagen/passat",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Passat",
+    "keywords": [
+      "volkswagen passat",
+      "passat"
+    ]
+  },
+  "Volkswagen Phaeton": {
+    "bat_slug": "volkswagen/phaeton",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Phaeton",
+    "keywords": [
+      "volkswagen phaeton",
+      "phaeton"
+    ]
+  },
+  "Volkswagen Polo": {
+    "bat_slug": "volkswagen/polo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Polo",
+    "keywords": [
+      "volkswagen polo",
+      "polo"
+    ]
+  },
+  "Volkswagen R32": {
+    "bat_slug": "volkswagen/r32",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen R32",
+    "keywords": [
+      "volkswagen r32",
+      "r32"
+    ]
+  },
+  "Volkswagen Rail & Dune Buggy": {
+    "bat_slug": "volkswagen/rail-dune-buggy",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Rail & Dune Buggy",
+    "keywords": [
+      "volkswagen rail & dune buggy",
+      "rail dune buggy"
+    ]
+  },
+  "Volkswagen Scirocco": {
+    "bat_slug": "volkswagen/scirocco",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Scirocco",
+    "keywords": [
+      "volkswagen scirocco",
+      "scirocco"
+    ]
+  },
+  "Volkswagen Split-Window Bus": {
+    "bat_slug": "volkswagen/split-window-bus",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Split-Window Bus",
+    "keywords": [
+      "volkswagen split-window bus",
+      "split window bus"
+    ]
+  },
+  "Volkswagen Split-Window Camper": {
+    "bat_slug": "volkswagen/split-window-camper",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Split-Window Camper",
+    "keywords": [
+      "volkswagen split-window camper",
+      "split window camper"
+    ]
+  },
+  "Volkswagen Split-Window Pickup": {
+    "bat_slug": "volkswagen/split-window-pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Split-Window Pickup",
+    "keywords": [
+      "volkswagen split-window pickup",
+      "split window pickup"
+    ]
+  },
+  "Volkswagen Super Beetle": {
+    "bat_slug": "volkswagen/super-beetle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Super Beetle",
+    "keywords": [
+      "volkswagen super beetle",
+      "super beetle"
+    ]
+  },
+  "Volkswagen Thing": {
+    "bat_slug": "volkswagen/thing",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Thing",
+    "keywords": [
+      "volkswagen thing",
+      "thing"
+    ]
+  },
+  "Volkswagen Touareg": {
+    "bat_slug": "volkswagen/touareg",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Touareg",
+    "keywords": [
+      "volkswagen touareg",
+      "touareg"
+    ]
+  },
+  "Volkswagen Type 3": {
+    "bat_slug": "volkswagen/type-3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Type 3",
+    "keywords": [
+      "volkswagen type 3",
+      "type 3"
+    ]
+  },
+  "Volkswagen Type 4": {
+    "bat_slug": "volkswagen/type-4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Type 4",
+    "keywords": [
+      "volkswagen type 4",
+      "type 4"
+    ]
+  },
+  "Volkswagen Vanagon": {
+    "bat_slug": "volkswagen/vanagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Volkswagen Vanagon",
+    "keywords": [
+      "volkswagen vanagon",
+      "vanagon"
+    ]
+  }
+}

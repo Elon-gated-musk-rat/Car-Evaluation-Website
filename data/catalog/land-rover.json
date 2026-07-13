@@ -1,0 +1,242 @@
+{
+  "Land Rover 110 / Defender 110 (Euro Spec)": {
+    "bat_slug": "land-rover/defender-110-euro",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover 110 / Defender 110 (Euro Spec)",
+    "keywords": [
+      "land rover 110 / defender 110 (euro spec)",
+      "defender 110 euro"
+    ]
+  },
+  "Land Rover 127 / Defender 130": {
+    "bat_slug": "land-rover/defender-130",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover 127 / Defender 130",
+    "keywords": [
+      "land rover 127 / defender 130",
+      "defender 130"
+    ]
+  },
+  "Land Rover 90 / Defender 90 (Euro Spec)": {
+    "bat_slug": "land-rover/90-and-defender-90-euro-spec",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover 90 / Defender 90 (Euro Spec)",
+    "keywords": [
+      "land rover 90 / defender 90 (euro spec)",
+      "90 and defender 90 euro spec"
+    ]
+  },
+  "Land Rover Defender 110 NAS": {
+    "bat_slug": "land-rover/defender-110-nas",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Defender 110 NAS",
+    "keywords": [
+      "land rover defender 110 nas",
+      "defender 110 nas"
+    ]
+  },
+  "Land Rover Defender 90 NAS": {
+    "bat_slug": "land-rover/defender-90-nas",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Defender 90 NAS",
+    "keywords": [
+      "land rover defender 90 nas",
+      "defender 90 nas"
+    ]
+  },
+  "Land Rover Defender L663": {
+    "bat_slug": "land-rover/defender-l663",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Defender L663",
+    "keywords": [
+      "land rover defender l663",
+      "defender l663"
+    ]
+  },
+  "Land Rover Discovery I": {
+    "bat_slug": "land-rover/discovery-i",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Discovery I",
+    "keywords": [
+      "land rover discovery i",
+      "discovery i"
+    ]
+  },
+  "Land Rover Discovery II": {
+    "bat_slug": "land-rover/discovery-ii",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Discovery II",
+    "keywords": [
+      "land rover discovery ii",
+      "discovery ii"
+    ]
+  },
+  "Land Rover Discovery L462": {
+    "bat_slug": "land-rover/discovery-l462",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Discovery L462",
+    "keywords": [
+      "land rover discovery l462",
+      "discovery l462"
+    ]
+  },
+  "Land Rover L461 Range Rover Sport": {
+    "bat_slug": "land-rover/l461-range-rover-sport",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover L461 Range Rover Sport",
+    "keywords": [
+      "land rover l461 range rover sport",
+      "l461 range rover sport"
+    ]
+  },
+  "Land Rover L538 Range Rover Evoque": {
+    "bat_slug": "land-rover/l538-range-rover-evoque",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover L538 Range Rover Evoque",
+    "keywords": [
+      "land rover l538 range rover evoque",
+      "l538 range rover evoque"
+    ]
+  },
+  "Land Rover LR2": {
+    "bat_slug": "land-rover/lr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover LR2",
+    "keywords": [
+      "land rover lr2",
+      "lr2"
+    ]
+  },
+  "Land Rover LR3": {
+    "bat_slug": "land-rover/lr3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover LR3",
+    "keywords": [
+      "land rover lr3",
+      "lr3"
+    ]
+  },
+  "Land Rover LR4": {
+    "bat_slug": "land-rover/lr4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover LR4",
+    "keywords": [
+      "land rover lr4",
+      "lr4"
+    ]
+  },
+  "Land Rover Range Rover Classic": {
+    "bat_slug": "land-rover/range-rover-classic",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover Classic",
+    "keywords": [
+      "land rover range rover classic",
+      "range rover classic"
+    ]
+  },
+  "Land Rover Range Rover L322": {
+    "bat_slug": "land-rover/range-rover-l322",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover L322",
+    "keywords": [
+      "land rover range rover l322",
+      "range rover l322"
+    ]
+  },
+  "Land Rover Range Rover L405": {
+    "bat_slug": "land-rover/range-rover-l405",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover L405",
+    "keywords": [
+      "land rover range rover l405",
+      "range rover l405"
+    ]
+  },
+  "Land Rover Range Rover L460": {
+    "bat_slug": "land-rover/range-rover-l460",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover L460",
+    "keywords": [
+      "land rover range rover l460",
+      "range rover l460"
+    ]
+  },
+  "Land Rover Range Rover P38A": {
+    "bat_slug": "land-rover/range-rover-p38a",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover P38A",
+    "keywords": [
+      "land rover range rover p38a",
+      "range rover p38a"
+    ]
+  },
+  "Land Rover Range Rover Sport L320": {
+    "bat_slug": "land-rover/range-rover-sport-l320",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover Sport L320",
+    "keywords": [
+      "land rover range rover sport l320",
+      "range rover sport l320"
+    ]
+  },
+  "Land Rover Range Rover Sport L494": {
+    "bat_slug": "land-rover/range-rover-sport-l494",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover Sport L494",
+    "keywords": [
+      "land rover range rover sport l494",
+      "range rover sport l494"
+    ]
+  },
+  "Land Rover Range Rover Velar (L560)": {
+    "bat_slug": "land-rover/range-rover-velar-l560",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Range Rover Velar (L560)",
+    "keywords": [
+      "land rover range rover velar (l560)",
+      "range rover velar l560"
+    ]
+  },
+  "Land Rover Series 109": {
+    "bat_slug": "land-rover/series-109",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Series 109",
+    "keywords": [
+      "land rover series 109",
+      "series 109"
+    ]
+  },
+  "Land Rover Series 88": {
+    "bat_slug": "land-rover/series-88",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Land Rover Series 88",
+    "keywords": [
+      "land rover series 88",
+      "series 88"
+    ]
+  }
+}

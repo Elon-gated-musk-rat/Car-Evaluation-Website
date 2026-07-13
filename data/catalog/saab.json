@@ -1,0 +1,92 @@
+{
+  "Saab 9-3": {
+    "bat_slug": "saab/9-3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 9-3",
+    "keywords": [
+      "saab 9-3",
+      "9 3"
+    ]
+  },
+  "Saab 9-3 Viggen": {
+    "bat_slug": "saab/viggen",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 9-3 Viggen",
+    "keywords": [
+      "saab 9-3 viggen",
+      "viggen"
+    ]
+  },
+  "Saab 9-5": {
+    "bat_slug": "saab/9-5",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 9-5",
+    "keywords": [
+      "saab 9-5",
+      "9 5"
+    ]
+  },
+  "Saab 900": {
+    "bat_slug": "saab/900",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 900",
+    "keywords": [
+      "saab 900",
+      "900"
+    ]
+  },
+  "Saab 9000": {
+    "bat_slug": "saab/9000",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 9000",
+    "keywords": [
+      "saab 9000",
+      "9000"
+    ]
+  },
+  "Saab 95 Wagon": {
+    "bat_slug": "saab/95-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 95 Wagon",
+    "keywords": [
+      "saab 95 wagon",
+      "95 wagon"
+    ]
+  },
+  "Saab 96": {
+    "bat_slug": "saab/96",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 96",
+    "keywords": [
+      "saab 96",
+      "96"
+    ]
+  },
+  "Saab 99": {
+    "bat_slug": "saab/99",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab 99",
+    "keywords": [
+      "saab 99",
+      "99"
+    ]
+  },
+  "Saab Sonett": {
+    "bat_slug": "saab/sonett",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Saab Sonett",
+    "keywords": [
+      "saab sonett",
+      "sonett"
+    ]
+  }
+}

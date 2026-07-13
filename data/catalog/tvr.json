@@ -1,0 +1,72 @@
+{
+  "TVR 2500M": {
+    "bat_slug": "tvr/2500m",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR 2500M",
+    "keywords": [
+      "tvr 2500m",
+      "2500m"
+    ]
+  },
+  "TVR 280i": {
+    "bat_slug": "tvr/280i",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR 280i",
+    "keywords": [
+      "tvr 280i",
+      "280i"
+    ]
+  },
+  "TVR Cerbera": {
+    "bat_slug": "tvr/cerbera",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR Cerbera",
+    "keywords": [
+      "tvr cerbera",
+      "cerbera"
+    ]
+  },
+  "TVR Tuscan (1967-1971)": {
+    "bat_slug": "tvr/tuscan-1967-1971",
+    "start_year": 1967,
+    "end_year": 1971,
+    "generation": "TVR Tuscan (1967-1971)",
+    "keywords": [
+      "tvr tuscan (1967-1971)",
+      "tuscan 1967 1971"
+    ]
+  },
+  "TVR Tuscan Challenge": {
+    "bat_slug": "tvr/tuscan-challenge",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR Tuscan Challenge",
+    "keywords": [
+      "tvr tuscan challenge",
+      "tuscan challenge"
+    ]
+  },
+  "TVR Tuscan Speed Six": {
+    "bat_slug": "tvr/tuscan-speed-six",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR Tuscan Speed Six",
+    "keywords": [
+      "tvr tuscan speed six",
+      "tuscan speed six"
+    ]
+  },
+  "TVR Vixen": {
+    "bat_slug": "tvr/vixen",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "TVR Vixen",
+    "keywords": [
+      "tvr vixen",
+      "vixen"
+    ]
+  }
+}

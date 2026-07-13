@@ -1,0 +1,22 @@
+{
+  "Crosley Sedan, Convertible, & Wagon": {
+    "bat_slug": "crosley/sedan-convertible-wagon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Crosley Sedan, Convertible, & Wagon",
+    "keywords": [
+      "crosley sedan, convertible, & wagon",
+      "sedan convertible wagon"
+    ]
+  },
+  "Crosley Super Sport & Hot Shot": {
+    "bat_slug": "crosley/super-sport-hot-shot",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Crosley Super Sport & Hot Shot",
+    "keywords": [
+      "crosley super sport & hot shot",
+      "super sport hot shot"
+    ]
+  }
+}

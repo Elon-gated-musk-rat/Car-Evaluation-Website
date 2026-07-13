@@ -1,0 +1,22 @@
+{
+  "Steyr-Puch Haflinger": {
+    "bat_slug": "steyr-puch/haflinger",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Steyr-Puch Haflinger",
+    "keywords": [
+      "steyr-puch haflinger",
+      "haflinger"
+    ]
+  },
+  "Steyr-Puch Pinzgauer": {
+    "bat_slug": "steyr-puch/pinzgauer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Steyr-Puch Pinzgauer",
+    "keywords": [
+      "steyr-puch pinzgauer",
+      "pinzgauer"
+    ]
+  }
+}

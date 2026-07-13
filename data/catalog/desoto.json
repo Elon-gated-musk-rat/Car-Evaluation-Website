@@ -1,0 +1,32 @@
+{
+  "DeSoto Custom & Deluxe": {
+    "bat_slug": "desoto/custom-deluxe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "DeSoto Custom & Deluxe",
+    "keywords": [
+      "desoto custom & deluxe",
+      "custom deluxe"
+    ]
+  },
+  "DeSoto Firedome": {
+    "bat_slug": "desoto/firedome",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "DeSoto Firedome",
+    "keywords": [
+      "desoto firedome",
+      "firedome"
+    ]
+  },
+  "DeSoto Fireflite": {
+    "bat_slug": "desoto/fireflite",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "DeSoto Fireflite",
+    "keywords": [
+      "desoto fireflite",
+      "fireflite"
+    ]
+  }
+}

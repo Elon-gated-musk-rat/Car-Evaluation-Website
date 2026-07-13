@@ -1,0 +1,22 @@
+{
+  "Kaiser \u2013 Jeep M715": {
+    "bat_slug": "kaiser/jeep-m715",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kaiser \u2013 Jeep M715",
+    "keywords": [
+      "kaiser \u2013 jeep m715",
+      "jeep m715"
+    ]
+  },
+  "Kaiser Darrin": {
+    "bat_slug": "kaiser/darrin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Kaiser Darrin",
+    "keywords": [
+      "kaiser darrin",
+      "darrin"
+    ]
+  }
+}

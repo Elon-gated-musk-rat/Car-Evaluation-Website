@@ -1,0 +1,22 @@
+{
+  "Smart Crossblade": {
+    "bat_slug": "smart/crossblade",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Smart Crossblade",
+    "keywords": [
+      "smart crossblade",
+      "crossblade"
+    ]
+  },
+  "Smart Fortwo": {
+    "bat_slug": "smart/fortwo",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Smart Fortwo",
+    "keywords": [
+      "smart fortwo",
+      "fortwo"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Packard Caribbean": {
+    "bat_slug": "packard/caribbean",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Packard Caribbean",
+    "keywords": [
+      "packard caribbean",
+      "caribbean"
+    ]
+  },
+  "Packard Clipper": {
+    "bat_slug": "packard/clipper",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Packard Clipper",
+    "keywords": [
+      "packard clipper",
+      "clipper"
+    ]
+  },
+  "Packard Eight": {
+    "bat_slug": "packard/eight",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Packard Eight",
+    "keywords": [
+      "packard eight",
+      "eight"
+    ]
+  },
+  "Packard Six, One-Ten, & 115": {
+    "bat_slug": "packard/six-110-115",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Packard Six, One-Ten, & 115",
+    "keywords": [
+      "packard six, one-ten, & 115",
+      "six 110 115"
+    ]
+  },
+  "Packard Twelve": {
+    "bat_slug": "packard/twelve",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Packard Twelve",
+    "keywords": [
+      "packard twelve",
+      "twelve"
+    ]
+  }
+}

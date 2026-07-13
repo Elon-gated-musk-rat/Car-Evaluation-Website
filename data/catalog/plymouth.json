@@ -1,0 +1,152 @@
+{
+  "Plymouth Barracuda": {
+    "bat_slug": "plymouth/barracuda",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Barracuda",
+    "keywords": [
+      "plymouth barracuda",
+      "barracuda"
+    ]
+  },
+  "Plymouth Belvedere": {
+    "bat_slug": "plymouth/belvedere",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Belvedere",
+    "keywords": [
+      "plymouth belvedere",
+      "belvedere"
+    ]
+  },
+  "Plymouth Deluxe/Special Deluxe": {
+    "bat_slug": "plymouth/deluxe-special-deluxe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Deluxe/Special Deluxe",
+    "keywords": [
+      "plymouth deluxe/special deluxe",
+      "deluxe special deluxe"
+    ]
+  },
+  "Plymouth Duster": {
+    "bat_slug": "plymouth/duster",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Duster",
+    "keywords": [
+      "plymouth duster",
+      "duster"
+    ]
+  },
+  "Plymouth Fury": {
+    "bat_slug": "plymouth/fury",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Fury",
+    "keywords": [
+      "plymouth fury",
+      "fury"
+    ]
+  },
+  "Plymouth GTX": {
+    "bat_slug": "plymouth/gtx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth GTX",
+    "keywords": [
+      "plymouth gtx",
+      "gtx"
+    ]
+  },
+  "Plymouth Pickup": {
+    "bat_slug": "plymouth/pickup",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Pickup",
+    "keywords": [
+      "plymouth pickup",
+      "pickup"
+    ]
+  },
+  "Plymouth Prowler": {
+    "bat_slug": "plymouth/prowler",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Prowler",
+    "keywords": [
+      "plymouth prowler",
+      "prowler"
+    ]
+  },
+  "Plymouth Road Runner": {
+    "bat_slug": "plymouth/road-runner",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Road Runner",
+    "keywords": [
+      "plymouth road runner",
+      "road runner"
+    ]
+  },
+  "Plymouth Satellite": {
+    "bat_slug": "plymouth/satellite",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Satellite",
+    "keywords": [
+      "plymouth satellite",
+      "satellite"
+    ]
+  },
+  "Plymouth Suburban": {
+    "bat_slug": "plymouth/suburban",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Suburban",
+    "keywords": [
+      "plymouth suburban",
+      "suburban"
+    ]
+  },
+  "Plymouth Superbird & Dodge Charger Daytona": {
+    "bat_slug": "plymouth/superbird-dodge-charger-daytona",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Superbird & Dodge Charger Daytona",
+    "keywords": [
+      "plymouth superbird & dodge charger daytona",
+      "superbird dodge charger daytona"
+    ]
+  },
+  "Plymouth Valiant": {
+    "bat_slug": "plymouth/valiant",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Valiant",
+    "keywords": [
+      "plymouth valiant",
+      "valiant"
+    ]
+  },
+  "Plymouth Volare": {
+    "bat_slug": "plymouth/volare",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Volare",
+    "keywords": [
+      "plymouth volare",
+      "volare"
+    ]
+  },
+  "Plymouth Voyager & Grand Voyager": {
+    "bat_slug": "plymouth/voyager-grand-voyager",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Plymouth Voyager & Grand Voyager",
+    "keywords": [
+      "plymouth voyager & grand voyager",
+      "voyager grand voyager"
+    ]
+  }
+}

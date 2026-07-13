@@ -1,0 +1,384 @@
+{
+  "Location": {
+    "Australia/New Zealand": {
+      "bat_slug": "location/australia-new-zealand",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Australia/New Zealand",
+      "keywords": [
+        "australia/new zealand",
+        "australia new zealand"
+      ]
+    },
+    "Europe": {
+      "bat_slug": "location/europe",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Europe",
+      "keywords": [
+        "europe",
+        "europe"
+      ]
+    },
+    "Australia": {
+      "bat_slug": "location/australia",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Australia",
+      "keywords": [
+        "australia",
+        "australia"
+      ]
+    },
+    "Austria": {
+      "bat_slug": "location/austria",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Austria",
+      "keywords": [
+        "austria",
+        "austria"
+      ]
+    },
+    "Belgium": {
+      "bat_slug": "location/belgium",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Belgium",
+      "keywords": [
+        "belgium",
+        "belgium"
+      ]
+    },
+    "Canada": {
+      "bat_slug": "location/canada",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Canada",
+      "keywords": [
+        "canada",
+        "canada"
+      ]
+    },
+    "Colombia": {
+      "bat_slug": "location/colombia",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Colombia",
+      "keywords": [
+        "colombia",
+        "colombia"
+      ]
+    },
+    "Costa Rica": {
+      "bat_slug": "location/costa-rica",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Costa Rica",
+      "keywords": [
+        "costa rica",
+        "costa rica"
+      ]
+    },
+    "Croatia": {
+      "bat_slug": "location/croatia",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Croatia",
+      "keywords": [
+        "croatia",
+        "croatia"
+      ]
+    },
+    "Czech Republic": {
+      "bat_slug": "location/czech-republic",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Czech Republic",
+      "keywords": [
+        "czech republic",
+        "czech republic"
+      ]
+    },
+    "Denmark": {
+      "bat_slug": "location/denmark",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Denmark",
+      "keywords": [
+        "denmark",
+        "denmark"
+      ]
+    },
+    "Finland": {
+      "bat_slug": "location/finland",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Finland",
+      "keywords": [
+        "finland",
+        "finland"
+      ]
+    },
+    "France": {
+      "bat_slug": "location/france",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "France",
+      "keywords": [
+        "france",
+        "france"
+      ]
+    },
+    "Germany": {
+      "bat_slug": "location/germany",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Germany",
+      "keywords": [
+        "germany",
+        "germany"
+      ]
+    },
+    "Greece": {
+      "bat_slug": "location/greece",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Greece",
+      "keywords": [
+        "greece",
+        "greece"
+      ]
+    },
+    "Hong Kong": {
+      "bat_slug": "location/hong-kong",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Hong Kong",
+      "keywords": [
+        "hong kong",
+        "hong kong"
+      ]
+    },
+    "Hungary": {
+      "bat_slug": "location/hungary",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Hungary",
+      "keywords": [
+        "hungary",
+        "hungary"
+      ]
+    },
+    "Ireland": {
+      "bat_slug": "location/ireland",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Ireland",
+      "keywords": [
+        "ireland",
+        "ireland"
+      ]
+    },
+    "Italy": {
+      "bat_slug": "location/italy",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Italy",
+      "keywords": [
+        "italy",
+        "italy"
+      ]
+    },
+    "Japan": {
+      "bat_slug": "location/japan",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Japan",
+      "keywords": [
+        "japan",
+        "japan"
+      ]
+    },
+    "Korea": {
+      "bat_slug": "location/korea",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Korea",
+      "keywords": [
+        "korea",
+        "korea"
+      ]
+    },
+    "Lithuania": {
+      "bat_slug": "location/lithuania",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Lithuania",
+      "keywords": [
+        "lithuania",
+        "lithuania"
+      ]
+    },
+    "Luxembourg": {
+      "bat_slug": "location/luxembourg",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Luxembourg",
+      "keywords": [
+        "luxembourg",
+        "luxembourg"
+      ]
+    },
+    "Malta": {
+      "bat_slug": "location/malta",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Malta",
+      "keywords": [
+        "malta",
+        "malta"
+      ]
+    },
+    "Mexico": {
+      "bat_slug": "location/mexico",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Mexico",
+      "keywords": [
+        "mexico",
+        "mexico"
+      ]
+    },
+    "Monaco": {
+      "bat_slug": "location/monaco",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Monaco",
+      "keywords": [
+        "monaco",
+        "monaco"
+      ]
+    },
+    "New Zealand": {
+      "bat_slug": "location/new-zealand",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "New Zealand",
+      "keywords": [
+        "new zealand",
+        "new zealand"
+      ]
+    },
+    "Norway": {
+      "bat_slug": "location/norway",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Norway",
+      "keywords": [
+        "norway",
+        "norway"
+      ]
+    },
+    "Poland": {
+      "bat_slug": "location/poland",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Poland",
+      "keywords": [
+        "poland",
+        "poland"
+      ]
+    },
+    "Portugal": {
+      "bat_slug": "location/portugal",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Portugal",
+      "keywords": [
+        "portugal",
+        "portugal"
+      ]
+    },
+    "Slovakia": {
+      "bat_slug": "location/slovakia",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Slovakia",
+      "keywords": [
+        "slovakia",
+        "slovakia"
+      ]
+    },
+    "South Africa": {
+      "bat_slug": "location/south-africa",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "South Africa",
+      "keywords": [
+        "south africa",
+        "south africa"
+      ]
+    },
+    "Spain": {
+      "bat_slug": "location/spain",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Spain",
+      "keywords": [
+        "spain",
+        "spain"
+      ]
+    },
+    "Sweden": {
+      "bat_slug": "location/sweden",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Sweden",
+      "keywords": [
+        "sweden",
+        "sweden"
+      ]
+    },
+    "Switzerland": {
+      "bat_slug": "location/switzerland",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "Switzerland",
+      "keywords": [
+        "switzerland",
+        "switzerland"
+      ]
+    },
+    "The Netherlands": {
+      "bat_slug": "location/netherlands",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "The Netherlands",
+      "keywords": [
+        "the netherlands",
+        "netherlands"
+      ]
+    },
+    "United Kingdom": {
+      "bat_slug": "location/united-kingdom",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "United Kingdom",
+      "keywords": [
+        "united kingdom",
+        "united kingdom"
+      ]
+    },
+    "United States": {
+      "bat_slug": "location/united-states",
+      "start_year": 1950,
+      "end_year": 2026,
+      "generation": "United States",
+      "keywords": [
+        "united states",
+        "united states"
+      ]
+    }
+  }
+}

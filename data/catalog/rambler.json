@@ -1,0 +1,22 @@
+{
+  "Rambler American": {
+    "bat_slug": "rambler/american",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rambler American",
+    "keywords": [
+      "rambler american",
+      "american"
+    ]
+  },
+  "Rambler Classic": {
+    "bat_slug": "rambler/classic",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Rambler Classic",
+    "keywords": [
+      "rambler classic",
+      "classic"
+    ]
+  }
+}

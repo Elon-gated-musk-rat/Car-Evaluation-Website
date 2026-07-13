@@ -1,0 +1,62 @@
+{
+  "Citroen 2CV": {
+    "bat_slug": "citroen/2cv",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen 2CV",
+    "keywords": [
+      "citroen 2cv",
+      "2cv"
+    ]
+  },
+  "Citroen CX": {
+    "bat_slug": "citroen/cx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen CX",
+    "keywords": [
+      "citroen cx",
+      "cx"
+    ]
+  },
+  "Citroen DS": {
+    "bat_slug": "citroen/ds",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen DS",
+    "keywords": [
+      "citroen ds",
+      "ds"
+    ]
+  },
+  "Citroen Mehari": {
+    "bat_slug": "citroen/mehari",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen Mehari",
+    "keywords": [
+      "citroen mehari",
+      "mehari"
+    ]
+  },
+  "Citroen SM": {
+    "bat_slug": "citroen/sm",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen SM",
+    "keywords": [
+      "citroen sm",
+      "sm"
+    ]
+  },
+  "Citroen Traction Avant": {
+    "bat_slug": "citroen/traction-avant",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Citroen Traction Avant",
+    "keywords": [
+      "citroen traction avant",
+      "traction avant"
+    ]
+  }
+}

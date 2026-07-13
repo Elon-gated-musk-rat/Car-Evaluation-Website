@@ -1,0 +1,32 @@
+{
+  "Chris-Craft Continental": {
+    "bat_slug": "chris-craft/continental",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chris-Craft Continental",
+    "keywords": [
+      "chris-craft continental",
+      "continental"
+    ]
+  },
+  "Chris-Craft Runabout": {
+    "bat_slug": "chris-craft/runabout",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chris-Craft Runabout",
+    "keywords": [
+      "chris-craft runabout",
+      "runabout"
+    ]
+  },
+  "Chris-Craft Sportsman": {
+    "bat_slug": "chris-craft/sportsman",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Chris-Craft Sportsman",
+    "keywords": [
+      "chris-craft sportsman",
+      "sportsman"
+    ]
+  }
+}

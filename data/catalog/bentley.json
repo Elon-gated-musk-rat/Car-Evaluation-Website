@@ -1,0 +1,212 @@
+{
+  "Bentley 3.5 Litre & 4 1/4 Litre": {
+    "bat_slug": "bentley/35-litre-4-14-liter",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley 3.5 Litre & 4 1/4 Litre",
+    "keywords": [
+      "bentley 3.5 litre & 4 1/4 litre",
+      "35 litre 4 14 liter"
+    ]
+  },
+  "Bentley Arnage": {
+    "bat_slug": "bentley/arnage",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley Arnage",
+    "keywords": [
+      "bentley arnage",
+      "arnage"
+    ]
+  },
+  "Bentley Azure": {
+    "bat_slug": "bentley/azure",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley Azure",
+    "keywords": [
+      "bentley azure",
+      "azure"
+    ]
+  },
+  "Bentley Bentayga": {
+    "bat_slug": "bentley/bentayga",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley Bentayga",
+    "keywords": [
+      "bentley bentayga",
+      "bentayga"
+    ]
+  },
+  "Bentley Brooklands (2009-2010)": {
+    "bat_slug": "bentley/brooklands-2009-2010",
+    "start_year": 2009,
+    "end_year": 2010,
+    "generation": "Bentley Brooklands (2009-2010)",
+    "keywords": [
+      "bentley brooklands (2009-2010)",
+      "brooklands 2009 2010"
+    ]
+  },
+  "Bentley Continental (1984-1995)": {
+    "bat_slug": "bentley/continental-1984-1995",
+    "start_year": 1984,
+    "end_year": 1995,
+    "generation": "Bentley Continental (1984-1995)",
+    "keywords": [
+      "bentley continental (1984-1995)",
+      "continental 1984 1995"
+    ]
+  },
+  "Bentley Continental Flying Spur": {
+    "bat_slug": "bentley/continental-flying-spur",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley Continental Flying Spur",
+    "keywords": [
+      "bentley continental flying spur",
+      "continental flying spur"
+    ]
+  },
+  "Bentley Continental GT (2004-2011)": {
+    "bat_slug": "bentley/continental-gt-2004-2011",
+    "start_year": 2004,
+    "end_year": 2011,
+    "generation": "Bentley Continental GT (2004-2011)",
+    "keywords": [
+      "bentley continental gt (2004-2011)",
+      "continental gt 2004 2011"
+    ]
+  },
+  "Bentley Continental GT (2012-2018)": {
+    "bat_slug": "bentley/continental-gt-2012-2018",
+    "start_year": 2012,
+    "end_year": 2018,
+    "generation": "Bentley Continental GT (2012-2018)",
+    "keywords": [
+      "bentley continental gt (2012-2018)",
+      "continental gt 2012 2018"
+    ]
+  },
+  "Bentley Continental GT (2020-2024)": {
+    "bat_slug": "bentley/continental-gt-2020-2024",
+    "start_year": 2020,
+    "end_year": 2024,
+    "generation": "Bentley Continental GT (2020-2024)",
+    "keywords": [
+      "bentley continental gt (2020-2024)",
+      "continental gt 2020 2024"
+    ]
+  },
+  "Bentley Continental GTC (2006-2011)": {
+    "bat_slug": "bentley/continental-gtc-2006-2011",
+    "start_year": 2006,
+    "end_year": 2011,
+    "generation": "Bentley Continental GTC (2006-2011)",
+    "keywords": [
+      "bentley continental gtc (2006-2011)",
+      "continental gtc 2006 2011"
+    ]
+  },
+  "Bentley Continental GTC (2012-2018)": {
+    "bat_slug": "bentley/continental-gtc-2012-2018",
+    "start_year": 2012,
+    "end_year": 2018,
+    "generation": "Bentley Continental GTC (2012-2018)",
+    "keywords": [
+      "bentley continental gtc (2012-2018)",
+      "continental gtc 2012 2018"
+    ]
+  },
+  "Bentley Continental GTC (2020-2024)": {
+    "bat_slug": "bentley/continental-gtc-2020-2024",
+    "start_year": 2020,
+    "end_year": 2024,
+    "generation": "Bentley Continental GTC (2020-2024)",
+    "keywords": [
+      "bentley continental gtc (2020-2024)",
+      "continental gtc 2020 2024"
+    ]
+  },
+  "Bentley Continental GTC (2025-)": {
+    "bat_slug": "bentley/continental-gtc-2025",
+    "start_year": 2024,
+    "end_year": 2026,
+    "generation": "Bentley Continental GTC (2025-)",
+    "keywords": [
+      "bentley continental gtc (2025-)",
+      "continental gtc 2025"
+    ]
+  },
+  "Bentley Mark VI": {
+    "bat_slug": "bentley/mark-vi",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley Mark VI",
+    "keywords": [
+      "bentley mark vi",
+      "mark vi"
+    ]
+  },
+  "Bentley Mulsanne (2011-2020)": {
+    "bat_slug": "bentley/mulsanne-2011-2020",
+    "start_year": 2011,
+    "end_year": 2020,
+    "generation": "Bentley Mulsanne (2011-2020)",
+    "keywords": [
+      "bentley mulsanne (2011-2020)",
+      "mulsanne 2011 2020"
+    ]
+  },
+  "Bentley R-Type": {
+    "bat_slug": "bentley/r-type",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley R-Type",
+    "keywords": [
+      "bentley r-type",
+      "r type"
+    ]
+  },
+  "Bentley S-Type": {
+    "bat_slug": "bentley/continental-s1-s2-s3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley S-Type",
+    "keywords": [
+      "bentley s-type",
+      "continental s1 s2 s3"
+    ]
+  },
+  "Bentley SZ Coupe": {
+    "bat_slug": "bentley/sz-coupe",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley SZ Coupe",
+    "keywords": [
+      "bentley sz coupe",
+      "sz coupe"
+    ]
+  },
+  "Bentley SZ Saloon": {
+    "bat_slug": "bentley/sz-saloon",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley SZ Saloon",
+    "keywords": [
+      "bentley sz saloon",
+      "sz saloon"
+    ]
+  },
+  "Bentley T-Series": {
+    "bat_slug": "bentley/t-series",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Bentley T-Series",
+    "keywords": [
+      "bentley t-series",
+      "t series"
+    ]
+  }
+}

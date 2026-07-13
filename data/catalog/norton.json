@@ -1,0 +1,42 @@
+{
+  "Norton Atlas": {
+    "bat_slug": "norton/atlas",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Norton Atlas",
+    "keywords": [
+      "norton atlas",
+      "atlas"
+    ]
+  },
+  "Norton Commando": {
+    "bat_slug": "norton/commando",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Norton Commando",
+    "keywords": [
+      "norton commando",
+      "commando"
+    ]
+  },
+  "Norton Dominator": {
+    "bat_slug": "norton/dominator",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Norton Dominator",
+    "keywords": [
+      "norton dominator",
+      "dominator"
+    ]
+  },
+  "Norton Manx": {
+    "bat_slug": "norton/manx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Norton Manx",
+    "keywords": [
+      "norton manx",
+      "manx"
+    ]
+  }
+}

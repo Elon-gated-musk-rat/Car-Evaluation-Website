@@ -1,0 +1,362 @@
+{
+  "Triumph 1800 & 2000 Roadster": {
+    "bat_slug": "triumph/1800-2000-roadster",
+    "start_year": 1999,
+    "end_year": 2001,
+    "generation": "Triumph 1800 & 2000 Roadster",
+    "keywords": [
+      "triumph 1800 & 2000 roadster",
+      "1800 2000 roadster"
+    ]
+  },
+  "Triumph 3TA": {
+    "bat_slug": "triumph/3ta",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph 3TA",
+    "keywords": [
+      "triumph 3ta",
+      "3ta"
+    ]
+  },
+  "Triumph 5T & 5TA Speed Twin": {
+    "bat_slug": "triumph/5ta-speed-twin",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph 5T & 5TA Speed Twin",
+    "keywords": [
+      "triumph 5t & 5ta speed twin",
+      "5ta speed twin"
+    ]
+  },
+  "Triumph Bonneville T120": {
+    "bat_slug": "triumph/bonneville-t120",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Bonneville T120",
+    "keywords": [
+      "triumph bonneville t120",
+      "bonneville t120"
+    ]
+  },
+  "Triumph Bonneville T140": {
+    "bat_slug": "triumph/bonneville-t140",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Bonneville T140",
+    "keywords": [
+      "triumph bonneville t140",
+      "bonneville t140"
+    ]
+  },
+  "Triumph Daytona (1966-1974)": {
+    "bat_slug": "triumph/daytona-1966-1974",
+    "start_year": 1966,
+    "end_year": 1974,
+    "generation": "Triumph Daytona (1966-1974)",
+    "keywords": [
+      "triumph daytona (1966-1974)",
+      "daytona 1966 1974"
+    ]
+  },
+  "Triumph Daytona (1991+)": {
+    "bat_slug": "triumph/daytona-1991",
+    "start_year": 1990,
+    "end_year": 1992,
+    "generation": "Triumph Daytona (1991+)",
+    "keywords": [
+      "triumph daytona (1991+)",
+      "daytona 1991"
+    ]
+  },
+  "Triumph GT6": {
+    "bat_slug": "triumph/gt6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph GT6",
+    "keywords": [
+      "triumph gt6",
+      "gt6"
+    ]
+  },
+  "Triumph Herald": {
+    "bat_slug": "triumph/herald",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Herald",
+    "keywords": [
+      "triumph herald",
+      "herald"
+    ]
+  },
+  "Triumph Military Motorcycle": {
+    "bat_slug": "triumph/military-motorcycle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Military Motorcycle",
+    "keywords": [
+      "triumph military motorcycle",
+      "military motorcycle"
+    ]
+  },
+  "Triumph New Bonneville (2000+)": {
+    "bat_slug": "triumph/new-bonneville-2000",
+    "start_year": 1999,
+    "end_year": 2001,
+    "generation": "Triumph New Bonneville (2000+)",
+    "keywords": [
+      "triumph new bonneville (2000+)",
+      "new bonneville 2000"
+    ]
+  },
+  "Triumph Prewar Motorcycle": {
+    "bat_slug": "triumph/prewar-motorcycle",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Prewar Motorcycle",
+    "keywords": [
+      "triumph prewar motorcycle",
+      "prewar motorcycle"
+    ]
+  },
+  "Triumph Race Bikes": {
+    "bat_slug": "triumph/race-bikes",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Race Bikes",
+    "keywords": [
+      "triumph race bikes",
+      "race bikes"
+    ]
+  },
+  "Triumph Rocket 3": {
+    "bat_slug": "triumph/rocket-3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Rocket 3",
+    "keywords": [
+      "triumph rocket 3",
+      "rocket 3"
+    ]
+  },
+  "Triumph Scrambler": {
+    "bat_slug": "triumph/scrambler",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Scrambler",
+    "keywords": [
+      "triumph scrambler",
+      "scrambler"
+    ]
+  },
+  "Triumph Speed Triple": {
+    "bat_slug": "triumph/speed-triple",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Speed Triple",
+    "keywords": [
+      "triumph speed triple",
+      "speed triple"
+    ]
+  },
+  "Triumph Speed Twin 900 & 1200": {
+    "bat_slug": "triumph/speed-twin-1200",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Speed Twin 900 & 1200",
+    "keywords": [
+      "triumph speed twin 900 & 1200",
+      "speed twin 1200"
+    ]
+  },
+  "Triumph Spitfire": {
+    "bat_slug": "triumph/spitfire",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Spitfire",
+    "keywords": [
+      "triumph spitfire",
+      "spitfire"
+    ]
+  },
+  "Triumph Sprint": {
+    "bat_slug": "triumph/sprint",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Sprint",
+    "keywords": [
+      "triumph sprint",
+      "sprint"
+    ]
+  },
+  "Triumph Stag": {
+    "bat_slug": "triumph/stag",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Stag",
+    "keywords": [
+      "triumph stag",
+      "stag"
+    ]
+  },
+  "Triumph Thruxton": {
+    "bat_slug": "triumph/thruxton",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Thruxton",
+    "keywords": [
+      "triumph thruxton",
+      "thruxton"
+    ]
+  },
+  "Triumph Thunderbird (1949-1966)": {
+    "bat_slug": "triumph/thunderbird-1949-1966",
+    "start_year": 1949,
+    "end_year": 1966,
+    "generation": "Triumph Thunderbird (1949-1966)",
+    "keywords": [
+      "triumph thunderbird (1949-1966)",
+      "thunderbird 1949 1966"
+    ]
+  },
+  "Triumph Thunderbird 900": {
+    "bat_slug": "triumph/thunderbird-900",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Thunderbird 900",
+    "keywords": [
+      "triumph thunderbird 900",
+      "thunderbird 900"
+    ]
+  },
+  "Triumph Tiger (1939-1973)": {
+    "bat_slug": "triumph/tiger-1939-1973",
+    "start_year": 1939,
+    "end_year": 1973,
+    "generation": "Triumph Tiger (1939-1973)",
+    "keywords": [
+      "triumph tiger (1939-1973)",
+      "tiger 1939 1973"
+    ]
+  },
+  "Triumph Tiger (1990s+)": {
+    "bat_slug": "triumph/tiger-1990s",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Tiger (1990s+)",
+    "keywords": [
+      "triumph tiger (1990s+)",
+      "tiger 1990s"
+    ]
+  },
+  "Triumph Tiger Cub and Terrier": {
+    "bat_slug": "triumph/tiger-cub-and-terrier",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Tiger Cub and Terrier",
+    "keywords": [
+      "triumph tiger cub and terrier",
+      "tiger cub and terrier"
+    ]
+  },
+  "Triumph TR2": {
+    "bat_slug": "triumph/tr2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph TR2",
+    "keywords": [
+      "triumph tr2",
+      "tr2"
+    ]
+  },
+  "Triumph TR3": {
+    "bat_slug": "triumph/tr3",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph TR3",
+    "keywords": [
+      "triumph tr3",
+      "tr3"
+    ]
+  },
+  "Triumph TR4": {
+    "bat_slug": "triumph/tr4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph TR4",
+    "keywords": [
+      "triumph tr4",
+      "tr4"
+    ]
+  },
+  "Triumph TR5 & TR250": {
+    "bat_slug": "triumph/tr250",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph TR5 & TR250",
+    "keywords": [
+      "triumph tr5 & tr250",
+      "tr250"
+    ]
+  },
+  "Triumph TR6": {
+    "bat_slug": "triumph/tr6",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph TR6",
+    "keywords": [
+      "triumph tr6",
+      "tr6"
+    ]
+  },
+  "Triumph Trail Blazer": {
+    "bat_slug": "triumph/trail-blazer",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Trail Blazer",
+    "keywords": [
+      "triumph trail blazer",
+      "trail blazer"
+    ]
+  },
+  "Triumph Trident": {
+    "bat_slug": "triumph/trident",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Trident",
+    "keywords": [
+      "triumph trident",
+      "trident"
+    ]
+  },
+  "Triumph Trophy": {
+    "bat_slug": "triumph/trophy",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Trophy",
+    "keywords": [
+      "triumph trophy",
+      "trophy"
+    ]
+  },
+  "Triumph Wedge": {
+    "bat_slug": "triumph/wedge",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph Wedge",
+    "keywords": [
+      "triumph wedge",
+      "wedge"
+    ]
+  },
+  "Triumph X-75 Hurricane": {
+    "bat_slug": "triumph/x-75-hurricane",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Triumph X-75 Hurricane",
+    "keywords": [
+      "triumph x-75 hurricane",
+      "x 75 hurricane"
+    ]
+  }
+}

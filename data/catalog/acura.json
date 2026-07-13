@@ -1,0 +1,116 @@
+{
+  "Acura CL": {
+    "bat_slug": "acura/cl",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura CL",
+    "keywords": [
+      "cl",
+      "acura cl"
+    ]
+  },
+  "Acura Integra": {
+    "bat_slug": "acura/integra",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura Integra",
+    "keywords": [
+      "integra",
+      "acura integra"
+    ]
+  },
+  "Acura Integra Type R": {
+    "bat_slug": "acura/integra-type-r",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura Integra Type R",
+    "keywords": [
+      "integra type r",
+      "acura integra-type-r",
+      "acura integra type r"
+    ]
+  },
+  "Acura Legend": {
+    "bat_slug": "acura/legend",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura Legend",
+    "keywords": [
+      "legend",
+      "acura legend"
+    ]
+  },
+  "Acura NSX NA1": {
+    "bat_slug": "acura/nsx-na1-na2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura NSX NA1",
+    "keywords": [
+      "nsx na1 na2",
+      "acura nsx na1",
+      "acura nsx-na1-na2"
+    ]
+  },
+  "Acura NSX NA2": {
+    "bat_slug": "acura/nsx-na2",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura NSX NA2",
+    "keywords": [
+      "acura nsx-na2",
+      "nsx na2",
+      "acura nsx na2"
+    ]
+  },
+  "Acura NSX NC1": {
+    "bat_slug": "acura/nsx-nc1",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura NSX NC1",
+    "keywords": [
+      "nsx nc1",
+      "acura nsx nc1",
+      "acura nsx-nc1"
+    ]
+  },
+  "Acura RL": {
+    "bat_slug": "acura/rl",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura RL",
+    "keywords": [
+      "rl",
+      "acura rl"
+    ]
+  },
+  "Acura RSX": {
+    "bat_slug": "acura/rsx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura RSX",
+    "keywords": [
+      "acura rsx",
+      "rsx"
+    ]
+  },
+  "Acura TL": {
+    "bat_slug": "acura/tl",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura TL",
+    "keywords": [
+      "tl",
+      "acura tl"
+    ]
+  },
+  "Acura TSX": {
+    "bat_slug": "acura/tsx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Acura TSX",
+    "keywords": [
+      "acura tsx",
+      "tsx"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Infiniti FX": {
+    "bat_slug": "infiniti/fx",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti FX",
+    "keywords": [
+      "infiniti fx",
+      "fx"
+    ]
+  },
+  "Infiniti G35 & G37": {
+    "bat_slug": "infiniti/g35-g37",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti G35 & G37",
+    "keywords": [
+      "infiniti g35 & g37",
+      "g35 g37"
+    ]
+  },
+  "Infiniti I30/I35": {
+    "bat_slug": "infiniti/i30-i35",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti I30/I35",
+    "keywords": [
+      "infiniti i30/i35",
+      "i30 i35"
+    ]
+  },
+  "Infiniti M": {
+    "bat_slug": "infiniti/m",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti M",
+    "keywords": [
+      "infiniti m",
+      "m"
+    ]
+  },
+  "Infiniti Q45": {
+    "bat_slug": "infiniti/q45",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti Q45",
+    "keywords": [
+      "infiniti q45",
+      "q45"
+    ]
+  },
+  "Infiniti QX4": {
+    "bat_slug": "infiniti/qx4",
+    "start_year": 1950,
+    "end_year": 2026,
+    "generation": "Infiniti QX4",
+    "keywords": [
+      "infiniti qx4",
+      "qx4"
+    ]
+  }
+}
